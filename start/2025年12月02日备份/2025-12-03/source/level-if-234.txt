@@ -1,0 +1,178 @@
+[[include :backrooms-wiki-cn:theme:stardust]]
+
+[[module css]]
+#page-title {
+    display: none;
+}
+
+body {
+    font-family: Bahnschrift;
+    color: #c0c0c0;
+}
+
+body strong {
+    color: #fff;
+}
+
+.coverage:hover {
+  text-decoration: none;
+    border-bottom: none;
+}
+
+.coverage span { display: none;}
+.coverage:hover span {
+    position: absolute;
+    display: inline;
+    margin: 0px 0px;
+    height: auto;
+    width: auto;
+    background: #333333;
+    border: 2px solid #484848;
+    padding: 5px 30px 5px 30px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.coverage:hover span span {
+    position: relative;
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: none;
+    padding: 0;
+}
+
+.appear {
+    position:relative;
+    animation-name:for0;
+    animation-duration:1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes for0
+{
+    0%   {opacity: 0;left:20px;}
+    100% {opacity: 1;left:0px;}
+}
+
+.appear-a {
+    position:relative;
+    animation-name:for1;
+    animation-duration:1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes for1
+{
+    0%   {opacity: 0;top:20px;}
+    100% {opacity: 1;top:0px;}
+}
+
+.appear-b {
+    position:relative;
+    animation-name:for2;
+    animation-duration:1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes for2
+{
+    0%   {opacity: 0;left:60px;}
+    100% {opacity: 1;left:0px;}
+}
+
+.appear-c {
+    position:relative;
+    animation-name:for3;
+    animation-duration:1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes for3
+{
+    0%   {opacity: 0;right:60px;}
+    100% {opacity: 1;right:0px;}
+}
+
+.disappear {
+    position:relative;
+    animation-name:for4;
+    animation-duration:1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes for4
+{
+    0%   {opacity: 1;right:0px;}
+    98% {opacity: 0;right:100px;width: auto;height: auto;}
+    99% {opacity: 0;}
+    100% {opacity: 0;width: 0;height: 0;}
+}
+[[/module]]
+
+[[=]]
+[[module rate]]
+[[/=]]
+
+====
+
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|class=Astral
+|display=//闪烁//
+|color=303034
+|border=00d0ff
+|list-color=ffffff
+|image=http://orchestrator-of-entropy.wikidot.com/local--files/level-599/Astral.png
+|one=闪耀
+|two=绚丽
+|three=自由
+]]
+
+**Level IF-234**是后室中最为绚丽缤纷的一抹色彩。
+
++ 描述：
+**Level IF-234**是一片无限无垠的广阔，数以兆计的生灵在此地自由摇曳，祂们都曾带着如群星一般的色彩，如同无垠深空中闪烁而耀眼的群星一般令你感受到温暖。
+
+在此地，色彩即是自然，色彩即是存在，祂构成小草，构成大树，构成山川，构成海洋，构成原始之林亦或是钢铁之丛，又或是无数不存在之物，想法，概念，定理，真实，祂们能构成世间万物，但唯独不能构成创造祂们的存在——群星。
+
+色彩来自群星，群星滋补着色彩，祂们是无限生机的代表，祂们所触及之地皆被疯狂滋生与成长的自由生机所充塞，人们会喜欢祂们的，祂们也会喜欢人类，人类身上所带的令祂们着迷的独特生机令祂们几近疯狂地寻找着人类的踪迹，祂们太渴望生机与自由了，以至于祂们希望逃出这片无垠，去到那些自由的[[[https://backrooms-split-library.wikidot.com/system:page-tags/tag/%E7%94%9F%E5%AD%98%E9%9A%BE%E5%BA%A6%E5%AE%9C%E5%B1%85#pages|天堂]]]去吮吸无限的生机，为祂们所向往的一切万物充塞祂们被无以形容的炫彩。
+
+祂们是那么地喜爱着人类啊，以至于在每一个人类进入此地时都为其奉上无垠的生机，以血肉催生新的枝条，生命献与更伟大的生机，在你一步步向上攀爬，终于爬上树的顶端，你将摘取祂们所给予你的无上奖赏——怀揣着群星之色彩的果实，你走向深度进化的最终一步，然后你便可以吃下它，完成最为深度的进化，随后被祂们送出此地，传播这自由而深幽的进化方向，将你所爱的家人、朋友引入此地，使他们也完成这美妙的进化历程，不幸的是，总有一些[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|愚昧之人]]]认为这样的进化是恐怖，是扭曲，是不应存在，以致于在看到你皮下那绚丽如群星一般的色彩时惊恐地想要将你消灭。
+
+不过不必为此感到慌张，没有任何人能组织你为你所挚爱献出进化，你只需要在必要时向他们绽放你的色彩，虽然这使他们的进化并不能算完整，但也足矣了，只需在不算太长的时间里将他们带到此地，你的任务就已圆满完成，你接下来所需要做的最后一件事便是将灵魂奉献予祂们，肉体在此沉眠，祂们会保管好你的灵魂，但在此过程中你可能会感到些许痛楚，不过你无需担心[[footnote]] 即使在此刻你已无法思考。 [[/footnote]]，这只是祂们在重塑你的灵魂，待祂们满意之时，你自然可以收获到从未有过的自由。
+
++ 实体：
+群星的色彩，祂们是这里的主人们。
+
++ 基地、前哨与社区：
+G.A.E.的拜访者们同样对祂们展现出了极高的兴趣，色彩们容纳他们在此地进行活动。
+
++ 入口与出口：
+++ 入口：
+* 在感受到那自由而绚丽的色彩之时，你便会身处此地。
+
+++ 出口：
+* 祂们迟早会送你出去的，至少轮不到你自己出去。
+
+------
+[[>]]
+[[collapsible show="快吧，快来吧" hide="追随我们自由的色彩"]]
+**作者：**[[*user kadjwxs]]
+
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+
+<< [[[Level IF-233]]] | 群星的色彩 | [[[Level IF-235]]] >>
+[[/=]]
+[[/div]]

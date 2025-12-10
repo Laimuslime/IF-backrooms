@@ -1,0 +1,15 @@
+[[include :backrooms-wiki-cn:theme:true-dark]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include component:image-block
+|name=https://backrooms-wiki.wikidot.com/local--files/art:hasike-moment/Hasike2.png
+|caption= Hasike时间！
+|width=610px
+|align=center
+]]
+
+Akira - 为了你们，我倾尽所有完成了此次创作，回想起这几个月以来的付出。
+这是我最后为你留下的话，即使我已经尝试步入新的生活，但我还是想这么做。
+遵循CC BY-SA 3.0协议，由[[*user Akiraakira]]绘制

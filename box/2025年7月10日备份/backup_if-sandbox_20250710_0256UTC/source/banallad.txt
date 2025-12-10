@@ -1,0 +1,82 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[div class="blockquote"]]
+[[=]]
+++ **万维聊天室**
+++++ **畅聊后室**
+++++++ **//（主题帖#192）//**
+**//主题：这啥情况？//**
+[[/=]]
+----
+**//#1// ：[The user does not exist]**
+bHZsMzUy我真的太谢谢你了，要不是那个层级，我就被困死在Level IF-192了。但是，这不对吧，bHZsMzUy不是应该去Level 96吗？难道是因为其他原因？
+**IP属地：Level 994**
+**BTC 2021/3/2 23:22**
+----
+**//#2// ：DTLO**
+为什么这个帖子的创建者是[The user does not exist]，难道万维网出bug了？还是谁搞的恶作剧。
+**IP属地：Level 63**
+**BTC 2021/3/2 23:23**
+----
+**//#3// ：DTLO**
+好家伙，我第1个在这个帖子里发言，结果居然在2楼，666
+**IP属地：Level 63**
+**BTC 2021/3/2 23:24**
+----
+**//#4// ：[The user does not exist]**
+不是哥们，你们都看不到我消息？
+**IP属地：Level 994**
+**BTC 2031/3/2 23:24**
+----
+**//#5// ：Hello-World**
+不是哥们，
+**IP属地：Level IF-138**
+**BTC 2021/3/2 23:25**
+----
+**//#6// ：DTLO**
+
+**IP属地：Level 63**
+**BTC 2021/3/2 23:26**
+----
+**//#7// ：AVL-IBTL**
+
+**IP属地：Level C-28**
+**BTC 2021/3/2 23:26**
+----
+**//#8// ：Estrole435**
+
+**IP属地：Level IF-3**
+**BTC 2021/3/2 23:27**
+[[/div]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-192**是后室IF层群的第192层。
++ **描述**
+**Level IF-192**
+
++ **基地、前哨与社区**
+++ 社区A
+* 特点
+++ 基地B
+* 特点
+
++ **入口与出口**
+++++++ 入口
+* 未知
+++++++ 出口
+* 暂无
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user BanAllAD]]
+
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-191]]] | Level IF-192 | [[[Level IF-193]]] >>
+[[/=]]
+[[/div]]

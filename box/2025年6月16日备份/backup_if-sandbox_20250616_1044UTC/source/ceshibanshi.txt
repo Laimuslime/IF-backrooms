@@ -1,0 +1,99 @@
+[[module CSS]]
+body {
+    background: #FFD9EC;
+    color: #000000;
+}
+a,a:visited {
+    color: #6F0012;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #ffade5;
+}
+blockquote {
+    border : 2px dashed #FF95CA;
+    background : #FFD9EC
+}
+div#header h1 a span {
+    font-size: 0px;
+}
+div#header h1 a:before {
+    content: "BACKROOMS";
+    color: #ff00ff;
+    text-shadow: 3px 3px 5px #000;
+}
+div#header h2 span {
+    font-size:0px;
+    padding: 4px;
+}
+div#header h2:after {
+    content: "樱花集团";
+    font-weight: bold;
+    color: #ff00ff;
+    padding: 19px 0;
+    text-shadow: 3px 3px 5px #000;
+    white-space: pre;
+}
+div#side-bar div.side-block {
+    background: #ff95ca;
+    border: 1px solid #ff95ca;
+}
+div#side-bar div.side-block div.heading,
+div#side-bar div.collapsible-block-unfolded-link,
+div#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {
+    color: #ff77ff;
+    border-color: #ff77ff;
+}
+div.yui-navset ul.yui-nav a,
+div.yui-navset div.yui-navset-top ul.yui-nav a {
+    background: #ffd2d2;
+    color: #000000;
+    border: solid #a3a3a3;
+}
+div.yui-navset ul.yui-nav a:hover,
+div.yui-navset ul.yui-nav a:focus {
+    background: #ffc1e0;
+    color: #000000;
+}
+div.yui-navset ul.yui-nav .selected a,
+div.yui-navset ul.yui-nav .selected a:focus,
+div.yui-navset ul.yui-nav .selected a:hover {
+    background: #f1e1ff;
+    color: #ffffff;
+    border: solid #243356;
+}
+div.page-rate-widget-box,
+div.page-rate-widget-box span.rate-points,
+div.page-rate-widget-box span.cancel {
+    background-color: #ff0080!important;
+    border: solid #ff0080 1px!important;
+}
+div.page-rate-widget-box span.rateup,
+div.page-rate-widget-box span.ratedown {
+    border: solid #ff0080!important;
+    border-width: 1px 0!important;
+}
+div.page-rate-widget-box span.rate-points,
+div.page-rate-widget-box span.cancel a,
+div.page-rate-widget-box span.cancel a:hover {
+    color: #000000;
+}
+div.page-rate-widget-box span.rateup,
+div.page-rate-widget-box span.ratedown {
+    background-color: #f1e1ff!important;
+}
+div.page-rate-widget-box span.rateup a,
+div.page-rate-widget-box span.ratedown a {
+    color: #000000!important;
+}
+div.page-rate-widget-box span.cancel a:hover,
+div.page-rate-widget-box span.rateup a:hover,
+div.page-rate-widget-box span.ratedown a:hover {
+    background: transparent!important;
+    color: transparent!important;
+}
+div.open-menu a {
+    color: #ff77ff!important;
+    border-color: #ff77ff!important;
+}
+
+[[/module]]

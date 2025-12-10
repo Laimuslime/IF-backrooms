@@ -1,0 +1,341 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+[[module css]]
+/*fonts*/
+/*
+   Reverence Theme
+ 
+   by Evfist (and Viv!)
+*/
+@import url(https://backrooms-wiki.wdfiles.com/local--code/component%3Apatch/1);
+ 
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+ 
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "liminal";
+   --theme-name: "Polish Post Theme";
+ 
+   --logo-image: url("http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mail.png");
+   --header-title: "后室";
+   --header-subtitle: "你收到了一条新的消息！";
+ 
+   --body-font: 'Roboto', sans-serif;
+   --header-font: 'Roboto', sans-serif;
+   --title-font: 'Mukta', sans-serif;
+   --mono-font: 'Mukta', sans-serif;
+ 
+   --white-monochrome: 250, 249, 247;
+   --pale-gray-monochrome: 240, 237, 228;
+   --light-gray-monochrome: 240, 237, 228;
+   --gray-monochrome: 0, 0, 0;
+   --black-monochrome: 25, 20, 16;
+   --bright-accent: 115, 115, 112;
+   --medium-accent: 0, 0, 0;
+   --dark-accent: 0, 0, 0;
+   --pale-accent: 0, 0, 0;
+ 
+   --swatch-topmenu-border-color: var(--medium-accent);
+ 
+   --link-color: 37, 116, 244;
+   --visited-link-color: 0, 82, 163;
+   --hover-link-color: 37, 116, 244;
+   --newpage-color: 186, 0, 0;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--pale-accent)) 0%,
+      rgba(var(--pale-accent)) 100%
+   );
+   --diagonal-stripes: linear-gradient(transparent 0);
+ 
+   /*header shadow*/
+   --background-gradient-distance: 10rem;
+   --background-gradient-color: var(--pale-accent);
+   --gradient-background: linear-gradient(to bottom, rgba(var(--background-gradient-color), 1) 95%,  rgba(var(--background-gradient-color), 0) 100%);
+ 
+   /*side bar*/
+   --swatch-menubg-color: none;
+ 
+    --rating-module-button-plus-color: 0, 0, 0;
+   --rating-module-button-negative-color: 0, 0, 0;
+   --rating-module-button-cancel-color: 0, 0, 0;
+   --rating-module-button-credit-color: 0, 0, 0;
+}
+ 
+#main-content {
+    --tabs-selected-bg: var(--black-monochrome);
+    --tabs-selected-outline: var(--black-monochrome);
+}
+/*removing dots*/
+#skrollr-body {
+   background-image:http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mails;
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+/*removing dots 2*/
+#container {
+   background-image: imput here;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image:http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mails;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 8rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+ 
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #0c0c0c;
+}
+ 
+/*footnote fix*/
+.hovertip {
+    background-color: rgb(var(--white-monochrome)) !important;
+}
+ 
+/*tab border color*/
+.yui-navset .yui-content {
+     border-color: rgb(var(--pale-accent));
+}
+ 
+/*tables*/
+#page-content table.wiki-content-table th {
+border: 1px solid rgb(var(--bright-accent)) !important;
+background-color: rgb(var(--pale-accent));
+color: rgb(var(--white-monochrome));
+}
+ 
+#page-content table.wiki-content-table td {
+border: 1px solid rgb(var(--pale-accent)) !important;
+}
+ 
+/*searchbox border color*/
+#search-top-box-input {
+    border-color: rgb(var(--white-monochrome));
+}
+
+#search-top-box-form input[type="submit"] {
+    border-color: rgb(var(--white-monochrome));
+}
+ 
+#search-top-box-form input[type="submit"]:hover {
+    border-color: rgb(var(--white-monochrome));
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    color: rgb(var(--gray-monochrome));
+}
+ 
+/*fix scrollbar thingy*/
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--pale-accent));
+  opacity: 1;
+}
+ 
+/*new fancy blockquote*/
+#page-content blockquote,
+#page-content .blockquote,
+#page-content div.blockquote,
+#page-content [class*="blockquote"] {
+    border: 4px double white;
+    outline: 6px solid black;
+    background-color: black;
+    color: white;
+    margin: 1em 46px;
+    padding: 1em;
+}
+ 
+@media only screen and (max-width: 768px) {
+:root{
+   --swatch-menubg-color: var(--white-monochrome);
+}
+ 
+#page-content blockquote,
+#page-content .blockquote,
+#page-content div.blockquote,
+#page-content [class*="blockquote"] {
+    margin-left: 0;
+    margin-right: 0;
+    }
+}
+ 
+.styled-quote {
+   background-color:rgb(var(--light-gray-monochrome));
+   border-left: 0.5rem solid rgba(var(--pale-accent));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0.05rem 0.1rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--white-monochrome));
+   border-left: 0.5rem solid rgba(var(--bright-accent));
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0.05rem 0.1rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote a{
+color: rgb(var(--swatch-menubg-medium-color));
+}
+ 
+.lightblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.darkblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=0
+|one=安全
+|two=稳定
+|three=无威胁存在
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:translations
+|lang=pl en
+|style=float:right;
+]]
+@@ @@
+[[include component:image-block
+    |name=http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-6/Stary%20obraz
+    |caption=一张使用老式摄像机拍摄的**“邮局”**图像。
+]]
+[[div class="styled-quote"]]
++ 描述
+[[/div]]  
+该层级被首次发现于2006年2月1日。
+
+**邮局**是波兰后室中的一个极其重要且神秘的层级，许多人利用其寄送包裹或传递信息。该层级的外观类似于一座20世纪70年代的小型邮局建筑，且可以从多个后室层级进入。
+其被划分为多个区域：接待室、等候室以及分拣室，但分拣室禁止进入。
+等候室的地面呈20米x20米的正方形格局。入口左侧的墙边斜靠着四把椅子，椅子的右侧有一扇可通往[[[Level PL-11]]]或[[[Level PL-37]]]的门，椅子的左侧设有接待台。而玻璃窗后则是分拣室[[footnote]]但所有试图打碎此扇玻璃窗的尝试皆以失败告终。[[/footnote]]。
+
++ 接待室
+接待室被划分为三个隔间。每个柜台皆有一只[[[Entity 9|无面灵]]]，随时回应流浪者的任何询问。它们身着来自邮政服务的统一制服[[footnote]]你可以向该实体询问有关邮局与前台的跨维度邮箱的问题。[[/footnote]]。还有一道将流浪者与[[[Entity 9|无面灵]]]隔开的玻璃墙，但有一个小开口允许投递包裹。
+
++++ 寄送你的包裹
+你可以把包裹投递至此，选择任意收件人。[[[Entity 9|无面灵]]]会很乐意接收，并无需任何附加说明就能将信件或包裹传送至分拣室。不过，若包裹内含有违禁品，无面灵会检测出来并发出警报，违规者将会被传送至地板下方。
+
++++ 配置你的邮箱
+----
+无面灵会接受你放入的箱子、展示柜等物品，用内置扫描设备读取信息并存入邮箱数据库。随后[[[Entity 9|无面灵]]]会将物件归还予你。并说道，“感谢您注册跨维度邮箱。”，你就拥有了属于自己的**[[[Object PL-2]]]**。
+----
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-6/Pok%C3%B3j%201]]  
+----
+
++ 分拣室
+唯一无法进入的房间是分拣室，与等候室之间隔着一块无法穿透的玻璃。透过窗户能看见一条传送带，正将信件和包裹送往不同的机器。玻璃另一侧的等候室方向立着一块说明牌，上面详细标注了分拣室内进行的每道工序。
+
+----
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-6/Pok%C3%B3j%202]]
+[[div class="styled-quote"]]
++ 分拣工序
+----
++++ **1.**装有**Object PL-2**的包裹或信件将会被送至传送带的起始端。
++++ **2.**第一台机器，安全检测仪会接收这个封装物件。若检测到任何爆炸装置，该机器会在不损坏物品的前提下解除电荷并将其退回寄件人。但若检测到活体生物，则会将生物转移至100米外的安全区域。
++++ **3.**物品经安全检测仪查验后，会通过传送带送至收件人识别机。机器会确认信件或包裹的具体收件人信息。若收件人未签署回执或未给收件人留言，该包裹或信件就会被机器焚毁。
++++ **4.**待寄送物抵达最后一台机器，确认正常后，机器就会通知收件人。
+[[/div]]
+[[div class="styled-quote"]]
++ 附加信息
+----
+以下列表列出了面[[[Entity 9|无面灵]]]在接待过程中能够回应的询问类型。对于所有其他询问或指令，它们只会发出哼声作为回应。
+[[/div]]
+> + 询问
+> ----
+> 你是谁？（当对方是无面灵时）
+> 我是这个邮局的前台接待员。
+> ----
+> 这里是什么地方？
+> 是跨维度邮局。
+> ----
+> 什么是[[[Object PL-2]]]？
+> 一个跨维度邮箱。
+> ----
+> 此些信件/包裹是什么送至这里的？
+> 它们是通过传送。
+> ----
+> 玻璃后面的机器是什么？
+> 贴在这个房间窗户上的纸张包含了分拣室的所有信息。
+> ----
+> 我可以寄送包裹或信件到前厅吗？
+> 不。只有波兰后室层级才能使用我们的邮箱。
+[[div class="styled-quote"]]
++ 入口与出口
+----
+++++ 入口
+* 你可以通过[[[Level PL-11]]]的一栋挂有“Poczta”招牌的小建筑进入此处。
+* 进入[[[Level PL-37]]]的一栋写着“LIETUVOS PAŠTAS”的大楼，你也能进入此处。
+++++ 出口
+* 你可以通过自动门离开，根据你最初抵达的层级进入[[[Level PL-11]]]或[[[Level PL-37]]][[footnote]]虽然该层级同时连接着两个不同的层级，但它能让来自两个地方的人们相遇。[[/footnote]]。
+* 如果您试图寄送**邮局**的违禁品，无面灵会触发警报，并使你切入至[[[Level PL-13]]]。
+[[/div]]
+[[footnoteblock]]
+
+
+[[>]]
+[[collapsible show="你收到了一条新的消息！" hide="- 隐藏消息"]]
+哦，那只是作者信息！原文作者[[user LisMatis]]，英译者[[user Light_Nate]]，中译者[[user calf-0]]
+[[/collapsible]]
+[[/>]]

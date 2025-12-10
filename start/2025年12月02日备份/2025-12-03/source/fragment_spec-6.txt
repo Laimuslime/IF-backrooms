@@ -1,0 +1,60 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+.document { color: black !important; }
+[[/module]]
+
+[[module css]]
+#main-content {
+  width: 100%;
+  max-width: unset;
+}
+#page-content { max-width: unset !important; }
+[[/module]]
+
+
+[[div class="lightblock"]]
+[https://if-backrooms.wikidot.com/spec/offset/4 ←] 我的电脑 > Spec - 个人 > 桌面 > 我在“远洋航行时发现的高科技”
+
+------
+
+[[div class="folder"]]
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+Contacts.txt
+[[a href="https://if-backrooms.wikidot.com/spec/offset/11" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+Arm.txt
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/10" class="doc-link"]][[/a]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+------
+
+[[/div]]

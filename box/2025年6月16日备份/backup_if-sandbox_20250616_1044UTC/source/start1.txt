@@ -1,0 +1,13 @@
+[[include :backrooms-wiki-cn:theme:danger-zone]]
+[[div class="lightblock"]]
+正在连接层级网路……
+[[/div]]
+[[div class="lightblock"]]
+**厅之镜报官网**
+账号:＊＊＊＊＊＊
+密码:＊＊＊＊＊＊
+[[[holy-earth|-登入-]]]
+[[/div]]
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]

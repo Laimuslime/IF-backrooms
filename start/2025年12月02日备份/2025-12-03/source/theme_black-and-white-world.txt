@@ -1,0 +1,286 @@
+[[iftags +版式 +原创]]
+[[>]]
+[[module rate]]
+[[/>]]
+此版式由[[*user MCMK-1234]]基于[https://backrooms-wiki-cn.wikidot.com/level-159 Level 159]版式制作
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-backrooms:theme:black-and-white-world]]@@
+
+[[/div]]
+
++ 示例
+
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1717338358942-bfb1e399c7c0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU5JUJCJTkxJUU3JTk5JUJEJTIwJUU1JTlGJThFJUU1JUI4JTgyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=黑白色调
+]]
+
+可通过五个连字符“@@-----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+多么精巧绝伦。
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。我想知道为什么？这很奇怪。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+这段文本
+__放在这里__
+//你们就能//
+**看到不同**
+--格式以及--
+{{其它东西}}
+看起^^来是^^
+怎么,,运作,,
+[[[never-gonna-give-you-up|包括那些不存在]]]
+[[[level-if-104|以及存在的链接！]]]
+
+----
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+-----
+[[/iftags]]
+
+[[iftags -版式]]
+[[/iftags]]
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@500&display=swap');
+ 
+:root {
+  --theme-base: "black-highlighter";
+  --theme-id: "poolrooms-theme";
+  --theme-name: "Poolrooms Theme";
+ 
+  --logo-image: "";
+  --header-title: "The Backrooms";
+  --header-subtitle: "黑与白之界";
+ 
+  /* 字体 */
+  --body-font: 'Nunito', sans-serif;
+  --header-font: 'Anek Kannada', sans-serif;
+  --title-font: 'Anek Kannada', sans-serif;
+  --mono-font: 'IBM Plex Mono', monospace;
+ 
+  /* 配色 */
+  --white-monochrome: 250, 250, 250;
+  /* 白色 */
+  --pale-accent: 120, 120, 120;
+  /* 已访问链接 */
+  --bright-accent: 200, 200, 200;
+  /* 亮银灰 */
+  --medium-accent: 160, 160, 160;
+  /* 中银灰 */
+  --dark-accent: 100, 100, 100;
+  /* 暗银灰 */
+  --alt-accent: 80, 80, 80;
+  /* 黑块 */
+  --gray-monochrome: 180, 180, 180;
+  /* 灰块 */
+  --pale-gray-monochrome: 240, 240, 240;
+  /* 表格 */
+  --light-gray-monochrome: 220, 220, 220;
+  /* 某些按钮 */
+  --dark-gray-monochrome: var(--gray-monochrome);
+  /* 深灰色 */
+  --dark-blue: 80, 80, 100;
+  --swatch-topmenu-border-color: var(--medium-accent);
+  --swatch-topmenu-bg-color: var(--bright-accent);
+  --swatch-border-color: var(--medium-accent);
+  --border-styling: outset 2px rgb(var(--swatch-border-color));
+  --darker-accent: 70, 70, 70;
+
+  --link-color: var(--dark-blue);
+  --link-color-bright: var(--dark-blue);
+  --hover-link-color: 120, 120, 140;
+  --newpage-color: 100, 100, 120;
+  --swatch-menubg-color: 210, 210, 210;
+ 
+  /* 文本块阴影 */
+  --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+ 
+  /* 评分模块 */
+  --rating-module-button-plus-color: var(--light-gray-monochrome);
+  --rating-module-button-negative-color: var(--light-gray-monochrome);
+  --rating-module-button-cancel-color: var(--light-gray-monochrome);
+  --rating-module-button-credit-color: var(--light-gray-monochrome);
+}
+ 
+#account-topbutton {
+  border-color: rgb(var(--swatch-text-light));
+}
+ 
+#header h1, #header h1 a {
+  top: 0.5rem;
+  font-size: 200%;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+  top: 1.7rem;
+  font-size: 110%;
+}
+ 
+#login-status {
+  color: rgb(var(--dark-blue));
+}
+ 
+#search-top-box {
+  display: none;
+}
+ 
+#skrollr-body {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("https://images.unsplash.com/photo-1717338358942-bfb1e399c7c0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU5JUJCJTkxJUU3JTk5JUJEJTIwJUU1JTlGJThFJUU1JUI4JTgyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+ 
+#page-title, h1, h2 {
+  color: rgb(var(--dark-blue));
+}
+ 
+h3,h4,h5,h6 {
+  color: rgb(var(--medium-accent));
+}
+ 
+.styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.dark-styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.darkblock h1,
+.darkblock h2,
+.dark-styled-quote h1,
+.dark-styled-quote h2 {
+  color: rgb(var(--medium-accent));
+}
+ 
+@media screen and (max-width: 600px) {
+  #header h1, #header h1 a {
+    font-size: 150%;
+  }
+}
+
+[[/module]]

@@ -1,0 +1,135 @@
+[[include :backrooms-wiki-cn:theme:onslaught]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|color=000000
+|class=凶残
+|display=凶残
+|lang=cn
+|border=e00707
+|list-color=f2a400
+|image=http://backroomssandboxcn.wikidot.com/local--files/waaan/OSL_NO_T_W.png
+|one=和平相处
+|two=赢得残酷积分
+|three=准备感受猛攻
+]]
+**Level IF-187**是后室IF层群的第187层，也是[https://backrooms-wiki-cn.wikidot.com/level-158 Level 158]的分店之一。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1569621852749-9078b04aec0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JUU1JUJCJUJBJUU3JUFEJTkxJUU3JTg5JUE5JTIwJUU1JUFFJUE0JUU1JTg2JTg1JTIwJUU4JThEJTkyJUU1JUJBJTlGfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=层级最有名的地图之一，被称为“IF-187-A - 仓储室”
+]]
+**Level IF-187**为一个与[https://backrooms-wiki-cn.wikidot.com/level-158 Level 158]类似的层级，与[https://backrooms-wiki-cn.wikidot.com/level-158 Level 158]不同的是，该层级由30个不同的场景所组成，每个场景被称为“地图”。
+
+该层级目前被一个名为[[span class="ruby"]]猛攻依赖者联会[[span class="rt"]]Onslaught Junkies United[[/span]][[/span]]（简称“OJU”）的团体所接管，M.E.G.和B.O.P.对其展开保护，保护的内容包含流浪者保护、层级结构保护。目前尚未知晓此层级原本被何人所建造，不过目前该层级已成为仅次于[https://backrooms-wiki-cn.wikidot.com/level-158 Level 158]的娱乐性层级。
+
+初次进入此层级时，流浪者将会来到此层级的大厅区域，大厅区域为一个洁白无瑕的白色房间，内部摆有多张白桦木桌，桌子上有时摆放着一些可供饱腹的零食，大厅区域的墙壁上带有LED显示屏，显示屏上为层级内前十的积分榜，流浪者也可以选择下滑或搜索查看其他的用户名次，若流浪者是第一次进入此层级，显示屏将提示流浪者创建账户并取ID，积分需要击败敌人或是用物品交易以获得。
+
+进入大厅区域时，流浪者眼前将会出现一个半透明的蓝色全息悬浮面板，面板上呈现着每个地图的名称以及对于此地图的简短描述，流浪者可点击地图名称后的“开始”按钮进入游戏匹配，当人数达到30或以上，游戏将正式开始。
+
+在游戏开始之前，流浪者可选择游戏的模式，游戏包括多种模式，每个模式均无游戏时间限制，游戏的目标为在被击败前获得尽量多的积分。每个游戏地图内都会随机生成不同类型的武器，包括近战、远程、物理、化学、魔法[[footnote]]不可否认，的确有这种类型的武器存在。[[/footnote]]等伤害类型的武器，其中以近战和远程最为常见，化学和魔法最为罕见。
+
+除了武器外，层级内还会刷新一些有用的道具，例如医疗箱、保险箱、弹药箱、工具箱等补给品。流浪者在游戏中被击败后并不会死亡，在濒死期间，流浪者周围会突然出现大量雾气，雾气可以治疗流浪者身上的伤口。目前已被记录的游戏类型如下：
+----
+**普通模式：**所有流浪者均为一个阵营，但彼此分散。层级中会逐渐生成不同类型的实体，每次生成三种或以上不同的类型，这些实体的类型在M.E.G.的档案库中均有记录，且也包括其他语言分部或是民间分部的实体，涵盖范围极广。该模式是最受欢迎的模式之一，几乎所有地图都支持该模式。
+----
+**组队模式：**所有流浪者会被均分成不同的阵营，常见的分组为3队、4队或5队。每个流浪者身上会瞬间出现该队伍的颜色标记，如果误伤了队伍里的其他流浪者，该流浪者的积分将会减少。组队模式最核心的特点是其的队伍总分，队伍总分为其他流浪者的分数累计。
+----
+**[[span class="ruby"]]大逃杀模式[[span class="rt"]][https://backrooms-wiki-cn.wikidot.com/level-191 Level 191]特以赞助[[/span]][[/span]]：**该模式类似于[https://backrooms-wiki-cn.wikidot.com/level-191 Level 191]内的游戏规则，每个人各自为营，没有任何交战的规矩，一切使绊子的事情均不算犯规，你可以做除开挂[[footnote]]--这游戏怎么开挂？ ——我怎么知道。--譬如使用一切除游戏内生成以外的强力道具。[[/footnote]]以外的任何事情。大逃杀模式的最后一位幸存者将获得300以上的积分，同时在游戏排行榜的ID上获得一个“冠军”标识。
+----
+层级内包含多个不同的地图，这些地图包含自己的特色，且地形、结构、装饰稍有不同，每个地图均可选择，以下是层级中出现的地图列表：
+----
+**IF-187-A - 仓储室：**一个类似于废弃的仓储室的地图，其面积是所有地图中最大的一个。该地图内的一切结构，例如墙壁、地板、天花板等完全由灰色混凝土所构成。地图内布满了冷色调的霓虹灯，这些霓虹灯为地图内唯一的光线来源。该地图完全封闭，偶尔出现的门或窗户往往通向另一个区域。
+
+该地图的每个区域地面都充满了积水，积水的大部分成分为杏仁水。破旧的货架、电箱、婴儿车为该地图内频繁出现的装饰物。该地图内有着多个隐蔽的点位，这些点位可用于埋伏其他流浪者，因此该地图也被人戏称为“阴人仓库”。该地图内出现的物品除上述已提及物品外，还包括以下几种物品：
+||~ 物品 ||~ 稀有程度 ||~ 回收价格 ||
+|| 手电筒 || 中 || 30积分 ||
+||旧报纸 || 低 || 10积分 ||
+|| 电池 || 中 || 20积分 ||
+|| 台式机 || 高 || 100积分 ||
+|| 相框 || 低 || 13积分 ||
+----
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1710745944590-89c5cc360fa6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JUJCJUJBJUU3JUFEJTkxJUU3JTg5JUE5JTIwJUU1JUFFJUE0JUU1JTg2JTg1fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=IF-187-B的图像
+]]
+**IF-187-B - 无尽商场：**一个大小无限的废弃商场，整体较开阔，透过地图的窗户可看见外界，但流浪者无法到达外界，外界与地图之间似乎隔着一层空气墙。该地图极其空旷，地面由混凝土构成，天花板由裸露的钢筋结构组成。
+
+该地图内唯一的补给为时长出现的自动售货机，售货机会售卖一些能量饮料，售货机需要使用积分才能交易。地图分为两层，第一层极为空旷，第二层需要通过螺旋楼梯才可到达。第二层由几个不同的房间所组成，但这些房间之间相隔的墙壁均为染色玻璃墙。房间内摆有多张可作为掩体的桌椅或储物柜。该地图的第一层由于掩体极少，因此淘汰率极高。
+----
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2018/03/25/19/17/casino-3260372_1280.jpg
+|caption=IF-187-C的几个机器。
+]]
+**IF-187-C - 赌场：**一处巨大的赌场，其面积是所有地图最小的一个。该地图内摆放着许多台机器，机器大部分为老虎机，所有老虎机均可使用，需要使用积分才可启动，若流浪者有幸集齐了老虎机上的三个或更多的相同图案，流浪者会瞬间获得50＋的积分。
+
+每个机器上都装载着色彩鲜艳且醒目的霓虹灯，这些霓虹灯无法被破坏。赌场的装饰风格极其复杂，大部分区域为浓厚的复古风格，一些小型房间则是现代装饰风格。地图内有着多个标有“仅限员工”的门，这些门需要使用层级内极其罕见的保险钥匙才可打开，标有“仅限员工”的房间里通常有着丰厚的物资，因此也被当做补充物资的最好选择之一。
+----
+[[include :backrooms-wiki-cn:component:cocs
+|number=IF-187-1
+|location=Level IF-187
+|safety=安全
+|purpose=增加MOD
+|status=常见
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2016/02/20/14/42/usb-key-1212110_1280.jpg
+|caption=Object IF-187-1
+]]
+流浪者们可以为层级增加新的MOD地图，添加方式稍有复杂。层级内存在一种特殊物品，名为Object IF-187-1 - “MOD地图U盘”，详细的介绍见下：
+
+Object IF-187-1为一个典型的U盘，空间256GB，通常可在该层级大厅内免费领取。流浪者可使用其他电子设备连接该U盘，届时该电子设备上会多出一个软件，名为“OJU MOD”，该应用为一个典型的3D建模软件，内部包含大量可调用的免费建筑素材。
+
+当流浪者制作完毕后，流浪者可打开“OJU MOD”的菜单，菜单中包括以下选项：
+* 测试
+* 重命名
+* 保存
+* 删除
+在选择保存后，流浪者可将其保存至连接的Object IF-187-1。流浪者可将其连接到大厅处的半透明面板，并选择“上传”，在通过OJU的审核后，该地图可能会直接上架至Level IF-187内可选地图中。
+----
++ **基地、前哨与社区**
+++ 诡谲善变
+* 最富盛名的玩家队伍
+* 由一个被称作“eerie471”的用户所领导
+* 成员大多使用远程武器
+* 队伍目标为冲击排行榜
+* 欢迎加入
+++ 暗影区
+* 被称为“最恶心队伍”的玩家社区
+* 领导者为用户“I_must_say_no”
+* 长期稳居排行榜前十
+* 为了积分不择手段
+++ OJU-2
+* 层级的真正管理与运营者
+* 我们对其知晓甚少
+* 最激进的官方组织
+++ M.E.G.临时托管
+* 第二大的官方组织
+* 负责维护游戏秩序
+* 封禁某些开挂用户
+++ B.O.P.临时托管
+* 第三大的官方组织
+* 宣传层级
+* 负责维护游戏环境
+----
++ **入口与出口**
+++++++ 入口
+* 流浪者可在大部分层级内寻见一张关于“IF猛攻战”的海报，拾起他并用食指触摸即可来到此层级，该海报可长期持有，，但如果受到大面积损坏，该海报便会直接失效
+++++++ 出口
+* 在大厅的半透明面板中可选择不同的层级切出，可前往的层群包括EN、C、A、R、AS、LW、IF、UF、Cloud、M、S、Fandom EN、Fandom ZH、Miraheze
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]和[[*user haodemingzi]]
+神秘赌场的图源：https://pixabay.com/zh/photos/casino-game-of-chance-slot-machines-3260372/
+U盘：https://cdn.pixabay.com/photo/2016/02/20/14/42/usb-key-1212110_1280.jpg
+其他全是unplash的
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-186]]] | Level IF-187 | [[[Level IF-188]]] >>
+<< [https://backrooms-wiki-cn.wikidot.com/level-158 Leve 158] | [https://backrooms-wiki-cn.wikidot.com/level-191 Level 191] | [https://backrooms-wiki-cn.wikidot.com/level-317 Level 317]>>
+[[/=]]
+[[/div]]

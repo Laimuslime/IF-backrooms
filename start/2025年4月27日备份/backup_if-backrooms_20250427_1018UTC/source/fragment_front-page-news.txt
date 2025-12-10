@@ -1,0 +1,62 @@
+[!-- 公告，请不要往正文里放注释。 --]
+[[iftags +段落]]
+[[div style="display: none;"]]
+[[include :backrooms-wiki-cn:fragment:front-page-style]]
+[[/div]]
+[[div_ class="announceContainer"]]
+[[/iftags]]
+
+[!-- 这里是首页上方的公告。 --]
+[!-- {$announce}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年4月10日**
+本站与[https://backrooms-split-library.wikidot.com/cs 捷克语非官方维基]建交！
+[[/div]]
+[[div_ class="announcement"]]
+**2025年3月17日**
+本站建立。
+[[/div]]
+
+[!-- --]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+
+ --]
+
+
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+----
+[[div class="announceContainer"]]
+[[/iftags]]
+
+[!-- {$news}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年3月17日**
+本站建立。
+[[/div]]
+[!-- --]
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+[[/iftags]]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+ --]

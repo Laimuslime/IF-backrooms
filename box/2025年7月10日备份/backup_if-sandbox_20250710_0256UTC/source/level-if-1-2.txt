@@ -1,0 +1,192 @@
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "deep-forest-theme";
+    --theme-name: "Deep Forest Theme";
+
+    /* 字体设置保持不变 */
+    --header-font: 'SimSun', '宋体', serif;
+    --title-font: 'SimSun', '宋体', serif;
+    --body-font: 'SimSun', '宋体', serif;
+    --mono-font: 'SimSun', '宋体', monospace;
+
+    /* 森林色系调色板 */
+    --white-monochrome: 240, 245, 240;        /* 雾白 */
+    --pale-gray-monochrome: 230, 240, 230;    /* 嫩叶绿 */
+    --light-gray-monochrome: 200, 215, 200;   /* 苔藓绿 */
+    --gray-monochrome: 100, 130, 100;         /* 松针绿 */
+    --black-monochrome: 30, 50, 30;           /* 深林黑 */
+    --bright-accent: 120, 180, 120;           /* 新芽绿 */
+    --medium-accent: 80, 140, 80;             /* 森林绿 */
+    --dark-accent: 40, 90, 40;                /* 常青绿 */
+    --pale-accent: 220, 235, 220;             /* 晨露白 */
+    --alt-accent: 150, 180, 100;              /* 橄榄枝 */
+
+    /* 森林渐变效果 */
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.8) 0%,
+        rgba(var(--dark-accent), 0.9) 100%
+    );
+}
+
+/* 基础文本样式 - 深林黑文字 */
+#page-content {
+    color: rgb(var(--black-monochrome));
+    background-color: rgb(var(--white-monochrome));
+    /* 其他设置保持不变 */
+}
+
+/* 标题样式 - 森林渐变 */
+#page-content h1 {
+    background: linear-gradient(90deg, 
+        rgba(var(--medium-accent), 0.8), 
+        rgba(var(--alt-accent), 0.8));
+    -webkit-background-clip: text;
+    background-clip: text;
+    border-bottom: 2px solid rgb(var(--bright-accent));
+}
+
+/* 链接样式 - 新芽绿 */
+#page-content a {
+    color: rgb(var(--bright-accent));
+}
+#page-content a:hover {
+    color: rgb(var(--dark-accent));
+    text-shadow: 0 0 3px rgba(var(--bright-accent), 0.2);
+}
+
+/* 引用块 - 晨露白背景 */
+#page-content blockquote {
+    background-color: rgba(var(--pale-accent), 0.8);
+    border-left: 4px solid rgb(var(--medium-accent));
+}
+
+/* 代码块 - 苔藓质感 */
+#page-content pre {
+    background-color: rgba(var(--light-gray-monochrome), 0.3);
+    border: 1px solid rgb(var(--bright-accent));
+}
+
+/* 表格样式 - 松针表头 */
+#page-content table th {
+    background-color: rgba(var(--gray-monochrome), 0.7);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 图片样式 - 森林边框 */
+#page-content img {
+    border: 3px solid rgb(var(--bright-accent));
+    background-color: rgb(var(--white-monochrome));
+    box-shadow: 0 3px 8px rgba(var(--gray-monochrome), 0.15);
+}
+
+/* 水平线 - 林间光线 */
+#page-content hr {
+    background: linear-gradient(90deg, 
+        transparent, 
+        rgb(var(--bright-accent)), 
+        rgb(var(--alt-accent)), 
+        transparent);
+    height: 2px;
+    opacity: 0.7;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=蚀骨之痛
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=2e-环境
+|one=不安全
+|two=不稳定
+|three=资源匮乏
+|lang=cn
+]]
+
+**Level IF-62**是后室IF层群的第62层。
+
++ **描述**
+
+**Level IF-62**是一处非线性空间，表现为一个室内环境。**Level IF-62**的外观类似于一组连续的植物收藏室，其内部空间推测是无限的。这个层级主要由交错的走廊与走廊两侧的房间构成，内部照明设施稀少，相对黑暗的环境对于探索工作造成了一定的阻碍。
+
+**Level IF-62**内部有着大量的类似于窗口的结构，从窗口向外观察可以观察到所处的这一个室内环境的外部时刻处于黑夜的状态。在窗口外侧可以观察到少量类似于路灯的物体，也有可能会有类似于树枝的物体在窗口摇晃。即使这些窗口有的处于打开的状态，但是流浪者进行任何尝试翻过窗口的行为均已被证实无法成功。
+
+[[include component:image-block |name=https://file.ahelpers.com/convert/outputs/image/2025-06-25/bsv87ry8zn5_1750871326788.jpg
+ |caption=**Level IF-62**。拍摄于2017年4月15日。
+]]
+
+除此之外，**Level IF-62**内部存在着大量的植物。虽然层级内部极度黑暗，理论上植物不可能进行光合作用，但是这一些植物却没有表现出任何枯萎或者腐败的迹象。在这一些植物的表面覆盖有一层粘稠的液体，其化学构成未知，由于这个原因我们一般认为这一些植物无法进行食用。事实上，**Level IF-62**内部的资源极度匮乏，任何例如杏仁水或者皇家口粮之类有用的资源从未在**Level IF-62**被发现过。
+
+[[collapsible show="关于肉食性植物" hide="隐藏"]]
+[[div class="blockquote"]]
+
+**[已编辑]**是一种食虫植物。其具有较高的欣赏性和趣味性，常用于盆栽观赏。还被作为奇异花卉点缀于沼泽园或供植物教学之用。当昆虫停留在黏液上时，**[已编辑]**将会迅速收起枝干，将可怜的昆虫团团裹住，溶解消化，再为己所用……之后，它重新展开叶片，看起来是那样的玲珑美丽。
+
+——摘自百科全书
+
+[[/div]]
+[[/collapsible]]
+
+**Level IF-62**似乎还存在一些还未被探明的异常效应。进入这个层级的流浪者将会在两个小时内失联，实际上在**Level IF-62**的大部分区域内都是不支持通讯的。我们在这些区域内部发现了一些信号屏蔽器以及它们被人为安装的痕迹，但是到目前为止从来没有抓获过任何一名这种装置的安装者。我们推测这是由于层级内部的孤立效应，导致这之类的行为想要实现非常困难。
+
+[[collapsible show="附录：一张被发现于**Level IF-62**的字条" hide="隐藏"]]
+[[div class="blockquote"]]
+他们是一群疯子。
+
+Marry死了。我至今都还记得她的脸，前所未有的干枯与黑暗。但是想来，她死时也还不算很痛苦。即便如此，她难道就该死么？不过是罪人正视自己无辜的遁词罢了。
+
+那个自称Dr.Armstrong的弱智告诉他们，研究所里的植物能够发电。然后，这一群自称为研究员的家伙开始在小镇里面招募流浪汉，把他们喂给那一些叶片表面流着粘液的植物。
+
+谁也不知道自己是不是下一个。先是Sally，然后再是Alan，Marry。希望别轮到我。我不想死。
+[[/div]]
+[[/collapsible]]
+
++ **基地、前哨与社区**
+
+由于**Level IF-62**内部存在孤立效应，因此没有已知的基地，前哨站与社区。
+
++ **入口与出口**
+
+++++++ 入口
+* 从[[[Level IF-60]]]中切入树干，将会使流浪者来到**Level IF-62**。
+* 从[[[Level IF-54]]]中切入粘稠的泥土，将会使流浪者来到**Level IF-62**。
+* 从[[[Level IF-35]]]切出的流浪者，将有概率来到**Level IF-62**。
+
+++++++ 出口
+* 切入植物体会让流浪者来到[[[Level IF-54]]]。
+* 切入一块被淤泥覆盖的地面将会使流浪者来到[[[Level IF-8]]]。
+* 切入一个封闭式房间的墙壁将会使流浪者进入[[[Level IF-25]]]。
+
+[[div class="blockquote"]]
+它在消化我们。
+
+我们原以为在Dr.Armstrong的领导下，这一切的局面还能控制得住。直到那一天早上，我们像以往一样谈笑风生地走进房间，看见了地上的那一具干尸，那焦黑，干枯的脸。
+
+昔日的领导者成为了第一个死者。
+
+我们出不去了。我们以前为研究而做的一切，如今都变成了囚禁我们的牢笼。我们只有在这地狱里面悔恨着，嚎哭着，直到喉咙嘶哑的什么声音也发不出来。
+
+我现在时常想到那个女孩，她有着一头浓密的黑发，戴着淡蓝色的遮阳帽，在**曾经**的树影婆娑下微笑着。
+
+硫酸是一种很重的，很粘稠的液体。它覆盖在叶片的表面，也曾经覆盖在少女的皮肤上，把那白皙的组织里面的水一层层地脱掉，最后变成黑色的碳。
+
+我不敢想象这需要承受怎样的痛苦。而现在，它终于轮到我们了。
+
+永不落幕的夜空之下，没有一个人是无罪的。
+
+永不升起的太阳背后，每一个人都如此丑陋。
+[[/div]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-61]]] | Level IF-62 | [[[Level IF-63]]] >>
+[[/=]]
+[[/div]]

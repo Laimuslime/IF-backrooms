@@ -1,0 +1,44 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=1
+]]
+
+**Level 29**是后室的第30层。
+[[include component:image-block
+|name=http://backrooms-ac.wikidot.com/local--files/old-en:level-29/Level-29.jpeg
+|caption=Level 29的一条隧道
+]]
++ 描述
+
+初次进入**Level 29**时，眼前呈现的是一条拱形管状的老旧隧道。隧道长约6米、高3米，两端各有一扇锈蚀严重的铁制水密门，天花板上悬挂的照明灯将隧道映照得异常刺眼。四壁看似普通砖砌结构，却布满青苔与不明黑色黏液，地面则积着污水。每扇门后都连接着与前一条完全相同的隧道，两个方向上的隧道数量均无限延伸。某些隧道内存放着食物、武器、医疗包等生存物资，足以支撑数日所需。但若持续单向行进将遭遇风险——部分隧道里游荡着不会开门的未知实体（需快速关门将其困住）。当隧道两端门扉同时闭合时，会伴随巨大机械轰鸣声进行空间重组，随机传送到隧道序列的其他区段。利用该机制可加速找到出口。不幸者将在此长期求生，并与新进入者逐渐汇合。值得注意的是，长期滞留会导致视力衰退。
+
+++ 基地、前哨与社区
+
+该层级没有已知的基地、前哨与社区。
+
+++ 入口出口
+
+++++ 入口
+
+从其他层级切出无法到达Level 29，所有进入Level 29的流浪者都是在睡梦中抵达的。
+
+++++ 出口
+
+灯光开始闪烁是隧道接近出口的标志。出口位于一个完全没有灯光的隧道中，那里有一扇特制的红色水密门，门上标有“ESCAPE”字样。打开门后是一片漆黑的虚空，走进去有30%的概率会重返前厅，但也有70%的概率会进入另一个层级——通常是[[[https://backrooms-wiki-cn.wikidot.com/archived:level-2|Level 2]]]、[[[https://backrooms-wiki-cn.wikidot.com/old:level-57|Level 57]]]或[[[https://backrooms-wiki-cn.wikidot.com/old:level-998|Level 998]]]。  
+
+------
+
+[[>]]
+[[collapsible show="作者与译者" hide="关闭"]]
+原作者[[*user AppleNuke]]
+译者：[[*user haodemingzi]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[old:Level 28]]] | Level 29 | [[[old:Level 30]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,168 @@
+[[include :backrooms-wiki-cn:theme:lsheafs]]
+
+[[module CSS]]
+
+:root {
+
+   --logo-image: url("http://grave-box.wikidot.com/local--files/deadgod/logo");
+
+  --header-title: "以西结之日记";
+
+   --header-subtitle: "我后室旅途的见闻录";
+
+}
+
+#container {
+
+   background-image: url("http://grave-box.wikidot.com/local--files/deadgod/table");
+
+background-size: cover;
+
+background-position: center;
+
+background-repeat: no-repeat;
+
+opacity: 1;
+
+}
+
+#page-title { display:none !important; }
+
+[[/module]]
+
+ [[Size xx-large]]**伊莎贝尔之峡**；[[/size]]
+“//覆尘沟壑与恸哭窟穴。//”
+
+* 危险度；高危。
+* 奇异事；稀疏。
+* 动物群；凶残。
+
+----
+
+[[=image https://backrooms-wiki.wdfiles.com/local--files/level-117/gorge height="170px" width="100%" style="object-fit: cover;"]]
+
+[[size larger]]//**肃穆小径**//[[/size]] – 当我匆匆绕过[[[Level 116|神祇尖塔]]]可怖山峦的南岸而行时，场景便被置换为一处陡峭而狭隘的通路。完全被石灰岩峭壁所环伺，小径蜿蜒向前，不知尽头何方。此地植被稀缺，唯有的树木也如草叶上的春日露珠般勉强维生。曾经澄澈的天穹被一愤懑云霞的黧黑布毯所替换，它们的雷声昭示着一场永不降临的风暴。
+
+我登上渐升的斜坡，绕过顶端的弯道，峡谷西侧的障壁让位于深邃的巨口。我的好奇心一如既往地替我做出了最好的选择。准备好摒弃那小径跋涉，我系紧绳索，备好提灯，迅速开始降落。
+
+[[=image https://backrooms-wiki.wdfiles.com/local--files/level-117/maw height="170px" width="100%" style="object-fit: cover;"]]
+
+[[size larger]]//**恸哭窟穴**//[[/size]] - 荒芜阴湿的空洞将我的冒险欲望//抑制//了些微——但并未完全压下。我解下系带，将其收折，贮藏入我的挎包之中。我身处的窟穴相较于方才离即的小径略为寒凉，潮湿的空气对缓和寒冷的作用微少。当我审视这空间时，覆满青苔的墙壁上湿漉漉的光泽反射着我的提灯发出的光亮。花岗岩石笋覆满地面，向上延伸，似是要自恒常清澈的地下水中挣脱而出。唯有一路可走，我便穿过狭窄的入口，踱入了众多潮湿通路中的第一条。
+
+步道很短，通往一处照明稀缺的洞穴，其地面被侵蚀出众多形状诡谲的陷坑。我沿着东壁缓缓在洞穴间穿行，每一步皆要小心规划而行，唯恐失足。而正值此刻，我偶然间遭遇了这最为不幸的一幕——于洞穴之中间地带，有一位昔日女郎的遗骸。她的身高平均，肤色看似白皙，穿着似是常常驻留此种境地。尽管湿气已将尸体损伤，却仍能望见某种未知猎手造成的致命创伤。啃噬之痕与破碎之骨，勾勒出其弥留之际最骇人的图景。
+
+我将灯光固定于壁上，旋即自包中取出一块大亚麻布。在将手臂摆放至适合殉葬的姿势时，我留意到她手腕处佩戴着的薄银手镯。镌刻其上的//“伊莎贝尔，我的挚爱”//为这条不幸亡魂赐了名。念及这种无谓暴虐令我感到沮丧，我将白亚麻布折叠起来，小心仔细地包裹住遗体。完毕后，我在缄默中伫立，悼念着这位亡魂。正是如此悲催事件的发生，方让我忆起了生命的脆弱；对于胆敢将其抛诸脑后之人，这些领域向来不愿宽恕。
+
+[[f>image http://grave-box.wikidot.com/local--files/deadgod/gun height="200px"]]
+
+旋即我将提灯取回，而仿佛暗示一般，身前小径上传来一声沙哑的兽吼。我将[[[Object 15 |火盐]]]手枪自帆布背包中取出，用殉葬中余存的亚麻布条将其包裹，随即装载于腰带之中。如今//装备//齐全、手持拐杖的我，继续前行至诸多穴室的下一处。
+
+[[=image https://backrooms-wiki.wdfiles.com/local--files/level-117/passage height="170px" width="100%" style="object-fit: cover;"]]
+
+[[size larger]]//**润湿下行**//[[/size]] - 经过数个平淡无奇的壁龛后，我便身处一阶雄伟石梯的平台处。阶梯向下延伸，直抵基岩之心。尽管此地的墙壁仍依附着一层未曾遁形的湿气，然而其上却被某些未知孽物钻探出了大量的爪痕。我的探究被一声尖啸所打断，那尖啸并不源自猛兽，而是人类。其后紧随着我先前曾耳闻的骇人嘶鸣；似乎猛兽已觅得新的受害者了。我冲下那光滑的阶梯，一团闪耀的火焰很快显现，与之相伴的是一位男士的身影。
+
+我已然抵至楼梯的基底处，身前，卧倒着一位脚踝折裂的男士，惶恐地向深处一只亵渎灾物挥舞着匆忙制成的火炬。
+
+[[=image https://backrooms-wiki.wdfiles.com/local--files/level-117/bob height="170px" width="100%" style="object-fit: cover;"]]
+
+[[size larger]]//**窟穴巨兽之巢**//[[/size]] - 身畔洞穴的地面上躺倒着一位男士，其脚踝以诡谲超然的角度扭曲着——后来我方知晓，他名为朗佐。他正值壮年——据我推测年方二十五——鎏金的长发在脑后编作发辫。体格消瘦、长发保养良好、衣冠楚楚，他带给我的印象并不若寻常的勘洞者。如此说来，他在徒步走下如此湿滑陡峭的阶梯时摔跤，便也不足为奇了。没时间寒暄了；那巨兽的惶恐之情已然消失殆尽——同样穷尽的还有耐心。
+
+我毫不犹豫地自腰间拔出手枪，心中庆幸裹布令燧石隔绝于湿气。我瞄准、拉栓、准备开枪。似是能明悉我的意图一般，巨兽极速猛冲向前，鉴于其丰腴的尺寸，那速度令人咋舌。我向来不是什么神射手，而恐惧之情令我将父亲的教诲完全抛诸脑后；我阖上双眼，手指挤下扳机。轻描淡写地说，那鸣枪之响也是令人晕眩。我未曾在如此密闭之空间鸣枪。潮湿的地板令我脚下一滑，向后倾倒在我那方才寻得的同伴身旁。
+
+巨兽发出一声震天悲鸣，可却登时恢复了镇静。它朝我们猛扑而来，我以为那便是殁亡之刻，可此时我那摸索着的的手却紧攥住了拐杖的杆柄——狰狞利齿距我的面庞仅有咫尺之遥。我用棍柄向前猛刺而去，将其嵌入野兽前额上那道方才形成的伤疮，旋即竭尽全力将其猛拽出来。野兽踉跄后撤，一边尖啸一边逃窜，而棍柄也同时裂作两半。
+
+紧迫危机缓缓消散，我也终于得空与朗佐好好谈谈。他解释道，他是在与未婚妻//伊莎贝尔//一同勘探时摔下楼梯的，而她则更适应此等活动。无法背起他的她，便离即去寻求援手了。仅仅是提及她的名讳，便教我的脊背一阵发凉——我并未料到，我将要传达如此噩耗。我尽可能委婉地阐明了状况，而不出所料，他并不愿冷静接受。
+
+用那余留的拐杖残片与先前的布料，我尽全力固定住了这位悲惨男士的脚踝。他那悲戚的啜泣被洞穴深处传来的愤懑咆哮所打断。巨兽似乎已然归来，并且还带来一群同伴，我可不打算留下一探究竟。我和朗佐开始攀升。
+
+----
+
+[[size larger]]//**悲寂撤退**//[[/size]] - 返回坑洞窟穴的跋涉，不论身心皆令人痛楚。我不仅分担了朗佐的心痛，还支撑着他受伤的腿。未婚妻麻布裹尸之景再次激起了一阵无可厚非的悲恸，但我们无暇长久哀悼。吼叫再次归来，但这次其并不源于通道，而是众多点缀着地板的坑洞。我抱着伊莎贝尔，将朗佐推过狭隘的阈界进入入口通道。当我在裂隙中挤行时，便能望见数只巨兽自落坑处升起。知晓它们无法突破第一处穴厅，我深深地松了口气。我们谨慎地离开了恸哭窟穴——先是朗佐，旋即是可怜的伊莎贝尔，最后便是我自身。
+
+我为伊莎贝尔掘下一方适宜的坟茔，而朗佐则悲痛地望着。当活计完成后，我搭出篝火，将我们潮湿的衣服烘干。我们分着一块如今已泡软的面包，他向我讲述着那段苦乐参半的失却恋情。他们于近两年前在[[[Level 11 |大都会]]]初次相见，一见便钟情。她富有冒险精神，并不为生存的枯燥所缚；若说起来，她与我倒是志趣相投。她向他展示了众多壮观奇景，他们对共同的未来满怀憧憬。他们有个共同的梦想，在冒险途中搜罗奇珍与饰品，终有一日要在一处熙攘之域开一家商场。话语中透露的温暖渐渐消匿，现实再次在他脑海中清晰起来。我们的临时营地笼罩于某种悲苦的寂静之中，随即我们都步入了梦乡。
+
+早间，我与朗佐道别，指引他穿过神祇尖塔，去到我在[[[Level 77 |新谢南多厄]]]的宅地。我赠予他一根新做的拐杖，还给了他一封信件，向我的家人解释他的境遇。尽管共度的时光短暂，但我却不见得能很快忘却此情此景。
+
+[[=image http://grave-box.wikidot.com/local--files/deadgod/grave height="170px"  style="object-fit: cover;"]]
+
+----
+
+[[size larger]]//**通行**//[[/size]]
+
+据我所知，唯有两种进出该领域的方式。峡谷的一侧即是[[[Level 116 |神祇尖塔]]]，我再不愿归返之地。
+
+自洞穴另侧降落便可抵达**峡谷都**，我的下一处目的地，用以进行亟需的物资补充。我曾听闻许多有关该地规模宏大的店铺与商人的故事。
+
+窟穴的至深处于我仍是谜团，一个我永不愿揭开的谜团。
+
+----
+[[>]]
+
+[[size large]]//——以西结·墨菲//[[/size]]
+
+[[/>]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 116]]] | Level 117| [[[Level 118]]] >>
+[[/=]]
+[[=]]
+[[include :backrooms-wiki:component:open]]
+
+
+
+作者为[[[akirooms|DrAkimoto]]]。
+
+译者为[[*user ThEndlessRain]]。
+
+评判鸣谢：
+
+[[*user vivamusludio]]、[[*user PrismaticMoose]]、[[*user InspectingCritters]]、[[*user Puddlesitter]]
+
+----
+
+@@@@
+
+[[include :calf-0-sandbox:author-table-aki]]
+
+@@@@
+[[include :backrooms-wiki:component:close]]
+[[/=]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=DrAkimoto
+]]
+=====
+> **名称：** 14756254821_c444484116_o
+> **作者：** polm23
+> **许可：** Public domain
+> **源链接：** https://flic.kr/p/Dy1UCz
+
+> **名称：** 18434434055_d097cd5f80_o
+> **作者：** polm23
+> **许可：** Public domain
+> **源链接：** https://flic.kr/p/DybmkZ
+
+> **名称：** polm23
+> **作者：** 14595019690_d70352517d_o
+> **许可：** Public domain
+> **源链接：** https://flic.kr/p/Dy1UCz
+
+> **名称：** RussianFirearmsXIX 19-22 FlintlockGuns.jpg
+> **作者：** В. Г. Федоров
+> **许可：** Public domain
+> **源链接：** https://commons.m.wikimedia.org/w/index.php?search=Flintlock+Pistol+drawing&title=Special%3AMediaSearch&type=image
+
+> **名称：** Georg Schweinfurth drawing of Yanga's grave.jpg
+> **作者：** Georg Schweinfurth
+> **许可：** Public domain
+> **源链接：** https://commons.m.wikimedia.org/w/index.php?search=Grave+drawing&title=Special%3AMediaSearch&type=image
+
+> **名称：** 14577023100_84efd03fbe_o
+> **作者：** polm23
+> **许可：** Public domain
+> **源链接：** https://flic.kr/p/238aZwq
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

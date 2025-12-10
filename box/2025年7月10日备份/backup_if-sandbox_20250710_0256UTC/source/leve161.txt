@@ -1,0 +1,36 @@
+[[include :backrooms-wiki-cn:theme:pomona]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn/tr
+|class=2
+|color=#99FF99
+|image= 
+|one=不安全
+|two=不稳定
+|three=大少量实体
+]]
+
+**Level IF-161“迷雾公园”**是后室IF层群的第161层。
++ **描述**
+
+
++ **基地、前哨与社区**
+++ 社区A
+* 特点
+++ 基地B
+* 特点
++ **入口与出口**
++++ 入口
+* 进入方法
++++ 出口
+* 离开方法
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user bunana_ruantong]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-XXX-1]]] | Level IF-XXX | [[[Level IF-XXX+1]]] >>
+[[/=]]
+[[/div]]

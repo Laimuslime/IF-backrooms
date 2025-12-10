@@ -1,0 +1,93 @@
+[[include :backrooms-wiki-cn:theme:basalt]]
+[[module css]]
+html, body { overflow: hidden; }
+.pager { transform: rotateX(180deg); }
+iframe { display: none; }
+#history-form-1{
+display:none !important;
+}
+.page-source{
+display:none !important;
+}
+.modal * { transform: unset !important; }
+.modal { max-height: 30em; overflow: hidden; }
+.modal img { max-width: 150px; }
+.modal .printuser a:first-of-type img {
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+    background-image: none !important;
+    padding: 0;
+    border: 2px solid rgb(var(--gray-monochrome));
+    border-radius: 50%;
+    margin-right: 12px;
+}
+.moda span.printuser {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    grid-area: username;
+}
+.modal .printuser::after {
+    content: "·";
+    padding: 0 6px;
+}
+.modal > p:first-child { display: flex; align-items: center; }
+.modal .fuckerlol::after { content: attr(data-content); }
+.modal div[data-content=""]:not(.lightblock)::before {
+  content: "服务器繁忙，请稍后再试。";
+  color: gray;
+}
+.lightblock h1 { display: none; }
+#u-hidden:target ~ .notation div[data-content=""] { display: none; }
+#u-hidden > .idk { display: none; }
+#u-hidden:target a { display: none; }
+#u-hidden:target > .idk  { display: block; }
+#u-hidden { display: inline; }
+.hellowod a { display: block !important; }
+.cuser-9375128 .printuser a:last-child::after {
+    margin: 0 0px 0 3px;
+    background-color: gold;
+    content: "站长";
+    padding: 3px;
+    color: black;
+    text-decoration: underline 0.2em;
+    text-decoration-color: gold;
+}
+.cuser-9454668 .printuser a:last-child::after,.cuser-8206574 .printuser a:last-child::after,.cuser-9483189 .printuser a:last-child::after {
+    margin: 0 0px 0 3px;
+    background-color: skyblue;
+    content: "管理员";
+    padding: 3px;
+    color: #f8fffa;
+    text-decoration: underline 0.2em;
+    text-decoration-color: skyblue;
+}
+[[/module]]
+[[div_ id="hidden" style="position: fixed;z-index: 11;bottom: 0%;left: 0;display: block;"]]
+[[a class="idk" href="#"]]显示屏蔽消息[[/a]][#u-hidden 隐藏屏蔽消息]
+[[div_ class="hellowod" style="display: block;"]]
+[[[chat|神经刷新按钮。]]]
+[[/div]]
+[[/div]]
+[[div class="notation" style="transform:rotateX(180deg);max-height: 100%;overflow-y: auto;overflow-x: hidden;word-wrap: break-word;word-break: normal;position: fixed;width: 100%;height: 94%;top: 0;left: 0;max-width: 100%;z-index: 9;padding: 0;"]]
+[[module ListPages category="chat" perPage="50" separate="no" order="created_at decs"]]
+[[div class="modal cuser-%%created_by_id%% chat-size-%%size%%" id="chat-%%name%%" style="transform:rotateX(180deg);" data-content="%%form_data{name}%%"]]
+[[*user %%created_by%%]] %%updated_at|%Y/%m/%d %R|agohover%%
+[[div class="fuckerlol" style="margin-block-start: 1em;
+    margin-block-end: 1em;" data-content="%%form_data{name}%%"]]
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="jotting" style="text-align: center;position: fixed;z-index: 10;bottom: 0;right: 0;width: 100%;height: 6%;transform: translateY(50%);left: 0;max-width: 100%;"]]
++ [https://if-backrooms.wikidot.com/chat:new/edit/true/title/聊天室内容输入 内容输入]
+[[div style="position: absolute;
+    bottom: 0;
+    right: 40px;
+    font-size: 65%;"]]
+嗯就是以防你不知道。
+聊天室还是一个实验性的功能。
+请提出建议帮我们完善它。
+[[/div]]
+[[/div]]

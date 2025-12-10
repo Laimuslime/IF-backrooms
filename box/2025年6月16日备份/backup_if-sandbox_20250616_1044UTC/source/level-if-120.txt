@@ -1,0 +1,62 @@
+[[include :backrooms-wiki-cn:theme:infinity]]
+[[>]]
+[[module Rate]]
+[[/>]]
++ **Level IF-120 多元空间**
+------
+
+**Level IF-120**是后室IF层群的第120层。
+
++ **描述**
+
+[[include component:level-class
+|class=宜居
+|lang=cn
+|one=极度安全
+|two=稳定空间
+|three=无有害实体
+]]
+
+**Level IF-120** 呈现为一处面积不大的宜居小岛，整体分为三个区域。
+
++++ 沙滩
+沙滩区域是多数流浪者来到本层后所到达的第一个区域。
+
+沙滩上种植着零散的棕榈树，其树木异常坚硬，无法被摧毁或砍伐。树上有时会有些许果实生长出，
+
+[[div class="styled-quote"]]
++ B.N.T.G.最新日报
+------
+最新科技
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+生活空间
+[[/div]]
+
++ **基地、前哨与社区**
+
+
++ **入口与出口**
+
+++++++ 入口
+
+* 
+
+++++++ 出口
+
+* 
+
+------
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者:[[*user DNR1234]]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-119]]] | Level IF-120 | [[[Level IF-121]]] >>
+[[/=]]
+[[/div]]

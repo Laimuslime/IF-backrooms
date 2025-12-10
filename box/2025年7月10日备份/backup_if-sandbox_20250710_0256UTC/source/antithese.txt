@@ -1,0 +1,6 @@
+[[=]]
+[[module Rate]]
+[[/=]]
+------
+[[div class="styled-quote"]]
+[[/div]]

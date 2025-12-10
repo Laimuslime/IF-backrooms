@@ -1,0 +1,215 @@
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@500&display=swap');
+ 
+:root {
+  --theme-base: "black-highlighter";
+  --theme-id: "poolrooms-theme";
+  --theme-name: "Poolrooms Theme";
+ 
+  --logo-image: "";
+  --header-title: "The Backrooms";
+  --header-subtitle: "残存之未来";
+ 
+  /* 字体 */
+  --body-font: 'Nunito', sans-serif;
+  --header-font: 'Anek Kannada', sans-serif;
+  --title-font: 'Anek Kannada', sans-serif;
+  --mono-font: 'IBM Plex Mono', monospace;
+ 
+  /* 颜色 */
+  --white-monochrome: 250, 250, 250;
+  /* 白色 */
+  --pale-accent: 11, 70, 170;
+  /* 已访问链接 */
+  --bright-accent: 109, 125, 153;
+  /* 亮水蓝 */
+  --medium-accent: 108, 150, 224;
+  /* 水蓝色 */
+  --dark-accent: 113, 129, 157;
+  /* 暗水蓝 */
+  --alt-accent: 11, 70, 170;
+  /* 黑块 */
+  --gray-monochrome: 108, 150, 224;
+  /* 白块 */
+  --pale-gray-monochrome: 250, 253, 253;
+  /* 表格 */
+  --light-gray-monochrome: 67, 131, 241;
+  /* 某些按钮 */
+  --dark-gray-monochrome: var(--gray-monochrome);
+  /* 蓝色 */
+  --dark-blue: 23, 70, 150;
+  --swatch-topmenu-border-color: var(--medium-accent);
+  --swatch-topmenu-bg-color: var(--bright-accent);
+  --swatch-border-color: var(--medium-accent);
+  --border-styling: outset 2px rgb(var(--swatch-border-color));
+   --darker-accent: 155, 80, 226;
+ 
+  --link-color: var(--dark-blue);
+  --link-color-bright: var(--dark-blue);
+  --hover-link-color: 69, 129, 208;
+  --newpage-color: 129, 81, 206;
+  --swatch-menubg-color: 169, 183, 214;
+ 
+  /* 文本块阴影 */
+  --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+ 
+  /* 评分模块 */
+  --rating-module-button-plus-color: var(--light-gray-monochrome);
+  --rating-module-button-negative-color: var(--light-gray-monochrome);
+  --rating-module-button-cancel-color: var(--light-gray-monochrome);
+  --rating-module-button-credit-color: var(--light-gray-monochrome);
+}
+ 
+#account-topbutton {
+  border-color: rgb(var(--swatch-text-light));
+}
+ 
+#header h1, #header h1 a {
+  top: 0.5rem;
+  font-size: 200%;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+  top: 1.7rem;
+  font-size: 110%;
+}
+ 
+#login-status {
+  color: rgb(var(--dark-blue));
+}
+ 
+#search-top-box {
+  display: none;
+}
+ 
+#skrollr-body {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("http://backrooms-wiki-cn.wikidot.com/local--files/level-159/background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+ 
+#page-title, h1, h2 {
+  color: rgb(var(--dark-blue));
+}
+ 
+h3,h4,h5,h6 {
+  color: rgb(var(--medium-accent));
+}
+ 
+.styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.dark-styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.darkblock h1,
+.darkblock h2,
+.dark-styled-quote h1,
+.dark-styled-quote h2 {
+  color: rgb(var(--medium-accent));
+}
+ 
+@media screen and (max-width: 600px) {
+  #header h1, #header h1 a {
+    font-size: 150%;
+  }
+}
+
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+|color=yellow
+]]
+**Level IF-324**是后室IF层群的第324层。
++ **描述**
+[[include component:image-block
+|name=https://mms2.baidu.com/it/u=2762410707,2437703780&fm=253&app=138&f=JPEG?w=500&h=500
+|caption=**Level IF-324**最广为人知的一张图片。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1583404536113-c5f321cdd8cd?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU1JTk0JTkwJUU0JUJBJUJBJUU4JUExJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-324**的白日时分。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1643730326795-94499f5750d0?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JTk0JTkwJUU0JUJBJUJBJUU4JUExJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-324**的熄灯时分。
+]]
+**Level IF-324**为对前厅国家美利坚合众国中的圣弗朗西斯科（旧金山）以及费城之中的华人街的复现。该层级与大部分城市层级类似，有着大量城市中常见的区域，包括商店、公寓、以及其他的一般建筑。
+
+此层级内部的显著特征是该层级内的商店，这些商店内摆放有大量食品，包括普通的饮用水和杏仁水，以及拉面。商店内的物品似乎来自于存在于层级中的某个巨型工厂，某些时间段可见商店中的无面灵前往一个类似于工厂的区域进货。但流浪者无法靠近该工厂，一切试图靠近的行为都会将流浪者传送回原来的位置。
+
+层级内存在某种令人厌恶的特性，每当层级来到后室统一时间的周六凌晨四点钟，该层级内的一切生物，包括所有流浪者和实体，都会出现轻微的头痛症状，同时本就有头痛后遗症的流浪者将产生眩晕、失眠等并发症。
+
+层级中大部分建筑物为非欧几里得性质的建筑，进入的流浪者极其在内部迷路。建筑的内部过道极其狭窄，部分报告称过道空间似乎会在流浪者没有注意到的情况下收缩或迅速改变内部结构。
+
+对层级的粗略估算表明，层级的大小为1931㎞ × 1931㎞，尽管大部分流浪者无法到达此层级的边缘地带，大部分流浪者都会在去往层级边缘的途中晕倒或被强制传送到层级的随机区域。层级中包含一个可以正常运作且通畅的下水道系统，每当拥堵时，下水道便会以未知方式自我清理。
+
+**Level IF-324**内部的建筑物都可在现实中的费城、圣弗朗西斯科（旧金山）以及其他拥有华人街的美国城市中找到原型。部分理论认为，该层级可能是一个通向前厅某个区域的入口，不过，这种猜想尚未证实。
+
+层级内存在一个异常特性，虽然此层级与现实无明显的空间联系，但部分流浪者还是表示在层级中听见了前厅之中传来的声音，有些流浪者甚至连到了前厅唐人街中的Wi-Fi。
+
+**Level IF-324**内存在交通系统，该系统被称为“唐人街地铁”，“唐人街地铁”的入口为一个出现在街头的地下通道入口。进入该层级的地铁系统后，一位身着蓝色列车员服装的老人会逐渐接近进入此处的流浪者，该老人的数量似乎是无限的，但流浪者无法观察到两个同样的老人个体同时出现。
+
+老人会在此时询问流浪者一些问题，例如流浪者想要前往的层级区域。老人会拿出一张该层级的简略地图，上面标注了五个可以前往的区域：北区、西区、南区、东区和中央区，任何要求前往其他站点的请求都会被老人直接忽视。
+
+老人似乎是层级地铁的驾驶员，在询问完后，老人会立即瞬移至层级地铁的驾驶室，流浪者也随之进入地铁。除了查看前方路段情况，老人不会回应他附近的其他事件。
+
+**Level IF-324**中存在熄灯现象，每过后室统一时间六个月，层级的环境便会突然变暗，天空完全变为黑色，月亮消失。下水道内将会传来动静，一些有害实体将会从下水道内涌出，不过流浪者无需担心，因为该事件的预兆足够充足，且该层级内的实体移动速度较慢，实体们甚至不会进入层级内的建筑。该事件总是持续五天，五天后，一切恢复原样，在此现象未生效之时，层级之内的实体仅有列车员，即老人。
++ **基地、前哨与社区**
+++ 繁荣中央区
+* 1232人常驻
+* 开放贸易
+* 于层级中央区活动
+* 十分友好
+++ M.E.G. 未命名前哨
+* 29人轮班值守
+* 开放贸易
+* 位于层级中心
+* 熄灯事件时保障流浪者安全
+* 友好
+++ 掠夺者
+* 成员数量未知
+* 封闭
+* 不开放贸易
+* 不欢迎新成员加入
+* 敌对
+* 位于层级东部
+* 劫掠其他基地、前哨与社区
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-321]]]中进入一个地上的裂缝，流浪者将会来到此层级
+++++++ 出口
+* 在任意建筑裂缝中发现一株正生长着的植物，并凝视它一会儿，流浪者将会来到[[[Level IF-16]]]
+* 在层级的中南地带发现一个军营，内部有着四个呈矩形排列的帐篷，进入其中一个帐篷，流浪者将被传送到[[[Level IF-325]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者当然是[[*user MCMK-1234]]
+原文也是来自于Fandom的旧层级Level 228
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-323]]] | Level IF-324 | [[[Level IF-325]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,178 @@
+[[include :backrooms-wiki-cn:theme:broken-world]]
+[[include :scp-wiki-cn:component:note-source]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:theme:broken-world
+|header-title="尘骸"
+|header-subtitle="天不赋力，草芥泯于逝川"
+]]
+
+[[module css]]
+@import url(https://fonts.googleapis.com/css?family=Long+Cang&display=swap);
+[[/module]]
+[[module css]]
+:root {
+    --lh-paper-bg: 199, 199, 199; /* 便签纸的背景色 */
+}
+[[/module]]
+[[module CSS]]
+html, body {
+    background-color: #B7B7B7 !important;
+}
+
+
+#header {
+    background-image: var(--header-bg-img) !important;
+    background-size: 100% 100% !important;
+    background-position: center !important;
+}
+
+#footer {
+    background-color: transparent !important;
+}
+
+[[/module]]
+
+[[span class="infoblock"]]本文含有昆虫相关描写与绘画，请谨慎阅读。[[/span]]
+
+[[>]]
+
+[[module rate]]
+
+[[/>]]
+[[include :backrooms-wiki-cn:component:iets
+|lang=cn
+|danger=0
+|intelligence=E
+]]
+[[module CSS]]
+:root {
+    --box-color-0: 119,136,153;
+}
+[[/module]]
+**实体编号：**IF-6
+
++++ 栖息地：[https://backrooms-wiki-cn.wikidot.com/level-71 Level 71]
+
++ 描述：
+**Entity IF-6**，即“尘骸”，为一类仅存于Level 71内的昆虫实体。其身体极小，与积灰同色。
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=http://backrooms-cn-dielsalder.wikidot.com/local--files/entity-2/%E8%9B%BE%E5%AD%901%281%29.png|
+    caption=**“尘骸”**
+]]
+
+受层级内的恶劣环境与精神影响限制，对**Entity IF-6**的研究极为有限。唯一已知的是，任何陷入这片将死之地的流浪者，在行至消散边界时，总会看见这些颤抖嗡鸣着的小虫。此实体主要藏身于层级内的积灰中，数量过多无法具体统计。
+
+**尘骸**形同蛾虫，两片皱褶的磷翅覆盖着肥短的身躯，上面爬满深深浅浅的暗淡灰色。这对翅除了沾满绒毛，既不坚韧，又不强壮，唯一的实用价值便是让它能够拖拽着臃肿的身躯短暂低飞或是滑翔。磷翅之下，掩藏着一截虫身，腹部被塞得鼓鼓囊囊，连带着腹腔上的环纹都被撑起。胸部中段伸出三对足肢，尾端挂带着长满锯齿的脚；与翅膀不同的是，支撑着躯体的腿部坚硬有力，其上排布的毛刺略微扎手。**尘骸**的头部包裹着灰黑色的角质皮层，与肥大笨拙的身躯相比显得毫不起眼。一对半球形的复眼分布在前端两侧，占据了绝大部分面积；复眼之上，插着两根短小的触角，自中段折作两截，晃荡着挂在头上；复眼下方，几片外颚掩盖着一撮旋转的硬毛，有微小的吸力传来，构成了**尘骸**的口器。
+
+[[div class="reportblock" style="background:RGB(137,137,137)"]]
++* **“尘骸”**的一生
+[[image http://backrooms-cn-dielsalder.wikidot.com/local--files/entity-2/%E7%BB%84%E5%90%88%E8%99%AB%E5%AD%902.png]]
+[[/div]]
+
+**尘骸**分做雌雄两类，雌性腹部更为肥硕，雄性翅膀上则爬满深色花纹。近期，部分流浪者认为尘骸腹腔内存在微量杏仁水，其中以雌性成年个体的营养价值最高，但这一观点未能得到证实。曾有过对雌性成虫进行过解剖，但除开在腹腔中发现一团正在孕育的幼卵与未被消化的灰尘外，并未找寻到什么特殊的存在。在积灰深处，偶尔能发现**尘骸**的虫卵，一些淡灰色的扁圆颗粒粘附在墙壁上，整齐的贴了几排，颗颗大小如同芝麻，外面包裹着一层坚韧的薄壳。随着时间不断变化，虫卵表皮逐渐转变为半透明，可以隐约观察到幼虫在其中蜷缩蠕动，将原本光滑的表皮蹭得微微皱褶。最终，一条细小的黑色幼虫挣扎着，在卵壁上挤开条裂缝钻出来。
+
+幼虫会在经历数次褪皮后可生长至成人小指大小。肥软的身躯套在半片土灰色角质皮层里，背上堆满深浅不一的皱褶，下面探出两排肉质的足。皮壳前后各被撕开一个环形缺口，较小的洞口探出半截尾巴，稍大些的那个里露出一粒圆肉，上面拿黑色点了两点眼睛，便是头了。长成的幼虫会自行寻找一处隐秘的角落结茧羽化，随后的某一天，一只鹌鹑蛋样式的茧壳咧开指节大的缝，落进满地积灰里。
+
+[[div class="styled-quote" style="background:RGB(170,170,170)"]]
+
+[[size 1.5em]]**//新发现//**[[/size]]
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=http://backrooms-cn-dielsalder.wikidot.com/local--files/entity-2/%E5%A4%A7%E5%9B%A2%E8%9B%BE%E5%AD%90%E7%A9%BA%E7%99%BD%E8%83%8C%E6%99%AF%281%29.png|
+    caption=石砖之下
+]]
+我在墙角发现了许多这种小蛾子，很难想象这片看上去随时都可能溃塌的地方还会有生灵。我盯着一只，半蹲着慢慢挪过去，它没动，最后叫我捏着翅膀放到手心里去了。
+
+这东西和蛾子不尽相同，它的背上驮着块和抹布一样的东西，我以为这只是隐蔽用的装饰，直到看见它飞起来，才知道这是双脆弱的翅膀。我尝试将它翻过来，它便胡乱地挣扎，浑圆的胸腹部分凹出圆弧，六根腿四下蹬踢，一脚踹在我手指肚，上面的锯齿像草叶，有点扎手。
+
+我又掀了几块破碎的石砖，找出来了几窝这样的蛾虫，它们都把脑袋深扎进灰尘堆里，像死了似的。
+[[/div]]
+@@@@
++ 行为：
+**尘骸**行动迟缓，大多匍匐于墙角和乱石深处，把腿脚嵌在墙壁缝隙里，拖着沉重的身躯寻寻觅觅；有时抖开翅膀，搭着微弱的气流从一处腾挪至另一处。在这片失色地狱里，这些虫子由深深浅浅的铅灰铺出的外表便是最好的伪装——它们往往将自己埋进灰尘里，对外界所发生的一切秉持沉默，与背景融为一体，偶尔的移动也会被当成一团飞灰。因此多数情况下流浪者很难发现其踪迹，只会将其当做精神恍惚下的错觉。
+
+[[div class="notepaper wide  with-tape" ]]
+[[size 80%]]这些虫子对外界的刺激可谓是逆来顺受，他们沉默如待宰的羔羊，将来路未明的一切馈赠视同无物，也把从天而降的飞来横祸当做寻常。即使是扯碎它们的翅膀、折断它们的四肢，这团几丁质包裹的血肉也只会发出战栗般的挣扎。绝不反抗，从未逃脱，即便是强行掰开下颚，将手指戳进它们的口器里，也只会感受到那些细软的毛摩挲着每一道指纹。[[/size]]
+[[/div]]
+
+这些可怜的清洁工生命中唯一能做到的事便是无止无休地打扫灰尘，它们总是用前肢胡乱地探向周围，如若发现些松散的粉末，便会将额头贴上去，两根触角拨动着，似乎在辨别什么。片刻之后，外颚向四方张开，毛绒的口中传来细小的吸力。进食是**尘骸**最为活跃的时刻，随着飞灰流入口中，**尘骸**头部的一对触角左右摆动，胸腹微弓，两片磷翅摩擦翕动，连上面的皱褶都被捋平几分。浮土与积灰似乎并非**尘骸**最喜爱的食物，大量的吸收灰土常伴随着断续的干噎与呛咳，此时这些小虫会如人类般将身体弯成虾子，发出些簌簌的响动，好像尘埃并非他们所爱，只是胡乱咽下几口，籍此维持生存。
+
+@@@@
+[[include :scp-wiki-cn:component:note-paper-head
+|self-defining=true
+|name=xxx-noline
+|chew-paper=bottom
+|accessory=pile
+|preset-style=notepaper
+|chew-paper=left
+|page-color=B7B7B7
+]]
+[[div style="font-family:'Long Cang', sans-serif;"]]
+我从未想过能在这里见到人，哪怕是尸体。
+
+这位倒霉的先辈烂在地上，半边身子都消失不见，还有破碎的灰色不断飘散。蛾子在他身上铺出一张毯子，仔细看还在不停的移动，那些花纹盘成一团，看得人难受。它们全都趴在一起，甚至垒出数层，上面的踏着下面的翅。不时有一两只翻倒出来，肚皮朝上的落到一边，他的伤口处还有源源不断的虫子赶来。
+
+我不敢凑过去，只能听到刺耳的嘶鸣声，让人头皮发麻。我不敢想它们在干什么。
+
+我正准备退开，却突然发现它们中的一个已经落到了我身上，正扒着我的袖管，朝着我半截的食指爬……
+
+[[span class="text-blur text-hoverback"]]它究竟要干什么？[[/span]]
+[[/div]]
+[[include :scp-wiki-cn:component:note-paper-tail]]
+@@@@
+@@@@
+**尘骸**似乎并不仅仅食用土渣，在部分即将消散的，尤其是远离墙壁的流浪者残躯边，也总能发现些这样的蛾虫。它们密密麻麻地挤在一起，每一只都在前后左右地踱，翅膀摩挲出嗡鸣的声响，有时甚至摞出几层，就连簌簌的轻响都被堆成喑哑的嘶鸣。随着对相关记录的归纳，人们发现**尘骸**也在濒死或死去的同族或人类附近做出进食动作。不过，他们的食物究竟是粉尘、尸骨、生灵随风消逝的骨血乃至意识挣扎时散发的恐惧，便不得而知了。
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=http://backrooms-cn-dielsalder.wikidot.com/local--files/entity-2/%E8%99%AB%E5%AD%90%E5%B0%B8%E4%BD%93.png|
+    caption=一团尸骨，满地残碎
+    |align=left
+]]
+**尘骸**对尚且还算活着的生灵毫无攻击性，但对他们释放的恶意颇为敏感。当有人迸发出强烈的破坏欲望时，附近的**尘骸**便会出现明显的躁动，它们奋力地展开翅膀并不断地抖动，发出窸窸窣窣的声响，竭尽所能地要叫人注意到它。这种躁动在拳头或是鞋底即将呼啸着砸在尘骸身上时停止，此时的它们会在沉默里舒展身躯，把腿脚插在栖身的墙壁里；随后伴着一声解脱般的低鸣，化作一滩涂在墙壁上的粘稠。
+
+**尘骸**几乎无法坚持到它们生命本可以延伸到的尽头，除去极少数有幸在轰轰烈烈里得以解脱的个体，它们中的绝大部分只能静待自己的身躯被地狱碾成飞灰。Level 71内的消逝现象平等而慷慨地加诸于徘徊其间的每个生命，不论是坚韧强壮的探险家还是羸弱无能的小虫，都只能眼睁睁地看着自己的某一部分在暗灰中消散。**尘骸**成虫的消逝一般自磷翅尾端开始，本就不擅飞行的翅膀上挂满斑驳的孔洞，即使奋力扇动也承载不住身躯的重量，在踉跄几下后笔直地坠像地面，在此后的生命里只能拖着沉重疲惫的身躯蹒跚地挪。而幼虫的消逝更为随机，几乎没有在幼年阶段便开始消逝的个体成功地展开双翼。
+
+[[div class="styled-quote" style="background:RGB(170,170,170)"]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=http://backrooms-cn-dielsalder.wikidot.com/local--files/entity-2/%E6%89%8B%E4%B8%8A%E7%9A%84%E8%99%AB%E5%AD%90%281%29.jpg|
+    caption=悲惨命运
+]]
+尘骸仰躺着蜷缩在掌心里，一双前足前后左右地踱着；它的头四下顶弄，两根触角拨个不停，下颚片不住地搓动着。直到扒住一根手指，这个彷徨的小生命才逐渐安定下来。这个环抱我大拇指的实体是如此脆弱，只需要再添一根手指，或是将它按向墙面，它的生机就会终结在这一瞬间。
+
+察觉到这未知来由的好奇与恶意，尘骸躁动着，背上的磷翅展开复又合起，发出些窸窸窣窣的声响；这动作里不存在一丝一毫企图逃离的意图。等待了半晌，属于它的命定之死迟迟未到，于是它小心翼翼地将额头贴向我的手指，探出两根触角轻轻剐蹭。
+[[/div]]
+@@@@
++ 发现记录：
+早在多年前，就有Level 71内濒死的流浪者声称见到了模糊的飞虫幻影。在严重失真的音频里，一道昏昏醒醒间的苦涩低语声描述了**尘骸**大致的形貌与大小。然而由于该流浪者精神恍惚，难以正常交流，导致在过去极长的时间里这种//徘徊于地狱边境的昆虫//只是少数人茶余饭后的几句谈资。直至数个月前，一份关于**尘骸**的报告出现在后室万维网上，撰写者是业余昆虫学爱好者莫莱。这位年仅19岁的女性在发布帖文的数天之前在Level 4与朋友走散，此后再未出现，推测其已消散于这片地下虚空中。
+
++ **行为准则：**
++++ **应当：**
+* 目前所有已知的与**尘骸**发生交互的案例都表明了它是无害的，但仍希望您在条件允许的情况下记录并上传提供更多与之相关的信息。
+
++++ **不应：**
+* 这些孱弱无力的虫子自身难保，更无法对其他生命造成伤害。理论上讲，您可以随意处置您发现的**尘骸**，它们是您通往[[[https://backrooms-wiki-cn.wikidot.com/th3-sh4dy-gr3y | 地狱]]]的最后一段旅途中最常见的侣伴，也是每一位濒临消逝的可怜人所能征服的唯一单位。
+
+------
+
+[[=]]
+[[collapsible show="天不赋力，奋力亦同蚍蜉。天命流离，草芥泯于逝川。" hide="收起" hideLocation="both"]]
+[[*user Nameless35722]]      -   [https://backrooms-wiki-cn.wikidot.com/author:nameless35722 作者页]
+[[*user wangjx]]   -   [https://backrooms-wiki-cn.wikidot.com/author:wangjx 作者页]
+[[*user wild ghost377]]    -  [https://backrooms-wiki-cn.wikidot.com/author:ghost377 作者页]
+[[*user snowmob]]  -   [https://backrooms-wiki-cn.wikidot.com/author:snowmobilibili 作者页]
+[[*user DielsAlder]]
+全部图片均为队内成员绘制
+手部图片https://pixabay.com/photos/bird-hand-nature-garden-cute-4215773/?www.cc0.cn=
+[[/collapsible]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Entity IF-5]]] | Entity IF-6 | [[[Entity IF-7]]] >>
+[[/=]]
+[[/div]]

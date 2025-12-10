@@ -1,0 +1,210 @@
+[[include :backrooms-wiki-cn:component:title
+|1=六千六百六十六
+|2=传奇死区王入侵IF层群了救命
+|logo=a
+|3=http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg
+]]
+[[include :backrooms-wiki-cn:theme:true-dark]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 3s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+ 
+:root {
+   --fade-in-delay: 0.1s; /* Change the speed here. */
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay));}
+[[/module]]
+[[module CSS]]
+
+孩子们偶遇FR死区王入侵IF拼尽全力无法战胜。（（（
+
+自我介绍：
+名：kadjwxs，别称kad,凯特，KAD
+身份：著名FR-27X死区区间开创者（目前仍在扩张），FR群管，AS牢玩家，U分管理，入侵的民分包括但不限于：TO-DV、S、AC、SX、AS以及一堆B站自创层群
+性别：男
+年龄：我不说你自己想吧
+住址：银河系
+家庭情况：很家庭
+人品：是个好人但抽象体质，把抽象表情当逗号，喜欢发出逆天言论以求存在感（ ，没事就写死区对衣服层群的流浪者安全造成威胁（，FR最强势的土皇帝（雾）
+近况：1、偶遇超模QQ无法登录，拼尽全力无法战胜，辛亏有开新号神力制裁。2、目前继续进行1~5，未定，未分与不适用的练习。并对实体与现象进行练习。然后看一下能不能写一篇团体。
+RS，DL等欢迎和我一起玩！
+作品：
+[[<]]
+[[collapsible show="层级" hide="收起"]]
+[[[Level IF-9]]] - **无有效信息**
+> 管理人员们目瞪口呆。原来，引起这一切的不是任何人，而就是那万恶之源——后室自身。
+评价：一次不适用的练习，感觉有点过于短小了，但是又没有合适的点子加长。现在被重写力（悲）
+
+[[[Level IF-28]]] - 无义之路
+> "光滑平整的路面之上，满载着疯狂与痛楚，你看见了吗？它们正看着你。 ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：）"
+评价：FR中补齐27x的最后一块拼图，所以并没有经过细细的打磨，以后慢慢改进
+
+[[[Level IF-40]]] - **##blue|死寂幽室##**
+> 行走于痛苦与死亡的深渊之中，无人聆听的黑暗死寂，囚禁着无数灵魂的黑暗之屋，汝之命运之归宿
+评价：FR27x的开端，也是我在IF的第一篇，为了迎合FR的论战改的不伦不类的，所以搬到IF的时候删减了不少。
+
+[[[Level IF-42]]] - //**[[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]]“无望魂”[[/span]]**//
+> ##red|同我回归那空幻的归宿吧，无望的灵魂啊##
+评价：在翻自己OC时忽然想到的一个点子，虽然感觉林中人影的主题有点庸俗，但好在是活下来了，也是一件可喜可贺的事情呢。（其实42也是一次未定的练习呢^-^）
+
+[[[Level IF-53]]] - **##red|呛血##**
+> 据勘测，**Level IF-53**的浓雾中含有某种未知成分，流浪者在吸入雾气后，肺部将开始逐渐积攒起类似血液的血红色液体，且液体积攒速度与流浪者在肺部开始积水后的呼吸速度有关，呼吸速度越快积攒速度越快
+评价：比较慢速的写出来的一篇，在学校里构思了很久，但出我意料的是这是我投IF的文里评分最高的（虽然现在被IF-138狙掉了），有点出乎我意料。
+
+[[[Level IF-73]]] - **再生之馆**
+> 你们所背负的可怕罪孽，已经承继在了你们可怜的孩子们身上，遗憾的是，罪孽永不消散，但你们可以通过修行不断淡化你们的罪孽，来保护你们的孩子，今日，先在此进行一次净化，再在明日回家，将净化之道传授与你们的孩子
+评价：看《怪屋谜案2》时想到的点子，所以就写了这么一篇，本来想写一段事件的，但我写事件的技术好像并不强，值得一笑的是，这篇文和前IF-14（对位交换）是同一时期的文，那篇文死了，这篇文评分+10往上了（（（
+
+[[[Level IF-85]]] - 既​͔̈ͪ定​̥ͫ̅存​̖͐̔在​̈̇ͦ
+> 没有任何人被授予将其他存在，亦或是自身抹杀的权利，我自然也没有这样的权力，不过，对于我来说，永恒便意味着无穷无尽，在对艺术有着足够多的独到见解并能够对此付出实践的艺术家的眼中，这便是无穷的画布与无穷的色彩，足以支撑祂将一切美妙的想法倾注在这以生命为基的画布之上，在此地，你的存在是既定的，没有任何存在能够将你真正地杀死，但这也将会是你会付出的永恒的代价。
+评价：Level IF-279 2.0版本。
+
+[[[Level IF-136]]] - **##red|彩####yellow|色####green|森####blue|林##**
+> 荡漾在彩色树林中吧！
+评价：星辰大帝和我的合著（虽然是我提供点子他写），原本有投中但是被秒杀了，所以转而由我来让这个层入侵各大层群（（（
+
+[[[Level IF-138]]] - ##green|win## 原
+> 流浪者在切入Level IF-138时，其面朝方向将统一面向东方，流浪者能够看见Level IF-138内一片与windows 7桌面极其相似的风景，这也是Level IF-138“win原”这个名字的来源。
+评价：原本准备用于参与IF-1竞赛的，但是我感觉文笔还是不行，不值得IF-1的编号，因此我将其编号改为IF-138投入并就此退出IF-1竞赛的角逐，等一次我比较熟练的竞赛吧ヾ(≧▽≦*)o（我去这个怎么成我评分最高的文了）
+
+[[[Level IF-234|群星的色彩]]]
+> 祂们是那么地喜爱着人类啊，以至于在每一个人类进入此地时都为其奉上无垠的生机，以血肉催生新的枝条，生命献与更伟大的生机，在你一步步向上攀爬，终于爬上树的顶端，你将摘取祂们所给予你的无上奖赏——怀揣着群星之色彩的果实
+评价：群星的色彩！！！
+
+[[[Level IF-238]]] - --**###3399CC|远洋之下##**--**###000033|侵没沉本##**
+> “一位仁慈的上帝，为了她所爱的天使们，沸灭天堂
+评价：R.I.P.”波西“
+
+[[[Level IF-240]]] - ”永夜星城“
+> 层级内的时间始终保持在晚上22：00至4：00之间，时间流速与外界一致，而据观察，M.E.G.发现层级内空中的天体亮度相较于其他层级有明显的提高，使流浪者能够更加清楚得观察层级内的星空。
+评价：666我就写个0级怎么这么惊讶
+
+[[[Level IF-243]]] - **##FFFFFF|“##****##F1FFF0|仲##****##E2FFE1|夏##****##D2FFD0|夜##****##C7FFC4|路##****##B5FFB0|”##**
+> 公路的右侧为一片田地，田地均被田径分割为面积为345m²，其中仅发现种植有小麦，小麦未成熟，不建议收集与食用，对比来讲，田地中的物资较少，流浪者仅有较小的概率能够搜索到杏仁水，因此，M.E.G.建议如果流浪者是为了收集物资而切入Level IF-243的话，请尽量少的来到田地处。
+评价：当时给180蹭合著的（
+
+[[[Level IF-263]]] - [[span style="background: linear-gradient(to top, #12BBFF,#12BBFF,#12BBFF); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"]][[span style="text-shadow:1px 1px 1px,2px 2px 2px;color:#12BBFF;"]]//**{{“IDPLMA”}}**//[[/span]][[/span]]
+> 值得一提的是，M.E.G.在近期对Level IF-263内的信息整理完毕并将文档编写完成后，对层级的每次命名尝试都在短期内被异常更改为IDPLMA，因此，M.E.G.推测Level IF-263内大概率有一位异常实体的存在，其有可能是该层级危险效应的主要制造者，目前M.E.G.将其暂时命名为“IDPLMA”。
+评价：点子库里随便找的一个写的，灵感来源是同名的14分钟的实验性曲子（（（
+
+[[[Level IF-279]]] - //**[[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#330000"]]“血肉之狱[[/span]]**//
+> 我不曾确认他们是否在此过程中死亡，但我即使在编写该文本的过程中仍能够听见无数血肉于空气与地面的蠕动声，以及那些未被完全撕分开来的声带发出他主人在此之前极度痛苦的嘶吼，这些声音遍布在**Level IF-279**的每个角落，我以此可以认为流浪者将在此地遭受永恒的撕裂与绝望，至少我也正在经历这些。
+评价：纯发电的论战玩意
+
+[[[Level IF-290]]] - “视觉错位”
+> Level IF-290在流浪者的报告中通常被描述为一片面积巨大的纯白迷宫型结构体，其存在地面与天花板，外部空间未知，但据猜测为一片虚空或逃离该层级的出口。
+评价：前IF-184强势回归👍👍👍
+
+[[[Level IF-322]]] - **“朽暗屋废”**
+> 我自堕落中坠入此地
+> 我怀揣的惊恐尝试逃离
+> 我什么都没法做，只能进行探索
+> 这里即使黑暗也是那么美好，我为什么要逃离呢？
+评价：孩子们不到1小时赶出来的能+7这对吗😱😱😱
+[[/collapsible]]
+[[/<]]
+
+[[<]]
+[[collapsible show="实体" hide="收起"]]
+暂无
+[[/collapsible]]
+[[/<]]
+
+
+[[<]]
+[[collapsible show="物品" hide="收起"]]
+[[[Object IF-8]]] - **“效应清除装置”**
+> 效应清除装置最初被发现于[[[Level IF-136]]]的杏仁水河中，其外观呈现为容量为100ml的雾化吸入器，该物品经实验后被证明无法通过外力暴力损坏，且无法被拆卸，其中的物质仅能够通过流浪者吸取被吸出装置，因此，M.E.G.无法对该物品中的物质进行检验与研究。
+评价：在FR为了狙击罐装冰瓜赶出来的效应清除装置，不过看上去反响还不错？
+[[/collapsible]]
+[[/<]]
+
+
+[[<]]
+[[collapsible show="团体" hide="收起"]]
+Oh no 我没有写团体
+[[/collapsible]]
+[[/<]]
+
+
+[[<]]
+[[collapsible show="现象" hide="收起"]]
+[[[Phenomenon IF-10]]] -  [[span style="text-shadow:0px 0px 0px, 0px 0px 15px;color:grey;"]] “暴雨性心脏标记”[[/span]]
+> 在许久的沉默后，垂危将死的上帝终于向祂虔诚的祈祷者发出最后的言语……
+>
+> ……
+>
+> ……
+>
+> ……
+>
+> + **##grey|暴雨已至……##**
+评价：同样为了在FR狙击冰瓜瘾赶出来的现象，看看反响怎么样（666隔壁冰瓜瘾趋势了😭😭）
+[[/collapsible]]
+[[/<]]
+
+经过114514毫秒的思考[[footnote]] 人话就是114.5秒多一点 [[/footnote]]，我整了个留言板
+
+留言格式这样写
+↓↓↓↓↓
+@@[[div class="darkblock"]]@@
+你想说的话
+（这里要空一行，所以在写留言的时候把这里给删掉）
+@@[[>]]@@
+@@——[[*user 你的用户名放在这里]]@@
+@@[[/>]]@@
+@@[[/div]]@@
+---------------
++ 以下为留言板
+
+[[div class="darkblock"]]
+嗯对大概就是这样子的
+
+[[>]]
+—— [[*user kadjwxs]]
+[[/>]]
+[[/div]]
+
+[[div class="darkblock"]]
+--死风姿来的--
+希望凯特UV我的所有文章😋😋😋
+
+[[<]]
+——[[*user Meilemeweng]]
+[[/<]]
+[[/div]]

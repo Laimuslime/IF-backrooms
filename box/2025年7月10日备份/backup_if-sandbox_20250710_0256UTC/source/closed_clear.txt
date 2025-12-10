@@ -1,0 +1,5 @@
+[[include component:level-class
+|class=pending
+|lang=cn
+|color=＃999999
+]]

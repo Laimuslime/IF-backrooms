@@ -1,0 +1,164 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |daytime=a]]
+[[include :backroomss:theme:backos26
+|os-sd=a
+]]
+[[module css]]
+:root {
+   --body-background-img-os: url("http://backrooms-wiki-cn.wikidot.com/local--files/old:level-37/new37.jpg");
+   --body-background-img-os-blur: 3;
+}
+
+.bb-quote-box {
+  background-color: #f4f1e6;
+  border: 1px solid #d6d6d6;
+  padding: 12px 16px;
+  margin: 16px 0;
+  font-size: 14px;
+  font-family:Tahoma, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  position: relative;
+  border-radius: 6px;
+}
+
+.bb-quote-box::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  display: block;
+  width: 24px;
+  height: 24px;
+  pointer-events: none;
+  z-index: 1;
+  background-image:
+url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktcXVvdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPHBhdGggZD0iTTEyIDEyYTEgMSAwIDAgMCAxLTFWOC41NThhMSAxIDAgMCAwLTEtMWgtMS4zODhjMC0uMzUxLjAyMS0uNzAzLjA2Mi0xLjA1NC4wNjItLjM3Mi4xNjYtLjcwMy4zMS0uOTkyLjE0NS0uMjkuMzMxLS41MTcuNTU5LS42ODMuMjI3LS4xODYuNTE2LS4yNzkuODY4LS4yNzlWM2MtLjU3OSAwLTEuMDg1LjEyNC0xLjUyLjM3MmEzLjMyMiAzLjMyMiAwIDAgMC0xLjA4NS45OTIgNC45MiA0LjkyIDAgMCAwLS42MiAxLjQ1OEE3LjcxMiA3LjcxMiAwIDAgMCA5IDcuNTU4VjExYTEgMSAwIDAgMCAxIDFoMlptLTYgMGExIDEgMCAwIDAgMS0xVjguNTU4YTEgMSAwIDAgMC0xLTFINC42MTJjMC0uMzUxLjAyMS0uNzAzLjA2Mi0xLjA1NC4wNjItLjM3Mi4xNjYtLjcwMy4zMS0uOTkyLjE0NS0uMjkuMzMxLS41MTcuNTU5LS42ODMuMjI3LS4xODYuNTE2LS4yNzkuODY4LS4yNzlWM2MtLjU3OSAwLTEuMDg1LjEyNC0xLjUyLjM3MmEzLjMyMiAzLjMyMiAwIDAgMC0xLjA4NS45OTIgNC45MiA0LjkyIDAgMCAwLS42MiAxLjQ1OEE3LjcxMiA3LjcxMiAwIDAgMCAzIDcuNTU4VjExYTEgMSAwIDAgMCAxIDFoMloiLz4KPC9zdmc+");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  opacity: 0.4;
+}
+
+.bb-quote-box::after {
+  content: "";
+  position: absolute;
+  bottom: 4px;
+  right: 8px;
+  display: block;
+  width: 24px;
+  height: 24px;
+  pointer-events: none;
+  z-index: 1;
+  background-image:
+url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktcXVvdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPHBhdGggZD0iTTEyIDEyYTEgMSAwIDAgMCAxLTFWOC41NThhMSAxIDAgMCAwLTEtMWgtMS4zODhjMC0uMzUxLjAyMS0uNzAzLjA2Mi0xLjA1NC4wNjItLjM3Mi4xNjYtLjcwMy4zMS0uOTkyLjE0NS0uMjkuMzMxLS41MTcuNTU5LS42ODMuMjI3LS4xODYuNTE2LS4yNzkuODY4LS4yNzlWM2MtLjU3OSAwLTEuMDg1LjEyNC0xLjUyLjM3MmEzLjMyMiAzLjMyMiAwIDAgMC0xLjA4NS45OTIgNC45MiA0LjkyIDAgMCAwLS42MiAxLjQ1OEE3LjcxMiA3LjcxMiAwIDAgMCA5IDcuNTU4VjExYTEgMSAwIDAgMCAxIDFoMlptLTYgMGExIDEgMCAwIDAgMS0xVjguNTU4YTEgMSAwIDAgMC0xLTFINC42MTJjMC0uMzUxLjAyMS0uNzAzLjA2Mi0xLjA1NC4wNjItLjM3Mi4xNjYtLjcwMy4zMS0uOTkyLjE0NS0uMjkuMzMxLS41MTcuNTU5LS42ODMuMjI3LS4xODYuNTE2LS4yNzkuODY4LS4yNzlWM2MtLjU3OSAwLTEuMDg1LjEyNC0xLjUyLjM3MmEzLjMyMiAzLjMyMiAwIDAgMC0xLjA4NS45OTIgNC45MiA0LjkyIDAgMCAwLS42MiAxLjQ1OEE3LjcxMiA3LjcxMiAwIDAgMCAzIDcuNTU4VjExYTEgMSAwIDAgMCAxIDFoMloiLz4KPC9zdmc+");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  opacity: 0.4;
+  transform: scaleX(-1);
+}
+
+.bb-quote-content {
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 6px;
+  padding-left: 12px;
+  margin-left: 12px;
+}
+
+@media (max-width: 768px) {
+  .bb-quote-content {
+    font-size: 10px;
+  }
+}
+[[/module]]
+
+[[div class="bb-quote-box"]]
+[[div class="bb-quote-content"]]
+[[=]]
+粗壮的枝条盘桓在你的身旁，密密层层的树冠遮挡住了大部分天空。大雨滂沱，在地上积成许多水洼。
+[[image http://if-backrooms.wikidot.com/local--files/level-if-37/rain]]
+[[/=]]
+[[/div]]
+[[/div]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+|lang=cn
+|one=不安全
+|two=环境风险
+|three=中量实体
+]]
+**Level IF-37**是后室IF层群的第38层，该层级似乎为由原Level 37变换而来。
++ **描述**
+**Level IF-37**，或称为[[span class="ruby"]]##green|不欢迎##[[span class="rt"]]##red|绝对地##[[/span]][[/span]]##green|来到丛林##，是一片阴暗无光的雨林。浓厚的树冠遮天盖地，潮湿的泥土滋生出各种微生物，这使层级内的空气总是裹挟着一股霉烂的味道。地面上匍匐着各种树根，同时也是各类真菌与蕨类的天堂。层级内有时会出现“陷阱洞”、“缠足草”等各类危险的事物，且气温稳定在30℃上下，天气几乎一直是大雨，雨水经鉴定已被确定其成分主要为[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]，这导致层级的地上总是有大大小小的水洼。该层级的欠佳环境致使其中的流浪者可能患上各种疾病。
+[[include :backrooms-wiki-cn:component:image-block
+|name=http://if-backrooms.wikidot.com/local--files/level-if-37/forest
+|caption=Level IF-37的第一张照片。
+]]
+
+层级内偶尔会出现一些小径，当流浪者走上小径后，这会导致其即时性的昏倒，昏倒的时长未知。然而，当流浪者察觉到小径后，其会吸引流浪着接近它。
+
+该层级中的树木会从树根里分泌出有毒的汁液，倘若流浪者接触过多，将会直接陷入“悲尸循环”。无论在任何情况下，贸然接近这些树根总是不明智的。
+
+
+该层级的时间似乎被加速许多，其中的流浪者将会很快感受到饥渴，但不建议使用层级内的植物或真菌，从已探明的案例上看，它们大都是有毒的。使用它们会导致的结果轻则昏倒，重则直接死亡。而来自其他层级的食物在该节目中也将缓慢的增长毒性。因而，**M.E.G.**强烈建议流浪者在发现自己已经进入该层级后尽快离开这里。
+
+层级中存在许多危险。
+[[tabview]]
+[[tab 陷阱洞]]
+**陷阱洞**是一种被蕨类近乎完全遮盖住的、极深的洞穴，宽约6米。因其具有迷惑性的外观，使得流浪者极易落入其中。这也是该层级的主要威胁之一。迄今为止，被记录落入该结构的流浪者至少有280个，而其中大部分均已失联。
+
+然而，陷阱洞的上方所生长的蕨类能够对思乡症的治疗起到很大功效，因而常常有流浪者冒着生命危险前来采集该种蕨。
+[[/tab]]
+[[tab 缠足草]]
+**缠足草**是一种坚硬而富有韧性的植物，当有流浪者靠近时，其会迅速卷住流浪者的脚踝处，使其寸步难行。长时间内固定将会导致流浪者体内的养分逐渐流失，最终因虚弱而死。
+
+目前唯一脱离该状态的方式即为向其倾倒大量的杏仁水（两满瓶以上），它的茎便会缓缓松开，在其松开时不要立刻活动脚踝，这会导致它卷土重来。曾经有人尝试将其破坏，但后来这被证实是几乎不可能的。
+[[/tab]]
+[[/tabview]]
+
+[[include :backrooms-wiki-cn:component:image-block
+|name=http://backrooms-wiki-cn.wikidot.com/local--files/old:level-37/new37.jpg
+|caption=小径，同时亦是Level IF-37中罕见的有大量阳光照射到的区域。
+]]
+
+因层级内存在各种各样的危险，流浪者在尝试探索该层级时，应该维持清楚的头脑，以防万一。
+
++ **实体**
+层级中常见的实体有[https://backrooms-wiki-cn.wikidot.com/entity-15 悲尸]、[https://backrooms-wiki-cn.wikidot.com/trimmed:entity-4 死亡飞蛾]等。
++ **效应**
+该层级内存在一种特殊效应。即当流浪者在层级内待的过久时，其将会缓慢将过去的事忘却，理智也将逐渐崩坏。慢慢的，其将如一具行尸走肉般倒下，最后化为滋养层级体的养分。然而，若其在倒下前离开了层级，其将立刻恢复脑海中逝去的所有认知。
+
++ **基地、前哨与社区**
+出于该层级的性质，该层级内暂未建立没有任何基地、前哨或社区。
++ **入口与出口**
+++ **入口**
+* 在[[[Level IF-4]]]切入一棵异常高大的树。
+* 从[[[Level IF-14]]]的人行道上切出。
+* 原Level 37的所有入口现在会通向**Level IF-37**。
+++ **出口**
+* 进入一个散发亮光的洞口，将来到[[[Level IF-11]]]。
+* 攀登到树冠层的顶部，回到[[[Level IF-4]]]。
+* 触摸一个铁质叶片，抵达[[[Level IF-267]]]，这也是目前已知的唯一稳定进入该层级的方法。
+* **更多信息收集中……**
+------
+
+[[=]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-36]]] | Level IF-37 | [[[Level IF-38]]] >>
+[[/=]]
+[[/div]]
+[[/=]]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user xuziqi]]
+我是新人。
+注：开头淡黄色引用块代码来自Entity C-404。
+[[/collapsible]]
+[[/>]]

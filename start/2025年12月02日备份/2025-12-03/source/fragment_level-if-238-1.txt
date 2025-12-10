@@ -1,0 +1,201 @@
+[[include :backrooms-wiki-cn:component:level-class-animation
+|speed=1.2
+]]
+[[include :etinjat:typeface-cn
+|Tsanger=true
+|Tsanger-font=仓耳渔阳体W04
+]]
+[[include :backrooms-wiki-cn:theme:uec]]
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+
+.r1 {animation-delay: 3s;}
+.r2 {animation-delay: 7s;}
+.r3 {animation-delay: 9s;}
+.r4 {animation-delay: 11s;}
+.r5 {animation-delay: 13s;}
+.r6 {animation-delay: 17s;}
+.r7 {animation-delay: 21s;}
+.tape-wrap .collapsible-block-unfolded-link .collapsible-block-link
+{animation-delay: calc(6s + 2s);}
+
+.tape-record {position: relative;height: 6em;pointer-events: none;}.record {display: block;position: absolute;width: 100%;animation-name: record;animation-duration: 2.5s;opacity: 0;top: 0;text-align: center;}.tape-wrap {position: relative;background-color: rgba(244, 244, 244, 1);border: 1px dashed #999;padding: 0 1em;}.tape-anim {position: relative;background-image: url("http://unofficial-scp-sandbox-jp.wikidot.com/local--files/iroiro-workshop-8/DoxYSJAV4AET63r.png");background-size: 200px;background-position: center center;background-repeat: no-repeat;min-height: 300px;}.tape-left,.tape-right {display: block;position: absolute;margin: auto;height: 0;width: 70px;padding-bottom: 100%;background-image: url("http://brsandbox-pro.wikidot.com/local--files/test-chen/back-trans.png");background-size: contain;background-position: center center;background-repeat: no-repeat;pointer-events: none;}.tape-left {top: -20px;bottom: 0;left: -70px;right: 0;animation-name: spin1;animation-duration: 15s;animation-timing-function: linear;animation-fill-mode: forwards;}.tape-right {top: 0;bottom: -32px;left: 0;right: -72px;animation-name: spin1;animation-duration: 20s;animation-timing-function: linear;animation-fill-mode: forwards;}.tape-wrap .collapsible-block-unfolded-link {padding-top: 1em;}.tape-wrap .collapsible-block-folded,.tape-wrap .collapsible-block-unfolded-link {position: relative;text-align: center;}.tape-wrap .collapsible-block-link:before {display: inline-block;font: normal normal normal 14px/1 FontAwesome;font-size: inherit;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;transform: translate(0, 0);}.tape-wrap .collapsible-block-folded .collapsible-block-link:before {content: "\f04b";}.tape-wrap .collapsible-block-unfolded-link .collapsible-block-link:before {content: "\f1da";}.tape-wrap .collapsible-block-unfolded-link .collapsible-block-link {animation-name: g-ex;animation-duration: 1s;animation-fill-mode: forwards;visibility: hidden;opacity: 0;}.tape-wrap .collapsible-block-folded {padding-top: 1em;padding-bottom: 1em;}@keyframes g-ex {50% {visibility: visible;opacity: 0;}100% {visibility: visible;opacity: 1;}}@keyframes spin1 {0% {transform: rotate(0deg);}100% {transform: rotate(360deg);}}@keyframes record {0% {opacity: 0;}25% {opacity: 1;}75% {opacity: 1;}100% {opacity: 0;}}@-moz-document url-prefix() {.tape-anim {height: 300px;}.tape-left,.tape-right {display: block;width: 70px;height: 70px;position: relative;margin: 0 auto;padding: 0 auto;}.tape-left {top: 105px;bottom: initial;left: -36px;}.tape-right {top: 60px;bottom: initial;left: 35px;}}
+
+:root {
+ --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/the-iron-fist/fist2.png");
+ --header-title: "铁拳";
+ --header-subtitle: "藐视神灵";
+ --body-font: 'Rosarivo', serif !important;
+}
+
+#header::before {
+     background-size: auto  8rem;
+}
+
+a:visited {
+     color: rgba(var(--link-color),0.7);
+}
+
+#extrac-div-3, #page-title {
+     display: none;
+}
+
+.meta-title {
+   text-align: center;
+   color: rgb(var(--white-monochrome));
+}
+
+.borderblock {
+   border: solid rgb(var(--blood-monochrome)) 2px;
+   text-align: center;
+   padding: 15px 10px 0px 10px;
+   height: 100%;
+}
+.sd-container {
+   --sd-border: 44, 13, 12;
+   --sd-image: 44, 13, 12;
+   --sd-symbol: 44, 13, 12;
+}
+[[/module]]
+
+[[module css]]
+.cookieboxflex {
+    display: flex;
+    justify-content: flex-end;
+    height: 4.5rem;
+}
+
+.cookieboxflex .darkblock a {
+   position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+}
+
+.cookieboxflex .darkblock {
+   position: relative;
+   background: rgb(var(--link-color));
+   transition: 0.3s;
+}
+
+.cookieboxflex .darkblock:hover {
+   background: rgb(var(--pale-accent));
+}
+
+#u-dear-reader { transition: 0.5s; }
+
+#u-dear-reader:target { opacity: 0; pointer-events: none; margin-bottom: 1rem; }
+[[/module]]
+
+[[div class="lightblock"]]
+[[=]]
++ ##ff1428|**铁拳-U.E.C.邮件归档#471**##
+[[size 110%]]##ff1428|//主题：**Level LW-272**//##[[/size]]
+[[/=]]
+------
+[[div class="styled-quote"]]
+||##ffffff|发件人：uec.seniorarchivist@backmail.com##||
+||##ffffff|收件人：ironfist.antigodbackmail.com##||
+||##ffffff|主题：Level IF-238##||
+----
+##ffffff|幼稚且可笑的神明，自称“海神的妹妹”，实际上不过是所谓海神的拙劣模仿者而已，M.E.G.甚至还试图与其联合抵挡我们？属实可笑。##
+##ffffff|～Lukas##
+----
+[[/div]]
+[[div class="darkblock"]]
+||##ffffff|发件人：ironfist.antigod@backmail.com##||
+||##ffffff|收件人：uec.seniorarchivist@backmail.com##||
+||##ffffff|主题：Level IF-238##||
+----
+##ffffff|时间差不多了，我们已经完全对那位幼稚的“海神”存在足够的了解，我们已经全面潜入[[[Level IF-52]]]，只需你一声令下，我们便一同进入这片虚伪的海洋，即使M.E.G.现在往那里加派了数千人也无法与我们为敌。##
+##ffffff|～Abdias.Podholzl##
+----
+[[/div]]
+[[div class="styled-quote"]]
+||##ffffff|发件人：uec.seniorarchivist@backmail.com##||
+||##ffffff|收件人：ironfist.antigod@backmail.com##||
+||##ffffff|主题：Level IF-238##||
+----
+##ffffff|真是雷霆手段，首脑层已经正式下达进攻指令，在8月10日的下午2时对**Level IF-238**发动全面进攻。##
+##ffffff|～Lukas##
+----
+[[/div]]
+[[div class="darkblock"]]
+||##ffffff|发件人：ironfist.antigod@backmail.com##||
+||##ffffff|收件人：uec.seniorarchivist@backmail.com##||
+||##ffffff|主题：Level IF-238##||
+----
+##ffffff|已经下午1：55了，我们的战士们要迫不及待了，我们将会让液态痛苦充斥这片由虚假的神明所统治的领地。##
+##ffffff|～Abdias.Podholzl##
+----
+[[/div]]
+[[=]]
+[[div class="signblock-img" style="filter: invert(0%)"]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-iron-fist/fist2.png width="150px" height="150px"]]
+[[/div]]
+**铁拳**-//藐视神灵//
+[[/=]]
+[[/div]]
+------
+[[div style="background: repeating-linear-gradient(-45deg, #360509, #360509 4px, #ff1428 5px, #ff1428 5px); border-radius: 8px;border: solid 1px #000000;box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);box-sizing: border-box;width: 100%;padding: 0.01rem 1rem;;margin: 0.5rem 0 0.5rem 0rem 0;display: inline-block;"]]
+**以下内容选自U.E.C.间谍Diana Lisaville的遗书**
+
+------
+
+[[size 110%]]近几日，我再难进入睡眠，那般地狱场面我再也不敢看到第二次，我已经将那储存着完整影像的摄像机销毁掉了，她那最后一缕陪伴在我身边的残魂或许也顺着这火光向着她至死都未曾看到过的天空飘散。[[/size]]
+------
+[[=]]
+·
+[[/=]]
+------
+[[size 110%]]在高层的旨意下，我将我所记录到的全部都通过邮件向U.E.C.发出，虽然我知道“波西”极有可能在此途中发现我的所作所为，因为她的脑中不止有人类，她的大脑是后室意志，甚至可以说是整个后室。不过她似乎完全没有察觉，在我找她聊天以控制她的时候，她就像往常与我是知心朋友一般交谈着，但这对于我来说实在太过煎熬，我清晰的知道，我进入**Level IF-238**的所作所为都将在最终成为刺向她眼睛与心脏的长矛，就像那位在被送入[[[Level IF-34]]]之前还在绝望嘶吼的Andru先生。[[/size]]
+
+[[size 110%]]近期，M.E.G.似乎察觉到了些什么，大量往**Level IF-238**中派遣兵力，甚至将已经探索到中心区域外500Km的远洋探险队都召集了回来，这令我一度以为事情败露，但据我长期的观察发现，M.E.G.似乎完全对我的身份没有察觉，依旧纵容我随时与“波西”交流，甚至因此耽误了工作。这令我既庆幸又担心，我希望U.E.C.能够将这里变为另一处天堂，但我不希望“波西”成为这处天堂最重要的祭品。[[/size]]
+
+[[size 110%]]在8月10日的下午2点，入侵活动正式开始了……[[/size]]
+[[/div]]
+[[div style="background: #141618;border-radius: 8px;border: solid 1px #000000;box-shadow: 0 1px 6px rgba(0,0,0,0.25);box-sizing: border-box;width: 100%;padding: 15px;margin: 1em 0;display: inline-block;"]]
+**选自Diana Lisaville的遗书**
+
+------
+
+[[size 110%]]在第一瓶液态痛苦被完全倒入**Level IF-238**的那一刻，伟大而绝望的入侵开始了，为了保证行动的成功几率，高层让我在距离中心区域约85km的区域牵制住“波西”，以免让她第一时间阻挠行动。我无法亲自在中心区域看到入侵的景象，我也不愿再看一遍全过程录像，那简直太残酷了，执行行动的成员大量从[[[Level IF-52]]]涌入，并在第一时间打开了手中的液态痛苦，吾主“波西”与M.E.G.LW-272物资收集点联合超3000名备战成员被快速扩散的液态痛苦打的措手不及，大量人员在短时间内出现了严重的咳血症状，在此起彼伏的咳嗽与惨叫中，U.E.C.入侵者的刀刃所闪烁的寒光在期间游动，血雾逐渐充斥整个中心区域……[[/size]]
+------
+[[=]]
+·
+[[/=]]
+------
+[[size 110%]]在牵制住“波西”的这段时间内，我心中带着极度的恐慌，这也使“波西”极快的发现了我的不对劲，于此同时，我可以确信她感受到了中心区域所发生的事件，我甚至来不及反应，她便以极快的速度消失了，我也不得不快速往中心区域赶去，在前往中心区域的途中，无不止一次地希望她不会发生任何意外……[[/size]]
+
+[[size 110%]]下午4：25，我终于赶到了中心区域附近，这里已经完全被液态痛苦和被海水所稀释地血液所充斥，我戴上U.E.C.发放的防护用具，进入了这里，在寻找“波西”的途中，我看到了无数M.E.G.成员与鱼儿的尸体，他们的死状是何其惨烈，破碎的五脏六腑混合着血液与破碎的骸骨逸散在与液态痛苦混合的海水中，组成一片由血肉组成的死亡之网，在经过45分钟的寻找后，我终于找到了“波西”，U.E.C.与铁拳的成员将其包围，在远处，我清晰地看见她幽蓝的双眼被刺瞎一只，她已然难以行动。[[/size]]
+------
+[[=]]
+·
+[[/=]]
+------
+[[size 110%]]距离“波西”最近的人，我清晰的看到并辨别出了那人，阿玛迪斯·路德维希·斯蒂尔，此次行动的最高执行者，一个彻头彻尾的疯子，正是他在趁“波西”与其他入侵者战斗的时候将其眼睛刺穿，我下意识上前去挡在“波西”前面，希望以我弱小的身躯抵挡面前之人。“你干的很好Diana，此次行动几乎圆满成功，不过让这里不少依附于这伪神的人逃出这里，这也算是行动的一些小失误，而现在，你是想试图阻挠行动的最后一步吗？”[[/size]]
+
+[[size 110%]]当时，我几乎失去了意识，只是本能地挡在“波西”的前方，但弱小的身躯无用，阿玛迪斯将我推到一边，于此同时，一柄长矛向“波西”的心脏刺去，“波西”没有躲闪，任凭那柄长矛刺穿了她的心脏，我几乎失了智地冲上前“‘波西’！”我嘶吼着，试图将其唤醒，但许久之后，“波西”仍未有回应我的迹象，阿玛迪斯笑着庆祝着此次行动成功，当他们试图通过切出点进入[[[Level IF-136]]]时，切入点突然出现异常并消失，于此同时，“波西”也缓缓起身。“‘波西’！你醒了！”“波西”握着我的手，笑着，血液从她的口中溢出，我想去擦拭，但她拦住了，“Diana，在第一次与我交谈时，你问过我：‘如果‘他们’，指U.E.C.与‘铁拳’存在反制你的办法，并加以实施，你又会怎么做呢？’现在，我将会为你解答。”阿玛迪斯惊愕地看着复苏的“波西”，甚至试图再次刺穿她的心脏，但“波西”的周围如同出现屏障一般，里面只有我与“波西”二人。[[/size]]
+------
+[[=]]
+·
+[[/=]]
+------
+[[size 110%]]“波西”的手松开了，护在她的胸前，她的身上发出幽幽蓝光，我想抓住她，但只在一瞬间，我就陷入了昏厥，再次醒来，我进入了[[[Level IF-136]]]，耳边只响起她在生命的最后所为我说出的话：“Diana，我知道你没有恶意，我已经走到尽头了，我把还活着的鱼儿们都送到了这片美好森林的河流中，你一定要照看好它们，这是我想让你做的，最后一件事了。”在醒来后，我几乎发了疯地在M.E.G.的数据库中有关她的信息，甚至尝试再次切入**Level IF-238**，但M.E.G.说**Level IF-238**现已被全面封锁，无法进入，现在，除了**Level IF-238**的文档以外，我再也没有找到任何消息。[[/size]]
+
+[[size 110%]]8月15日，我在检查邮箱时发现了一篇发自**Level IF-238**的视频，我满怀欣喜地点开，绝望地发现这是U.E.C.与铁拳入侵**Level IF-238**时中心区域的全录像，我不忍看下去，但在最后，我看到了“波西”，我又燃起一丝希冀，“波西”说不定还活着，我带着这样的心情向下看去，但接下来的画面令我终生难忘：“波西”在将我送出**Level IF-238**后，身上的蓝光越来越强烈，入侵者们蜂拥而上，试图阻止她的行动，但“波西”的周围仿佛存在屏障一般，无人能够靠近，不多时，一道冲击波从“波西”的体内散发出来，于此同时，海水仿佛被极速加热，开始滚滚沸腾，甚至开始蒸发，不到45分钟，所有入侵者都被蒸灭，淡淡的血水疯狂涌动，将这片幽蓝的天堂变为血红的地狱，骨肉分离，惨白的骸骨显现，就像被水所淹没的[[[https://backrooms-wiki-cn.wikidot.com/level-826|Level 826]]]一般，在疯狂的沸腾的海洋中，“波西”那柔弱的身躯最终化为点点浮沫，在沸腾之海中飘散，消失，于此同时，**Level IF-238**的新生存难度评选结果也出现了，不出意料，我看到了那象征绝望的深蓝——死区。[[/size]]
+
+------
+[[=]]
+·
+[[/=]]
+------
+
+[[size 110%]]对不起，“波西”，我自知你或许无法饶恕我的罪恶，但我真的希望能够祈求到你的原谅，你在明知我在试图毁灭这里的时候仍然没有阻止我，即使在生命的最后一刻，你也仍然相信我能够照顾好你所爱的鱼儿们，真的对不起，我愿以我的生命，我的灵魂，向化作泡影的你赔罪……[[/size]]
+@@@@
+@@@@
+
+
+[[=]]
+++ ##white|⚠新档案于2025/8/15 14:17:43（26s前）更新。⚠##
+点击[https://if-backrooms.wikidot.com/level-if-238/offset/1 此处]查看。
+[[/=]]
+[[/div]]

@@ -1,0 +1,27 @@
+[[include :backrooms-wiki-cn:theme:tesseract]]
+[[include :backrooms-wiki-cn:credit:start]]
+
+遵循CC BY-SA 3.0协议，由[[*user ReyDay]]绘制。
+
+[[include :reyday:component:authorbox]]
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[div class="darkblock"]]
+@@@@
+@@@@
+[[include component:image-block
+|align=center
+|name= http://backrooms-wiki.wikidot.com/local--files/art:reydaybanner/tess
+|width=1452px
+|captionless=a
+]]
+@@@@
+@@@@
+[[/div]]
+[[div class="yellowblock"]]
+此是我为[[[Bannercon2025|2025横幅竞赛]]]提交的参赛作品！展示了我们的吉祥物[[[art:tesseract|Tesseract]]]，以及我们站点的众多特色内容！
+
+希望大家伙儿喜欢这个作品，我为此付出了很多时间TvT
+
+@@@@
+[[/div]]

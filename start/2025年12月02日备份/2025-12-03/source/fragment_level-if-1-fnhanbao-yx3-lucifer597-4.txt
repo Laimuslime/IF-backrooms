@@ -1,0 +1,303 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|reverse=a
+|title=a
+|del=a
+]]
+
+[[module CSS]]
+:root {
+    /*深色*/--bb-black: 255,255,255;
+    /*浅色*/--bb-white: 0,0,0;
+}
+[[/module]]
+
+[[module CSS]]
+.white-glow {
+  font-size: 1.8em;
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff, 0 0 12px #ccccff;
+  line-height: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+[[/module]]
+
+[[div class="white-glow"]]
+风声忽然骤停，
+
+直到脸上也不再被风逼着......
+
+这个世界没有让我暂时回到故乡，
+
+而是不见十指的黑......
+
+坠入深渊一刻起便踏入了黑暗......
+
+置身于黑暗中，四周一片沉寂，
+
+唯有灯光下一把孤零零的椅子。
+
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/05/25/pVSmijK.jpg" alt=" " style="width: 400px; height: auto; ">
+</div>
+
+[[/html]]
+
+[[div class="white-glow"]]
+
+我几乎站立不稳，
+
+身体像是灌了铅，步步沉重至极。
+
+每迈出一步，似乎皆踏在虚空之上。
+
+踉跄着，最终瘫坐在椅子上。
+
+于无边的黑暗笼罩之中，
+
+为探寻破晓微光，
+
+自深渊处缓步而行，
+
+深渊之人是时候做出选择了......
+
+[[/div]]
+
+[[html]]
+<style>
+@keyframes shakyBlur {
+  0%   { transform: translate(0px, 0px); filter: blur(1.2px); }
+  25%  { transform: translate(1px, -1px); filter: blur(1.4px); }
+  50%  { transform: translate(-1px, 1px); filter: blur(1.3px); }
+  75%  { transform: translate(1px, 1px); filter: blur(1.5px); }
+  100% { transform: translate(-1px, -1px); filter: blur(1.2px); }
+}
+
+.shaky-blur {
+  font-size: 1.75em;
+  color: white;
+  font-weight: bold;
+  animation: shakyBlur 0.5s infinite;
+  text-align: center;
+}
+</style>
+
+<div class="shaky-blur">
+  你可以装作什么没发生
+</div>
+[[/html]]
+
+[[div class="white-glow"]]
+可我不想骗自己，
+
+心里有火，早就烧得痛快。
+
+于是我便在黑暗中踽踽独行......
+
+向着黑暗缓缓走出了几十步，
+
+天地间忽然只剩下一片汹涌的黑暗，
+
+回头一望，聚光灯似熄灭了，
+
+那椅子也随之隐没于虚无......
+
+而像是闯进了自己灵魂最肮脏的后巷，
+
+于黑暗中愣神之间，聚光灯再次出现，
+
+而现实中糟透的事情不请自来......
+[[/div]]
+
+[[module CSS]]
+@keyframes shake {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(0.5px, -0.5px); }
+  50% { transform: translate(-0.5px, 0.5px); }
+  75% { transform: translate(0.5px, 0.5px); }
+  100% { transform: translate(0, 0); }
+}
+
+.shake-text {
+  color: #8B0000;
+  font-weight: bold;
+  font-size: 1.8em;
+  display: inline-block;
+  animation: shake 0.3s infinite;
+}
+[[/module]]
+
+[[div style="color: #8B0000; font-weight: bold; font-size: 1.8em; text-align: center;"]]
+“生活中糟糕的一切，
+遇到挫折而自暴自弃”
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/07/13/pVl677R.jpg" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+[[div style="color: #8B0000; font-weight: bold; font-size: 1.8em; text-align: center;"]]
+“把烟当作逃避工具的自己”
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/07/13/pVlcSnH.jpg" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+[[div style="color: #8B0000; font-weight: bold; font-size: 1.8em; text-align: center;"]]
+“自己醉醺醺地倒在沙发上，
+每日用酒精麻痹自己”
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/07/13/pVl6Lh6.jpg" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+[[div style="color: #8B0000; font-weight: bold; font-size: 1.8em; text-align: center;"]]
+“溢满腐朽味道、
+杂乱无章的房间”
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/07/13/pVlcA9f.jpg" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+[[div style="color: #8B0000; font-weight: bold; font-size: 1.8em; text-align: center;"]]
+看见自己在生活中
+不断妥协、退缩、逃避，
+
+像一滩无力挣扎的烂泥！
+[[/div]]
+
+--------
+
+[[div class="white-glow"]]
+
+直面内心的幽影与纷扰，
+
+神情间浮现出沉静的省思。
+
+背过身的那一刻
+
+聚光灯下一道身影出现，且散发出恶臭的酒味
+
+而那是日渐颓败的自我，
+
+且正是心魔的真身，
+
+凝视着那副早已腐朽的自我，
+
+心中怒火翻涌，
+
+拳指紧握，关节咯然作响
+
+那幽暗不堪的影子，
+
+那灵魂深处腐烂的残像，
+
+正是我放任沉沦的产物。
+
+我已厌倦逃遁，
+
+不愿再否认内在的崩塌，
+
+是时候凝视真实的自己。
+
+我挥拳猛然砸向那副“自我”的幻影——那副颓败、懦弱、自甘沉沦的存在。
+
+没有抵抗，拳锋落下之际，
+
+“我”碎裂如镜，而化作无数细碎的光尘，
+
+在我周身缓缓旋转、升腾，
+
+最终凝聚成一条静谧而光明的道路，
+
+笔直通向那道孤傲的聚光。
+
+灯影之下，依旧是一张静候的椅子。
+
+我迈步前行，
+
+脚下越来越稳，背脊越挺越直。
+
+这一次，不再软肋瘫坐在椅子上。
+
+而是踏上那张椅子，昂然挺立。
+
+高举手臂，想抓住那束光，
+
+而光芒便于指尖悄然燃起
+[[/div]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/07/14/pVlzfXD.jpg" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+[[html]]
+<style>
+  a.animated-link {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease, text-shadow 0.3s ease;
+  }
+
+  a.animated-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 100%;
+    height: 2px;
+    background: white;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+  }
+
+  a.animated-link:hover {
+    transform: translateY(-3px);
+    color: #ffffff;
+    text-shadow: 0 0 12px rgba(255, 255, 255, 0.9), 0 0 20px rgba(255, 255, 255, 0.6);
+  }
+
+  a.animated-link:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+</style>
+
+<div style="text-align: center;">
+  <h1 style="color: white; font-weight: bold; font-size: 1.8em; margin: 20px 0;">
+    <a href="https://if-backrooms.wikidot.com/collab:level-if-1/offset/4" target="_blank" class="animated-link">
+      那通向光明的路径
+    </a>
+  </h1>
+</div>
+[[/html]]
+
+[[>]]
+[[collapsible show="阅读提示" hide="收回"]]
+文本“那通向光明的路径”可被点击。
+[[/collapsible]]
+[[/>]]

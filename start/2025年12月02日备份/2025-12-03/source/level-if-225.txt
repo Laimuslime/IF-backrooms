@@ -1,0 +1,163 @@
+[[include :backrooms-wiki-cn:component:hinc]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :backrooms-wiki:theme:corporate]]
+[[module css]]
+@import url('https://fontlibrary.org/face/fantasque-sans-mono');
+@import url('https://fonts.googleapis.com/css?family=Basic|IBM+Plex+Mono:400,700');
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "corporate";
+   --theme-name: "Corporate Theme";
+ 
+   --base-font-size: 0.9rem;
+
+   --header-font: 'Kdam Thmor Pro', zcoolwenyiti;
+   --title-font: 'Kdam Thmor Pro', zcoolwenyiti;
+   --mono-font: 'Noto Serif SC', sans-serif;
+   --logo-image: url("http://backroomssandboxcn.wdfiles.com/local--files/dh-file/deipmeod");
+  --logo-image: url("x");
+   --header-title: "霓虹地界";
+   --header-subtitle: "欢迎来到迷幻世界的天际线";
+
+      --white-monochrome: 69, 44, 146;
+   --pale-gray-monochrome: 122, 103, 228;
+   --dark-purple: 155, 52, 231;
+   --gray-monochrome: 202, 159, 240;
+   --black-monochrome: 183, 236, 255;
+   --bright-accent: 238, 88, 247;
+   --medium-accent: 191, 125, 249;
+   --dark-accent: 225, 111, 253;
+   --pale-accent: 149, 251, 255;
+   --swatch-menubg-dark-color: var(--white-monochrome);
+   --thing: 143, 108, 208;
+   --light-purple: 221, 162, 255;
+   --swatch-tertiary-color: 144, 83, 196;
+   --blue-table: 100, 150, 241;
+   --light-pink: 255, 201, 244;
+   --dark-pink: 212, 117, 211;
+ 
+   --swatch-topmenu-border-color: var(--link-color);
+ 
+  --rating-module-button-plus-color: var(--dark-purple);
+   --rating-module-button-negative-color: var(--dark-purple);
+   --rating-module-button-cancel-color: var(--dark-purple);
+   --rating-module-button-credit-color: var(--dark-purple);
+ 
+   --link-color: 251, 87, 192;
+   --hover-link-color: 236, 162, 255;
+   --visited-link-color: 225, 159, 248;
+   --newpage-color: 255, 76, 76;
+ 
+   --background-gradient-distance: 0rem;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent)) 0%,
+      rgba(var(--medium-accent), 0.90) 100%
+   );
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 1s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+#extrac-div-2 {
+    position: fixed;
+    width: 100vw;
+    height : 1rem;
+    top: 0;
+    pointer-events: none;
+    background: linear-gradient(to bottom, rgba(22,236,238) 0%,rgba(22,236,238) 50%,rgba(22,236,238) 51%,rgba(22,236,238) 100%);
+    opacity : .1;
+    animation: scanm 6s linear infinite;
+}
+@keyframes scanm {
+  0%   { top: -1rem; opacity : .05;}
+  25% { top: 50%; opacity: .03;}
+  37.5% { top: 75%; opacity: 0.06;}
+  50% { top: 100%; opacity: .03;}
+  100% { top: 100%;}
+}
+ 
+#extrac-div-3 {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    background-image: radial-gradient( rgb(0,0,0) 45%, rgb(22,236,238) 95%);
+    opacity: 0.25;
+    mix-blend-mode: color-dodge;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 30;
+}
+ 
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay)); }
+ 
+#skrollr-body {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("http://backrooms-wiki.wdfiles.com/local--files/theme%3Aaesthetic/AestheticHeaderImage");
+    background-repeat: repeat-x;
+    background-size: inherit;
+}
+[[/module]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+------
+[[>]]
+[[collapsible show="霓虹万般绚烂" hide="昔日邪恶不再"]]
+作者：[[*user ShallowCloud]] 疑似参赛选手中最没存在感的
+版式由集团版式与美学版式修改而来
+新人第三作，熟练度很低，模仿了Level C-667，但是是拙劣的模仿。本文是我从今年4月开始写的，5月已经写好了描述和大纲，后面发现能用在if1竞赛，就紧急赶完了，说实话这篇真的不符合我的预期，效果很差，打三位大佬合著太难了，不求竞赛冠军，能拿点分就行。
+[[[https://www.pexels.com/zh-cn/photo/2-1089194|第一张图片来源]]]
+[[[https://pixabay.com/zh/illustrations/palm-trees-tropical-exotic-retro-7828313/|第二张图片来源]]]
+第三张图片（层级地图）为自绘。
+[[[https://www.pexels.com/zh-cn/photo/2368951|第四张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/15651564|第五张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/u-25211868/|第六张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/2338113/|第七张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/14036446|第八张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/3700369|第九张图片来源]]]
+[[[https://unsplash.com/photos/architectural-photography-of-building-TORziRYHw3Y|第十张图片来源]]]
+[[[https://pixabay.com/zh/illustrations/crystal-future-city-futuristic-8920268/|第十一张图片来源]]]
+[[[https://www.pexels.com/zh-cn/photo/169647/|迭代（第十二张）图片来源]]]
+[[[https://backrooms-ac.wikidot.com/the-r-a-l|R.A.L.]]]的设定引用已经过原作者同意
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-224]]] | ##22EEDD|霓虹天际线## | [[[Level IF-226]]] >>
+[[/=]]
+[[/div]]

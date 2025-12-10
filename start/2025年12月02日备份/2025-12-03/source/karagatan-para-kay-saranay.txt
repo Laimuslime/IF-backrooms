@@ -1,0 +1,156 @@
+[[include :backrooms-wiki-cn:theme:kalag]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tagalog&display=swap');
+
+.baybayin { font-family: "Noto Sans Tagalog", sans-serif; }
+
+.deepestblue {
+    width: 100%;
+    mask-image: linear-gradient(to bottom, transparent, black 3rem, black calc(100% - 6rem), transparent);
+    -webkit-mask-image: linear-gradient(to bottom, transparent, black 3rem, black calc(100% - 6rem), transparent);
+}
+
+#page-title {display: none;}
+#search-top-box .button {visibility: hidden;}
+#login-status {display: none;}
+div.title-cover {
+   min-height: 150vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+div.title-cover .title-cover-inner {
+   max-width: 35rem;
+   text-align: center;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+[[=]]
+[[div class="styled-quote"]]
+由//[[*user Schulzenreich]]//创意并撰写。
+由//[[*user calf-0]]//译就。
+经[[*user SquibbleZombie]]、[[*user InspectingCritters]]和[[*user DrAkimoto]]批判。
+由[[*user DrAkimoto]]过绿灯。
+[[/div]]
+[[/=]]
+[[include :backrooms-wiki-cn:credit:end]]
+
+= [[span class="baybayin"]][[size 250%]]~ ᜐᜒᜋᜓᜎ ~[[/size]][[/span]]
+
+//“我很抱歉，亲爱的。我忍不住翻开了我在档案馆发现的此书。若我读下了它，你还会原谅我吗？”//
+-----
+
+[[div class="title-cover"]]
+[[div class="title-cover-inner"]]
+[[div class="styled-quote"]]
+= [[size 250%]]**萨兰奈的海洋之约**[[/size]]
+= [[image http://backrooms-wiki.wikidot.com/local--files/karagatan-para-kay-saranay/matanglawin.png]]
+= //“杀人犯会为了自己所犯下的罪行感到良心谴责吗”//
+[[/div]]
+[[/div]]
+[[/div]]
+
+@@ @@
+= //那些坠入深邃蓝海的碎片，皆是独属于我。//
+
+太阳缓缓划过地平线，我背着绳子拖着我的//木舟//，手持我信赖的鱼叉，从村庄出发去追寻梦想的幽灵。咸涩的海风轻轻飘过海岸，那气息悠悠地沁入我的鼻腔。
+
+最近，我的梦境正如海边那位老妇人预言的那样愈发糟糕。她说道那些幽灵正是我噩梦与失眠的源头，令我在白天如同行尸走肉，疲惫不堪而又形容憔悴。的确，就连现在仍在纠缠着我的幽灵不断展示着那些虽不属于我，却让我心痛万分的回忆。
+
+此些虚假的回忆让我的心隐隐作痛，而海边那位老妇人却带着一丝笑意说道：“若你真的能斩除这个一直纠缠不休的幽灵，我便与你缔结婚约，陪你共度余生。”，我望向她，恍然觉得似曾相识。
+
+“但若你未成功斩杀幽灵，就会目睹我如风般翱翔天际，自由得似那//伊尼卡多瓦//[[footnote]]**译注：**菲律宾神话中的生物，被用于象征某种自由、灵动或神秘的事物，或是象征像风一样翱翔天际的生物。[[/footnote]]，”她顿了顿，“在那里，你会发现它正静静的凝视着。别怕，亲爱的萨兰奈，勇敢去吧。”，海边的女子留下我，脑海里皆是磨难过后，我将会成为怎样的人，又会有怎样的经历。
+
+烈日当空，灼灼其华，而我正航行于一片平静的海面，不到两小时，便抵达了那幽深蓝海。之后，我将船锚抛入水中，看着绳索一圈圈盘旋下沉，每分每秒都在那水下的深渊延伸。终于，它不再下沉，触到了海底。我借着指引潜入水中，手持鱼叉，去斩杀那于我梦境盘踞的幽灵。
+
+盛夏的海水却冷得反常，每寸肌肤都刺痛着抗拒我的侵入，当我沉向那片被遗忘已久的、深邃的蔚蓝回忆时。我仍执拗的向下潜去，明知却又忘记，唯有悔恨蜇伏于此片荒芜之墓地，被无垠的深海永久封存。
+
+一种只能用超自然来解释的异象发生，随着我不断潜入深邃回忆，头顶的压力竟越来越轻，而双腿却像灌了铅般沉重，迫使我在海底蹒跚前行。
+
+@@ @@
+= [[image http://backrooms-wiki.wikidot.com/local--files/karagatan-para-kay-saranay/mylove.jpg class="deepestblue"]]
+@@ @@
+
+一丝微弱的阳光刺穿我头顶的水幕，宛如一尊垂死神明漂浮在虚无之海中散发的临终辉光。前方，一团气泡囚禁着诡谲的光亮，以病态而甜美的幻象向我召唤。那是前世的回忆碎片，一段我毫无意向的过往。
+
+@@ @@
+= [[image http://backrooms-wiki.wikidot.com/local--files/karagatan-para-kay-saranay/deepestblue.png class="deepestblue"]]
+@@ @@
+
+“陪我一会吧，”那道诡谲的光亮说道，“在你斩杀我之前，我想跟你谈谈。”
+
+它漫不经心地漂浮着，尽管我当下就起了杀心，它却丝毫不显敌意。我怎能不下手呢？它频频侵扰我的梦境，害我难以过上正常的生活。它痛苦地纠缠着我，让我不禁怀疑这些记忆是否真如表面那般虚假。但我还是顺从了，与回忆墓地中的幽灵同行。
+
+“未曾想到会再见到你，未料到是在这里。我原以为得游上去找你。”那个发着微光的小光球小心翼翼地开始分解，化作缕缕蔚蓝的光芒，逐渐凝聚成实体，先是从一只手开始成形。
+
+“看到那个了吗？”它指向远处一座沉没的图书馆。我们第一次相遇的地方。嗯...不是我们，是别人。但你可能已经不记得他们了。
+
+一段往昔的回忆突然攫住我。我忆起了那座图书馆，它总在我梦里出现。“我记得他们，”我对幽灵说，“我清清楚楚地记得。记得他们帮我改第一首诗的样子，记得他们对着一朵向阳花微笑的模样。但我记不起自己当时在场——那里有一段空白……”
+
+“记忆的空白，是的。即是我存在的意义。”随着幽灵的面容在光晕中逐渐凝实，我突然明白为何它对我的人生如此了解。我叹了口气，伸手去取背后挂着的鱼叉，我意识到，幽灵滞留越久就越难消灭。
+
+请把那个放下。我还有好多要给你看。幽灵独自向前走了很久很久……而我竟毫无抗拒地跟了上去。
+
+@@ @@
+= [[image http://backrooms-wiki.wikidot.com/local--files/karagatan-para-kay-saranay/apparition.jpg class="deepestblue"]]
+@@ @@
+
+那感觉像是经历了亿万年的跋涉[[footnote]]作者注：精确时长为七千一百三十六万六千四百秒。[[/footnote]]，鬼魂带着我走过我如今完全看清的、属于自己的一生后，终于再次开口：“萨兰奈，你如何看待此片阔地？”
+
+“我觉得自己已不配回答这个问题。现在再也不配。你最清楚才对，萨兰奈。”我握紧鱼叉，叉尖始终对准它的心脏。幽灵正是我遗落在此片海域中的存在，是我经历过它所展示的一切的那个自己。
+
+“得了吧。展现在你眼前的，是你完整的人生，包括过去与现在。你难道连点感想都没有？”
+
+“我看见的只有过往错误的残渣。只会让我更想杀了你。”
+
+“所以你才把那些都抛给我，对吗？让我在这片水墓中腐烂，好让你能忘记这些事发生过。让你能在那个怪异的村子里假装平静地生活，和海边那位老妇人一起。”
+
+“如果你真记得，就该知道我曾试着和你共处。我试过不立刻把你埋葬在这里。但最后，我实在是太累了，累到极限，再也受不了你的存在。”我的声音发颤，皮肤因试图理解什么而刺痛。长矛仍固执地对准鬼魂心脏。“你知道吗？我在想，一个决意犯罪的人，会不会为自己的罪行感到良心谴责？因为我就是这样的人。”
+
+“我只知道这不会让你少一分杀人犯的身份。你终究杀害了他们，不是吗？好吧，虽非肉体上的杀害，但你应该明白。”鬼魂说道，“无论你经历多少种变化或转化，用同样的方式杀死我也不会改变任何事。现在不会，永远都不会。”
+
+“我知道。希望你再见他们时穿着白衣。”话音未落，叉尖已深深刺入它泛蓝的心脏。“你觉得，我还能得到宽恕吗？”
+
+幽灵对我微笑：“你永远不会被宽恕，萨兰奈。”
+
+同日，当我划着//木舟//返回岸上时，看见空中有鸟飞过，却再没寻见那位海边夫人的踪迹。或许，我终究没能真正杀死那个幽灵。
+
+@@ @@
+-----
+[[>]]
+//“不，我想我不会。”//
+[[/>]]
+
+= [[span class="baybayin"]][[size 250%]]~ ᜏᜃᜐ᜔ ~[[/size]][[/span]]
+
+[[=]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=Schulzenreich
+|translator=calf-0
+]]
+=====
+> **名称：** matanglawin
+> **作者：** [[*user Schulzenreich]]
+> **协议：** CC BY-SA 3.0
+> **来源链接：** http://backrooms-sandbox-2.wikidot.com/local--files/schulzenreich3/matanglawin
+=====
+> **名称：** The Blue Hole
+> **作者：** RYO SATO
+> **协议：** CC BY-SA 2.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:The_Blue_Hole_(3726699160).jpg
+=====
+> **名称：** deepestblue.jpg
+> **作者：** [[*user Schulzenreich]]
+> **协议：** CC BY-SA 3.0
+> **来源链接：** http://backrooms-sandbox-2.wikidot.com/local--files/schulzenreich3/deepestblue.jpg
+=====
+> **名称：** Knock Apparition Cloud.jpg
+> **作者：** Froshea
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Knock_Apparition_Cloud.jpg
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[/=]]

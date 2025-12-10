@@ -1,0 +1,636 @@
+=====
+[[include :backrooms-wiki:component:preview
+text=不要因为结束而哭泣。
+
+要因为发生过而微笑。
+]]
+=====
+[[include :backrooms-wiki-cn:theme:nostalgia-os]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 2.50s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+}
+[[/module]]
+[[module CSS]]
+:root {
+   --fade-in-delay: 0.15s;
+   --very-white-monochrome: 255, 255, 255;
+}
+#page-title {
+    display: none;
+}
+.outerglow{
+   text-shadow:
+      0 0 1px rgb(255, 255, 255),
+      0 0 3px rgb(255, 255, 255),
+      0 0 5px rgb(255, 255, 255),
+      0 0 7px rgb(255, 255, 255),
+      0 0 13px rgb(255, 255, 255);
+}
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 90%;
+    margin:auto;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+.invisibox2 {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 65%;
+    margin:auto;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+.lightblock {
+    width: 80%;
+    margin:auto;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+.lightblock hr {
+   background-color: rgb(var(--gray-monochrome));
+}
+.darkblock {
+    width: 75%;
+    margin:auto;
+    box-shadow: 0px 0px 35px rgba(20,20,20,1);
+    text-shadow: 1px 1px 1px rgba(255,255,255,.50);
+}
+.darkblock2 {
+    background: rgb(var(--black-monochrome));
+    color: rgb(var(--white-monochrome));
+    border-radius: 10px;
+    padding: 5px 15px;
+    width: 95%;
+    margin:auto;
+    text-shadow: 1px 1px 1px rgba(255,255,255,.50);
+}
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+.scp-image-block {
+    box-shadow: none;
+    background: none;
+}
+:is(div.rate-box-with-credit-button div.page-rate-widget-box,div.page-rate-widget-box) :is(.rate-points,.rateup,.ratedown,.cancel) {
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(255, 255, 255, 0) 0%, rgb(255, 255, 255, 0.95) 85%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+#extrac-div-3 {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(255, 255, 255, 1.95) 60%, rgba(255, 255, 255,1.95) 100%);
+    opacity: 0.15;
+    mix-blend-mode: color-dodge;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 30;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:ambiance
+audio=http://backrooms-wiki.wikidot.com/local--files/level-992/667648__destructo20__sad-scene-background-music.mp3
+|theme=nostalgia-os
+|norate=1
+]]
+[[div class="lightblock"]]
+[[=]]
+[[size 700%]][[span class="material-icons"]][[span style="text-shadow:1px 1px 1px, 0px 0px 5px;color:#464646;"]]sentiment_satisfied_alt[[/span]][[/span]][[/size]]
+[[/=]]
+-----
+{{我们都曾偶然发现过它，有人因机缘巧合，有人因内心渴望，而当它放我们离去时，我们哭泣——并非因为结束，而是因为我们知道//永远//都不会再有如此真实的感觉。假若你正阅读这段文字…说明你也记得。这意味着 //你// 曾到过那里. 你曾回//**家。**//}}
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+-----
+@@@@
+@@@@
+@@@@
+
+[[div class="invisibox"]]
+[[=]]
+你知晓一切。
+@@@@
+@@@@
+从一开始你就知道它是真实的。
+@@@@
+@@@@
+关于它的一切都为真实。
+@@@@
+@@@@
+他甚至比[[[http://backrooms-wiki-cn.wikidot.com/level-18| 旧时记忆]]]更加美好。
+@@@@
+@@@@
+而现在，你知晓你并不孤单。
+@@@@
+@@@@
+他们也亲眼见证过。
+@@@@
+@@@@
+//所有人//都见过。
+@@@@
+@@@@
+你开始深呼吸，感受这一切的真实。
+@@@@
+@@@@
+你闭上双眼。
+@@@@
+@@@@
+[[size 150%]]//**.@@.@@.**//[[/size]]
+@@@@
+@@@@
+你记得它仿佛昨日。
+[[/=]]
+[[/div]]
+
+@@@@
+[[=image http://backrooms-wiki.wikidot.com/local--files/level-992/lvl992-0sky.jpg style="display: block; width: 90%; margin:auto;"]]
+@@@@
+
+[[div class="invisibox"]]
+[[=]]
+你记得当时如何自问？
+@@@@
+@@@@
+**自由。**
+@@@@
+@@@@
+这就是答案，并非概念并非梦想，而为//感受//——如此鲜活，流淌在你的器官、骨骼与血液之中。
+@@@@
+@@@@
+山丘、天空、阳光——那处地方的每一寸都在反复低语：
+@@@@
+@@@@
+//你自由了。//
+@@@@
+@@@@
+不再有幽闭的走廊压迫你。
+@@@@
+@@@@
+不再有阴影吞噬你的姓名。
+@@@@
+@@@@
+在这片静谧中，你心中涌出无声的自问：
+@@@@
+@@@@
+//如此真实的存在，为何隐藏了这么久？//
+@@@@
+@@@@
+我们都这样问过，不是吗？
+@@@@
+@@@@
+在后室诞生之前。
+@@@@
+@@@@
+在我们的欢乐成为代价之前。
+@@@@
+@@@@
+在生活变成账单、税收、助学贷款、房贷、责任与义务的暴风雨之前。
+@@@@
+@@@@
+但无人知晓答案。
+@@@@
+@@@@
+-----
+@@@@
+@@@@
+有人称其幻境；有人坚信是天堂的错位。
+@@@@
+@@@@
+但名称不重要。
+@@@@
+@@@@
+重要的是它如何改变了//你。//
+@@@@
+@@@@
+你记得山丘如何与你同呼吸，每一处起伏如同沉睡世界的胸膛。
+@@@@
+@@@@
+那里没有道路。
+@@@@
+@@@@
+但每个方向都通向家园。
+@@@@
+@@@@
+每一步都轻盈如许，仿佛大地本身渴望你的徜徉。
+@@@@
+@@@@
+你仍能感受指尖拂过的青草——柔软、宽容、生机盎然。
+@@@@
+@@@@
+除了风的呢喃万籁俱寂。但这寂静并非空无。
+@@@@
+@@@@
+它//充盈饱满。//
+@@@@
+@@@@
+充盈着未言之物。如同歌曲前的静默，彩绘玻璃光影中的教堂肃穆。
+@@@@
+@@@@
+而那太阳...
+@@@@
+@@@@
+你从未抬头仰望。
+@@@@
+@@@@
+不必如此。
+@@@@
+@@@@
+它恒久停留在你余光里，温暖安稳，如同无需确认的母性存在。
+@@@@
+@@@@
+天空不仅是蓝色。
+@@@@
+@@@@
+它//无边无界。//
+@@@@
+@@@@
+没有起点。
+@@@@
+@@@@
+没有终点。
+@@@@
+@@@@
+那种童年时相信奇迹才会见到的蓝。
+@@@@
+@@@@
+云朵...
+@@@@
+@@@@
+它们并非飘浮。
+@@@@
+@@@@
+它们在//起舞。// 如同古老得难以名状却神圣不容遗忘的思绪。
+@@@@
+@@@@
+你从不想起食物、睡眠或时间。
+@@@@
+@@@@
+永不疲倦。
+@@@@
+@@@@
+永不饥渴。
+@@@@
+@@@@
+唯有安宁。
+@@@@
+@@@@
+如同漫长憋气后的第一次呼吸。
+@@@@
+@@@@
+没有对明天的恐惧。没有昨日的伤痛。
+@@@@
+@@@@
+只有//当下//的喜悦。
+@@@@
+@@@@
+莫名间，无需只言片语，你已顿悟。
+@@@@
+@@@@
+此地无意挽留你。
+@@@@
+@@@@
+不必如此。
+@@@@
+@@@@
+它仅仅//存在。//
+@@@@
+@@@@
+这便足够。
+@@@@
+@@@@
+它让你忆起遗忘之物。
+@@@@
+@@@@
+不在脑海，而在灵魂深处。
+@@@@
+@@@@
+奔跑，只为奔跑本身。
+@@@@
+@@@@
+失眠时与星辰对话。
+@@@@
+@@@@
+笑至泪流。
+@@@@
+@@@@
+哭至破涕。
+@@@@
+@@@@
+时隔经年...二者皆不再令你恐惧。
+@@@@
+@@@@
+常年背负的重担？烟消云散。
+@@@@
+@@@@
+你并不孤单。
+@@@@
+@@@@
+他们也在那里。
+@@@@
+@@@@
+不在身侧。
+@@@@
+@@@@
+不可目见。
+@@@@
+@@@@
+但可感知。
+@@@@
+@@@@
+或许是陌路人。
+@@@@
+@@@@
+或许是至亲。
+@@@@
+@@@@
+都不重要。
+@@@@
+@@@@
+在此你们并无二致。
+@@@@
+@@@@
+同片天空下徜徉。
+@@@@
+@@@@
+同缕阳光中沐浴。
+@@@@
+@@@@
+无论你曾是谁，无论什么曾击倒你。
+@@@@
+@@@@
+在这里...
+@@@@
+@@@@
+你自由了。
+@@@@
+@@@@
+你记得当时所思：
+@@@@
+@@@@
+此地无需规则。
+@@@@
+@@@@
+无需意义。
+@@@@
+@@@@
+无需任何附加。
+@@@@
+@@@@
+因为它本身就是意义。
+@@@@
+@@@@
+是一切经历的终极指向...
+@@@@
+@@@@
+每份痛苦。
+@@@@
+@@@@
+每份欢愉。
+@@@@
+@@@@
+每个转瞬即逝的心跳。
+@@@@
+@@@@
+是对你未曾察觉之问的回应。
+@@@@
+@@@@
+于是你只是静坐。
+@@@@
+@@@@
+凝望。
+@@@@
+@@@@
+呼吸。
+@@@@
+@@@@
+这本该//持续到永远//...
+@@@@
+@@@@
+-----
+@@@@
+@@@@
+此刻你突然明白为何泪水纵横。//非//因悲伤，//非//因喜悦，而是对毕生追寻之物的纯粹认知——尽管你从未意识到自己在追寻。
+@@@@
+@@@@
+//这//才是完整的真谛。
+@@@@
+@@@@
+//这//才是存在的意义...
+@@@@
+@@@@
+你缓缓睁眼。
+@@@@
+@@@@
+[[size 150%]]//**.@@.@@.**//[[/size]]
+@@@@
+@@@@
+恍如昨日，不是吗？
+@@@@
+@@@@
+**自由...**
+@@@@
+@@@@
+回忆近乎灼痛。
+@@@@
+@@@@
+你记得风如何恰到好处拂过发梢——如何在你身后翻涌，仿佛你是某个尚未学会伤害你的世界里的英雄。
+@@@@
+@@@@
+双足如何轻盈，仿佛脚下大地都在为你鼓劲，主动承托你的每一步。
+@@@@
+@@@@
+无需扮演任何角色。
+@@@@
+@@@@
+无需佩戴面具。
+@@@@
+@@@@
+无需背负名姓。
+@@@@
+@@@@
+唯有静谧的承诺：此刻，//你本自具足。//
+@@@@
+@@@@
+不是空洞的安慰——不，当斑驳暖阳穿过叶隙时，你会确信世界为你精心雕琢了这个瞬间。
+@@@@
+@@@@
+有棵树——闭眼仍历历在目。
+@@@@
+@@@@
+被风压弯，根系如远古手掌般虬结。
+@@@@
+@@@@
+你坐在树下，指尖抚过树皮，阅读只有心灵能懂的语言。
+@@@@
+@@@@
+那时你寡言少语。
+@@@@
+@@@@
+不必多言。
+@@@@
+@@@@
+寂静本身震耳欲聋。
+@@@@
+@@@@
+充满意义。
+@@@@
+@@@@
+充满安宁。
+@@@@
+@@@@
+充满//存在感。//
+@@@@
+@@@@
+这便是全部。
+@@@@
+@@@@
+你想永远停留。
+@@@@
+@@@@
+//天啊，//你多想永远停留。
+@@@@
+@@@@
+就像高中最后一日，放学铃响时空气中颤动的欢笑与空洞诺言。当时你们都不知道，那些无忧时光正从指间如沙流逝。
+@@@@
+@@@@
+现实的重量轰然压下，几乎要将你击垮。
+@@@@
+@@@@
+太不公平。
+@@@@
+@@@@
+生活从不公平。
+@@@@
+@@@@
+什么都不公平。
+@@@@
+@@@@
+你崩溃恸哭，以为早已流干的泪再度决堤。
+@@@@
+@@@@
+颤抖的手探入口袋...
+@@@@
+@@@@
+它还在。
+@@@@
+@@@@
+那张[[span class="outerglow"]]//**体验//**[[/span]]的唯一留影。
+@@@@
+@@@@
+后室吞没你之前，人生最后的快照。
+@@@@
+@@@@
+在我们的欢乐成为代价之前。
+@@@@
+@@@@
+在生活变成账单、税收、助学贷款、房贷、责任与义务的暴风雨之前。
+@@@@
+@@@@
+[[=image http://backrooms-wiki.wikidot.com/local--files/level-992/lvl992-0.jpg]]
+@@@@
+心底深处，你明白真相...我们都明白。
+@@@@
+@@@@
+你再也无法见到它了。我们都一样。
+@@@@
+@@@@
+但在某个转瞬即逝的时刻，我们都曾记起身为人类的感受。
+@@@@
+@@@@
+[[/=]]
+[[/div]]
+-----
+@@@@
+@@@@
+
+[[=]]
+[[module rate]]
+[[/=]]
+
+@@@@
+@@@@
+-----
+[[=]]
+[[collapsible show="不要因为结束而哭泣…" hide="要因为发生过而微笑。"]]
+
+**~ 作者：__[[*user Anime_Roar]]__**
+**~ 译者：__[[*user MCMK-1234]]__**
+++ __特别鸣谢:__
+**[[*user DrAkimoto]]、**
+**[[*user Red-eyes Dragoon]]、**
+**[[*user InspectingCritters]]、**
+**[[*user DivineAtlas]]、**
+**[[*user XRaggiX]]**
+
+++ 感谢各位的审阅/批评/支持！
+
+++++ __**敬请期待未来作品！查看其他创作：**__
+[[include :calf-0-sandbox:pages]]
+[[/=]]
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[http://backrooms-wiki-cn.wikidot.com/level-991 |Level 991]]] | **Level 992** | [[[http://backrooms-wiki-cn.wikidot.com/level-993 |Level 993]]] >>
+[[/=]]
+[[/div]]
+-----
+[[include :backrooms-wiki-cn:component:license-box | author=Anime_Roar]]
+=====
+> **音频名：** 667648_destructo20_sad-scene-background-music.mp3
+> **作者：** Destructo20
+> **许可协议：** [[[https://creativecommons.org/publicdomain/zero/1.0/ | CC0]]]
+> **来源链接：** https://tinyurl.com/4wnxyskf
+> **附加说明：** 由[[*user Anime_Roar]]编辑
+=====
+> **图片名：** lvl992-0sky.jpg
+> **作者：** POS78
+> **许可协议：** [[[https://creativecommons.org/licenses/by-sa/4.0/ |CC BY-SA 4.0]]]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Clouds_and_blue_sky_in_Kashmar.jpg
+> **附加说明：** 由[[*user Anime_Roar]]编辑
+=====
+> **图片名：** lvl992-0.jpg
+> **作者：** Ian Burt
+> **许可协议：** [[[https://creativecommons.org/licenses/by/2.0/ |CC BY 2.0]]]
+> **来源链接：** https://www.flickr.com/photos/oddsock/59290347
+> **附加说明：** 由[[*user Anime_Roar]]编辑
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

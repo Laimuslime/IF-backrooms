@@ -1,0 +1,452 @@
+[[include :backrooms-wiki-cn:theme:bntg]]
+[[module CSS]]
+
+:root {
+
+    --logo-image: http://backrooms-sandbox-2.wikidot.com/local--files/collab:bntgcollab/toplogo;
+    --header-title: "B.N.T.G.";
+    --header-subtitle: "以繁荣促和平";
+
+}
+[[/module]]
+[[include :backrooms-wiki-cn:credit:start]]
+
+> 由**[[*user XRaggiX]]**、**[[*user DrAkimoto]]**和[[*user Greggita Mahayfaio]]撰写。
+
+> 由**[[*user calf-0]]**、**[[*user ThEndlessRain]]**和**[[*user bbianshu]]**译就。
+
+> 感谢**[[*user SquibbleZombie]]**、**[[*user InspectingCritters]]**、和**[[*user MC_Crafter_24_7]]**为此页面提供批判！
+
+> 感谢**[[*user Light_Nate]]**协助图像编辑。
+
+> 由**[[*user Praetor3005]]**过绿灯。
+
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[=]]
+
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/logo.png style="width:200px;"]]
+
+[[size x-large]]**后室不结盟贸易集团**[[/size]]
+
+[[size large]]//“以繁荣促和平”// [[/size]]
+
+[[/=]]
+
+@@@@
+
+[[div class="titleblock"]]
+
+[[span class="titlebox"]]什么是B.N.T.G.？[[/span]]
+
+后室不结盟贸易集团，通称B.N.T.G.，是一个由多个附属基地、经济机构与监管单位构成的团体，秉持“//以繁荣促和平//”的主要目标。我们专注于构建集中化的贸易网络，积累其他多数团体难以企业的海量物资、人脉与情报。该理念贯穿B.N.T.G.的各项方面，我们不仅借此改善成员的生活条件，更通过与后室中多数主要团体进行贸易激励，以经济互利的方式维护和平。
+
+自成立以来，B.N.T.G.便建立起产品制造、农业生产与服务贸易的基础设施，由此形成了一个被多数流浪者以各种方式依赖的类经济体系。我们奉行绝对中立原则，绝不干涉其他团体势力的斗争，唯有遭受挑衅时才会采取武力回击。多年以来，B.N.T.G.通过这些举措，为其成员与受保护的流浪者创造了前所未有的层级，同时巩固了我们作为最大贸易集团的核心地位。
+
+@@@@
+~~~~
+[[/div]]
+@@@@
+----
+@@@@
+[[div class="titleblock"]]
+[[span class="titlebox"]]历史[[/span]]
+
+我们诞生于M.E.G.内部动荡不安的时期，从高层特工到底层新手，所有人在最基本的决策上存在分歧，这些致命的决策失误主要与近期发现的[http://backrooms-wiki-cn.wikidot.com/old:crimson-forest 深红森林]和贪婪权利的[http://backrooms-wiki-cn.wikidot.com/beneath-the-veil 蒙面教会]有所相关。导致我们成立的主要原因是艾尔莎·戴维斯之死，她遭该邪教直接谋杀。
+
+亚瑟·梅隆[[footnote]]艾尔莎·戴维斯在和哥哥一同切入后室时就已结婚，因此他们姓氏不同。[[/footnote]]，她的哥哥，对M.E.G.的领导不力导致许多人死亡而感到愤怒。与一位名叫戴安娜·斯图沃特的女人，她也因同样的决策失误而造成了巨大损失和终身残疾，为他们团体的秩序而奔走呼号。当秩序未能实现时，他们带领着思想开放的追随者脱离了组织。
+
+自成立初期，我们通过与[http://backrooms-wiki-cn.wikidot.com/level-22 Emstable]合作建立[http://backrooms-wiki-cn.wikidot.com/office-space-el3a 办公区EL3A]，我们始终秉持两大主要目标：通过贸易团结让后室成为真正的家园，并与所有组织保持积极中立的关系。我们致力于改善生活条件，这些努力终将使后室的环境达到[http://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]水准，同时与[http://backrooms-wiki-cn.wikidot.com/the-eternal-repository 永恒资料库]等备受质疑或神秘莫测的团体缔结贸易协定。这些合作正是我们对目标无限忠诚的证明。
+
+尽管戴安娜已另立门户创立了[http://backrooms-wiki-cn.wikidot.com/the-u-e-c U.E.C.]，亚瑟也彻底卸任，但我们始终坚守着M.E.G.自成立以来便艰难确立的核心立场与未来愿景。通过新一代领导团队与直属成员的接续努力，我们数年来成功秉持着以信任与贸易维系常态化的坚定信念。如今，我们的名号与文化已传遍整个后室，贸易网络更覆盖了近乎所有主要层级。
+
+@@@@
+[[/div]]
+@@@@
+----
+@@@@
+[[tabview]]
+
+[[tab 就业机会]]
+
+[[=]]
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/logo.png style="width:80px;"]]
+
+[[/=]]
+
+B.N.T.G.实行宽松的指挥链制度，允许成员在行动上保持独立性，只要其行动最终能促进整个组织的利益。以下列出的职位名并非只是作为头衔使用，而是用于标识B.N.T.G.体系内的职位划分，我们为直属成员与合作流浪者提供多种就业机会。
+
+[[/tab]]
+
+[[tab 行政机构]]
+
+**董事会** - 通常被视作B.N.T.G.的“领导层”；是一个由8名成员组成的民选理事会。该机构代表组织作出重大决策，并维系各分支机构的高效沟通。理事会成员每两年会选举一次，候选人从各个部门的执行官团体中选出。
+
+----
+
+**执行官** - 执行官是B.N.T.G.的各个部门、基地、业务板块、前哨等主要职能的直接负责人。他们负责日常运营管理，并作为组织内唯一拥有投票权的权力阶层，占据着独特的决策地位。作为各个基地的领导者，执行官们统筹调配本地资源，监管B.N.T.G.的各个部门与附属贸易集团的各项项目。
+
+[[/tab]]
+
+[[tab 带薪职位]]
+
+**管理人员** - 直接负责专项团队与项目的负责人，该职位包括但不限于：
+* 团队领导者
+* 协调员
+* 主管
+* 现场工长
+* 研究项目负责人。
+通常，这些人员需向一位或多位执行官汇报工作进展，并在必要时接收新的工作指令。
+
+----
+
+**普通员工** - B.N.T.G.中的非管理人员与合作方构成了组织内最常见的职位。这些职位涵盖了多种职位和头衔，除安保职位外，近乎所有非管理人员都属于“员工”范畴，具体包括：
+* 工厂工人
+* 建造师与工作师
+* 采矿操作员
+* 物流配送员
+* 探员。
+毋庸置疑，他们是支撑整个组织运作的基石，所有项目都离不开他们的贡献。
+
+
+[[/tab]]
+
+[[tab 公共部门]]
+
+**平民** - 指该组织控制或运营的众多基地、前哨与各级设施中的非公会成员群体，以及参与B.N.T.G.旗下经济的非隶属流动人员，平民群体可获得非直接就业机会，主要从事商店店员、厨师、清洁工、教师等日常民生类职位。[[size smaller]]虽然这些职位为带薪工作，但平民雇员不享有完整的B.N.T.G.员工福利待遇。[[/size]]
+
+
+[[=]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/job style="width:100%;"]]
+[[/=]]
+[[/tab]]
+
+[[tab 安全运营部门]]
+[[=]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/soc style="width:100%;"]]
+[[/=]]
+
+安全运营部门，内部称作SOC，负责B.N.T.G.所有必要的安全与防御事务。该部门由一名董事会成员直接领导，其指挥链严格程度远超该组织的其他部门。出于安全考虑，该部门的具体架构属于内部机密，以下是对外公开的已知部门：
+
+**贸易集团警察** - 通称TGPF，由所有与B.N.T.G.结盟的基地和前哨的内部安全部门组成。其中最优秀的成员会被选举进入交易保险库的安保特遣队。
+
+**保护服务** - 该部门与多位管理人员与项目团队合作，在探索后室期间提供贴身保护。主要由多个专业小组和特遣队组成。
+
+**危机管理** - 高度机密部门，专门负责对外部势力的防御行动。
+
+@@@@
+
+[[/tab]]
+
+[[/tabview]]
+
+@@@@
+----
+@@@@
+
+[[div class="titleblock"]]
+
+[[span class="titlebox"]]商人之家[[/span]]
+[[=]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/keep2 style="width:100%;"]]
+[[/=]]
+
+商人之家是B.N.T.G.运营的最著名且规模第二大的基地，其坐落于[http://backrooms-wiki-cn.wikidot.com/level-1 Level 1]跃金段的深处。尽管并非人口最多的基地（这一荣誉归于[http://backrooms-wiki-cn.wikidot.com/level-11 Level 11]的新时代广场），商人之家仍是我们后勤与贸易运作的中心。其地基构建于Level 1纵横交错之廊道的遗迹之上，如今已被精心重组。在这里，我们开辟出了全新的区段，建造了会议室、处理中心，以及公共生活空间。商人之家中居住着精英商人、资深快递员、组织领导者，以及数量不定的，在经过此基地后被送往其他前哨的流浪者。除去人类居民之外，前哨中通常还会居住着我们本团体的“切行”吉祥物，[http://backrooms-wiki-cn.wikidot.com/entity-92 Ferren]。
+
+[[div class="styled-quote"]]
+[[=]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/vault style="width:100%;"]]
+[[/=]]
+~~~~
+基地的中心区域坐落着[http://backrooms-wiki-cn.wikidot.com/traders-vault 交易保险库]，正是这一建构为基地的名称与战略选址提供了灵感。保险库曾是一处廊道，其间充斥着车库式风格的废弃贮存室，如今该地已被改造为后室中规模最为庞大的集中储存设施之一。尽管部分房间仍有异常性质留存，但如今每处房间已然有了具体的用途：有些房间存放着分门别类的物资储备[[footnote]]例如我们自行成产的[http://backrooms-wiki-cn.wikidot.com/object-5 糖果]。[[/footnote]]，有些则充当异常物品的隔离区，还有少数几个房间专用于存放跨层级交易的高价值商品。由于已然成为了低级窃贼与著名团体袭击的中心目标，因此保险库被普通警卫以及经过特殊训练的、足以击退成群结队之实体的特工严加看管。
+[[/div]]
+
+由于商人之家存在于Level 1之中，它同时还是B.N.T.G.对于新流浪者与贸易伙伴的首次接触点。商人之家的商贩们常常充当着B.N.T.G.非正式使节的角色，负责协商交易路线、组织勘探行动，以及维护补给线。本质上讲，相较于堡垒，商人之家更像是一处充满活力的交易市场与设防的前哨站，已然成为了宜居地带走廊中的贸易中心。
+@@@@
+[[=]]
+[[image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/keep style="width:100%;"]]
+[[/=]]
+@@@@
+[[/div]]
+
+@@@@
+[[div class="titleblock"]]
+[[span class="titlebox"]]其他值得注意的前哨和层级[[/span]]
+
+虽然商人之家仍是我们的大本营，也是大部分行政工作开展的地方，但我们还有其他相关的前哨和基地。这些基地致力于满足我们团体不同的目标、需求和必需品。
+
+[[tabview]]
+
+[[tab 新时代广场]]
+
+位于[http://backrooms-wiki-cn.wikidot.com/level-11 Level 11]中一处被改造为类似现实世界之时代广场的区域，并与无垠城市的其余部分隔离，新时代广场是我们人口最多的前哨站。得益于层级平静的特性，新时代广场是我们多数平民人口所在之地，也是大部分新人在被分配适当职务前被送到的地方。
+
+区域中心处坐落着繁荣的贸易站区[[footnote]]此处的交易主要是通过我们独有的名为“压币”的货币完成的。[[/footnote]]：一个充满活力的十字路口，新成员们在此接受贸易技能的训练。站点周围，餐厅、发廊、酒吧与小型健身房为人们提供了休闲时光。围绕这一中心区域的便是居民楼，每一栋皆设有公寓，通常由整个家庭居住[[footnote]]多数公寓中，水、电和燃气服务都已连接完毕，随时可用。[[/footnote]]。
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/nts]]
+[[/tab]]
+
+[[tab 办公区EL3A]]
+
+集库房与模块化办公空间于一体，位于[http://backrooms-wiki-cn.wikidot.com/level-2 Level 2]廊道深处的[http://backrooms-wiki-cn.wikidot.com/office-space-el3a 办公区EL3A]是我们人口第三多的前哨站。起初被一组前往[http://backrooms-wiki-cn.wikidot.com/the-hub 枢纽]的供应小队意外发现，随后在Emstable的帮助下得到了扩建与发展，这一前哨站起到了大型储存与分销站点的作用。
+
+第一区域由一处地面层仓库组成，是进行货物分销的区域。大多数物品、材料与补给会被带到这里暂时储存，随后被分销至后室的其余区域。与之相反，第二区域包含一间休息室与经过改造的模块化办公区，现被用作工人住所。
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/EL3A]]
+~~~~
+[[/tab]]
+
+[[tab Asset 194]]
+
+得益于本团体的宽容结构与官僚制度，领导与高管可对各类支线项目和行动进行自主决策。这使得B.N.T.G.逐步摆脱了前哨站的界限，并将其服务范围扩展到整个层级。
+
+[http://backrooms-wiki-cn.wikidot.com/level-194 Asset 194]便是完美的典范。该地主要由一片位于山脚下的亚热带雨林构成。该层级完全由我团体控制，若想从外部进入，流浪者则需支付费用。有意在此居住的人可要求提供一栋建筑，得益于这片资产所具有的性质，我们可以轻松实现这一要求。Level 194同样是我们[http://backrooms-wiki-cn.wikidot.com/object-85 亚格鲁格亚果]（一种具有强大治愈能力的物品）的主要来源。
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/194]]
+[[/tab]]
+
+[[tab 其他基地]]
+
+其他相关性较低，不过依旧至关重要，的前哨站与资产包括：
+
+* **储存设施**：位于[http://backrooms-wiki-cn.wikidot.com/level-3 Level 3]之中，该设施中存有大量后室最初层级所具备的资源，尤其是电子元件。
+
+----
+
+* **复杂空间前哨站**：又一处二级储存设施。该设施专门储存源自[http://backrooms-wiki-cn.wikidot.com/level-3-1 Level 3.1]机械的微芯片以及高精细科技组件。
+
+----
+
+* **第283层**：该基地设有为夫妻与单人准备的住宿单元，无需支付租金或承担工作义务。该前哨站占据了[http://backrooms-wiki-cn.wikidot.com/level-13 Level 13]中一个完全实体绝迹的楼层。
+
+----
+
+* **塑料矿场**：一个在[http://backrooms-wiki-cn.wikidot.com/level-24 Level 24]中成立的矿场，专门开采构成该层级月亮的塑料材料。
+
+----
+
+* **蒂根果公平交易**：一处高度发达的基地，坐落于完全由B.N.T.G.控制的[http://backrooms-wiki-cn.wikidot.com/level-58 Level 58]之中。该基地的任务不仅是收获蒂根果，同时还监管着该层级的重建与发展——因为该层级被发现时，仍笼罩于荒废与苦难之中。
+
+----
+
+* **羊穴**：一座位于[http://backrooms-wiki-cn.wikidot.com/level-77 Level 77]平原之中的庄园，其是本团体获取绵羊相关材料（例如羊奶和羊毛）的主要来源。
+
+----
+
+* **“发现者、守护者”设施**：尽管由于[http://backrooms-wiki-cn.wikidot.com/level-246 Level 246]的性质，这一设施并非严格意义上的基地，不过我们的搜查团队仍在此搜寻着从过去、现在与未来切入的珍宝。
+
+----
+
+* **白堡**：一处资源提取营地，主要搜集自[http://backrooms-wiki-cn.wikidot.com/level-283 Level 283]中获取的食物补给。
+
+----
+
+* **基地“能源猎手”**：一个以收集[http://backrooms-wiki-cn.wikidot.com/level-740 Level 740]中电池为任务的小型基地。
+
+----
+
+* **“霓虹”交易站**：位于[http://backrooms-wiki-cn.wikidot.com/level-808 Level 808]日落城市边缘，这一设施被用于与城市居民交易商品和材料，并充当该层级当地团体的使馆。
+
+----
+
+* **矿业社区901**：本团体主要的矿产来源；该社区由[https://backrooms-wiki-cn.wikidot.com/level-901 Level 901]内最大的采矿前哨以及一座小村落组成。
+
+
+----
+
+* **Asset 9982**：常被称作[https://backrooms-wiki-cn.wikidot.com/level-998-2 Level 998.2]，该层级是一片形状不规则的大型平原，由装修公司重新改造而成。该区域囊括一座竞技场，其被用于举行人类与实体间的战斗。
+
+
+[[/tab]]
+
+[[tab IF层群基地]]
+
+以下是如今所有IF层群基地：
+
+* **贸易基地**：位于[[[Level IF-3]]]之中，该基地由商场一至三楼买下的几间店铺组成，且向多个层级的[[[the-b-n-t-g|B.N.T.G.]]]组织供应物资。也可进行交易。
+
+----
+
+* **度假基地**：位于[[[Level IF-99]]]之中，对流浪者友好且愿意提供物资，还负责维持岛屿上的生态环境且不定时巡查其他有害实体。
+
+----
+
+* **快餐交易所**：位于[[[Level IF-258]]]之中，交易层级食物、搜集层级物品，并提供有价值的层级情报。
+
+[[/tab]]
+[[/tabview]]
+
+[[/div]]
+
+@@@@
+----
+@@@@
+
+[[div class="titleblock"]]
+
+[[span class="titlebox"]]我们的贸易伙伴[[/span]]
+
+正如我们的名称所示，B.N.T.G.秉持不结盟的理念。意味着我们愿意与任何愿意参与的团体进行贸易，而不考虑任何思想体系或团体结构上的差异。因此，尽管在某些时候，由于困境或分歧，我们与一些团体的关系可能会有所变化，与我们没有积极合作的团体寥寥无几。以下是我们的主要贸易伙伴名单。
+
+[[tabview]]
+
+[[tab 阿丽亚娜集团]]
+
+[[=image https://www.zupimages.net/up/23/30/foux.png style="width:80px;"]]
+
+由于[http://backrooms-wiki-cn.wikidot.com/cercle-ariane 阿丽亚娜集团]分道扬镳、意见不一，B.N.T.G.历来选择与各派系单独接触。在阿丽亚娜集团“内战”期间，我们会为了团体并存，根据需要有选择地支持某些派系。
+
+尽管偶尔会出现争执，但集团仍然是我们重要的贸易伙伴之一。每个派系都与我们进行以物易物，提供独特的材料、稀有文物或专业知识，以换取我们组织管理和与供应有关的专业知识。
+
+[[/tab]]
+
+[[tab 后室机器人科技]]
+
+[[=image http://scutoidbox.wikidot.com/local--files/bkr-theme/backrooms%20robotics.png style="width:80px;"]]
+
+尽管[http://backrooms-wiki-cn.wikidot.com/backrooms-robotics 后室机器人科技]对其内部管理和技术发展通常持保留和保密态度，但在我方成立后不久，他们便主动与我方建立了贸易关系。起初，他们的关注点较为狭窄，主要限于电子元件和工程机械部件。然而，随着我方组织的不断发展，他们的贸易品类也随之增加。如今，他们与我方交换的商品种类繁多，这使他们成为我方长期贸易关系中一个宝贵且不断发展的合作伙伴。
+
+[[/tab]]
+
+[[tab I.M.B.H.]]
+跨维度后室历史博物馆是首批与我们建立正式贸易关系的大型团体之一。
+
+这种合作关系迅速深化：[http://backrooms-wiki-cn.wikidot.com/i-m-b-h I.M.B.H.]现在授予我们访问其大部分研究档案的特权，并且B.N.T.G.的几件文物和发现也在其博物馆的专题展览中展出。同时，我们是他们食品供应、电子设备和生存工具的主要出口团体，我们常常作为关键的经济支柱，支持他们持续的勘探和历史研究工作。
+
+[[/tab]]
+
+[[tab M.E.G.]]
+
+[[=image https://backrooms-sandbox-2.wdfiles.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG style="width:100px;"]]
+
+我们与探险者总署的关系源于共同的起源，但早已超越了最初复杂的局面。在我们分裂之后，关系曾一度紧张且充满猜疑，共存的最初几个月里，我们在合作和任务重点上分歧不断。然而，随着时间的推移，慢慢必然地改变了我们的关系。
+
+如今，[http://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]不仅是我们最大的物流合作伙伴，也是我们的关键盟友。从最初的敌对关系，已经发展成为一种相互依赖、近乎共生的经济伙伴关系，双方都从资源、知识和人力的稳定交流中受益[[footnote]]  我们重拾友谊的一个例子即是[http://backrooms-wiki-cn.wikidot.com/the-office-market 办公室市场]的合作。[[/footnote]]。
+
+[[/tab]]
+
+[[tab U.E.C. ]]
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/the-u-e-c/EUC%20%282%29.png style="width:80px;"]]
+无羁探险者联盟成立后不久，便与我们建立了外交和贸易关系，因其创始人戴安娜·斯图沃特始终是我们的一位朋友。
+
+我们交流的核心内容围绕着军事部件和武器专业知识。作为回报，U.E.C.在恶劣环境中为我们提供后勤支持，并在极少数情况下，在高风险任务中提供直接军事援助。虽然[http://backrooms-wiki-cn.wikidot.com/the-u-e-c U.E.C.]与我们的联系不如M.E.G.般紧密，但事实证明，在战场上，它是一个务实且有用的盟友。
+
+[[/tab]]
+
+[[tab 永恒资料库 ]]
+
+[[=image http://navyeod-24.wdfiles.com/local--files/start/Repository-Signature-Transparent.png style="width:80px;"]]
+[http://backrooms-wiki-cn.wikidot.com/the-eternal-repository 永恒资料库]行事隐秘、神秘莫测，且以挑剔著称，曾被认为近乎不可能与其进行正式合作。然而，在我们成功开展了一系列联合研究和收集行动后，来自资料库的关注日益增长，开启了一条独特的交流渠道。
+
+如今，它们是我们获取信息、晦涩知识和文物的主要来源。作为回报，我们为它们提供食物、精选的交易物品，偶尔还会提供有价值的情报。这种团体虽然脆弱，却是罕见且强大的。
+
+[[/tab]]
+
+[[tab 后室装修公司 ]]
+
+[[=image http://backrooms-wiki.wdfiles.com/local--files/pandashark-s-author-page/icon.png style="width:80px;"]]
+我们与[http://backrooms-wiki-cn.wikidot.com/backrooms-remodeling-co 后室装修公司]建立了富有成效且成果显著的合作关系。尽管我们注意到此公司在非改造层面的最终目标仍不明确，且有时会带来灾难，但我们仍然在彼此之间达成了共识。
+
+我们与该公司公开贸易各种产品和建筑材料，同时，作为交换，我们获得该公司的帮助来建设和构建我们的基地和前哨站。
+
+[[/tab]]
+
+[[tab 其他团体 ]]
+
+尽管我们维持的正式安排较少，但B.N.T.G.仍与其他几个团体保持持久的联系和战略交流。这些关系可能不那么深厚，但对我们更广泛的影响力和贸易网络依然至关重要：
+
+* [http://backrooms-wiki-cn.wikidot.com/the-eyes-of-argos 阿尔戈斯之眼] – 偶尔进行情报与援助的交流，特别是在刑事审判方面。
+
+* [http://backrooms-wiki-cn.wikidot.com/the-kalag-institute 卡拉格灵协会] – 医疗和化学资源贸易有限制；对联合生物研究持续感兴趣。
+
+* [http://backrooms-wiki-cn.wikidot.com/level-109 医生] – 在疾病危机期间提供物资贸易和援助；经常进行医疗合作。
+
+* [http://backrooms-wiki-cn.wikidot.com/the-lost 失落一族] – 文化和历史交易；往往是有情境和层次的互动。
+
+* [http://backrooms-wiki-cn.wikidot.com/travel-rooms-agency 后室旅行社] – 协调安全旅行路线，偶尔交换导航数据，为他们的飞机旅行提供食物补给。
+
+[[/tab]]
+
+[[tab IF层群团体 ]]
+
+//暂无。//
+
+[[/tab]]
+[[/tabview]]
+
+[[/div]]
+
+@@@@
+@@@@
+
+> **联系我们：**
+> 
+> 欲了解更多信息，请访问##green|bkrms://bntg.br/wanderers-portal##或前往您附近的B.N.T.G.附属前哨
+> 
+> **邮箱**：inquiry@bntg.br
+> 
+> **电话：**(001)-336
+> 
+> **无线电** 02;671
+> 
+
+[[footnoteblock]]
+-----
+[[include :backrooms-wiki-cn:component:license-box
+
+|author=XRaggiX、DrAkimoto和Greggita Mahayfaio
+
+|translator=calf-0、ThEndlessRain和bbianshu]]
+
+=====
+
+> 名称：Image from page 16 of "The boy who knew what the birds said
+> 作者：Internet Archive Book Images
+> 协议：Public domain
+> 来源链接：https://flic.kr/p/oroS67
+> 附记：被编辑成logo
+
+> 名称：Port Columbus
+> 作者：Steven Miller
+> 协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/oAEEL6
+
+> 名称：20200716-OSEC-LSC-1162
+> 作者：U.S. Department of Agriculture
+> 协议：Public domain
+> 来源链接：https://flic.kr/p/2jndWWy
+
+> 名称：Times Square - NY
+> 作者：Ana Carina Lauriano
+> 协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/athdeU
+> 附记：经Light Nate编辑且包含BNTG产品广告
+
+> 名称：Spice Bazaar
+> 作者：Bit Boy
+> 协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/cCF9zq
+
+> 名称：The Order of the Spur- Joint Multinational Training Group-Ukraine
+> 作者：Sgt. Timothy Massey
+> 协议：public domain
+> 来源链接：https://commons.m.wikimedia.org/wiki/File:The_Order_of_the_Spur-_Joint_Multinational_Training_Group-Ukraine_(5249011).jpg
+> 附记：为SOC广告，进行了文字编辑和灯光处理
+
+
+> 名称：Employment Advancement Right Now Job Training Initiative
+> 作者：Maryland GovPics
+> 协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/eL69cr
+> 附记：进行了文字编辑，灯光处理和裁剪。
+
+> 名称：empty storage unit
+> 作者：Scott Meyers
+> 协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/dmUVRe
+> 附记：进行了文字编辑，并对细节进行了微调。
+=====
+
+[[include :backrooms-wiki-cn:component:license-box-end]]

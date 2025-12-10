@@ -1,0 +1,296 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+[[module css]]
+/*fonts*/
+/*
+   Reverence Theme
+ 
+   by Evfist (and Viv!)
+*/
+@import url(https://backrooms-wiki.wdfiles.com/local--code/component%3Apatch/1);
+ 
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+ 
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "liminal";
+   --theme-name: "Polish Post Theme";
+ 
+   --logo-image: url("http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mail.png");
+   --header-title: "后室";
+   --header-subtitle: "你收到了一条新的消息！";
+ 
+   --body-font: 'Roboto', sans-serif;
+   --header-font: 'Roboto', sans-serif;
+   --title-font: 'Mukta', sans-serif;
+   --mono-font: 'Mukta', sans-serif;
+ 
+   --white-monochrome: 250, 249, 247;
+   --pale-gray-monochrome: 240, 237, 228;
+   --light-gray-monochrome: 240, 237, 228;
+   --gray-monochrome: 0, 0, 0;
+   --black-monochrome: 25, 20, 16;
+   --bright-accent: 115, 115, 112;
+   --medium-accent: 0, 0, 0;
+   --dark-accent: 0, 0, 0;
+   --pale-accent: 0, 0, 0;
+ 
+   --swatch-topmenu-border-color: var(--medium-accent);
+ 
+   --link-color: 37, 116, 244;
+   --visited-link-color: 0, 82, 163;
+   --hover-link-color: 37, 116, 244;
+   --newpage-color: 186, 0, 0;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--pale-accent)) 0%,
+      rgba(var(--pale-accent)) 100%
+   );
+   --diagonal-stripes: linear-gradient(transparent 0);
+ 
+   /*header shadow*/
+   --background-gradient-distance: 10rem;
+   --background-gradient-color: var(--pale-accent);
+   --gradient-background: linear-gradient(to bottom, rgba(var(--background-gradient-color), 1) 95%,  rgba(var(--background-gradient-color), 0) 100%);
+ 
+   /*side bar*/
+   --swatch-menubg-color: none;
+ 
+    --rating-module-button-plus-color: 0, 0, 0;
+   --rating-module-button-negative-color: 0, 0, 0;
+   --rating-module-button-cancel-color: 0, 0, 0;
+   --rating-module-button-credit-color: 0, 0, 0;
+}
+ 
+#main-content {
+    --tabs-selected-bg: var(--black-monochrome);
+    --tabs-selected-outline: var(--black-monochrome);
+}
+ 
+/*removing dots*/
+#skrollr-body {
+   background-image:http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mails;
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+/*removing dots 2*/
+#container {
+   background-image: imput here;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-5/Mails;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 8rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+ 
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #0c0c0c;
+}
+ 
+/*footnote fix*/
+.hovertip {
+    background-color: rgb(var(--white-monochrome)) !important;
+}
+ 
+/*tab border color*/
+.yui-navset .yui-content {
+     border-color: rgb(var(--pale-accent));
+}
+ 
+/*tables*/
+#page-content table.wiki-content-table th {
+border: 1px solid rgb(var(--bright-accent)) !important;
+background-color: rgb(var(--pale-accent));
+color: rgb(var(--white-monochrome));
+}
+ 
+#page-content table.wiki-content-table td {
+border: 1px solid rgb(var(--pale-accent)) !important;
+}
+ 
+/*searchbox border color*/
+#search-top-box-input {
+    border-color: rgb(var(--white-monochrome));
+}
+
+#search-top-box-form input[type="submit"] {
+    border-color: rgb(var(--white-monochrome));
+}
+ 
+#search-top-box-form input[type="submit"]:hover {
+    border-color: rgb(var(--white-monochrome));
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    color: rgb(var(--gray-monochrome));
+}
+ 
+/*fix scrollbar thingy*/
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--pale-accent));
+  opacity: 1;
+}
+ 
+/*new fancy blockquote*/
+#page-content blockquote,
+#page-content .blockquote,
+#page-content div.blockquote,
+#page-content [class*="blockquote"] {
+    border: 4px double white;
+    outline: 6px solid black;
+    background-color: black;
+    color: white;
+    margin: 1em 46px;
+    padding: 1em;
+}
+ 
+@media only screen and (max-width: 768px) {
+:root{
+   --swatch-menubg-color: var(--white-monochrome);
+}
+ 
+#page-content blockquote,
+#page-content .blockquote,
+#page-content div.blockquote,
+#page-content [class*="blockquote"] {
+    margin-left: 0;
+    margin-right: 0;
+    }
+}
+ 
+.styled-quote {
+   background-color:rgb(var(--light-gray-monochrome));
+   border-left: 0.5rem solid rgba(var(--pale-accent));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0.05rem 0.1rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--white-monochrome));
+   border-left: 0.5rem solid rgba(var(--bright-accent));
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0.05rem 0.1rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote a{
+color: rgb(var(--swatch-menubg-medium-color));
+}
+ 
+.lightblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.darkblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:translations
+|lang=pl en
+|style=float:right;
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:image-block
+    |name=http://pl-backrooms-wiki.wikidot.com/local--files/obiekt-pl-2/Img%20nate%202
+    |caption=在**Level PL-18**拍摄的跨维度邮箱。
+]]
+
+[[div class="styled-quote"]]
++ 描述
+[[/div]]
+**Object PL-2**是波兰后室的一种异常邮箱，其功能是将信件传送至隐秘层级[[[https://backrooms-wiki.wikidot.com/unnumbered-level-post-office|“邮局”]]]，信件最终会出现在收件人附近的某个邮箱里。邮箱的外观会因出现位置不同而变化，且无固定外观。虽然大多数类似于20世纪或21世纪的普通邮箱，偶尔也能发现年代更为久远的款式。
+
+非流浪者制造的跨维度邮箱，实际上是由[[[Entity 9|无面灵]]]在[[[https://backrooms-wiki.wikidot.com/unnumbered-level-post-office|“邮局”]]]制造而成的。它们会将邮箱固定在具有都市特征或类似于都市风貌的层级墙壁上。
+
+**Object PL-2**的外观各异，唯一与普通邮箱的区别在于其内部呈现出纯黑色。此外，邮箱还会发出神秘的低语声，像是在说“寄送！”或“打开！”两句话。值得注意的是，低语声总是会在两种时间段响起，当附近有人想要寄送物品时，或是当收件人即将收到消息时。
+
+[[div class="styled-quote"]]
++ 如何在波兰后室寄送信件和包裹？
+[[/div]]
+
+要将信件或包裹寄送给他人，必须正确填写收件信息。请务必用收件人或目标送达者的姓名全称或常用昵称清晰标注寄件人和收件人信息。若漏填任意一方的姓名，该邮件将在投入邮箱后被直接焚毁。完成信息填写后，只需将信件或包裹投入邮箱。稍等片刻，寄送物就会从箱中消失，并在毫秒内抵达隐秘层级[[[https://backrooms-wiki.wikidot.com/unnumbered-level-post-office|“邮局”]]]。
+
+[[div class="styled-quote"]]
++ 跨维度邮箱有什么物品是禁止寄送的？
+[[/div]]
+
+**Object PL-2**将会拒收任何特定物品，例如任何爆炸物投入后都会被直接弹出且不会损坏邮箱本身，而活体生物被投入后则会传送至距离邮箱约100米的位置。
+[[div class="styled-quote"]]
++ 如何从跨维度邮箱收取消息？
+[[/div]]
+在波兰后室你可以在任意一个跨维度邮箱内领取包裹。消息似乎总会传送至指定收件人的附近邮箱中[[footnote]]若收件人进入了其他层级，信息将自动转移至该区域对应的邮箱中。[[/footnote]]。目前尚未有科学解释这个传送机制。邮箱通常会出现在类似于前厅人类建筑风格的平坦建筑表面上。
+[[div class="styled-quote"]]
++ 如何制造一个跨维度邮箱？
+[[/div]]
+你先要将普通邮箱带至隐秘层级[[[https://backrooms-wiki.wikidot.com/unnumbered-level-post-office|“邮箱”]]]。把邮箱交给[[[Entity 9|无面灵]]]员工之一，请求他将其改造成**Object PL-2**，实体接过邮箱后，将会走向[[[https://backrooms-wiki.wikidot.com/unnumbered-level-post-office|“邮局”]]]后方。任何邮箱均可以，无论新旧或破损程度。整个改造过程约需5分钟，期间充满未知的神秘感。完成后，[[[Entity 9|无面灵]]]会将改造好的跨维度邮箱交还给你。现在你就拥有了属于自己的**Object PL-2**。
+[[>]]
+[[collapsible show="你收到了一条新的消息！" hide="- 隐藏消息"]]
+哦，那只是作者信息！原文作者[[user LisMatis]]，英译者[[user Light_Nate]]，中译者[[user calf-0]]
+[[/collapsible]]
+[[/>]]
+[[=]]
+<< [[[Object PL-3]]] | Object PL-2 | [[[Object PL-3]]] >>
+[[/=]]

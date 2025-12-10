@@ -1,0 +1,331 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "后室观测极点";
+   --header-subtitle: "建造与发展";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=3
+]]
+
+**Level IF-33**是后室IF层群的第33层。
+[[include component:image-block
+ |name=https://images.unsplash.com/photo-1688413399498-e35ed74b554f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU3JUE5JUJBJUU5JTk3JUI0JUU3JUFCJTk5fGVufDB8fDB8fHww
+ |caption=**Level IF-33**的控制台
+]]
++ **描述：**
+Level IF-33类似于一个太空中的前哨站，环境失重，在进入此层级的瞬间流浪者的身上会自动穿戴宇航服，此前哨站即是整个层级，此层级中的太空并不存在任何物质，猜测极有可能只是层级中的一个布景，太空中包含数颗恒星，约330颗，肉眼可观测到12颗行星和23颗矮行星，如前文所述，所有行星均为虚假的、不存在的布景。
+
+层级内部的中心区域为由各种刚性材料组成的封闭房间，此区域为流浪者最先到达的区域，此房间内充满氧气，地板、墙壁、天花板存在有条纹的印迹，此区域光线较暗，电灯无法打开。中心区域连接着外部，进入外部的通道为一道科技电子门，外部光线充足，点灯可以打开，地面与天花板由未知材料组成，墙面则是采取部分金属、部分玻璃制成。
+
+层级的金属墙体上含有大量磨损的痕迹，但也有部分区域被修理好，被修理好的区域为光滑状态，整面金属墙反射着少量的灯光，部分地方还被强烈破坏，出现通往太空的口子，这部分区域通常极度危险，当流浪者靠近这一部分且未采取措施时，流浪者将会被太空区域的气流拽飞，无法返回层级，且会立刻心脏衰竭死亡。玻璃墙采用的是钢化玻璃，难以被完全破坏，但还是出现了少许烧焦的区域和划痕。
+
+层级外部的空中浮有一些基础的生活用品，如螺丝刀、肥皂等，这些物品通常不受到任何重力与推力的影响，完全违反物理规则，但在被拾取那一刻恢复。层级外部存在有部分人生活过的痕迹，目前对于此层级的历史尚不明确。层级内有部分裸露在外的电子设施，部分存在电流，请勿对其触碰，这样可以保证流浪者的状况正常。
+
+层级内存在部分漩涡区域，该区域表现为动力强大的气流绕一个点循环旋转，当流浪者进入时首先会感到巨大的拉力与压力，随机身体组织开始破裂，最后流浪者全身将被撕裂被漩涡吞噬，见到此区域请尽快避开，当你不幸遇到时请匍匐地像一个地方爬行，请不要挣扎或是尝试挣脱，这样会使此漩涡的作用力更加强大，如你成功挣脱，请检查身体的每个方面。
++ **实体**
+++ 修理机器人
+修理机器人猜测原本为此层级修理物品用的机器人，但受到了信号的不明干扰导致其逐渐开始攻击人类，攻击方式为使用螺丝刀或钳子投掷或甩动，移动速度极慢但产生的力极大，建议进入此层级的时候避开此实体，如果见到了请尝试同样的方式攻击，并在某一时刻关闭此机器人的电源，这样可以使它停止任何移动。
++ **基地，前哨和社区**
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]勘探者基地
+* 对此层级进行勘探
+* 后室观测极点的重要基地其一
+* 人员稀少
+* 物资较多
+
++ **入口和出口**
+++++++ 入口
+* 在[[[Level IF-3]]]中后空翻有概率来到本层
+* 在[[[Level IF-4]]]、[[[Level IF-7]]]中感到眩晕概率来到本层
+* 在[[[Level IF-32]]]产生失重感即可来到本层
+++++++ 出口
+* 当流浪者在此层级切出时将会来到[[[Level IF-5]]]、[[[Level IF-9]]]、[[[Level IF-10]]]、[[[Level IF-21]]]、[[[Level IF-26]]]、[[[Level IF-30]]]、[[[Level IF-34]]]中的任意层级。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]朋友给的灵感，正文全是自己写的
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-32]]] | Level IF-33 | [[[Level IF-34]]] >>
+[[/=]]
+[[/div]]

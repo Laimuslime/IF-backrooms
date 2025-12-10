@@ -1,0 +1,310 @@
+[[div class="computer"]]
+[[module ListPages  category="fragment" parent="." limit="1" order="name" offset="@URL|0"]]
+%%content%%
+[[/module]]
+[[/div]]
+
+[[module css]]
+#page-title { display: none; }
+#header div[class*="top-bar"] > ul > li > a { color: transparent; }
+[[/module]]
+
+[[module css]]
+.folder {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.document {
+  position: relative;
+}
+
+.document { color: white; }
+
+.doc-link {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+[[/module]]
+
+[[module css]]
+.document {
+  max-width: 5.3em;
+}
+
+@media only screen and (max-width: 1780px) {
+  .folder { grid-template-columns: repeat(12, 1fr); }
+}
+
+@media only screen and (max-width: 1480px) {
+  .folder { grid-template-columns: repeat(10, 1fr); }
+}
+
+@media only screen and (max-width: 1300px) {
+  .folder { grid-template-columns: repeat(8, 1fr); }
+}
+
+@media only screen and (max-width: 1140px) {
+  .folder { grid-template-columns: repeat(7, 1fr); }
+}
+
+@media only screen and (max-width: 1070px) {
+  .folder { grid-template-columns: repeat(5, 1fr); }
+}
+
+@media only screen and (max-width: 920px) {
+  .folder { grid-template-columns: repeat(4, 1fr); }
+}
+
+@media only screen and (max-width: 900px) {
+  .folder { grid-template-columns: repeat(9, 1fr); }
+}
+
+@media only screen and (max-width: 880px) {
+  .folder { grid-template-columns: repeat(7, 1fr); }
+}
+
+@media only screen and (max-width: 730px) {
+  .folder { grid-template-columns: repeat(6, 1fr); }
+}
+
+@media only screen and (max-width: 660px) {
+  .folder { grid-template-columns: repeat(5, 1fr); }
+}
+
+@media only screen and (max-width: 590px) {
+  .folder { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media only screen and (max-width: 450px) {
+  .folder { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media only screen and (max-width: 370px) {
+  .folder { grid-template-columns: repeat(3, 1fr); }
+
+  .document {
+    grid-column-start: unset !important;
+    grid-row-start: unset !important;
+  }
+}
+[[/module]]
+
+[[module css]]
+@media only screen and (max-width: 900px) {
+  .profileblock {
+    left: 0;
+    width: 8.5rem;
+    height: 8.85rem;
+  }
+
+  .profileblock img {
+    height: 5rem;
+    width: 5rem;
+    transform: translate(-0.5rem, 0.5rem);
+  }
+
+  .profileblock div {
+    position: relative;
+  }
+
+  .profileblock div div {
+    display: none;
+  }
+
+  .profileblock span span {
+    display: none;
+  }
+
+  .profileblock span:nth-child(3) {
+    position: absolute;
+    top: 6.5rem;
+    left: -5.5rem;
+  }
+
+  .messagebox, .replybox {
+    margin-left: 11rem;
+  }
+}
+[[/module]]
+
+[[module css]]
+@media only screen and (max-width: 900px) {
+  .anchor {
+    left: 0;
+  }
+}
+[[/module]]
+
+
+[[div class="rate-wrapper"]]
+[[include :backrooms-wiki:component:open]]
+
+由[[*user Spectre48]]撰写
+由[[*user calf-0]]译就
+CSS由[[*user CutTheBirch]]设计
+艺术作品由[[*user doctrinator]] [[*user justazappyrat]]和[[*user Spectre48]]绘制
+
+授权信息栏也被硬塞进来了
+
+[[include :backrooms-wiki-cn:component:license-box author=Spectre48 |translator=calf-0]]
+
+> **文件名：Screenshot 2025-05-31 202817-modified.png**
+> **作者：Docmidi/Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：** http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/Screenshot%202025-05-31%20202817-modified.png
+> **附加说明：** 向doc致意，他超酷的
+
+> **名称：Halloween2.png**
+> **作者：Docmidi/Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：** http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/Halloween%202.png
+> **附加说明：** 假装我刚刚写了同样的评论，不过这次更搞笑了
+
+> **名称：Party1.png**
+> **作者：Docmidi/Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/party1.png
+
+> **附加说明：** 假装我刚刚写了同样的评论，不过这次更搞笑了
+
+> **名称：Thingfortale2.png**
+> **作者：Docmidi/Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/thingfortale2.png
+
+> **附加说明：** 哈哈，酷
+
+> **名称：Titleslide.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/Titleslide
+
+> **附加说明：**
+> **名称：slide3.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/slide3
+
+> **附加说明：**
+
+> **名称：slide2.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/slide2
+
+> **附加说明：**
+
+> **名称：lastslide.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/lastslide
+
+> **附加说明：**
+
+> **名称：Slide1.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/slide1
+
+> **附加说明：**
+
+> **名称：Titleslide.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a10/Titleslide
+
+> **附加说明：**
+
+> **名称：Backroomsrobotics.png**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a11/Backroomsrobotics.png
+
+> **附加说明：**
+
+> **名称：Bluechannel2.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/bluechannel2.jpg
+
+> **附加说明：**
+
+
+> **名称：gamemaster2.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/gamemaster2.jpg
+
+> **附加说明：**
+
+
+> **名称：Herne2.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/herne2.jpg
+
+> **附加说明：**
+
+
+
+> **名称：JanusTHREEEEE.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/janusTHREEEEE.jpg
+
+> **附加说明：**
+
+
+
+
+> **名称：Youcheated2.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/youcheated2.jpg
+
+> **附加说明：**
+
+
+> **名称：SUmmary.jpg**
+> **作者：Spectre48**
+> **协议：CC BY SA-3.0**
+> **来源链接：**
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-a17/SUmmary.jpg
+
+
+
+> **附加说明：**
+
+
+> **名称：kelly-sikkema-elz_jOsXTf4-unsplash-modified.png**
+> **作者：agamaszota**
+> **协议：Public Domain/CC0**
+> **来源链接：**
+http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png
+
+
+
+> **附加说明：**
+
+
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[include :backrooms-wiki:component:close]]
+[[/div]]

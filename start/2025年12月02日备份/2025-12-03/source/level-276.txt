@@ -1,0 +1,171 @@
+[[module css]]
+
+/* Open offset component */
+div.offset-timeline {
+  --clip-path: -100% -100%, -100% 100vh, 200% 100vh, 200% -100%;
+}
+
+[[/module]]
+
+[!--
+Fragments:
+http://backrooms-wiki.wikidot.com/fragment:level-276-0
+http://backrooms-wiki.wikidot.com/fragment:level-276-1
+http://backrooms-wiki.wikidot.com/fragment:level-276-2
+http://backrooms-wiki.wikidot.com/fragment:level-276-3
+http://backrooms-wiki.wikidot.com/fragment:level-276-4
+http://backrooms-wiki.wikidot.com/fragment:level-276-5
+http://backrooms-wiki.wikidot.com/fragment:level-276-6
+--]
+
+[[include :backrooms-wiki-cn:component:offset-timeline]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+原先概念与文章由Reddit用户u/Nerdykiddo4844撰写。由[[*user Praetor3005]]（[https://backrooms-wiki-cn.wikidot.com/the-meowrooms 作者页]）和[[*user Nikuchan]]（[https://backrooms-wiki-cn.wikidot.com/nikuchan 作者页]）重写。
+
+由[[*user calf-0]]（[[[author:calf-0|译者页]]]）、[[*user ThEndlessRain]]（[[[author:thendlessrain|译者页]]]）和[[*user owl4513]]（[[[author:owl|译者页]]]）译就。
+
+特别感谢[[*user Abdallah Amr]]提供的渐隐块css，还有[[*user drakimoto]]过绿灯！
+
+感谢[[*user Spectre48]]和[[*user Sky3]]的整体点子！
+
+两首音乐均由出色的作曲家[https://www.youtube.com/@DapperHusky Dapper Husky]创作。记得去看看他的油管频道！他为后室创作了许多精彩的音乐。
+
+[[=]]
+> +++* ##red|内容警告：迭代内包含大量血腥、惊悚的画面。若您对此感到不适请勿取消模糊处理。##
+[[/=]]
+------
+++++* 术语表：
+* [[span class="ruby"]]哈夫瓦特[[span class="rt"]]Huvvat[[/span]][[/span]] - 失落一族对于蜂巢腐化后的称呼
+* [[span class="ruby"]]寰宇[[span class="rt"]]Mundus[[/span]][[/span]] - 失落一族对于蓝色通道，及其内部一切的称呼。
+* [[span class="ruby"]]虚空[[span class="rt"]]Nihil[[/span]][[/span]] - 失落一族对于坟墓的称呼
+* [[span class="ruby"]]天境[[span class="rt"]]Paradeos[[/span]][[/span]] - 失落一族对于蜂巢腐化前的称呼
+[[include :backrooms-wiki-cn:credit:end]]
+[[include :scp-wiki-cn:component:info-cw]]
+
+[[include :backrooms-wiki-cn:component:translations
+|lang=en
+|style=float:right;
+|title=Languages:
+]]
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+@@ @@
+[[include :backrooms-wiki-cn:component:offset-timeline]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [https://backrooms-wiki-cn.wikidot.com/level-275 Level 275] | Level 276 | [https://backrooms-wiki-cn.wikidot.com/level-277 Level 277] >>
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:license-box
+author=Praetor3005和Nikuchan |translator=calf-0、ThEndlessRain和owl4513]]
+=====
+
+> **名称：** Level 8 - M.E.G Cave Raiders
+> **作者：** Dapper Husky
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/ CC BY SA 3.0]
+> **来源链接：** https://www.youtube.com/watch?v=wMTghQN0Mew
+
+> **名称：** The Hive OST
+> **作者：** Dapper Husky
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/ CC BY SA 3.0]
+> **来源链接：** https://www.youtube.com/watch?v=9n0c2hMeuds
+
+> **文件名：** M.E.G. logo
+> **名称：** IMG_3130.PNG
+> **作者：** [[*user Kosef Sturre]]
+> **协议：** [https://creativecommons.org/licenses/by/3.0/ CC BY 3.0]
+> **来源链接：** http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG
+
+> **名称：** 592
+> **作者：** anders pearson
+> **协议：** [https://creativecommons.org/licenses/by-sa/2.0/deed.fr CC BY-SA 2.0]
+> **来源链接：** https://www.flickr.com/photos/thraxil/2566307918/in/album-72157600068913439
+
+> **文件名：** BREAKFAST (held by) HOTEL CHAMPLAIN (at) "CLINTON CO., NY" (HOTEL) (NYPL Hades-277186-4000014791).jpg
+> **作者：** Scan by NYPL
+> **协议：** Public Domain
+> **来源链接：** https://commons.wikimedia.org/wiki/File:BREAKFAST_(held_by)_HOTEL_CHAMPLAIN_(at)_%22CLINTON_CO.,_NY%22_(HOTEL)_(NYPL_Hades-277186-4000014791).jpg
+
+> **名称：** Pella Museum -- Mosaic 01.jpg
+> **作者：** Explorer1940
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/deed.fr CC BY-SA 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Pella_Museum_--_Mosaic_01.jpg
+
+> **名称：** Pella Museum -- Mosaic 02.jpg
+> **作者：** Explorer1940
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/deed.fr CC BY-SA 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Pella_Museum_--_Mosaic_02.jpg
+
+> **名称：** Antakya Archaeological Museum Evil Eye Mosaic in 2019 08.jpg
+> **作者：** Dosseman
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/deed.fr CC BY-SA 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Antakya_Archaeological_Museum_Evil_Eye_Mosaic_in_2019_08.jpg
+
+> **名称：** Antakya Archaeological Museum Lycurgus entangled in the vine mosaic in 2019 04.jpg
+> **作者：** Dosseman
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/deed.fr CC BY-SA 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Antakya_Archaeological_Museum_Lycurgus_entangled_in_the_vine_mosaic_in_2019_04.jpg
+
+> **名称：** Christ's Descent into Hell MET DP-1207-001.jpg
+> **作者：** Follower of Hieronymus Bosch
+> **协议：** Public Domain
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Christ's_Descent_into_Hell_MET_DP-1207-001.jpg
+
+> **名称：** Redon crying-spider.jpg
+> **作者：** Odilon Redon
+> **协议：** Public Domain
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Redon_crying-spider.jpg
+
+> **名称：** viscera
+> **作者：** anders pearson
+> **协议：** [https://creativecommons.org/licenses/by-sa/2.0/deed.fr CC BY-SA 2.0]
+> **来源链接：** https://www.flickr.com/photos/thraxil/132141307/in/album-72057594112728914
+
+> **名称：** 534
+> **作者：** anders pearson
+> **协议：** [https://creativecommons.org/licenses/by-sa/2.0/deed.fr CC BY-SA 2.0]
+> **来源链接：** https://www.flickr.com/photos/thraxil/2249418521/in/album-72157600068913439
+
+> **名称：** 533
+> **作者：** anders pearson
+> **协议：** [https://creativecommons.org/licenses/by-sa/2.0/deed.fr CC BY-SA 2.0]
+> **来源链接：** https://www.flickr.com/photos/thraxil/2246931971/in/album-72157600068913439
+
+> **名称：** fleshtree stage 2
+> **作者：** anders pearson
+> **协议：** [https://creativecommons.org/licenses/by-sa/2.0/deed.fr CC BY-SA 2.0]
+> **来源链接：** https://www.flickr.com/photos/thraxil/406350862/in/album-72157594562964984/
+
+> **名称：** Stockyard Gully Cave exit in Drovers Cave National Park, Western Australia.png
+> **作者：** Maclearite
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/deed.fr CC BY-SA 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Stockyard_Gully_Cave_exit_in_Drovers_Cave_National_Park,_Western_Australia.png
+
+> **名称：** Diverticulosis (two diverticula) 02.jpg
+> **作者：** Jmarchn
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/deed.fr CC BY-SA 3.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Diverticulosis_(two_diverticula)_02.jpg
+
+> **名称：** Duodenal ulcer, Forrest III, healing phase.jpg
+> **作者：** Jmarchn
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/deed.fr CC BY-SA 3.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Duodenal_ulcer,_Forrest_III,_healing_phase.jpg
+
+> **名称：** Polyp (tubular adenoma) in sigmoid colon.jpg
+> **作者：** Jmarchn
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/deed.fr CC BY-SA 3.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Polyp_(tubular_adenoma)_in_sigmoid_colon.jpg
+
+> **名称：** Endomucosal resection 1.jpg
+> **作者：** Kd4ttc
+> **协议：** [https://creativecommons.org/licenses/by/2.5/deed.en CC BY-SA 2.5]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Endomucosal_resection_1.jpg
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

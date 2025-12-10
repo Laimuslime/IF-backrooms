@@ -1,0 +1,127 @@
+[[include :backrooms-wiki-cn:theme:aero-glass]]
+[[module CSS]]
+:root {
+    --title: " The Backrooms IF";
+    --subtitle: " 你曾经来过这里";
+    --logo: url(http://if-backrooms.wikidot.com/local--files/start/Logo);
+ 
+    --gray-monochrome: 94, 75, 50;
+    --dark-gray-monochrome: 70, 55, 40;
+ 
+    --bright-accent: 210, 180, 140;
+    --pale-accent: 255, 200, 150;
+    --newpage-color: 230, 190, 160;
+ 
+    --background-image: url(https://images.unsplash.com/photo-1525522819526-d571040e1607?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU1JTk0JUIxJUU3JTg5JTg3JUU1JUJBJTk3fGVufDB8fDB8fHww);
+ 
+    --main-aero-glass-filter: blur(7px) brightness(1);
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-207**是后室IF层群的第207层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1525522819526-d571040e1607?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU1JTk0JUIxJUU3JTg5JTg3JUU1JUJBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-207**的货架。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1710301266286-5108fbf0c032?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JTk0JUIxJUU3JTg5JTg3JUU1JUJBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-207**的另一个货架。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1645986052988-58547797dc4e?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU1JTk0JUIxJUU3JTg5JTg3JUU1JUJBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-207**的一个区域。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1568841228566-455c6533e892?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUU1JTk0JUIxJUU3JTg5JTg3JUU1JUJBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-207**的门口。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1696482156958-e7d5aa3a6f38?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fCVFNSU5NCVCMSVFNyU4OSU4NyVFNSVCQSU5N3xlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-207**的展示架。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1745215652254-301d7e1c0256?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVFNSU5NCVCMSVFNyU4OSU4NyVFNSVCQSU5N3xlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-207**的书架。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1692113569278-ecf365a8347d?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFNSU5NCVCMSVFNyU4OSU4NyVFNSVCQSU5N3xlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-207**的前台。
+]]
+**Level IF-207**为一极小的唱片店，内部结构极为复古，风格类似于20世纪70至80年代。该层级内部有着大量的电力供应，目前尚未知晓其来源。层级总是恒定在令人舒适的温度，且会自我调整。层级内部有着大量可以正常播放的黑胶唱片以及音乐设备。
+
+**Level IF-207**面积约为200㎡，层级形状呈长方形，流浪者很容易便可逛完整个层级。层级的地板由洁净的木头所组成，白色的墙壁之上贴满了大大小小的复古音乐海报，这些海报上描述的音乐多为虚构，但也有部分为前厅中上个世纪知名或评价极高的音乐海报。
+
+**Level IF-207**中央设有一试听区，试听区为一独立区域，整体装饰与其他区域大相径庭。试听区的墙壁、地板以及天花板均为白色。试听区在无音乐播放的时刻时通常是极为安静的，试听区内部配备有多台的老式唱片机和耳机，这些设备上标有模糊的黑色标记。
+
+**Level IF-207**的主区域摆满了大量货架，每个货架之上都放有数千个物品，这些物品大多为黑胶唱片。黑胶唱片完好无损，上面带有些许灰尘，但当流浪者将唱片从货架上拿下来时，唱片又会焕然一新。唱片涵盖了各种流派，如古典、摇滚、爵士、电子等。大部分唱片为前厅中已发行过或是存在过的种类，少部分为层级之内专有。
+
+**Level IF-207**内总是有着暖色灯光，大部分为柔和的黄色，这种灯光覆盖了层级的每一处，使层级蒙上了黄色的滤镜。灯光没有任何异常，不会出现闪烁会突然关闭的症状。灯光并不会因电源停止而熄灭，这意味着灯光的供电可能来自另一个地方。
+
+**Level IF-207**中的流浪者大多报告层级始终播放着微弱的白噪音，这种白噪音会随着流浪者进入而一直播放，仅有少数流浪者可注意到。白噪音的音量似乎会变化，但绝不会干扰流浪者在层级中的正常交流。这种白噪音类似于老式音响正在播放音乐时传出的底噪，不会对流浪者造成任何其他方面的影响。
+
+**Level IF-207**的温度正如前文所述会自我调节，但大部分时间始终保持在22℃。层级的湿度适中，流浪者在进入此层级之后不会感到干燥或是潮湿。层级内没有任何异常的气味或是霉味，大部分流浪者进入层级之后甚至出现了短暂失去嗅觉的症状。
+
+**Level IF-207**的时间流速与前厅中的正常流速并无什么明显的区别，依旧为一天二十四个小时。此层级并无昼夜循环，层级窗外的白天与黑夜会随机变化，且每次当流浪者进入层级时层级都不会有明显的明暗变化，昼夜虽如此，但流浪者的生物钟并不会随着进入层级而改变。
+
+**Level IF-207**的所有唱片均可正常的播放，且音质较好。部分唱片的封面上可能没有文字或是创作者的信息，但其仍可播放，这些唱片被称为“无主唱片”。唱片似乎表现出某种可以改变流浪者心情的特质，某些唱片在播放时似乎会给予流浪者轻微的精神安抚，这种精神安抚可以缓解流浪者的焦虑或是恐慌。
+
+**Level IF-207**的每个角落似乎都摆放着一台老式的自动售货机，该售货机可正常使用，且不需要额外的电源也可24小时不间断地运行。该自动售货机可供应一些食物，大部分为前厅中出现的种类，如巧克力棒、饼干、汽水、糖果等。该售货机同时也可供应后室中那些独有的食物，比如[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]等物品。
+
+**Level IF-207**的后方区域存在一个极小的空间，该空间主要的用途是存储物品，存储的物品大多为无用的杂物或是应急物品。该空间偶尔会出现一些新鲜的水果，水果均为前厅中常见的种类，例如苹果、香蕉、蓝莓等。这些食物的来源目前仍是个谜，但这些水果均可安全食用。
+
+**Level IF-207**的柜台抽屉内部摆放着各种物品，其中尤以空白磁带和录音设备居多，这些物品可用于在层级内记录信息。层级的书架上摆放有少量的音乐杂志，这些音乐杂志的内容完全随机，但并不包含任何的异常信息，流浪者可正常阅读。
++ **基地、前哨与社区**
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]音轨前哨
+* 约5名人员
+* 研究唱片属性
+* 位于层级后方
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]走进一家唱片店即可来到此层级
+++++++ 出口
+* 原路返回即可回到[[[Level IF-3]]]
+* 在层级内购买特定相片并播放，流浪者将会来到一个特定层级
+------
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+我的更多作品：
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-206]]] | Level IF-207 | [[[Level IF-208]]] >>
+[[/=]]
+[[/div]]

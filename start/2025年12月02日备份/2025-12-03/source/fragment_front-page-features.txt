@@ -1,0 +1,105 @@
+[!--  
+    featureLevelO - 精品原创层级                       - 左上
+    featureTaleO   - 精品原创故事（或其它）     - 右上
+    featureLevelT - 精品翻译层级                        - 左下
+    featureTaleT   - 精品翻译故事（或其它）      - 右下
+--]
+[!-- Feature Start --]
+[[div_ class="pageContainer featureLevelO"]]
+[[div_ class="title"]]
+精品原创层级
+[[/div]]
+[[div class="page"]]
+
+[[[Level IF-225|Level IF-225 - “霓虹天际线”]]]
+
+by [[user ShallowCloud]]
+
+//“流浪者，欢迎重新启航，通往未知的IF层群”//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureTaleO"]]
+[[div_ class="title"]]
+精品原创实体
+[[/div]]
+[[div class="page"]]
+
+[[[Entity IF-6|Entity IF-6 - “尘骸”]]]
+
+by [[user Nameless35722]]、[[user wangjx]]、[[user wild ghost377]]、[[user snowmob]]和[[user DielsAlder]]
+
+//“Level 71内的消逝现象平等而慷慨地加诸于徘徊其间的每个生命，不论是坚韧强壮的探险家还是羸弱无能的小虫，都只能眼睁睁地看着自己的某一部分在暗灰中消散。”//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureLevelT"]]
+[[div_ class="title"]]
+精品原创现象
+[[/div]]
+[[div class="page"]]
+
+[[[Phenomenon IF-2|Phenomenon IF-2 - “倾圮雨幕声”]]]
+
+by [[user aircraft_flight]]
+
+[[=]]
+//当代表12点钟声想起，复将倾圮雨幕声
+和你有关无观后感
+我听见了你的声音
+也藏着颗不敢见你的心//
+[[/=]]
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureTaleT"]]
+[[div_ class="title"]]
+精品翻译层级
+[[/div]]
+[[div class="page"]]
+
+[[[Level 276|Level 276 - “蜂巢”]]]
+
+[[user calf-0]]、[[user ThEndlessRain]]和[[user owl4513]] 译
+
+//“她最后所感到的，是压在胸膛上的千斤重担渐渐消散。成百上千年来的第一次，女皇感到了平静与宁寂……而后，在蜂巢辽阔无垠的血肉废壤之中，一株花朵得以绽放。
+@@@@
+那是株勿忘我。”//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[!-- 精品模板
+[[div_ class="pageContainer feature"]]
+[[div_ class="title"]]
+精品XXX
+[[/div]]
+[[div class="page"]]
+[[[url|页面标题]]]
+
+[[user user]] 著/译
+
+//节选节选节选节选节选节选//
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive-dv|往期精品归档]]]
+[[/div]]
+[[/div]]
+--]
+
+[!-- Feature End --]

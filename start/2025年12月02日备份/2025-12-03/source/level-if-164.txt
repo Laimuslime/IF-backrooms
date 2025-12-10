@@ -1,0 +1,46 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=死区
+|lang=cn
+]]
+**Level IF-164**是后室IF层群的第164层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1703962169705-d1f3d89259a0?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU4JUI1JUIwJUU1JUJCJThBfGVufDB8fDB8fHww
+|caption=**Level IF-164**所展现的最正常的一面
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1561824046-3197c18d5422?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUU4JUI1JUIwJUU1JUJCJThBfGVufDB8fDB8fHww
+|caption=前行或是后退
+]]
+**Level IF-164**为一长度近似于无限的非线性空间，整体类似于20世纪80年代办公大楼的走廊。流浪者初次进入本层级时将会处于走廊的开头，后方是一扇无法打开的大门，流浪者只得选择向前前进。
+
+**Level IF-164**的墙面覆盖着早已褪色的米黄色墙纸，上方老旧的荧光灯管时亮时暗，地面铺设有一充满花纹的暗色地毯。层级中除了走廊结构外还包括楼梯结构，两者互相连接，十分平滑。
+
+**Level IF-164**中时长出现一些杂物，例如空纸箱或是盆栽，这些杂物的数量可能会变得异常的多，甚至将走廊完全堵塞。流浪者可选择直接绕行，或是破坏掉阻挡的杂物。
+
+**Level IF-164**呈现非欧几里得性质，流浪者可能会在直线行走的途中再次回到原来的起点，或是眼前的走廊突然发生结构变化，阻挡流浪者的去路，呈现怪异的形状。在层级中，流浪者可能会感觉时间仿佛停滞在了某一刻，但真实时间流速并没有确切变化的情况。
+
+**Level IF-164**中似乎包含着某种性质，层级会逐渐使流浪者感到不安，并产生诸多幻觉，例如不存在的黑色高大实体，或是逐渐扭曲的层级环境，这一事件是不可避免的，它会逐渐让流浪者精神出现错乱，并且变得愈发严重，直到其完全丧失理智。
+
+**Level IF-164**内没有任何有用的物资，流浪者在进入后很快就会因食物和水的短缺而死亡，即使其还残存一丝生命，层级也会剥夺其生存的权利，使其强制死亡。流浪者会渐渐失去身体的控制权，而后意识逐渐消逝，在其死后，流浪者并不会进入坟墓，而是灵魂继续在层级之内游荡。
++ **基地、前哨与社区**
+该层级暂无基地、前哨与社区
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-90]]]或[[[Level IF-94]]]打开一扇黄色的门即可来到此层级
+++++++ 出口
+* 该层级暂无出口，同时也无法使用任何特殊手段切出
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-163]]] | Level IF-164 | [[[Level IF-165]]] >>
+[[/=]]
+[[/div]]

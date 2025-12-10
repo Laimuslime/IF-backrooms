@@ -1,0 +1,90 @@
+[[include :backrooms-wiki-cn:theme:blinding-lights]]
+
+[[module CSS]]
+:root {
+    --header-title: "云雾天境";
+}
+
+#container {
+   background-image: url("http://brsandbox-mini.wikidot.com/local--files/level-ac-82-2-level-if-82/IMG_4961.jpeg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+opacity: 1;
+}
+[[/module]]
+
+[[div class="blockquote"]]
+
+[[include :backrooms-wiki-cn:component:nulevelclass
+|lang=cn
+|ent=0
+|env=1
+|ext=2
+|no=IF-82
+]]
+
+Level IF-82是后室IF层群的第82层。
+
++ 描述
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+name=http://brsandbox-mini.wikidot.com/local--files/level-ac-82-2-level-if-82/IMG_4899.jpeg|
+caption=从Level IF-19看到的Level IF-82。
+]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+name=http://brsandbox-mini.wikidot.com/local--files/level-ac-82-2-level-if-82/IMG_4903.jpeg|
+caption=从Level IF-3上空看到的Level IF-82。
+]]
+
+**Level IF-82**，又称“云淡风轻”，其呈现为一片面积介于10至100000平方公里之间的云层。该云层的规模会随时间动态变化，且可在所有层级中被观测到
+[[footnote]]  包括[[[https://backrooms-wiki-cn.wikidot.com/level-925|Level 925]]]等层级 [[/footnote]]。值得注意的是，从其他层级观测时，**Level IF-82**的形态往往显得突兀无序，缺乏明显规律。
+
+该层级内的云具有特殊属性，其物理结构极为稳定，无法被常规方式破坏；然而，当流浪者与之接触时，却能感受到其质地异常柔软。据M.E.G.研究推测，此类云体可能是由特殊的非牛顿物质构成。这些云体通常散发着柔和的亮光，经观察发现，若流浪者置身于亮光之中，其身体所患疾病将得到完全治愈。
+
+该层级内是否存在昼夜循环现象，取决于其所处的外部层级环境。若其所处的外部层级存在昼夜循环，则该层级内也会呈现昼夜交替；反之，若外部层级无昼夜循环特征，该层级内亦不会出现昼夜交替现象。此外，该层级的空间位置并不固定，每日均会迁移至其他层级。
+
+经M.E.G.调查研究，该层级内的环境温度虽恒定维持在25°C，但身处其中的流浪者普遍产生强烈的寒冷体感。此种异常现象的成因，源于该层级特有的环境效应，相关细节将在后文中予以详细阐述。
+
++++ 伪建筑
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+name=http://brsandbox-mini.wikidot.com/local--files/level-ac-82-2-level-if-82/IMG_4961.jpeg|
+caption=**伪建筑**的一张图片。
+]]
+
+**伪建筑**呈现为一座城市，这座城市中的楼房，大多呈现出浅蓝色外观。根据相关记录，当流浪者观测到**伪建筑**时，会产生莫名的失重感，同时其身旁将出现一个杯子和一只鸭子。值得注意的是，**伪建筑**无法进入；一旦流浪者接近**伪建筑**，该建筑便会即刻消失。
+
+++ 基地、前哨与社区
+
+暂无。
+
+++ 入口与出口
+
++++ 入口
+
+* 在任意层级找到该层级会来到该层级。
+
++++ 出口
+
+* 跳下云朵会回到原来的层级。
+
+[[/div]]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user haodemingzi]]
+咕咕咕最久的一集[[span class="白沐林_摸鱼"]].[[/span]]
+最遵守CC的一集（）
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-81]]] | Level IF-82 | [[[Level IF-83]]] >>
+[[/=]]
+[[/div]]

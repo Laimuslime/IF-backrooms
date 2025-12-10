@@ -1,0 +1,325 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "Lavender Theme";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "The Backrooms";
+   --header-subtitle: "你曾经来过这里";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   --white-monochrome: 250, 245, 255;
+   --pale-gray-monochrome: 245, 240, 250;
+   --light-gray-monochrome: 220, 210, 230;
+   --gray-monochrome: 80, 70, 90;
+   --black-monochrome: 50, 40, 60;
+   --bright-accent: 200, 170, 220;
+   --medium-accent: 180, 150, 200;
+   --dark-accent: 140, 110, 160;
+   --pale-accent: 230, 220, 240;
+   --alt-accent: 190, 160, 210;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: 180, 150, 200;
+   --visited-link-color: 160, 130, 180;
+   --new-page-color: 140, 110, 160;
+   --hover-link-color: 80, 70, 90;
+ 
+   --rating-module-button-color: 180, 150, 200;
+   --rating-module-text-color: 180, 150, 200;
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #887799;
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgb(var(--pale-gray-monochrome)) !important;
+   color: rgb(var(--black-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgb(var(--pale-gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(140,110,160,.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(140,110,160,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(200,170,220,1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(50,40,60,1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+
+|1=影覆廊道
+
+|2=映射之虚景
+
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-69**是后室IF层群的第69层。
++ **描述**
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-69
+ |caption=**Level IF-69** 中的唯一一张照片。
+]]
+**Level IF-69**类似于一个正处于傍晚时分的小型街道，街道上空无一物，街道路面由大量大块的平整石块组合而成，在缝隙处可见地面生长出的杂草，街道长度大约1km，达到尽头之后，后面的区域将会显现为烟雾覆盖的样式，此时流浪者将无法继续向前。街道的路面上有时可见部分特殊颜色的石块，这些石块毫无纹理，颜色呈现为刺眼的纯色。
+
+**Level IF-69**中的路面可能会在一瞬间突然变为水泥路或沥青路，变化通常是毫无预兆的，在变化时，路面中的杂草将会逐渐消失，石块逐渐融化并交融在一起，颜色开始发生渐变，直到变为新的路面，变化之后路面并不会发生显著的形状变化，但结构会变得更为稳定。在变化后，流浪者将发现空气中可能突然出现了浓郁的刺鼻气味，这股气味无法在短时间内消散，通常来说，流浪者会在10～20分钟后逐渐适应这种气味。
+
+**Level IF-69**中的街道边分布着路灯，大约10m一个路灯，两边均排布着路灯，这些路灯结构较为简单，由未知金属制成，通体为银色，在表面覆盖着一层污渍，拆开内部可发现内部包括一块方形电池，这块方形电池可无限制地使用，且无法被破坏。路灯的灯罩上包含些许裂缝，但不会对灯的光亮造成影响，这些路灯在层级之中持续不断地发光。
+
+**Level IF-69**的路面一旁包含大量植物，这些植物排布较为密集，种类繁多，容易破坏，内部杂草丛生，生长着高大的树木，树木可能生长着含水果实或是盛开着未知花朵，果实大部分可以食用。在一些树木下方还生长着蘑菇等生物。在**Level IF-69**中，可能毫无预兆地突然起风或下雨，风速较小，在层级下雨时，天空会逐渐变得暗淡，雨停时，云层会逐渐移动、分散，光线将重新回到层级之中。层级中弥漫着一股清新的味道，这种味道类似于雨后雨水冲刷的气味。
+
+在**Level IF-69**中，大部分流浪者报告了在层级之中突然昏迷并来到另一个层级的案例，在来到另一个层级之中，流浪者心中的某项情感将会被无休止地放大，且在1～2小时内意识朦胧，在意识清晰后，流浪者可能突然发现身上少了某样物品，且脑海中出现了自己从未亲眼见证的事情。
++ **基地、前哨与社区**
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]“暗景探测器”基地
+“暗景探测器”为[https://backrooms-wiki-cn.wikidot.com/the-m-e-g 探险者总署]建立的一个较小基地，基地内人员较少，主要为验证层级大小与物资的探测队伍。
+++ [[[Level IF-199|B.O.P.]]]“此刻，此时”基地
+“此刻、此时”基地为[[[Level IF-199|B.O.P.]]]中其中一次探索活动中建立的基地，--由Silver管理和勘探--管理者现已失踪，目前基地处于混乱状态。
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]、[[[Level IF-4]]]、[[[Level IF-10]]]、[[[Level IF-31]]]、[[[Level IF-50]]]中发现一个坏掉的路灯并拾取即可进入此层级
+++++++ 出口
+* 走到街道的尽头会让你进入[https://backrooms-wiki-cn.wikidot.com/level-1 Level1]、[[[Level IF-32]]]、[[[Level IF-38]]]、[[[Level IF-46]]]、[[[Level IF-88]]]、[[[Level IF-108]]]中的随机层级
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]要写完了💀
+图片来源于[[*user Aaaaaaak820max]]--话说好难打--
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-68]]] | Level IF-69 | [[[Level IF-70]]] >>
+[[/=]]
+[[/div]]

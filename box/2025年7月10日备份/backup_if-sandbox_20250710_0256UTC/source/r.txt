@@ -1,0 +1,17 @@
+[[include :backrooms-wiki-cn:theme:meg]]
+
+[[include component:level-class
+|class=1
+|lang=cn
+]]
+
+Level-14是后室IF层群第14层。
++ 描述
+
+
+Level-14是一座无限大的城市，层级里面充满
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/r/57487de83d6a1612.jpg
+|caption=美丽
+]]
+了前厅中常见的房子，里面包括了可以找到一些城市建筑但内部结构与家具完全随机；

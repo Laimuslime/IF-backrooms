@@ -1,0 +1,142 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+[[module css]]
+:root {
+  --header-title: "The Akirooms";
+  --header-subtitle: "祝您入住愉快……";
+  --logo-image: url();
+  --link-color: 10, 231, 231;
+  --hover-link-color: 10, 211, 211;
+  --visited-link-color: 10, 220, 220;
+}
+#container {
+  background-image: url("http://grave-box.wikidot.com/local--files/apa/background3");
+}
+h3 {
+  color: #2ea39d;
+  text-shadow: 1px 1px 0 rgba(var(--black-monochrome), 0.20);
+}
+.lightblock {
+  background-color: rgb(300, 300, 300);
+  border: solid 0.3rem rgb(84, 175, 175);
+}
+.lighterblock {
+  background-color: rgb(290, 305, 305);
+  border: solid 0.3rem rgb(84, 160, 160);
+}
+.titlebox {
+  color: rgb(15, 55, 55);
+  background-color: rgb(84, 195, 195);
+}
+[[/module]]
+[[include :scp-wiki-cn:component:fade-in speed=2/3/4]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[div class="lightblock"]]
++++ **嗨，欢迎访问我的作者页。我名叫DrAkimoto，身兼数职：一位父亲、丈夫、太阳能技术员、《万智牌》爱好者，对你而言，最重要的是，我是一名作家，我不太喜欢谈论自己，所以，不妨让你看看我笔下的作品……**
+[[/div]]
+@@@@
+----
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[size large]] [[[https://backrooms-wiki-cn.wikidot.com/level-6-5 | Level 6.5 - “独眼女王之地]]]（未翻译） [[/size]]
+
+//“Level 6.5是无际汪洋中的一座美丽岛屿”//
+
+我们跟随Sarah，探索Level 6中新发现的秘境。她邂逅了一位新伙伴；共度美好时光；而后陷入永恒的等待，循环往复……
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[size large]] [[[https://backrooms-wiki-cn.wikidot.com/level-24 | Level 24 “月球”]]][[/size]]
+
+//“它或许是蓝色的，但我们保证那是地狱。”//
+[[size smaller]]-第一采矿队的非官方格言[[/size]]
+
+来Level 24探访B.N.T.G.塑料工场，在这里，你可以游览特色景点、结识有趣昆虫，感受博福特那令人绝望的存在主义情绪，了解B.N.T.G.最惨痛的失败案例：“蓝洞事件”。
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+
+[[size large]] [[[https://backrooms-wiki-cn.wikidot.com/level-77 | Level 77 - “哦，谢南多厄”]]]（未翻译） [[/size]]
+
+//“……我定是在灌木丛中迷失过远。如今置身于杳无人烟的旷野，四下无人能为我指引方向……”//
+——Samuel Murphy
+
+这里有绵羊、蜘蛛、还有个土生土长的乡野小子，正是成长中的流浪者所需的一切。快来探秘“羊圈秘境”，见识B.N.T.G.那令人捧腹的恶作剧。别忘了翻阅脚注，见证Samuel如何超越生父，成为更称职的父亲。
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+
+[[size large]] [[[https://backrooms-wiki-cn.wikidot.com/level-79 | Level 79 - “机中幽冥”]]] [[/size]]
+
+//“实验仅是取得了些许成果；切勿长此停留。不管怎样我们将移步至第二阶段，我随后便来见你。——Dr. Zohn”//
+
+阴森布景、骇人实验残迹与神秘机器；这些铸就完美短篇恐怖之作的关键要素……[[footnote]]我不能全盘道尽，不然卡通频道可能把我的肾窃走。[[/footnote]]此为2025经典速写所作！创作甚欢，希望大家伙儿也能喜欢。
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[size large]]
+[[[https://backrooms-wiki-cn.wikidot.com/entity-70 | Entity 70 - “灯泡虫TM”]]] [[/size]]
+
+//“它终于来了！我们取得了重要的突破。经过几周的测试，我们没有发现明显的副作用，它也许就是我们要找的东西，那一丝家（随便你怎么称呼，反正就是我们在后室拥有的一切）的感觉。如果我们能繁殖出足够的Product 70，它们就能至少在一定程度上照亮这个层级。事情已经不会更糟了……”//– B.N.T.G.经理玛格丽特·汉茨
+
+你是否想过B.N.T.G.在背地里搞什么名堂？当然是倒卖昆虫啦，结果自然就像你能想象的那样，卖昆虫有什么好下场。
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[size large]][[[Level 102 | Level 102 - “哀境”]]] [[/size]]
+[[=]]
+**//君前现者，//**
+**//乃一悲郁之门，//**
+**//昔之熟识，今成未知。**//
+[[/=]]
+[[=image http://backrooms-wiki.wikidot.com/local--files/akirooms/1 size="small"]]
+@@@@
+~~~~
+[[/div]]
+----
+@@@@
+@@@@
+@@@@
+[[div class="lighterblock"]]
+[[span class="titlebox"]]**联系方式：**[[/span]]
+[[size smaller]]如果你想聊天的话，随时可以来[[[https://discord.gg/yBFwugQ | Backrooms Discord服务器]]]找我！[[/size]]
+
+[[size smaller]]我平常基本都在线，如果有合著意向，直接喊我就行。[[/size]]
+
+[[size smaller]]或者如果你要反馈的话，也可以在你的discord帖子里@我！[[/size]]
+
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
++++++ ##white|如果你喜欢我的作品，想看看我在SCP维基上的早期作品，[[[https://scp-wiki.wikidot.com/drakimoto-s-author-page | 点击此处]]]，即可访问我的作者页。##
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:footnotecol]]
+@@@@
+[[include :backrooms-wiki-cn:component:license-box
+|author=DrAkimoto
+|translator=calf-0
+]]
+=====
+> **名称：**Interior view, basement, looking up the length of the swimming pool
+> **作者：**Jack Boucher
+> **协议：**Public domain
+> **来源链接：** https://commons.m.wikimedia.org/wiki/File:Interior_view,_basement,_looking_up_the_length_of_the_swimming_pool_(Duplicate_view_of_HABS_DC-832-10)_-_Clements-de_Sibour_House,_1539_Twenty-ninth_Street,_Northwest,_HABS_DC,GEO,230-22_(CT).tif
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

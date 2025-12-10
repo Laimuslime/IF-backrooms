@@ -1,0 +1,359 @@
+[[module css]]
+#page-title {
+    display: none;
+}
+
+.titleblock {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6rem;
+}
+
+.titleblock h1 {
+    margin: 1rem 0;
+}
+
+.option-container {
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 1em 0;
+}
+
+.option-container .option {
+    text-decoration: none;
+    flex-grow: 2;
+    flex-basis: 14rem;
+    background: rgba(var(--white-monochrome));
+    border-radius: 0.4em;
+    transition: background 0.3s;
+}
+
+.option-container .option:is(:hover, :active, :focus, :focus-within) {
+    background: rgba(var(--medium-accent));
+}
+
+.option-container .option a::before {
+    content: "▶";
+    color: rgba(var(--white-monochrome));
+    padding-right: 1ch;
+}
+
+.option-container .option a {
+    color: rgba(var(--black-monochrome));
+    padding: 1em 1em 1em 0;
+    width: calc(100% - 1em - 1ch);
+    height: 100%;
+    display: block;
+    text-align: center;
+    transition: padding-right 0.3s, width 0.3s;
+    text-decoration: none;
+}
+
+.option-container .option:is(:hover, :active, :focus, :focus-within) a {
+    padding-right: 0;
+    width: 100%;
+    color: rgba(var(--white-monochrome));
+}
+
+.original::before {
+    content: " ";
+}
+.original[style*="原创"]::before {
+    content: "\f058";
+    color: #5cb85c;
+}
+.original[style*="待删除"]::before {
+    content: "\f057";
+    color: #ee3131;
+}
+
+.info-container {
+    display: grid;
+    grid-template-areas:
+        "title title title"
+        "date length comment";
+    grid-template-columns: 1fr max-content max-content;
+    position: relative;
+    background: transparent;
+    padding: 0.5em 1em 0.2em 0;
+    border-bottom: rgba(var(--white-monochrome)) solid 2px;
+    transition: padding 0.3s, background 0.3s;
+}
+
+.info-container:is(:hover, :active, :focus, :focus-within) {
+    background: rgba(var(--white-monochrome));
+    padding: 0.5em 1em 0.2em 1em;
+}
+
+.info-title {
+    grid-area: title;
+    font-size: 120%;
+    font-weight: 500;
+    padding-bottom: 0.2em;
+    display: flex;
+    align-items: center;
+}
+
+.info-titlename {
+    margin-right: 0.8em;
+    word-break: break-word;
+}
+
+.info-type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: none;
+}
+
+.info-type::before {
+    content: "其他";
+    background: rgba(63, 63, 63);
+    border-radius: 0.2em;
+    font-size: 70%;
+    color: rgba(var(--pale-gray-monochrome));
+    display: inline-block;
+    align-self: center;
+    padding: 0.1em 0;
+    font-weight: 400;
+    width: 2.6em;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-type[style*=" 层级 "]::before {
+    content: "层级";
+    background: rgba(91, 72, 34);/*棕*/
+}
+
+.info-type[style*=" 实体 "]::before {
+    content: "实体";
+    background: rgba(91, 34, 34);/*红*/
+}
+
+.info-type[style*=" 物品 "]::before {
+    content: "物品";
+    background: rgba(34, 91, 86);/*蓝*/
+}
+
+.info-type[style*=" 现象 "]::before {
+    content: "现象";
+    background: rgba(54, 34, 91);/*紫*/
+}
+
+.info-type[style*=" 故事 "]::before {
+    content: "故事";
+    background: rgba(34, 91, 62);/*绿*/
+}
+.info-type[style*="翻译"]::before {
+    content: "翻译";
+    background: rgba(75,0, 130);/*红*/
+
+}
+.info-type[style*="作者"]::before {
+    content: "作者";
+    background: rgba(255,215,0);/*金*/
+}
+
+.info-type[style*="已归档"]::before {
+    content: "归档";
+    background: rgba(175,238,238);/*paleturquoise*/
+}
+
+.info-type[style*="机翻"]::before {
+    content: "机翻";
+    background: rgba(123,104, 238);/*红*/
+}
+.info-type[style*="处分记录"]::before {
+    content: "处分";
+    background: rgba(123,104, 238);/*红*/
+}
+.info-date {
+    grid-area: date;
+    font-size: 86%;
+    color: rgba(var(--dark-accent));
+}
+
+.info-length {
+    grid-area: length;
+    font-size: 86%;
+    color: rgba(var(--dark-accent));
+    margin-right: 0.2em;
+}
+
+.info-length::after {
+    content: "|";
+    padding-left: 0.2em;
+}
+
+.info-comment {
+    grid-area: comment;
+    font-size: 86%;
+    color: rgba(var(--dark-accent));
+}
+
+.info-link {
+    display: contents;
+}
+
+.info-link a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    font-size: 0;
+    z-index: 2;
+}
+
+.info-icon {
+    position: absolute;
+    z-index: 1;
+    top: 0.5em;
+    right: 0.5em;
+}
+
+.list-pages-box {
+    border-top: rgba(var(--white-monochrome)) solid 2px;
+    margin: 1em 0;
+}
+
+.list-pages-box .pager {
+    margin: 1em 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.3em;
+}
+
+.list-pages-box .pager .pager-no {
+    width: 100%;
+    font-size: 90%;
+    color: rgba(var(--dark-accent));
+}
+
+.list-pages-box .pager .current {
+    margin: 0;
+}
+
+.list-pages-box .pager a {
+    display: block;
+    margin: 0;
+}
+
+.feedinfo {
+    display: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .info-container {
+        grid-template-areas:
+            "title title"
+            "date date"
+            "length comment";
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .info-title {
+        font-size: 100%;
+    }
+
+    .info-date {
+        font-size: 80%;
+    }
+
+    .info-length {
+        font-size: 80%;
+    }
+
+    .info-length::after {
+        display: none;
+    }
+
+    .info-comment {
+        font-size: 80%;
+        text-align: right;
+    }
+}
+
+[[/module]]
+
+[[div class="titleblock" style="margin-top: 0;"]]
+[[=]]
++ 最近创建的页面
+[[/=]]
+[[div_ class="option-container"]]
+
+[[div_ class="option"]]
+[[[system:list-all-pages|所有页面]]]
+[[/div]]
+
+[[div_ class="option"]]
+[[[most-recently-created-cn|最近创建的原创页面]]]
+[[/div]]
+
+[[/div]]
+
+= **注：**右上角的标记，[[span class="fa fa-check-circle" style="color: #5cb85c;"]]@<&nbsp;>@[[/span]]代表原创作品，[[span class="fa fa-times-circle" style="color: #ee3131;"]]@<&nbsp;>@[[/span]]代表待删除作品。
+
+[[module ListPages category="*" tags="-掩藏页 -段落 -工房" separate="false" perPage="25" order="created_at desc" rss="Most Recent Pages"]]
+[[div_ class="info-container"]]
+[[div_ class="info-title"]]
+[[span class="info-type" style="/* %%tags%% */"]]@@ @@[[/span]][[span class="info-titlename"]]%%title%%[[/span]]
+[[/div]]
+[[div_ class="info-link"]]
+%%title_linked%%
+[[/div]]
+[[div_ class="info-date"]]
+创建于 %%created_at|%Y-%m-%d %R|agohover%%
+[[/div]]
+[[div_ class="info-length"]]
+%%size%%字
+[[/div]]
+[[div_ class="info-comment"]]
+评论数：[[span style="font-family: var(--mono-font);"]]%%comments%%[[/span]]
+[[/div]]
+[[div_ class="info-icon"]]
+[[span class="original fa" style="/* %%tags%% */"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[/div]]
+[[/module]]
+
+[[/div]]
+
+[[div class="titleblock" style="margin-top: 0;"]]
+[[=]]
++ 无标签的页面
+[[/=]]
+
+[[module ListPages category="*" tags="-" separate="false" perPage="25" order="created_at desc"]]
+[[div_ class="info-container"]]
+[[div_ class="info-title"]]
+[[span class="info-titlename"]]%%title%%[[/span]]
+[[/div]]
+[[div_ class="info-link"]]
+%%title_linked%%
+[[/div]]
+[[div_ class="info-date"]]
+创建于 %%created_at|%Y-%m-%d %R|agohover%%
+[[/div]]
+[[div_ class="info-length"]]
+%%size%%字
+[[/div]]
+[[div_ class="info-comment"]]
+评论数：[[span style="font-family: var(--mono-font);"]]%%comments%%[[/span]]
+[[/div]]
+[[div_ class="info-icon"]]
+[[span class="original fa" style="/* %%tags%% */"]]@<&nbsp;>@[[/span]]
+[[/div]]
+[[/div]]
+[[/module]]
+
+[[/div]]

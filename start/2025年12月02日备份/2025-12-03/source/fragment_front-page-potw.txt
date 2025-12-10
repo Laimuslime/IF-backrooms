@@ -1,0 +1,14 @@
+[[div class="newsblocks" style="width=100%"]]
+
+[[div class="darkblock linkblock potwblock"]]
+++++  站外文章推荐
+[[div class="quote"]]
+
+“如果你已经受到它的影响，立刻尽力摆脱 Entity 69 的思维陷阱，专注于将自己带回现实，并对抗你脑子里肆虐的极端思维。这可以通过正念练习如冥想或专注呼吸同时了解并重构你的想法来实现。”
+
+[[/div]][[[http://backrooms-wiki-cn.wikidot.com/entity-69|entity-69]]]
+[[div class="nolinkblock usercredit"]]
+“Entity 69 - “隐匿标志”” by [[user Light_Nate]]
+[[/div]]
+[[/div]]
+[[/div]]

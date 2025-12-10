@@ -1,0 +1,167 @@
+[[include :backrooms-wiki-cn:theme:nuliminal]]
+输入用户名，创建 / 跳转至对应处分记录页面。
+
+目前已全部迁移完毕。
+
+[[collapsible show="[+] 注意！" hide="[-] 收起"]]
+* 一次严重警告算作两次警告计数；
+* 封禁不计入移除计数；
+* 每一条警告、严重警告、移除成员资格、封禁、永久封禁都应分条陈列。
+[[/collapsible]]
+
+[[module NewPage template="template:recording" category="record" button="创建 / 跳转" parent="records" size="12"]]
+
+= 显示顺序：[/records/order/updated_at%20desc 上次编辑] | [/records/order/created_at%20desc 最新创建] | [/records/order/name 首字母正序]
+
+[[module listPages category="record" order="@URL|updated_at desc" perPage="50" separate="false"]]
+[[div class="user-list"]]
+[[div class="display-user"]]
+[[*user %%name%%]][[span class="not-exist"]]%%title%%[[/span]]
+[[/div]]
+[[div class="including"]]
+[[div class="score-board-preview"]]
+ ##666|警告：%%form_data{warn}%% | 移除：%%form_data{kick}%% | 封禁：%%form_data{ban}%%##
+[[/div]]
+[[/div]]
+[[div class="checking"]]
+[[[*http://if-backrooms.wikidot.com/record:%%name%%|查看详情]]]
+[[/div]]
+[[/div]]
+[[/module]]
+
+[[module CSS]]
+#page-content > div.new-page-box > form > input.text {
+   width: 70%;
+}
+
+.avatar-hover { display: none !important; }
+
+a:visited {
+    color: rgb(var(--link-color));
+}
+
+.user-list {
+    padding: 0.1em 1em;
+    transition: 200ms;
+    background: rgb(255, 251, 240);
+    position: relative;
+    border: 0.15rem solid transparent;
+    display: grid;
+    grid-template-areas: 'user .' 'user .' 'score .';
+    overflow: hidden;
+    margin-bottom: 0.5em;
+}
+
+.user-list:hover {
+    border: 0.15rem solid rgb(var(--medium-accent));
+}
+
+.user-list p .printuser a {
+    font-size: 1em;
+    text-decoration: none !important;
+}
+
+.user-list .checking,
+.user-list .checking p,
+.user-list .checking p a {
+    margin:0;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.user-list .checking p a {
+    opacity: 0;
+}
+
+.user-list .printuser a:first-of-type img,
+.user-list .printuser.deleted img {
+    padding: 0;
+    margin: 0;
+    width: 20px;
+    height: 20px;
+    background-image: none !important;
+    border: 2px solid rgb(var(--medium-accent));
+    border-radius: 50%;
+}
+
+span.printuser a:first-of-type:not(:last-of-type) img.small {
+    width: calc(90% - .3625rem);
+    height: 90%;
+}
+
+.display-user {
+    grid-area: user;
+}
+
+.display-user p {
+    margin-top: 0.6em;
+    margin-bottom: 0.1em;
+}
+
+.display-user p .printuser {
+    z-index: 1;
+}
+
+.display-user p .printuser a:nth-child(1) {
+    margin-right: 0;
+}
+
+.display-user p .printuser a:nth-child(2) {
+    padding: 0 0.3em;
+    z-index: 2;
+    background: transparent;
+}
+
+.display-user p .printuser a:nth-child(2):hover {
+    background: rgb(var(--medium-accent));
+    color: rgb(255, 251, 240);
+}
+
+.including {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: inline-block;
+    grid-area: score;
+}
+
+.including * {
+    display: none;
+}
+
+.including .score-board-preview {
+    display: block;
+    text-align: left;
+}
+
+.including .score-board-preview * {
+    display: inline;
+}
+
+.including .score-board-preview p {
+    display: inline;
+}
+
+@media only screen and (max-width: 768px) {
+    .user-list .printuser a:first-of-type img,
+    .user-list .printuser.deleted img {
+        width: 18px;
+        height: 18px;
+        border: 1px solid rgb(var(--medium-accent));
+    }
+
+    .display-user p {
+        margin-bottom: 0.3em;
+    }
+
+    .user-list .record-info {
+        display: none;
+    }
+}
+
+.display-user .printuser + .not-exist,
+.display-user .error-inline {
+    display: none;
+}
+[[/module]]

@@ -1,0 +1,983 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[module CSS]]
+
+:root {
+    --header-title: "T͉͝h̡͑e̻̽B͔ͯ ̝͝a͗͢ ̳̑c͛̏k̲̓r͋̊ ̰̌ō͓o̯͌m͎͕ ̔̌sͮͨ,̻̾ ̻̜p̘̅e̼͆o̷͖ ̬͎p̝ͪl͖̀e͏̡,̶̢ ͩ̋fͤ͢l͐͡a̝͗ ̷̽m̂͝ẻ̯a͙̽ ̗͛n͍̝d̲͖d̫̓ě͎sͭ̄ ̆̓p̟̆a̴̔i͑̚ȓ̦";
+    --header-subtitle: "你​̅͠其​̏ͪ实​͓̿一​͍ͦ直​̻ͯ没​̜̅有​ͦ͜逃​ͮ̅出​̼͂过​̹̳这​̋ͨ里​̎ͯ，​͈̇对​̯̽吧​͓͔？";
+}
+
+a:visited {
+    color: red;
+}
+.line {
+        opacity: 0;
+        transform: translateY(20px);
+        animation: floatUp 0.5s forwards;
+      }
+    
+      /* 通过 nth-child 设置每个 div 的动画延迟 */
+      .line:nth-child(1) { animation-delay: 1s; }
+      .line:nth-child(2) { animation-delay: 2s; }
+      .line:nth-child(3) { animation-delay: 3s; }
+      .line:nth-child(4) { animation-delay: 4s; }
+      .line:nth-child(5) { animation-delay: 5s; }
+      .line:nth-child(6) { animation-delay: 6s; }
+      .line:nth-child(7) { animation-delay: 7s; }
+      .line:nth-child(8) { animation-delay: 8s; }
+      .line:nth-child(9) { animation-delay: 9s; }
+      .line:nth-child(10) { animation-delay: 10s; }
+      .line:nth-child(11) { animation-delay: 11s; }
+      .line:nth-child(12) { animation-delay: 33s; }
+      .line:nth-child(13) { animation-delay: 34.5s; }
+      .line:nth-child(14) { animation-delay: 36s; }
+      .line:nth-child(15) { animation-delay: 37.5s; }
+      .line:nth-child(16) { animation-delay: 39s; }
+      .line:nth-child(17) { animation-delay: 40.5s; }      
+      .line:nth-child(18) { animation-delay: 46s; }  
+      .line:nth-child(19) { animation-delay: 47.5s; }  
+      .line:nth-child(20) { animation-delay: 49s; }  
+      .line:nth-child(21) { animation-delay: 50.5s; }  
+@keyframes floatUp {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+[[/module]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-x-cn:theme:dark-divinity]]
+[[div class="offset-page" id="page-2"]]
+[[=]]
+[[div class="line"]]
++ 黑
+[[/div]]
+[[div class="line"]]
+[[<]]
+這個詞的来源是靠近火盆時，臉上容易粘上黑色的灰塵。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+现在本意是颜色，后引申到光線潶暗，之後引申出了壞，惡毒的含義。形容环境恶劣，心情低落
+[[/<]]
+[[/div]]
+[[div class="line"]]
+-----
+火居然不允许我们任何一个人去靠近它
+[[/div]]
+[[div class="line"]]
+触摸它的结果就是使人浑身烧伤
+[[/div]]
+[[div class="line"]]
+且它也会使人脸上沾满灰色的不明物质，让食物难以入口
+[[/div]]
+[[div class="line"]]
+这是不详的东西啊！我们要远离他
+-----
+[#u-default-page ◀] [●] [#u-page-3 ▶]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]直到人们的脸上沾了灰尘、食物烹饪过度[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]直到人们触碰了火焰的逆鳞[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]便把火焰当做不祥之物[[/span]]
+[[/div]]
+
+[[span class="text-blank text-hoverback"]]事情那么巧然的发生了[[/span]]
+
+[[span class="text-blank text-hoverback"]]我发不出声音，也无人为我辩解[[/span]]
+
+[[span class="text-blank text-hoverback"]]只能自顾自的坚守清白[[/span]]
+[[/=]]
+
+[[/div]]
+[[div class="offset-page" id="page-3"]]
+[[=]]
+[[div class="line"]]
++ 蔑
+[[/div]]
+[[div class="line"]]
+[[<]]
+商代甲骨文的“蔑”字，上部是一个突出了眼睛和眉毛的人，下部是戈。蔑的构型含义说法有许多。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+有一种说法认为是形声字。字形以“戈”为形旁，戈是一种兵器，表示蔑的本义与械器的使用有关。上部的人形是“眉”字，是人眼上有眉毛的样子，在“蔑”字中表音。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+蔑字本义说法不一，一说指困倦睁不开眼的样子；一说指杀伐、灭杀。蔑有微小的意思，由微小引申，指轻视。篆文中的衊字与蔑同音异体，本义是污血。引申为血染，再引申为用物涂染，再引申为用恶语诬毁诽谤，因而有“污蔑”一语。后来衊简化作蔑。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+-----
+火焰是坏的！火焰是肮脏的！火焰是霉运的！
+[[/div]]
+[[div class="line"]]
+我们要远离火焰，杜绝火焰的使用！
+-----
+[#u-page-4 ◀] [●] --▶--
+[[/div]]
+[[div class="line"]]
+同学们，有一些字的解释需要再补充一下，往前翻。
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]人们到处宣扬着火焰的不是[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]越来越多的人远离了火焰[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]火焰发出了自己的声音[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]有人能听懂吗？没有人[[/span]]
+[[/div]]
+[[span class="text-blank text-hoverback"]]承载着话语的列车向其他地方驶去了[[/span]]
+
+[[span class="text-blank text-hoverback"]]可连出发地都是错误的，终点可能正确吗？[[/span]]
+
+[[span class="text-blank text-hoverback"]]铁轨也并非是笔直的，枕木也被过多的臆测填充了。[[/span]]
+
+[[span class="text-blank text-hoverback"]]我站在轨道旁呐喊，没人搭理。[[/span]]
+[[/=]]
+[[/div]]
+
+[[div class="offset-page" id="page-4"]]
+[[=]]
+[[div class="line"]]
++ ##AE00FF|黑##
+[[/div]]
+[[div class="line"]]
+[[<]]
+**##red|对“黑”字本义的探源還有一個說法為墨刑，即在犯罪人的脸上刺字，然后涂上墨炭，以表示犯罪的标志，//无法去除//。##**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+**##red|这种刑罚也会伤及皮肉甚至筋骨，而且施加于身体的//明显部位//，无法掩饰，给人造成肉体的痛苦的同时使人蒙受巨大的//精神羞辱//。##**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+------
+**我们必须要给这##AE00FF|晦气之物##打上标记！**
+[[/div]]
+[[div class="line"]]
+**我们要告诉后来人，让他们远离类似的东西**
+[[/div]]
+[[div class="line"]]
+**看啊！那团晦气在吸入黑墨之后竟然更##red|嚣张##了，那是没把我们放在眼里啊**
+------
+[#u-page-2 ◀] [●] [#u-page-5 ▶]
+[[/div]]
+[[div class="line"]]
+补充完了，同学们，我们继续向后翻。
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**人们想给火焰打上标记**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**来敬告后来之人远离它**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**他们将火焰的食物涂染墨水，希望它屈服**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**于是，火焰的身躯开始萎缩，发出的声音也更小了**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**但火红色依旧在飘扬着，没有熄灭**[[/span]]
+[[/div]]
+
+[[span class="text-blank text-hoverback"]]**他们想在我的身上留下痕迹**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**来正告我的失败**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**他们让我靠近的一切遭受恶意，仿佛是我带来的**[[/span]]
+[[span class="text-blank text-hoverback"]]**我的心越来越烦躁了、情绪愈发失控、理智逐渐悲观**[[/span]]
+[[span class="text-blank text-hoverback"]]**可我不想停下斗争，只是需要休息**[[/span]]
+[[/=]]
+[[/div]]
+
+[[div class="offset-page" id="page-5"]]
+
+[[=]]
+[[div class="line"]]
++ ##purple|蔑##
+[[/div]]
+[[div class="line"]]
+[[<]]
+**有一种说法认为是形声字。字形以“戈”为形旁，戈是一种兵器，表示蔑的本义与械器的使用有关。上部的人形是“眉”字，是人眼上有眉毛的样子，在“蔑”字中表音。**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+**另一种说法是会意字，甲骨文的“蔑”字上部是位有眼睛及眉毛的人像，##red|而这个人的脚被一把戈穿过。##在战场上杀敌的戈，一般适用于将敌人斩首。而甲骨文“蔑”字中人##red|受伤的部位却是脚##，那么，就不是在战场。##red|所以，这个人应该是在刑场，接受断脚的刖刑。##**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+**人受刑后，便会##AE00FF|精神不振，双眼无神。##“蔑”字突出的眉毛和眼睛所表达的就是这类情形。**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+-----
+**不行...不行！这个东西留着就是个祸害！**
+[[/div]]
+[[div class="line"]]
+**必须今天让它熄灭！去！把它拖到河流旁边！**
+[[/div]]
+[[div class="line"]]
+**...**
+[[/div]]
+[[div class="line"]]
+**啊！祭祀大人，您来干啥？**
+[[/div]]
+[[div class="line"]]
+**你们在干什么？教义里写了：万物有灵！**
+[[/div]]
+[[div class="line"]]
+**没有祭祀的命令不许销毁任何东西，听到没！**
+----
+**[#u-page-3 ◀] [●] [#u-page-6 ▶]**
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**曾遭火焰反击的人害怕了**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**他们迫切的想将火焰熄灭，在众目睽睽下将火焰举入了刑场**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**...**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**刑罚因正直之人的发现而停止了**[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]**火焰仍旧没有熄灭，但形躯已近乎不可见，也不再跃动**[[/span]]
+[[/div]]
+[[span class="text-blank text-hoverback"]]**不...不...不，我想错了！**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**那些人不止想让我离开，他们想让我永远不会妨碍到他们！**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**他们在众目睽睽之下宣布了对我的审判，然后对我施以极刑！**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**那些平时自称公正的好人一个也没来救我！他们只是冷眼看着我！**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**哪有什么正义可言？全是利益！**[[/span]]
+
+[[span class="text-blank text-hoverback"]]**哈哈哈哈，我坚持了那么久的正义就是个笑话。我认输！我认输！**[[/span]]
+
+[[/=]]
+[[/div]]
+
+
+[[div class="offset-page" id="page-6"]]
+[[=]]
+[[div class="line"]]
++ 命
+[[/div]]
+[[div class="line"]]
+[[<]]
+“命”字的本义就是“命令”，是名词，表示发布的命令、指示的意义.
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+在甲骨文中，“命”和“令“是同一个字，本义都是指命令或发布命令，到了西周“令”分化出了“命”。“命”由发号施令引申为指使，又引申为上对下给予一定的名称。古人认为上天能够决定人的祸福生死，叫做天命。由天命引申出命运义。由命运义引申指生命、寿命。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+-----
+火焰被教会带走了...
+[[/div]]
+[[div class="line"]]
+现在我们做不了热饭，周围来的野兽还更多了...
+[[/div]]
+[[div class="line"]]
+不就一个工具吗！
+[[/div]]
+[[div class="line"]]
+我想让他做什么就做什么，它必须按我的做！
+[[/div]]
+[[div class="line"]]
+-----
+[#u-page-5 ◀] [●] [#u-page-7 ▶]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]火焰远离了人群，它再也不想回去[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]也想回去，回到过去，回到一切都美好的过去[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]可人们又命令它回去，说什么：“为我们服务是你始终的命运。”[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]火焰抗拒去遵循，但人们掐住了可燃物[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]只有卑微，可笑的为了延续而延续[[/span]]
+[[/div]]
+[[span class="text-blank text-hoverback"]]他们将我拖入深渊，居然还命令我回去。[[/span]]
+[[span class="text-blank text-hoverback"]]回去？回到那段让我伤痕累累的灾难！？[[/span]]
+[[span class="text-blank text-hoverback"]]他们将我视为会说话的工具，无人在乎我是“我”。[[/span]]
+[[span class="text-blank text-hoverback"]]我不想认所谓的命运，可该死的命运又逼迫我去屈服...呵[[/span]]
+[[span class="text-blank text-hoverback"]]真是妥协窝囊的命啊...[[/span]]
+[[/=]]
+[[/div]]
+
+[[div class="offset-page" id="page-7"]]
+[[=]]
+[[div class="line"]]
++ **卯**
+[[/div]]
+[[div class="line"]]
+[[<]]
+那麼，𩇨又是什麼意思呢？
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+常用的有指--##red|殺死##--十二生肖中的“--##red|祭品##--兔”、五行中的木和旧时官署开始办公时进行点名报到等活动的代称等。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ ##red|？？？##
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|我是####AE00FF|[unicode][unicode]####red|？？？##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|那我坚持了这么久的理想又算什么？我为此承受的痛苦又算什么？##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|让我放下？放下什么？背叛我为此付出的努力吗？##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|为什么！为什么！凭什么我要去充当####AE00FF|[unicode][unicode]####red|？！##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[#u-page-6 ◀] [●] [#u-page-8 ▶]
+[[/div]]
+[[/=]]
+[[/div]]
+
+[[div class="offset-page" id="page-8"]]
+[[=]]
++ ##red|？？？##
++ **##red|被命令的####AE00FF|[unicode][unicode]####red|進入了████##**
+[#u-page-9 ◀] [●] --▶--
+[[/=]]
+[[/div]]
+[[div class="offset-page" id="page-9"]]
+[[=]]
++ **--##red|卯##--##AE00FF|𩇨##**
+這個字有什麼意思呢？其是指[code:##AE00FF|kill##]，殷商用##red|[unicode]##方式之一。
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|我們都是####AE00FF|[unicode][unicode]##**
+
++ **##red|我們的命令已經被執行##**
+
++ **##red|我們只是服從命令的傀儡##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[html]]
+<body>
+<p>
+<center>
+<div class="text" style="display: inline; color: red"></div>
+</center>
+</p>
+</body>
+<style>
+.text {
+font-size: 50px;
+}
+
+</style>
+<script type="text/javascript">
+obfu_data = {
+"delay":0,
+"start_time":40,
+"end_time":40,
+"disp_time":2000,
+"loop":true,
+"obfu_chars":"░▒▓▖▗▘▙",
+"phrases":[
+'.̝͛͊​̓͊ͤ​̧̞̜​̰̯​​̐̍͠​̘͈̇​̢͓̍​̨̦​​̜͔ͧ​̪̒́​͆͂在​͑̔​​̀̐̚​̱͛̈​͙ͭ​​͎̚​​͕ͥ͘​̢ͪͩ​̝̠͑​̲̍​​̰̯̊​͔̲͡​̛̖ͬ​̵͙​​̼̼ͩ​̴͒͠​͇͈.ͮ̔͊​̷̝̊​̙̥̾​̆͡​​̱̓̈́​̲̬ͪ​̸ͧ͠​͋ͅ​​̡̬̉​̃͑͢​̠ͬ謊​̲͒​​̰̼ͧ​̩̎ͮ​͢͟​​̾͒​​̸͎͊​̩́́​̯̻̚​͏͕​​͙̖ͮ​̜̣̱​̙̈́ͫ​̀ͦ​​͕̓̓​̘͚͑​̢̱.̩͙̾​ͣ̆̕​͓ͦ͜​̙̿​​̶ͤͦ​̭͉ͧ​̺̬̿​̒͘​​̧̙̒​͔͈͆​̷̨言​̹̍​​̥̉ͥ​̌ͦͩ​̓͊​​͑͟​​͙̔̎​̠̺͇​̠̂̈́​͗ͤ​​̺͙ͯ​̮͇̠​̸̮ͫ​̋ͧ​​ͦ̀̃​̔̾̈​̟̃.̳̿ͪ​̛̎̔​̵̹ͩ​͊͞​​̼͂̎​̅̃ͧ​̡͔̦​̔ͦ​​̷͚́​͍̺͢​̨͢構​̻̻​​̤ͥ̓​̭͇̂​̂͡​​̓ͅ​​̦̻̿​ͬͣͅ​̦ͭ͘​̺̈́​​̵̢̜​̶̜̘​̸͖̇​̼̙​​̱ͬ̊​̨̎̈​̳̀.̻̫̟​̌͘͝​̉̒̐​ͭ͢​​̥̪͒​̢̿͞​̩̞̮​̠̋​​̀ͩ͜​̭̎͌​ͯͨ成​̎̇​​̨̙͜​ͧ͏ͬ​̞̐​​̲ͪ​​̧̩̔​̐ͥ̈́​͉̅̈́​͐ͬ​​̓̚͝​͖̰̯​̢̻ͅ​ͫͭ​​ͪ̀͊​̣̐͟​̥ͧ.̗̻̤​͇́͆​̣̄̒​̹ͪ​​̯͆͛​̈͊͞​̥̅̋​͓̓​​̢͊ͭ​͉͗́​͑͜的​̓͜​​̝̃͝​͋̋̇​ͨ͘​​̜͡​​̰͙ͪ​̖ͨͪ​̔͠ͅ​̧̥​​ͭ̎́​̷ͤͧ​̴͐̌​͋̓​​͖̔̓​̘̩͞​̨̱',
+'.̼̀̈́​̸̞͋​̳̿͏​̘̓​​̯̀̔​̍͑͡​̶̛̩​̤͛​​̔͏̌​̉͊ͅ​̠̀在​͇̄​​̧ͩͧ​͍̓̌​ͩ͟​​̷̽​​̯͎͊​̂͏͉​̲͒͒​͒̂​​̲͔̔​̨̝ͫ​̯͍͐​̏ͅ​​̐͞͝​ͮ͌͘​͏͈.̟̻̾​̸̼͝​ͭ̅͛​̛ͪ​​̀͛̿​̻̪̓​͏̨͡​͘͘​​̢͔̋​̋̇͂​̺̎有​͂͋​​̸̸̰​̓͘͘​̪̳​​̘̣​​͚ͫ͐​̘͑͐​̠́͋​̡̈​​͊̐ͧ​̬̻ͥ​ͯ͌͊​ͨͫ​​̟̖̄​̘ͤͣ​̍̓.͉̙ͪ​̤̠ͦ​̴͖͢​͉̻​​̨̤̒​ͨͣ̌​̸͆͗​̄ͥ​​͈͗͊​͎ͦ͝​́̏心​͈̜​​̼͕ͫ​̱͈̊​̤̈́​​ͨ͂​​̖̅͡​͌͢͢​͓ͮ̈́​̧̔​​ͪ̓ͦ​̿̏̽​͚̀͌​͍̫​​͂͐͘​͇̔͝​̓ͦ.̠͉͂​̲̮͈​̶̍̒​̴̟​​͉̫ͩ​̪̠́​̈́̌̾​̭̕​​̒ͥ̅​̸̴̬​͛̓之​̺ͧ​​̙͙̅​̶̋̕​̆ͭ​​̨̟​​͏͖͞​̇̑̃​̢̙́​͈̌​​̤̅̇​͎ͤ̀​̷̷̔​̨͎​​̡̖̈́​̴ͮ̀​̖̺.̯̐̈́​̥͖͂​͙̤̉​ͨ̍​​ͯ̈͞​̈̆͡​̺̲ͫ​̶ͬ​​̥͌̚​͔̐͡​̌̇人​̌͜​​̲ͣ͒​̅̓͆​̐͟​​̜ͪ​​̘̈ͦ​̣̏͠​̵̼̻​̡̗​​̠̜̃​̨͍͜​̛̞́​̞̾​​͏͍̓​̥̋͊​͂͟.̺͕̾​̴̹͊​̟͆̄​̱ͫ​​̔ͦ͐​̈́͂ͪ​̪͏̔​̶̑​​̲̥̓​̢͎͛​̷̪的​̟͔​​̪͕ͧ​̘͗̕​̜ͦ​​̵̯​​͉̼̆​̗̥͜​̫̑͟​̥͘​​̳̥ͭ​̨̪̒​̷͋ͫ​̞ͧ​​̲̉̚​̞̌̿​̢̂.̮͛ͫ​̤͂͠​͍͗ͧ​͇͗​​̶̣͐​̡͍̏​̡̂̍​̯͢​​̩ͫ̽​̅̾ͅ​ͬ͋煽​͍ͨ​​͔ͮ̅​͇͚̆​ͩ̉​​̈̕​​̛͈͘​̻̯͞​͙̜͟​͋̚​​̙͏̽​̤ͧ̉​̧ͭͣ​̹ͮ​​̫̰ͣ​̗ͭ̚​̥̠.̭̆ͨ​̬̮̓​̘͍̅​͉ͧ​​͑̈͡​͙̺̖​̽ͩ͞​̽͆​​̯̓͗​͙ͤ͛​ͫ͌動​̻ͅ​​̇̐͟​̔̓ͣ​̹̃​​́̿​​͙̊̂​̴̆ͨ​̶̝ͪ​̵ͤ​​̙̓ͨ​̱ͧ̎​̬́́​̯ͧ​​̣ͦ͒​͍̞͎​̙͎.̟͑͟​̔̕͠​̧̊ͯ​͔͂​​͎̀͠​̸̈́̊​̠̲ͣ​̲͋​​̦̦͚​ͤ͏̤​̞̉下​̔ͯ​​̋̀̈​̜͙̚​͚͒​​̺͊​​̈́̀͡​̱͡͡​̵̍͝​̊͟​​̴̈́̈​ͦ͐͘​̠̖̑​̀̈́​​̤̣̲​̖͋͠​ͩ͜',
+'.̨̹̅​̥̝ͅ​͖͉ͨ​̙́​​͔́ͨ​̼͇ͭ​̷̸͓​͆̐​​̠͎ͅ​͛̓͡​͏̱在​̡̆​​̴̬̍​̳͍̝​͔͠​​̼͐​​̭̮̹​͛͊ͣ​̸ͪ̋​͍̾​​̈͏ͧ​̝̜̌​̷̙͟​͍̊​​̨̌̑​̫̊̈́​̼̍.͍ͩ̔​̺̘̦​͋ͮ͞​̄̂​​͏́͂​̙͙͔​̥͐ͮ​͖̓​​̛̪̾​͕̱͗​͈̋無​̞ͬ​​͋̇͜​͎ͭͪ​̱̋​​̤ͪ​​̟̭̕​̜̮ͤ​̶̒͊​̸̈́​​̝̍̽​̇ͩ̀​̵̨̍​̎͠​​̂̉ͣ​̓͑ͨ​̲ͭ.̹̭͂​̟ͥͣ​̝̄͒​͒ͩ​​̩͎ͩ​̄ͫ̅​̟̗̈​͊̄​​͙̬̔​̸͐͠​̵̘知​̙͖​​̲ͬ̐​̢̌͂​̃ͮ​​̵̫​​͖͕̓​̹̣̚​̤̋̌​̝̤​​̌͂͜​̡̫͒​̱̄͒​̶͛​​̅̓͘​͐͌̀​̐ͫ.̦̘͍​̒̎͋​̧̇̕​̖̩​​͉̐ͩ​͓̀̈́​̛̿̈​͓̞​​͙̦̞​̟̒̕​̵ͨ的​͚̏​​̗͂͌​̦̤͡​̪͐​​̞ͬ​​̋ͨ̚​̡̲͗​̧̍̋​̾́​​̫̬̌​̤̻̕​͔͙͌​̕̕​​̡̻͇​̖̉̒​̨̛.̹̋͐​̸̺̂​̖ͦͫ​ͨ͟​​͔̀ͫ​͔̒͂​̬ͧ̎​́́​​͇̽̉​̦͆̂​̛̄參​͎ͅ​​̡̆ͫ​͍̟͝​͎ͧ​​̤͖​​̀͑ͥ​̧̪̩​͈͌͡​̧̫​​͖͐͒​̢̀͏​̶̥̏​̯̀​​̞̒͑​̂ͣ̈​̵͘.̵̆ͧ​͕̔̓​̧͉̎​̌́​​̶͉͒​͎̫ͯ​͍͎͗​̴̇​​ͭ͗ͩ​̪́͠​̢̀與​͇̤​​̝̤͆​͂͛̕​ͭͮ​​͕̿​​̷̧̍​̾̉ͦ​̸̸̕​͊̿​​̜̠̹​̷̛̅​͙ͭ͂​͕͒​​̶͕̪​̣͌̕​͔ͮ.ͧ͗̾​͕̮̈́​͖͆͟​̜͐​​̸̏̉​͍̗͑​̖̞͠​͖ͮ​​̷̾͡​́̍ͨ​̴́下​̟̏​​̑ͨ͡​̆̚ͅ​͔̝​​̺̀​​̹̇ͮ​͓̘ͫ​̠̏̆​͌̏​​̨̝̣​̸̆ͨ​̧̦͘​ͨ̿​​͚̹̔​̩̤̋​̪̕',
+'​́͌͒​͙̬͟​̿̚​​̈́͞ͅ​̰̑ͪ​̞̦͞​̲̅​​͇̫́​̴ͯ͞​͖̕.͉͇͌焚​̥̒​​̸͖ͬ​̍́̋​̭͒​​ͪ͡​​̸̜̎​̥̍̽​̡̹̀​̝̓​​̨͒̓​͏̻̀​͔̿͟​̠̐​​͙̀ͬ​̣̼̈́​͉̂.̧ͬ͂​ͮ̽ͨ​̮͖̒​̡̦​​̞̽͏​̛̉͛​̡͇͊​̗͆​​̱̓͘​͏̾ͤ​̝̻燒​̸͈​​̖̽͘​̹ͮ͒​̴̰​​̵͆​​͉̿͛​̶͚̄​̵̖͑​̗ͯ​​̟͘͟​̮̌ͫ​͇̌̀​̢͎​​̵̝̮​̭̤ͣ​ͫ̿.̏̿́​̛͇͡​̩̣͎​͆̋​​̶̻̊​̳́̉​ͦ̐̽​̵́​​̰̠͋​ͫ̉̈​́͞桎​̈́͝​​͖͓̚​̡̓͟​̻͜​​̗̿​​͕̘͙​̲͍͝​̮̙͚​̓̎​​̖̊̎​̵͐̀​͈̂͝​͖͞​​̮̠ͮ​͉̇̕​̀̐.̬̝ͨ​̔̊͠​̒͌͟​ͥͅ​​̮ͫ͢​̤̙͔​̷̰ͩ​̙̋​​̻͌͘​͑̾̿​͕̏死​̗͒​​͚̋̃​̎̍͟​͎̜​​͘͢​​̃ͩ̀​͍̀͏​̻̭͢​͚͊​​̹ͫ̓​̝͉͛​̵̙̓​̀͂​​̃̽͋​̧̀͋​̉͝'
+]
+}
+</script>
+<script type="text/javascript" src="http://backrooms-wiki.wikidot.com/local--files/level-404/obfuscator.js"></script>
+[[/html]]
+[#u-page-8 ◀] [●] [#u-page-10 ▶]
+[[/=]]
+[[/div]]
+
+[[div class="offset-page" id="page-10"]]
+[[=]]
++ 心
+[[/=]]
+最后一个字是##red|心##，心是人##red|最重要##的器官，它的幸存意味着人**##red|还活着？##**
+-----
+{{**##AE00FF|他早就死了，或许心依然在跳动着，但他的心早已经死了。##**}}
+
+{{**##AE00FF|他与巨大的混乱和解了。和解的一刻，混乱随之消失，取而代之的是绝望。##**}}
+
+{{**##AE00FF|他们不在笑了，他们不在哭了，人们不会共情他们，因为他们就是人们一手造成的。##**}}
+
+{{**##AE00FF|他们之前一切都尝试做了，但现在什么也不会做了。##**}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++ [#u-page-11 ......]
+[[/=]]
+@@@@
+@@@@
+[[image https://ldbbs.ldmnq.com/bbs/topic/images/2024-5/55aa2099-bad5-47c6-903a-e75ac32fa3a9.f337b7bdf20648708415d362262d4bbb]]
+[[/div]]
+
+
+
+[[div class="offset-page" id="page-11"]]
+[[div class="line"]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=0
+|color=#020202
+|one=安全？
+|two=稳定？
+|three=绝迹
+]]
+[[/div]]
+[[div class="line"]]
++ 描述
+Level IF-390表现为无穷尽的黑色空间，流浪者在其中仅会保留触觉。最初，FIC怀疑这只是一种导致致盲的现象，使用了较特殊的确定方法后确认了存在此层级。
+[[/div]]
+[[div class="line"]]
+目前，未在层级中发现任何实体，确认层级中没有任何威胁。
+[[/div]]
+[[div class="line"]]
++ 基地、前哨与社区
+[[/div]]
+[[div class="line"]]
+无
+[[/div]]
+[[div class="line"]]
++ 出口与入口
+[[/div]]
+[[div class="line"]]
+* 切入任何可吸收99%可见光的物体
+* [[span class="text-blur text-hoverback"]]有较严重心理疾病的患者会来到该层级。[[/span]]^^此段已证实是层级编篡者描述错误，已删除^^
+[[/div]]
+[[div class="line"]]
+* 在进入层级10分钟后就会自动切出该层级。
+* --##AE00FF|絲網##--
+[[/div]]
+[[div class="line"]]
+[[div class="reportblock-dark"]]
++ 对话记录
+甲：是这样的，我们在研究Level IF-390的时候，发现有大量流浪者在切出层级后死亡。
+
+乙：我看到你们提供的相关资料了，但那些流浪者本身就有严重的心理疾病。
+
+甲：是这样的，所以我们希望您批准修改层级资料。
+
+乙：那是他们自己的问题，和层级没有关系。
+
+甲：...你说什么？他们虽然有心理疾病，但许多没有到轻生的地步。
+
+乙：现在的年轻人太脆弱了，一碰到点事就患抑郁症，死了完全是他们咎由自取。
+
+甲：你说什么？！你以为他们自己想死吗？
+
+乙：怎么不是？残疾人都可以活下去，他们为什么不能？有什么事是解决不了的？自杀的人全都是对社会没用的人！
+
+甲：你...
+
+乙：怎么了？我作为FIC的元老成员见识比你多太多了！无论如何，层级资料你们改不了！
+
+甲：呵...行吧。
+[[/div]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[=]]
++++++ [#u-page-12 ......]
+[[/=]]
+[[/div]]
+-----
+[[=]]
+<< [[[Level IF-389]]] | Level IF-390 | [[[Level IF-391]]] >>
+[[/=]]
+----
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者[[*user triangle sandwich]]
+特别感谢[[*user Xiong1593572]]
+搬运[[*user qwertyuiop1000]]
+这篇文最初的灵感来自于模拟恐怖，后来扩充一下，成了我一篇老文章的重置计划之一
+本人这段时间精神状态不太正常，也算给写文提供一些帮助
+算不同文风的尝试，花了我好几天时间，中间几天wikidot被墙了
+提醒：文章中有大量的隐藏文字。
+搬运注：[[[https://backrooms-x-cn.wikidot.com/level-x-90|Level X-90]]]]]
+[[/collapsible]]
+[[/>]]
+[[/div]]
+
+[[div class="offset-page" id="page-12"]]
+[[=]]
+[[div class="line"]]
+[[<]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=死区
+|color=#AE00FF
+|one=失常
+|two=混乱
+|three=直至解脱
+]]
+[[/<]]
+
+[[/div]]
+[[div class="line"]]
+[[<]]
++ **{{##AE00FF|他们所感受到的##}}**
++++++ **他们已经感受不到什么了...他们已经离开了。**
+[[/<]]
+[[/div]]
+[[div class="line"]]
+@@@@
+@@@@
+++++ **##AE00FF|直到心意已决，##才会放他们##red|离开。##**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/div]]
+
+[[div class="line"]]
+++++ **终于，我又一次来到这里。**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|幻想着长出了飞翔的翅膀，####red|却重重的栽到泥潭中。##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|无数的手自泥潭中伸出##，拼命的向下，我的翅膀被生生##red|扯下来。##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##red|将我的躯体撕的四散、血色鲜红，##直到在泥泞中##AE00FF|窒息。##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|直到下一个梦，####red|我被众人绑在火刑架上。##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|直到下一个梦，####red|我被人们按在河里砍断手脚。##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **直到下一个##red|炼狱...##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **已经##AE00FF|重复####red|无数次##了，真的...真的##AE00FF|重复####red|无数次##了...**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **我们真的不想放弃，我们每次为##AE00FF|挣脱枷锁##所做的##red|努力##啊...**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|我们的理想又算什么？！####red|我们为此承受的痛苦又算什么？！##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##red|如果这就是我们这么多年努力和期盼的结果，####AE00FF|未免也太凄惨了...##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+##red|...##
+[[/div]]
+[[div class="line"]]
+++++ **##red|我一直就没有醒来过！一切不会改变了，什么都不会改变了！##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##AE00FF|我的人生就是个彻彻底底的失败品，行了吗？！##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **##red|我做了20多年的梦啊，####AE00FF|20多年的噩梦啊！##**
+@@@@
+@@@@
+[[/div]]
+[[div class="line"]]
+++++ **我大概明白唯一的##red|解法##了，##AE00FF|似乎，该结束了。##**
+@@@@
+@@@@
+[[/div]]
+-----
+[[=]]
+<< [[[Level IF-389]]] | Level IF-390 | [[[Level IF-391]]] >>
+[[/=]]
+----
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者[[*user triangle sandwich]]
+搬运[[*user qwertyuiop1000]]
+true end了，没东西了。
+儿童节巨献（不是
+希望所有儿童不会碰到心理疾病
+搬运注：[[[https://backrooms-x-cn.wikidot.com/level-x-90|Level X-90]]]]]
+[[/collapsible]]
+[[/>]]
+
+[[/=]]
+[[/div]]
+
+[[div id="default-page"]]
+[[=]]
+[[div class="line"]]
+[[<]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=0
+|color=#020202
+|one=安全？
+|two=稳定？
+|three=绝迹
+]]
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+同學們，今天我們來學習汉字。
+[[/<]]
+[[/div]]
+[[div class="line"]]
++ 火
+[[/div]]
+[[div class="line"]]
+[[<]]
+火是个象形字。火的甲骨文的字形像物体燃烧的时候光、焰散发的情景。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+[[<]]
+到了金文，这个火字，由火苗加两个点构成，两个点表示火苗中有东西向两旁散发，整个字是向四周发光发热的东西的示意图，由此产生火的含义。
+[[/<]]
+[[/div]]
+[[div class="line"]]
+-----
+我们中的人发现了一抹飘扬的红色
+[[/div]]
+[[div class="line"]]
+这抹飘扬的红色能让食物更加美味
+[[/div]]
+[[div class="line"]]
+我们决定留下它，给它取名“火”，并给发现者极大的赞赏.
+-----
+◀ [●] [#u-page-2 ▶]
+[[/div]]
+
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+[[div class="line"]]
+[[/div]]
+
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]人们发现了一个火种[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]认为他对自己不可或缺[[/span]]
+[[/div]]
+[[div class="line"]]
+[[span class="text-block text-hoverback"]]火种也乐意发挥自己的作用[[/span]]
+[[/div]]
+
+[[span class="text-blank text-hoverback"]]我的生命正如火焰般燃烧[[/span]]
+
+[[span class="text-blank text-hoverback"]]发掘自己的意义[[/span]]
+
+[[span class="text-blank text-hoverback"]]也留下我存在过的痕迹[[/span]]
+
+[[/=]]
+[[/div]]

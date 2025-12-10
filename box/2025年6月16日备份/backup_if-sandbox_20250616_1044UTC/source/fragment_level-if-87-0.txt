@@ -1,0 +1,30 @@
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=等待分级
+|one=信息未知
+|two=精神影响
+|three=必定死亡
+]]
+**Level IF-87**是后室IF层群的第87层。
++ **描述**
+目前对于该层级的信息少之又少，仅确认切入该层级时必然为六位流浪者，且必定会造成至少一名流浪者的死亡。
+
+值得注意的是，在切出层级后，目前所有幸存者均会对层级闭口不谈，推测为该层级的精神影响。
++ **基地、前哨与社区**
+由于本层级的不确定性，因此不存在已知的基地前哨与社区。
++ **入口与出口**
+++++++ 入口
+* 于[https://backrooms-wiki.wikidot.com/level-11 Level 11]进入睡梦时有极小概率切入此层级
+* 更多入口正在调查中
+++++++ 出口
+* 于该层级幸存即可切出至[https://backrooms-wiki.wikidot.com/level-11 Level 11]
+
+[[>]]
+[https://if-sandbox.wikidot.com/fragment:level-if-87-1 ......]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+[[/=]]
+[[/div]]
+[[include :backrooms-wiki-cn:theme:dark-liminal]]

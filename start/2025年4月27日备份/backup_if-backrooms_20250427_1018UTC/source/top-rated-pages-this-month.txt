@@ -1,0 +1,32 @@
+[[tabview]]
+[[tab 总表]]
+[[module ListPages order="rating desc" category="*" separate="false" perPage="25" date="last 30 day" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[tab 原创层级/房间]]
+[[module ListPages order="rating desc" separate="false" perPage="25" date="last 30 day" tags="层级 房间 +原创" category="*" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[tab 原创实体]]
+[[module ListPages order="rating desc" separate="false" perPage="25" date="last 30 day" tags="实体 +原创" category="*" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[tab 原创物品]]
+[[module ListPages order="rating desc" separate="false" perPage="25" date="last 30 day" tags="物品 +原创" category="*" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[tab 原创现象]]
+[[module ListPages order="rating desc" separate="false" perPage="25" date="last 30 day" tags="现象 +原创" category="*" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[tab 原创故事]]
+[[module ListPages order="rating desc" separate="false" perPage="25" date="last 30 day" tags="故事 +原创" category="*" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+[[/tab]]
+[[/tabview]]

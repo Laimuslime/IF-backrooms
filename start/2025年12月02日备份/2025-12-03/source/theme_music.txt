@@ -1,0 +1,553 @@
+[[module css]]
+@import url('https://backrooms-wiki.wdfiles.com/local--code/theme%3A-music');
+[[/module]]
+[[module css]]
+:root{
+--header-title:"The Backrooms";
+--header-subtitle:"恐怖的旋律于无尽的大厅回荡";
+}
+[[/module]]
+[[iftags +版式]]
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+该版式由[[*user ReyDay]]制作。
+
+特别感谢[[*user cakelord114514]]在壁纸代码方面提供的帮助，以及[[*user Super-Robot14]]在我遇到大量iftas问题时提供帮助。没有他们，绝不可能完成这个绝妙的版式，务必去看看他们的著作！
+
+所有图像皆是我亲手制作，遵循CC协议，尽情发挥你的创意吧！
+
+[[*user cakelord114514]]给出了技术绿灯
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[/>]]
+[[toc]]
+
+
+[[div class="palette" style="background:rgb(var(--dull-accent))"]]
+@@--dull-accent@@
+158, 117, 158
+[[/div]]
+[[div class="palette" style="background:rgb(var(--dark-purple))"]]
+@@--dark-purple@@
+55, 30, 55
+[[/div]]
+[[div class="palette" style="background:rgb(var(--vibrant-purple))"]]
+@@--vibrant-purple@@
+150, 96, 150
+[[/div]]
+[[div class="palette" style="background:rgb(var(--link-purple))"]]
+@@--link-purple@@
+80, 46, 80
+[[/div]]
+[[div class="palette" style="background:rgb(var(--dark-grey))"]]
+@@--dark-grey@@
+20, 0, 20
+[[/div]]
+[[div class="palette" style="background:rgb(var(--purple-accent))"]]
+@@--purple-accent@@
+110, 65, 110
+[[/div]]
+
+[[module css]]
+.palette {
+    display: inline-block;
+    color: rgb(var(--white-monochrome));
+    text-align: center;
+    padding: 1rem 0;
+    margin: 0.5rem;
+    width: calc(50% - 1rem - 3px);
+}
+.palette p {
+    margin: unset;
+}
+[[/module]]
+
+要使用本版式，用以下代码：
+> [[include :if-backrooms:theme:music]]
+@@@@
+@@@@
+@@@@
+[[include component:image-block
+|align= right
+|caption= Caesar的侧目
+|name= http://backrooms-wiki.wikidot.com/local--files/theme:music/Caesar]]
+
+我很喜欢为我的作者页设计的版式，所以我决定把它发出来！
+
+使用的字体为：
+
+Eczar
+{{等宽编程字体}}
+
+这是分割线的样子！
+----
+
++ 标题
+++ 标题
++++ 标题
+++++ 标题
++++++ 标题
+++++++ 标题
+[[collapsible show="折叠" hide="芜湖"]]
+:)))
+[[/collapsible]]
+脚注[[footnote]] 啊吧啊吧 [[/footnote]]
+**粗体**
+//斜体//
+__下划线__
+--删除线--
+上^^标^^
+下,,标,,
+{{打字体}}
+* 无序列表
+[[[不存在的链接]]]
+[[[http://backrooms-wiki-cn.wikidot.com/level-1|存在的链接！]]]
+
+> 这是一个引用块！你可以在一行前“>”来创建。
+> 这些
+>> 都是
+>>> 嵌套
+>>>> 引用块
+
+[[div class="lightblock"]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock"]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="frame"]]
+
+@@[[div class="frame"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+||~ 这是一个表格 ||~ 表格的另一个部分 ||
+|| 你看这多酷啊！ || 我做出这个版式是不是很牛？:D ||
+@@@@
+[[tabview]]
+[[tab 分页1]]
+Wooo 分页看起来就是这样的！
+[[/tab]]
+[[tab 分页2]]
+这是另一个分页！
+[[/tab]]
+[[tab 这个分页好长啊，而且我也不知道为什么！]]
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+[[/tab]]
+[[/tabview]]
+
+------
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=0
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=2
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=3
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=4
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=5
+]]
+
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=unknown
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=habitable
+]]
+
+[[collapsible show="+ 版式代码" hide="- 隐藏版式代码"]]
+[[code type="css"]]
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&display=swap');
+@import url("https://backrooms-wiki.wikidot.com/component:fantasque-sans-mono/code/1");
+
+:root {
+
+/* Header */
+    --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+    --header-title: "The Backrooms";
+    --header-subtitle: "恐怖的旋律于无尽的大厅回荡";
+    --wallpaper-mask: none;
+
+    --theme-id: "music";
+    --theme-name: "Music";
+
+
+/* Fonts */
+    --body-font: 'Eczar', serif;
+    --header-font: 'Eczar', serif;
+    --title-font: 'Eczar', serif;
+    --mono-font: 'Fantasque Sans Mono', monospace;
+
+    font-family: 'Eczar', serif;
+    font-family: 'Fantasque Sans Mono', monospace;
+
+/* Colors */
+    --white-monochrome: var(--white-accent);
+    --pale-gray-monochrome: var(--light-purple);
+    --light-gray-monochrome: var(--dull-accent);
+    --gray-monochrome: var(--dull-accent);
+    --black-monochrome: var(--dark-purple);
+    --bright-accent: var(--dull-accent);
+    --medium-accent: var(--vibrant-purple);
+    --dark-accent: var(--dark-purple);
+    --pale-accent: var(--link-purple);
+    --link-color: var(--link-purple);
+    --visited-link-color: var(--purple-accent);
+    --alt-accent: var(--vibrant-purple);
+    --hover-link-color: var(--link-purple);
+
+/* Variables */
+    --light-purple: 205, 165, 205;
+    --dull-accent: 158, 117, 158;
+    --dark-purple: 55, 30, 55;
+    --white-accent: 255, 245, 255;
+    --vibrant-purple: 150, 96, 150;
+    --purple-accent: 110, 65, 110;
+    --link-purple: 80, 46, 80;
+    --dark-grey: 20, 0, 20;
+
+/* Swatches */
+    --swatch-background: var(--light-purple);
+    --swatch-primary: var(--dark-purple);
+    --swatch-secondary-color: var(--dull-accent);
+
+    --swatch-text-general: var(--dark-purple);
+    --swatch-important-text: var(--link-purple);
+
+    --swatch-menubg-color: var(--dull-accent);
+    --swatch-menubg-dark-color: var(--dark-grey);
+    --swatch-menutxt-dark-color: var(--white-accent);
+    --swatch-menutxt-general-color: var(--dark-purple);
+    --swatch-border-color: var(--dark-purple);
+    --footnotes-footer-bg-color: var(--white-accent);
+
+    --swatch-headerh1-color: var(--white-accent);
+    --swatch-headerh2-color: var(--white-accent);
+    --swatch-topmenu-border-color: var(--light-purple);
+    --swatch-topmenu-bg-color: var(--dark-purple);
+
+}
+
+/* Tabview + Footnotes */
+#main-content {
+    --tabs-hover-bg: var(--dark-grey);
+    --tabs-selected-bg: var(--dark-purple);
+    --tabs-selected-outline: var(--white-accent);
+    --tabs-bottom-border-color: var(--purple-accent);
+    --footnotes-footer-colorbar-color: var(--purple-accent);
+    --footnotes-footer-title-bg-color: var(--dark-purple);
+}
+
+/* Scrollbar */
+html, body {
+    color: rgb(var(--dark-purple));
+    font-variant-ligatures: none;
+    scrollbar-color: rgb(138, 117, 138) rgb(35, 29, 35);
+    margin: 0;
+    padding: 0;
+}
+
+/* Banner */
+#skrollr-body {
+    height: 11rem;
+    width: 100vw;
+    background: url(http://backrooms-wiki.wikidot.com/local--files/theme:music/Banner) top center repeat-x;
+    background-size: 60%;
+}
+
+
+@media only screen and (max-width:1366px){
+
+  #skrollr-body {
+      height: 11rem;
+      width: 100vw;
+      background: url(http://backrooms-wiki.wikidot.com/local--files/theme:music/Banner) top center repeat-x;
+      background-size: 80%;
+
+  }
+
+}
+
+@media only screen and (max-width:1000px){
+
+  #skrollr-body {
+      height: 11rem;
+      width: 100vw;
+      background: url(http://backrooms-wiki.wikidot.com/local--files/theme:music/Banner) top center repeat- x;
+      background-size: 210%;
+
+  }
+
+}
+
+#container {
+    background-size: 30rem 37rem;
+    background-attachment: scroll;
+    overflow: clip;
+}
+
+/* Wallpaper */
+@media only screen and (min-width: 900px) {
+
+#content-wrap::after {
+    content: "";
+    background-image: url(http://backrooms-wiki.wikidot.com/local--files/theme:music/Notes);
+    background-repeat: repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    z-index: -1;
+    opacity: 100%;
+    display: block;
+    max-height: calc(100%);
+}
+}
+@media only screen and (max-width: 899px) {
+
+#content-wrap::after {
+    content: "";
+    background-image: url(http://backrooms-wiki.wikidot.com/local--files/theme:music/Notes);
+    background-repeat: repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    z-index: -1;
+    opacity: 100%;
+    display: block;
+    max-height: calc(100%);
+}
+
+}
+
+/* Top Bar */
+#top-bar {
+    --dropdown-bg-color: var(--dull-accent);
+}
+
+/* Horizontal Rule */
+hr {
+    border-top: 4px double rgb(var(--dull-accent));
+    text-align: center;
+    background-color: rgba(var(--dull-accent), 1);
+}
+
+
+/* Divs */
+
+.styled-quote {
+    border-left: solid 6px rgb(var(--purple-accent));
+}
+
+.darkblock {
+    background: rgb(0, 0, 0);
+}
+
+.dark-styled-quote {
+    background: rgb(0, 0, 0);
+    border-left: solid 6px rgb(var(--purple-accent));
+}
+
+.frame {
+    color: rgb(var(--dark-purple));
+    background: rgba(var(--light-purple), 1);
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0;
+    box-shadow: 0 0 10px rgba(var(--dull-accent), 0.5);
+    border: 0.8rem ridge rgb(var(--dark-purple));
+}
+
+
+/* SD Classes! */
+.sd-container {
+    --sd-border: 59, 59, 59;
+}
+
+.top-box {
+    border-color: rgb(59, 54, 59) !important;
+}
+
+.bottom-box ul li {
+    color: rgb(59, 54, 59) !important;
+}
+
+.bottom-box ul li:before {
+    background: rgb(59, 54, 59) !important;
+}
+
+.top-box .gradient-box {
+    background: linear-gradient(90deg, rgba(59, 54, 59, 1) 0%, rgba(59, 54, 59, 0) 36%) !important;
+}
+
+.header-diamond {
+    background-image: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 300.9 284.5' style='enable-background:new 0 0 300.9 284.5;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%233b363b;%7D .st1%7Bfill:%233b363b;%7D%0A%3C/style%3E%3Cg%3E%3Cpolygon class='st1' points='73.4,32.6 0,105.4 13.6,105.4 86.4,32.6 '/%3E%3Cpolygon class='st1' points='26.5,105.4 40.1,105.4 112.9,32.6 99.3,32.6 '/%3E%3C/g%3E%3Cpolyline class='st1' points='287.3,105.4 214.5,32.6 227.5,32.6 287.3,91.9 '/%3E%3Cpolygon class='st1' points='274.4,105.4 260.8,105.4 188,32.6 201.6,32.6 '/%3E%3C/svg%3E") !important;
+}
+
+.top-box.class-unknown .header-diamond {
+    filter: none !important;
+}
+.top-box.class-unknown:before, .top-box.class-unknown .header-diamond .diamond-pattern{
+    opacity: 0.15 !important;
+}
+
+.top-box .header-diamond .diamond-image {
+    filter: brightness(0%) invert(100%);
+}
+
+.top-box.class-0,
+.header-diamond .diamond-color.class-0 {
+    background: rgb(195, 150, 195) !important;
+}
+
+.top-box.class-1,
+.header-diamond .diamond-color.class-1 {
+    background: rgb(165, 120, 165) !important;
+}
+
+.top-box.class-2,
+.header-diamond .diamond-color.class-2 {
+    background: rgb(145, 100, 145) !important;
+}
+
+.top-box.class-3,
+.header-diamond .diamond-color.class-3 {
+    background: rgb(125, 80, 125) !important;
+}
+
+
+.top-box.class-4,
+.header-diamond .diamond-color.class-4 {
+    background: rgb(105, 60, 105) !important;
+}
+
+.top-box.class-5,
+.header-diamond .diamond-color.class-5 {
+    background: rgb(85, 40, 85) !important;
+}
+
+.top-box.class-unknown,
+.header-diamond .diamond-color.class-unknown {
+    background: rgb(75, 60, 75) !important;
+}
+
+.top-box.class-habitable,
+.header-diamond .diamond-color.class-habitable {
+    background: rgb(225, 195, 225) !important;
+}
+
+/* License Box */
+#page-content .licensebox .collapsible-block-link {
+    color: rgb(0, 0, 0);
+}
+
+[[/code]]
+[[/collapsible]]
+
+
+------
+[[div class="licensebox-place"]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=ReyDay
+|translator=calf-0
+|license= 3.0
+]]
+
+=====
+> **名称：**Music Banner
+> **作者：**[[user *ReyDay]]
+> **协议：**CC-BY-SA-3.0
+=====
+
+=====
+> **名称：**Note Wallpaper
+> **作者：**[[user *ReyDay]]
+> **协议：**CC-BY-SA-3.0
+=====
+
+=====
+> **名称：**Mr. Caesar
+> **作者：**[[user *ReyDay]]
+> **协议：**CC-BY-SA-3.0
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[/div]]
+
+[[module css]]
+/* Nested iftags licensebox fix by Your friendly neighborhood CSS guy */
+.licensebox-place > :not(.licensebox), #main-content .licensebox-place hr, .licensebox .collapsible-block-content > p:nth-child(3), .licensebox .collapsible-block-content > blockquote:nth-child(4), .licensebox .collapsible-block-content > p:nth-child(5), .licensebox .collapsible-block-content .colmod-content > p:nth-child(2), .licensebox .collapsible-block-content .colmod-content > blockquote:nth-child(3), .licensebox .collapsible-block-content .colmod-content > p:nth-child(4) {
+  display: none;
+}
+[[/module]]
+[[/iftags]]

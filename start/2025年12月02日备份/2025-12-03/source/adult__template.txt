@@ -1,0 +1,22 @@
+[[iftags -管理]]
+[[module Redirect destination="%%name%%"]]
+[[/iftags]]
+
+%%content%%
+
+[[module CSS]]
+#action-area-top::before {
+    content: "";
+    display: block;
+    height: 30vw;
+    max-height: 150px;
+    margin-bottom: 20px;
+    background-image: url("data:image/svg+xml,%3C!DOCTYPE svg PUBLIC %22-//W3C//DTD SVG 20010904//EN%22 %22http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd%22%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22480%22 height=%22166%22%3E%3Cstyle xmlns=%22http://www.w3.org/2000/svg%22%3Etext%7Bfont-family:verdana,arial,helvetica,sans-serif;font-weight:bold;%7D%3C/style%3E%3Cg%3E%3Crect width=%22477%22 height=%22163%22 x=%221.5%22 y=%221.5%22 stroke-width=%223%22 stroke=%22%23333%22 fill=%22%23e4e4e4%22 /%3E%3Ctext xml:space=%22preserve%22 font-size=%2248%22 x=%22144%22 y=%2261.8%22 fill=%22%23901%22 style=%22text-shadow: 1px 2px 3px rgba(0,0,0,.5);%22%3E%E6%88%90%E4%BA%BA%E5%86%85%E5%AE%B9%3C/text%3E%3Ctext xml:space=%22preserve%22 font-size=%2216%22 x=%22144%22 y=%22109.6%22 fill=%22%23333%22%3E%E6%9C%AC%E6%96%87%E5%8C%85%E5%90%AB%E6%88%90%E4%BA%BA%E6%80%A7%E8%B4%A8%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82%3C/text%3E%3Ctext xml:space=%22preserve%22 font-size=%2216%22 x=%2298.65%22 y=%22142%22 fill=%22%23333%22%3E%E8%AF%B7%E5%9C%A8%E7%BB%A7%E7%BB%AD%E9%98%85%E8%AF%BB%E5%89%8D%E7%A1%AE%E4%BF%9D%E4%BD%A0%E5%B7%B2%E5%B9%B4%E6%BB%A1 18 %E5%91%A8%E5%B2%81%E3%80%82%3C/text%3E%3C/g%3E%3C/svg%3E");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#page-content > .error-block:first-child {
+    display: none;
+}
+[[/module]]

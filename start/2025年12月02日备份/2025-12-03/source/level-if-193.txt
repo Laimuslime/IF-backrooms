@@ -1,0 +1,315 @@
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "uncanny-ocean-theme";
+    --theme-name: "Uncanny Ocean Theme";
+
+    /* 保持原字体 */
+    --header-font: 'SimSun', '宋体', serif;
+    --title-font: 'SimSun', '宋体', serif;
+    --body-font: 'SimSun', '宋体', serif;
+    --mono-font: 'SimSun', '宋体', monospace;
+
+    /* 诡异海洋色系 */
+    --white-monochrome: 230, 240, 245;        /* 病态苍白 */
+    --pale-gray-monochrome: 190, 215, 230;    /* 浑浊海水 */
+    --light-gray-monochrome: 120, 170, 190;   /* 深水藻绿 */
+    --gray-monochrome: 50, 90, 120;           /* 锈蚀金属蓝 */
+    --black-monochrome: 10, 25, 40;          /* 深渊黑 */
+    --bright-accent: 70, 160, 180;           /* 荧光藻蓝 */
+    --medium-accent: 40, 100, 160;           /* 石油蓝 */
+    --dark-accent: 0, 50, 90;                /* 窒息蓝 */
+    --pale-accent: 170, 210, 220;            /* 死鱼肚白 */
+    --alt-accent: 0, 130, 150;               /* 放射性绿蓝 */
+
+    /* 不自然渐变 */
+    --gradient-header: linear-gradient(145deg,
+        rgba(var(--bright-accent), 0.6) 0%,
+        rgba(var(--dark-accent), 0.9) 70%,
+        rgba(0, 30, 50, 0.8) 100%
+    );
+}
+
+/* 基础文本 - 增加轻微扭曲感 */
+#page-content {
+    color: rgb(var(--black-monochrome));
+    background-color: rgb(var(--white-monochrome));
+    text-shadow: 0 0 1px rgba(var(--bright-accent), 0.1);
+}
+
+/* 标题 - 不协调渐变 */
+#page-content h1 {
+    background: linear-gradient(75deg, 
+        rgba(var(--medium-accent), 0.7), 
+        rgba(var(--alt-accent), 0.7),
+        rgba(var(--pale-accent), 0.5));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    border-bottom: 2px solid rgba(var(--bright-accent), 0.5);
+    text-shadow: 0 0 5px rgba(var(--alt-accent), 0.2);
+    letter-spacing: 1px;
+}
+
+/* 链接 - 不自然的荧光效果 */
+#page-content a {
+    color: rgb(var(--bright-accent));
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+#page-content a:hover {
+    color: rgb(var(--alt-accent));
+    text-shadow: 0 0 8px rgba(var(--bright-accent), 0.5);
+    letter-spacing: 0.5px;
+}
+
+/* 引用块 - 像被污染的泡沫 */
+#page-content blockquote {
+    background-color: rgba(var(--pale-accent), 0.5);
+    border-left: 4px solid rgb(var(--gray-monochrome));
+    position: relative;
+    overflow: hidden;
+}
+#page-content blockquote::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(var(--bright-accent), 0.1),
+        transparent
+    );
+    animation: shimmer 8s infinite linear;
+}
+
+/* 代码块 - 像被油污污染的水 */
+#page-content pre {
+    background-color: rgba(var(--light-gray-monochrome), 0.4);
+    border: 1px solid rgba(var(--gray-monochrome), 0.8);
+    box-shadow: inset 0 0 15px rgba(0, 30, 50, 0.3);
+}
+
+/* 表格 - 像生锈的金属 */
+#page-content table th {
+    background: linear-gradient(
+        to bottom,
+        rgba(var(--gray-monochrome), 0.8),
+        rgba(var(--black-monochrome), 0.9)
+    );
+    color: rgba(var(--pale-accent), 0.9);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* 图片 - 像被藻类覆盖 */
+#page-content img {
+    border: 3px solid rgba(var(--light-gray-monochrome), 0.7);
+    background-color: rgb(var(--white-monochrome));
+    box-shadow: 0 3px 10px rgba(var(--gray-monochrome), 0.3);
+    filter: sepia(0.2) contrast(1.1);
+    transition: all 0.5s ease;
+}
+#page-content img:hover {
+    filter: sepia(0.4) hue-rotate(-10deg) contrast(1.2);
+    border-color: rgba(var(--alt-accent), 0.8);
+}
+
+/* 水平线 - 像油污漂浮 */
+#page-content hr {
+    height: 2px;
+    border: none;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(var(--bright-accent), 0.7),
+        rgba(var(--alt-accent), 0.4),
+        rgba(var(--gray-monochrome), 0.6),
+        transparent
+    );
+    margin: 2em 0;
+}
+
+/* 添加诡异动画 */
+@keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+/* 二级标题 - 像被腐蚀的效果 */
+#page-content h2 {
+    color: rgb(var(--gray-monochrome));
+    border-left: 4px solid rgba(var(--bright-accent), 0.3);
+    padding-left: 10px;
+    text-shadow: 1px 1px 0 rgba(var(--pale-accent), 0.2);
+}
+
+/* 三级标题 - 不稳定的下划线 */
+#page-content h3 {
+    color: rgb(var(--medium-accent));
+    display: inline-block;
+    position: relative;
+}
+#page-content h3::after {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(
+        90deg,
+        rgba(var(--bright-accent), 0.8),
+        rgba(var(--alt-accent), 0.5)
+    );
+    transform: scaleX(0.9);
+    transform-origin: left;
+    animation: underline-pulse 3s infinite alternate;
+}
+
+@keyframes underline-pulse {
+    0% { transform: scaleX(0.7); opacity: 0.5; }
+    100% { transform: scaleX(1.1); opacity: 0.9; }
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div class="blockquote"]]
+牛鲨作为海洋中最为凶残的掠食者，常常在浅海活动。但是对于常年站在食物链顶端的牛鲨，非自然死亡的情况并不罕见。当牛鲨吞食体型过大或过多的猎物时，胃部可能因过度扩张而破裂。曾有案例显示，死亡牛鲨的胃内充满未消化食物，导致内脏受压而死亡。‌‌可怜的牛鲨最终因为自己的贪婪和愚蠢葬送了性命。
+[[/div]]
+@@@@
+@@@@
+[[include component:level-class
+|class=0
+|color=#FFFFFF
+|three=少量无害实体
+|lang=cn
+]]
+
+**Level IF-193**是后室IF层群的第193层。
+
++ **描述**
+
+**Level IF-193**是一个开阔性层级，其表现为一个长度无限的沙滩。沙滩的一侧是一片丛林，与沙滩之间存在着屏障[[footnote]]类似于空气墙。[[/footnote]]，所有尝试深入丛林的行为无一例外以失败告终。在沙滩的另一侧则是一片面积无限的海域，目前尚未发现海域的另外一个可以被认定为“边界”的地方。
+
+[[include component:image-block
+|name=http://if-backrooms.wikidot.com/local--files/level-if-193/IMG_5518.jpeg
+ |caption=**Level IF-193** 。摄于2012年。
+]]
+
+**Level IF-193**海洋的内部与前厅的海洋存在较大的差异，其水体构成类似，含有大量的可溶性盐。但是在海洋的内部乃至于远海的地区都没有发现任何动植物之类的生命痕迹，因此一般认为**Level IF-193**内部的海洋不存在生态系统。除此之外，层级内部一直保持正午的状态，不存在昼夜循环以及季节循环。
+
+**Level IF-193**内部的资源极其丰富。杏仁水，皇家口粮乃至于火盐之类大量可以被利用的物品都可以在层级内部被找到。它们有一部分散落在沙滩上，但是更多的是在海面上由于未知原因漂浮着，并且对海洋的逐渐深入物资的数量逐渐增加。因此，在离海岸线较远的地方可以发现巨量的物资集群。
+
+-------
+
+**报告一：未被证实的活动**
+
+2014年3月25日，一名流浪者报告称，有10名同团体的成员组织了一个远海物资搜集的活动，在此之后，这些成员再也没有在**Level IF-193**出现过。由于没有任何证据可以证实他说的话，无法确认该报告是否属实。现已将该报告归档。
+
+------
+
+**报告二：突然出现的牛鲨**
+
+2014年5月8日，M.E.G.海滨前哨在**Level IF-193**距离海岸线3千米的前海观测到一群牛鲨的出现。这明显是反常的，因为在此之前从未有人员报告过**Level IF-193**的海洋出现过生命迹象。经过讨论后选择将该次记录归档。
+
+------
+
+**报告三：牛鲨之死**
+
+2015年7月19日起，三周之内有超过五具牛鲨的尸体被海浪冲至浅滩。经解剖后发现这些牛鲨的消化系统均出现了不同程度的损伤，推测是过量进食所致。与尸体一同出现的还有一些人类物件，目前尚不清楚其与之前两份报告是否存在关联，故经过讨论之后，将该记录归档。
+
+------
+
+
++ **基地、前哨与社区**
+
+++ M.E.G.海滨前哨
+* 有15名常驻人员。
+* 支持贸易。
+* 可以为流浪者提供帮助。
+* 负责收集层级内部的物资。
+
++ **入口与出口**
+
+++++++ 入口
+* 从[[[Level IF-135]]]（“动中之动”，等级二）一面绿色的光栅板可以使切入的流浪者来到**Level IF-193**。
+* [[[Level IF-117]]]（“被遗弃的深海失落公园”，等级三）中一处水下建筑可以使切入的流浪者来到**Level IF-193**。
+
+++++++ 出口
+* 尝试切入沙滩与丛林中的屏障，流浪者将会来到[[[Level IF-37]]]（“不欢迎来到丛林”，等级一）。
+* 更多出口有待调查中。
+@@@@
+@@@@
+[[div class="blockquote"]]
+
+[[=]]
+最终，我还是离开了那里。
+@@@@
+@@@@
+虽然那里是那样的安稳，富庶——至少表面上是这样。
+@@@@
+@@@@
+这一切都由于牛鲨的出现而消散得无影无踪。
+@@@@
+@@@@
+我现在常常想到那些鱼类的尸体，
+@@@@
+@@@@
+那戴着项链，戒指，甚至是美瞳的鱼类的尸体。
+@@@@
+@@@@
+我不会再去触碰海水了；
+@@@@
+@@@@
+我担心我最后会与他们拥有相同的眼睛：
+@@@@
+@@@@
+——不甘的，悔恨的眼睛。
+@@@@
+@@@@
+我想他们也许是为自己的错误而嚎哭。
+@@@@
+@@@@
+我想他们也许希望在死之前能再吃上一口。
+@@@@
+@@@@
+@@@@
+@@@@
+………
+@@@@
+@@@@
+@@@@
+@@@@
+这是一个悲剧，但是它确实发生了。
+@@@@
+@@@@
+在看不见的地方，他们已经不再是自己。
+@@@@
+@@@@
+牛鲨最终死于自己的贪婪与愚蠢，
+@@@@
+@@@@
+这便是故事的结局。
+[[/=]]
+[[/div]]
+[[=]]
++ End
+[[/=]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+短篇文章的尝试。
+信息密度相对于之前的那些文章大了很多，行文格式模仿的Level C-617，点子是很久之前想到的。
+图片为自摄。
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-192]]] | **Level IF-193** | [[[Level IF-194]]] >>
+[[/=]]
+[[/div]]

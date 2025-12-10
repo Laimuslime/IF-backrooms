@@ -1,0 +1,143 @@
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+[[=]]
+
+作者：[[*user Guy777]]
+
+------
+
+英译者：[[*user MrXac]] OwO
+中译者：[[*user calf-0]]
+
+呃……此些人是谁？……哦对！就是对此页面进行批判/过绿灯的大好人们！：
+
+[[*user centurys lute]]（批判）
+
+[[*user neptunium153]]（批判）
+
+[[*user SquibbleZombie]]（批判）
+
+[[*user Guy777]]（过绿灯）
+[[/=]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:infobox-style]]
+
+[[table class="infobox-table"]]
+
+[[row]]
+[[hcell colspan="2"]]
++ **Entity TH-1**
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell class="desccell" colspan="2"]]
+一双会吞噬所有有机物的手形凹痕。
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="desccell" colspan="2"]]
+[[image http://th-backrooms-wiki.wikidot.com/local--files/entity-th-1/Handprints style="width: 100%;"]]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="desccell" colspan="2"]]
+//墙壁上爬满了无法清除的手印。//
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell colspan="2"]]
+**基本信息**
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell class="datastart"]]
+**名称**
+[[/cell]]
+[[cell]]
+手印（常用名）
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="datastart"]]
+**类型**
+[[/cell]]
+[[cell]]
+入侵性、拟态体、不可消灭
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="datastart"]]
+**栖息地**
+[[/cell]]
+[[cell]]
+暗处、室内
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell colspan="2"]]
+**行为等级**
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell class="datastart"]]
+**智能**
+[[/cell]]
+[[cell]]
+低；无环境感知能力
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell class="datastart"]]
+**威胁**
+[[/cell]]
+[[cell]]
+中等；对疏忽者容易造成威胁
+[[/cell]]
+[[/row]]
+
+[[/table]]
+ 
++ 描述：
+**Entity TH-1**通常会以各种外观类似于手形的凹痕成群出现。单独出没时，仅呈现出单双手印。它们近乎可以出现在任何表面上，但绝不会低于肩膀高度。
+ 
++ 行为：
+此些**手印**会通过逐渐淡化并在邻近区域重新显现的方式移动。它们通常会向暗处移动以便更轻易地捕获猎物。当有类人实体触碰它们时会将其整个吞噬进所在表面。若成功捕获，它们将会大量繁殖并聚集成更大的群体。
+
+**手印**属于危险度较低的实体。它们不会主动追击猎物，仅凭本能移动到适宜的表面[[footnote]] 例如黑暗狭窄处，或需要手部支撑的区域。 [[/footnote]]。它们不会吞噬无机物，佩戴手套即可预防意外，因此属于低风险实体。
+
+不过，**手印**无法被消灭。即使摧毁其所附着的墙壁也不会对其造成影响，它们会转移至地面随即回到原来的位置。
+ 
++ 生物学：
+如前所述，**Entity TH-1**会以各种外观类似于手形的凹痕出现。此些实体的表面具有类似于流沙的特性，一旦接触便很难抽离。经观察表明单个**手印**通常只会出现一双手印，且此双手印之间的距离无法被大幅分开。
+
+除此之外，目前关于**Entity TH-1**的生物学特征少之甚少。
+ 
++ 行为准则：
++++ 应当：
+* 进入任何室内层级优先佩戴手套。
+* 尽量避开它们。
+* 若手部被其吸附立即尝试抽离。
+ 
++++ 不应：
+* 倚靠或支撑在墙壁上。
+* 避免进入暗处。
+* 直接触碰它们。
+ 
+----
+ 
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< Entity TH-1 | [[[Entity-TH-2|Entity TH-2]]] >>
+[[/=]]
+[[/div]]

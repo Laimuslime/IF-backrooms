@@ -1,0 +1,380 @@
+[[include :backrooms-wiki-cn:theme:liminal-fandom]]
+
+[[module css]]
+:root {
+  --logo-image: url("http://zaskou.wdfiles.com/local--files/what-if-blackout/door_white.png");
+   --header-title: "后门";
+   --header-subtitle: "后室1号聊天论坛";
+}
+[[/module]]
+
+[[module css]]
+
+#main-content {
+  width: 100%;
+  max-width: unset;
+}
+#page-content { max-width: unset !important; }
+[[/module]]
+
+[[module css]]
+#header { max-width: 100% }
+#page-title { display: none; }
+#header div[class*="top-bar"] > ul > li > a { color: transparent; }
+[[/module]]
+
+[[module css]]
+:root {
+  --better-color: 107, 100, 78;
+
+  --pale-gray-monochrome: var(--better-color);
+  --light-gray-monochrome: var(--better-color);
+  --gray-monochrome: var(--better-color);
+  --grey-monochrome: var(--better-color);
+  --legacy-accent: var(--better-color);
+  --darker-legacy-accent: var(--better-color);
+}
+
+[[/module]]
+
+[[module css]]
+#header::before {
+  background-size: auto 5rem;
+  left: -50%;
+}
+
+#header h1, #header h1 a {
+  justify-content: left;
+  left: 1.5rem;
+}
+
+#header h2, #header h2 span, #header h2 span::before {
+  justify-content: left;
+  left: 1rem;
+}
+[[/module]]
+
+[[module css]]
+
+:root {
+  --dark-better-color: 165, 149, 82;
+
+  --dark-gray-monochrome: var(--dark-better-color);
+  --bright-accent: var(--dark-better-color);
+  --medium-accent: var(--dark-better-color);
+  --dark-accent: var(--dark-better-color);
+  --pale-accent: var(--dark-better-color);
+}
+
+#header::before {
+  top: -1rem;
+}
+
+#header h1, #header h1 a {
+  top: 0.5rem;
+}
+
+#header h2, #header h2 span, #header h2 span::before {
+  top: 1.5rem;
+}
+[[/module]]
+
+[[module css]]
+.profileblock {
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  padding: 0.01rem 1rem;
+  margin: -5px
+  border: solid 5px rgb(201, 201, 201);
+}
+.profileblock {
+  width: 23rem;
+}
+
+.profileblock img {
+  width: 9rem;
+}
+
+.limit {
+  margin-bottom: -1rem;
+
+}
+
+.sidebox {
+  position: absolute;
+  top: 0;
+  right: 105%;
+  z-index: 5;
+}
+.profileblock { display: flex ; }
+
+.profileblock img {
+  height: 9rem;
+}
+.profileblock div {
+  width: 100%;
+}
+.doc-link {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+.messagebox {
+  height: 42.25rem;
+  overflow-y: scroll;
+}
+.messagebox {
+  scrollbar-color: white gray;
+}
+.anchor {
+  position: absolute;
+  top: 0;
+  left: -5rem;
+  z-index: 5;
+  overflow-y: scroll;
+  scrollbar-color: white gray;
+  height: 46.25rem;
+  border: solid 5px rgb(201, 201, 201);
+  background: white;
+}
+
+.limit {
+  position: relative;
+  margin-top: -0.53rem;
+}
+.profileblock {
+  position: relative;
+}
+[[/module]]
+
+[[>]]
+[https://if-backrooms.wikidot.com/spec/offset/4 {退出后门}]
+[[/>]]
+
+[[div class="limit"]]
+[[div class="anchor"]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage/tvh-modified.png ]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/12" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Temu Robert Plant[[/size]]
+[[size 90%]]@@      @@好吧，你说得有道理[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：5分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage/leo-modified.png ]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/13" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Biggus Dickus[[/size]]
+[[size 90%]]@@      @@我知道 B)[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：1周前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage/evie-modified.png ]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/14" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Evie[[/size]]
+[[size 90%]]@@      @@我待会扇你一耳光。[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：34分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage/nyx-modified.png ]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/15" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Gaylien[[/size]]
+[[size 90%]]@@      @@没问题，没问题[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：2天前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage/Alice-modified.png ]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/16" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Avalon[[/size]]
+[[size 90%]]@@      @@还有点事[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：34分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/collab:specrewrite/Screenshot%202025-05-31%20202817-modified.png]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/21" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Alexis <3[[/size]]
+[[size 90%]]@@      @@30分钟后见[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：34分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/3" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Carol Lilac[[/size]]
+[[size 90%]]@@      @@谢谢Carol。够给力的。[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：22分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[div class="profileblock"]]
+[[image http://spectre48.wikidot.com/local--files/worstpage8/Screenshot%202025-06-05%20231340-modified.png]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/24" class="doc-link"]][[/a]]
+[[div]]
+[[size 150%]]Prince not-so-charming[[/size]]
+[[size 90%]]@@      @@我恨你[[/size]]
+@@ @@
+[[>]]
+[[size 60%]]最后在线：4分钟前[[/size]]
+[[/>]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+[[module css]]
+.messagebox {
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  padding: 0 1rem 1rem;
+  margin: 1.4rem 0 0rem 20.45rem;
+  border: solid 5px rgb(201, 201, 201);
+}
+
+.messagebox img {
+  width: 5rem;
+  border-radius: 100%;
+  margin: 1rem 0 0;
+}
+
+.name {
+  font-size: 150%;
+  font-weight: bold;
+}
+.replybox {
+  background: white;
+  border: solid 5px rgb(201, 201, 201);
+  margin: 0 0 0 20.45rem;
+  display: flex;
+}
+
+.writebox {
+  flex-grow: 1;
+  text-align: left;
+  color: rgb(201, 201, 201);
+}
+
+.sendbtn {
+  flex-shrink: 0;
+  white-space: nowrap;
+  background: rgb(201, 201, 201);
+  color: white;
+}
+
+.replybox p {
+  margin: 0.5rem
+}
+[[/module]]
+
+
+
+
+[[div class="messagebox"]]
+
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+Spec。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+Carol，你这次又他妈想干啥，我正忙着呢
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+忙？你别装了，狗杂种，我要你帮我个忙。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+操你妈你喝假酒把脑子喝坏了吧？我问你话呢
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+Spec，现在可他妈不是1920那会儿了，谁还用“假酒”这种词啊。”
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+就你这职业和穿衣品味，我差点就信了，臭傻逼
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+……
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+你胆子挺大呀敢跟我这么说话，Spec。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+你住在那个操蛋阿尔戈斯的隔壁六栋还敢搞黑帮你胆子也挺大的。
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+我觉得你也差不多，想起你帮我做的那些事。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+华为呼呼呼各回各家科技开发看看
+@@ @@
+消停点吧
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+你还我那20美金我就消停，混蛋。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+不 :3
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+看来真得好好教训你一顿——算了。你在忙啥呢？
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+不不，请你。继续。
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+我都说了别管这个了。你到底在忙啥？
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+约会 :3
+[[image http://spectre48.wikidot.com/local--files/worstpage7/without_lilac_flower_lilac-modified.png]] [[span class="name"]]Carol Lilac[[/span]]
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+@@ @@
+你？
+@@ @@
+还有人谈恋爱？
+@@ @@
+笑死了你可得了吧哪个傻逼想跟你约会
+@@ @@
+行吧看来你不想说，我不问了。但你他妈必须把我的二十块钱还到据点来。
+[[image https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png]] [[span class="name"]]Spec[[/span]]
+-_-
+@@ @@
+谢谢Carol。够给力的。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[/div]]
+
+[[div class="replybox"]]
+[[div class="writebox"]]
+输入回复。
+[[/div]]
+[[div class="sendbtn"]]
+发送
+[[/div]]
+[[/div]]

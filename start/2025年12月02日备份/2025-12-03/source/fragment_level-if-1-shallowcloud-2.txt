@@ -1,0 +1,37 @@
+> [[=]]
+> [[=image http://boringtalkingsandbox.wikidot.com/local--files/level-206/smolmeod.png style="width:100px;"]]
+> +++++ [[size 130%]] {{M.E.O.D.}} [[/size]]
+> +++++ [[size 70%]] {{欢迎来到霓虹天际线}} [[/size]]
+> [[/=]]
++ Level IF-225现版文档
+[[include component:level-class
+|lang=cn
+|class=1E - 环境
+|color=#33ffAA
+|border=44f2c1
+|list-color=5FADF0
+|image=http://backrooms-sandbox-2.wdfiles.com/local--files/the-mfing-swag-ass-collection/classfivee.png
+|one=安全
+|two=稳定
+|three=无有害实体
+]]
++ 描述
+[[include component:image-block
+|name=http://brsandbox-pro.wikidot.com/local--files/level-ac-83/pexels-peng-liu-45946-169647.jpg
+|caption=如今的Level IF-225，失去了霓虹的亮丽，取而代之的是稳定与安全感。
+]]
+**Level IF-225**在战后危险度急剧下降，在M.E.O.D.和阿尔戈斯之眼的追剿下，R.A.L.势力已经被剿灭。在三支精英分队的努力下与一位英雄的牺牲后，“太阳”被直接摧毁，影响包括：PED装置立刻失效，NIC及其他设备几乎无法接收到任何的能量来源，霓虹块停止在该层级生成，目前M.E.O.D.已经严格命令禁止任何人开采霓虹块矿石。此次行动清除了该层级几乎所有的危险源，稳定性开始回升，实体失去敌意，且三类特殊事件将不会发生在Level IF-225。较为遗憾的是，“太阳”的消失也意味着Level IF-225失去了大量的价值，不过这是我们必须做出的牺牲之一。
+
+**Level IF-225**在这次事件后变为了一个普通的城市，失去“太阳”的能量导致该层级的霓虹块建筑不再发出光亮，城市也永远被锁定在夜晚时分。在与帕拉斯研究所的合作与努力下，该层级的霓虹化人可以如正常人般交流，管理员也不再表现为敌对，且在帕拉斯研究所的引导下愿意与人类进行合作。目前，除了层级温度有时会下跌到10℃以下，Level IF-225已不存在任何已知的危险。用一时的利益换取永久的和平和通向IF层群的钥匙，这些都是值得的。
+----
+[[=]]
++ M.E.O.D.霓虹作战部对全体流浪者的宣告
+> 自发现此处罪恶之地以来，我们就誓要对抗到底。
+> 十多年以来，霓虹摆布着无辜的流浪者，无数的生命在此终结。
+> 纵使荆棘和困难遍布，仍然有源源不断的勇士抵达前线与邪恶对抗。
+> 今天，在一声轰轰烈烈的巨响之中，我们击溃了黑暗，征服了这片霓虹。
+> 至此，我们正式地踏上了IF层群的第225层，所有的阻碍再无法干涉我们探索的脚步。
+> ++ 欢迎来到霓虹天际线
+> 流浪者，欢迎重新启航，[[[Level IF-2|通往未知的IF层群]]]
+> **我们仍需联合——为了人类**
+[[/=]]

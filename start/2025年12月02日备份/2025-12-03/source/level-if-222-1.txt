@@ -1,0 +1,109 @@
+[[include :backrooms-wiki-cn:theme:brokedown-database
+|no-animation=true
+]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div class="logo-scanline"]]
+[[/div]]
+[[div class="linebolck-outbox"]]
+[[div class="linebolck-inbox"]]
+
+自[[[Level IF-222|惊悚之旅馆]]]的一层坠下，我便来到了这样一条长而破败的走廊之中。缺乏的照明与四周频频响起的异常噪声，使得我忐忑不安。
+
+[[/div]]
+[[/div]]
+
+[[div class="scanline-wrap"]]
+[[div class="scanline-cell scanline-text"]]
+[[div class="scanline-intext"]]
+
++ Level IF-222.1
+
+[[include component:level-class
+lang=cn
+|class=2
+|three=少量实体
+]]
+
+**Level IF-222.1** 是Level  IF-222 的一个子层级。
+
+++ 描述：
+
+有别于其高度危险的母层，**Level IF-222.1** 内并未发现任何严重的危险源。该子层呈现为一条似乎无限长的走廊，两侧的墙壁由砖块垒成，地板由深灰色的瓷砖组成，而其天花板则是某种深棕色的位置材料所制成。层级的宽度约为2.5m。
+
+层级内无论是地板、墙壁亦或是天花板均存在宽窄长度不等的裂缝，亦存在许多破洞，裸露出其后无法破坏的一层金属外壳。地板上存在大量的水坑，其成分经检验为80%的杏仁水、19.6%的腰果水与0.4%的液态皇家口粮。正因如此[https://backrooms-wiki-cn.wikidot.com/the-b-n-t-g B.N.T.G.]正在尝试在该层级建立稳定的采集站并作为其皇家口粮这一稀缺资源的稳定来源。
+
+[[include component:image-block
+name=http://if-sandbox.wikidot.com/local--files/222-1/underground.jpg
+|caption=一张关于**Level IF-222.1**的相片，记录了层级的典型外貌。摄者pqw12.]]
+
+层级内偶尔会出现一些家具，且大都是损坏的。以下记录了至今发现的一些值得注意的家具：
+[[div class="lightblock"]]
+* 一个玻璃部分碎裂的玻璃桌面圆桌
+
+* 一个缺失大部分外壳与小部分零件的电视机
+
+* 一个衣架，但是柜门上锁且无法打开（亦无法破坏）
+
+* 一个玻璃开裂但整体未破碎的鱼缸
+
+* 一个缺失门的冰箱
+[[/div]]
+
+层级内天花板的两侧存在荧光灯，每组荧光灯之间相距30m±10m。这些荧光灯无法被破坏，亦无法被拆卸。在绝大多数情况下，这些荧光灯会以较高的频率闪烁，频率约为1.8次每秒。这会对层级内流浪者的眼睛造成一定损害。
+
+层级内始终存在一来源不明的噪音，其声音类似于电风扇运行发出的嗡嗡声。然而，这一噪音的响度较大，经测量在95dB上下。这会对层级内流浪者的听力也造成一定损害。
+
+++ 实体：
+
+层级内的墙壁颜色斑驳，其上有时会附着着**寄生涂料**。这些生物会将自己伪装成墙上砖块的斑驳色态，故较难分辨。
+
+层级内据传出没有**钝人**与**悲尸**，但未经证实。
+
+++ 基地、前哨站与社区：
+
+**B.N.T.G.**正尝试于据层级一端（流浪者进入时出现在的地方，另一端暂未被探索至）1.2~2km处设立一个专用于收集层级内液体以提炼**皇家口粮**的基地，计划于2025年10月建成。
+
+该基地一旦建成，将使得**皇家口粮**这一物资不再像过去那样稀缺而昂贵。这一成果的价值之大使得 M.E.G.、U.E.C.、正电子科技等诸多团体均参与进了这一庞大基地的建设并将在建成后享受到一定量的免费皇家口粮供应。
+
+++ 入口与出口：
+
+++++ 入口：
+
+目前**Level IF222.1**被证实的入口仅有两个：在[[[Level IF-222]]]中落入一层地板上的破洞和在[[[Level IF-250]]]中切入内壁上的一个黄色导向标识。
+
+++++ 出口：
+
+在层级之廊道上进入一条岔路将会使你进入[[[Level IF-14]]]。
+切入一块瓷砖制成的墙壁会使你来到[[[Level IF-198]]]。
+切入墙壁上的一个写着“A convenient gate of The Wonderful Factory”会使你来到[[[Level IF-16]]]。
+
+**更多信息收集中……**
+
+[[>]]
+[[collapsible show="著作信息" hide="收起"]]
+**作者：**[[*user xuziqi]]
+[https://cc0.cn/image/1571727120509952.html 图源]
+又一篇速写。
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+
+<< [[[Level IF-222]]] | Level IF-222.1 | [[[Level IF-223]]] >>
+
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="scanline-cell scanline-animation"]]
+[[div class="scanline-place" ]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[=]]
+[[module Rate]]
+[[/=]]

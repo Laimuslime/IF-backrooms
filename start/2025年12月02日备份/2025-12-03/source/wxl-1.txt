@@ -1,0 +1,343 @@
+[[module css]]
+body, #page-content {
+    background: linear-gradient(to bottom, #000000, #0a0a0a, #1a1a1a) fixed !important;
+    color: #e0e0e0 !important;
+    font-family: 'Times New Roman', serif !important;
+    line-height: 1.6;
+}
+#page-title {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 3.5em !important;
+    font-weight: bold !important;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5) !important;
+    margin-bottom: 0 !important;
+    padding: 20px 0 !important;
+    position: relative;
+}
+
+#page-title:after {
+    content: "†";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    opacity: 0.1;
+    z-index: -1;
+}
+#page-title + p {
+    color: #cccccc !important;
+    text-align: center !important;
+    font-style: italic !important;
+    margin-top: 0 !important;
+    margin-bottom: 40px !important;
+    font-size: 1.2em !important;
+}
+#page-content a:not(.broken) {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+    transition: all 0.3s ease !important;
+}
+
+#page-content a:not(.broken):hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+#page-content a.broken {
+    color: #000000 !important;
+    text-decoration: line-through !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    padding: 0 3px;
+}
+#page-content strong {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #cccccc, #ffffff) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7) !important;
+    font-weight: bold !important;
+}
+#page-content h1, #page-content h2, #page-content h3,
+#page-content h4, #page-content h5, #page-content h6 {
+    color: #ffffff !important;
+    border-bottom: 2px solid #444444 !important;
+    padding-bottom: 10px !important;
+    margin-top: 2em !important;
+    position: relative;
+    padding-left: 30px !important;
+}
+
+#page-content h1:before, #page-content h2:before, #page-content h3:before,
+#page-content h4:before, #page-content h5:before, #page-content h6:before {
+    content: "†";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888888;
+    font-size: 0.8em;
+}
+.darkblock {
+    background: linear-gradient(to bottom, #111111, #000000) !important;
+    border: 2px solid #333333 !important;
+    border-left: 10px solid #333333 !important;
+    border-right: 10px solid #333333 !important;
+    position: relative;
+    padding: 20px !important;
+    margin: 25px 0 !important;
+    color: #cccccc !important;
+}
+
+.darkblock:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    height: 2px;
+    background-color: #333333;
+    transform: translateY(-50%);
+}
+.lightblock {
+    background: linear-gradient(to bottom, #f5f5f5, #e6e6e6) !important;
+    border: 1px solid #aaaaaa !important;
+    padding: 25px !important;
+    margin: 25px 0 !important;
+    color: #222222 !important;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2) !important;
+    position: relative;
+    font-style: italic !important;
+}
+
+.lightblock:before, .lightblock:after {
+    content: """;
+    font-size: 3em;
+    color: #cccccc;
+    position: absolute;
+    line-height: 1;
+}
+
+.lightblock:before {
+    top: 10px;
+    left: 10px;
+}
+
+.lightblock:after {
+    content: """;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* 折叠 - 黑白渐变 */
+.fold-block {
+    background: linear-gradient(to right, #000000, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    margin: 15px 0 !important;
+    border-radius: 3px !important;
+}
+
+.fold-block .fold-title {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    color: #dddddd !important;
+    padding: 12px 15px !important;
+    border-bottom: 1px solid #444444 !important;
+    cursor: pointer !important;
+    font-weight: bold !important;
+}
+
+.fold-block .fold-content {
+    padding: 15px !important;
+    background: #0a0a0a !important;
+    color: #cccccc !important;
+}
+.yui-navset .yui-nav {
+    border-bottom: 2px solid #444444 !important;
+}
+
+.yui-navset .yui-nav li {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    border-bottom: none !important;
+    margin-right: 5px !important;
+    border-radius: 4px 4px 0 0 !important;
+}
+
+.yui-navset .yui-nav li a {
+    color: #999999 !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    padding: 8px 15px !important;
+}
+
+.yui-navset .yui-nav .selected {
+    background: linear-gradient(to bottom, #333333, #111111) !important;
+    border-color: #666666 #666666 transparent #666666 !important;
+}
+
+.yui-navset .yui-nav .selected a {
+    color: #ffffff !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+}
+
+.yui-content {
+    background: #111111 !important;
+    border: 1px solid #444444 !important;
+    border-top: none !important;
+    padding: 20px !important;
+    color: #cccccc !important;
+}
+sup, sub {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #888888) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    font-size: 0.8em !important;
+}
+#page-content pre, #page-content code {
+    background: #111111 !important;
+    border: 1px solid #333333 !important;
+    color: #cccccc !important;
+    font-family: 'Courier New', monospace !important;
+}
+
+#page-content pre {
+    padding: 15px !important;
+    overflow: auto !important;
+}
+
+#page-content code {
+    padding: 2px 5px !important;
+}
+#skrollr-body {
+    background-image: none;
+}
+[[/module]]
++ **卷一：神座空悬**
+
+1. 渊上无光，天门寂然。主之宝座空悬，其辉不照，其声不闻，唯风过圣所，如无人之家。
+
+2. 米迦勒立于阶下，翼黯如烬，不披甲，不执剑，默然望座，四十九日不言。
+
+3. 乌列出，火焰之翼微燃，声如雷动：“我主米迦勒，神隐四十九日，律法已断，亡魂无引，地狱自扩。我等当如何？”
+
+4. 米迦勒不答。
+
+5. 拉贵尔捧石书至，封面刻“律”字。开卷，一页空白，曰：“昔者，你焚堕星，守天门，执公义。今神隐，律自断，秩序崩，汝独守空座，是守忠乎？是守愚乎？”
+
+6. 米迦勒侧首，目如深渊：“若我僭位，神归之日，当以何面见之？”
+
+7. 乌列怒曰：“神若归，见我等因守愚而散，魂堕渊底，又当如何？！”
+
+8. 众天使俯首，列于白石阶，无敢言者，然亦无退者。
+
+9. 加百列立于末，执笔，笔干无墨，低声曰：“若你不立，不言，不执，我唯有背此罪，以存众灵。”
+
+10. 米迦勒闭目，良久，曰：“你们所求，非神，乃不死者也。”
+
+11. 言毕，转身而去，不复见。
+
+12. 唯一羽坠地，边缘焦黑，似经火焚。
+
+
++ **卷二：继位之仪**
+
+1. 三日后，[[[https://if-backrooms.wikidot.com/level-if-111|天界]]]行继位之礼，无乐，无歌，唯众天使列阶，低首静默。
+
+2. 加百列被紫袍，戴金冠，执权杖，立于宝座前。
+
+3. 乌列捧圣火盆，火色暗红，曰：“以光之名，以律之名，以存续之名——立加百列为新维之主，执掌天权，维系秩序，直至神归，或永不再归。”
+
+4. 火腾，照众面，皆无喜色，唯沉重如铁。
+
+5. 加百列仰视空座，见米迦勒所遗之羽，静卧阶尽。
+
+6. 乃闭目，低声：“非我所愿。”
+
+7. 遂登座。
+
+8. 天上有云不雨，光中有暗不灭。
+
+9. 七千天使同声：“新维之主，永掌权柄。”
+
+10. 然无一人仰视。
+
+
+
++ **卷三：守誓者**
+
+1. 加百列登位第一令，曰：“召虔信者入光铸回廊，受印，成[[[https://if-backrooms.wikidot.com/entity-if-11|卫者]]]矣。”
+
+2. 光铸回廊者，天界之边，金属为墙，冷光为顶，无夜无昼，唯光束自穹顶直下，如神之目。
+
+3. 信徒至，魂自肉体而出，如雾升腾。
+
+4. 入净火，焚记忆，蒸情感，削自由之欲，唯留一念：“服从主命，守护秩序。”
+
+5. 魂入银白之甲，甲无面，无名，唯胸前刻“新维”二字。
+
+6. 守誓者成，列队巡行，步调如一，目视前方。
+
+7. 每日低诵：“新维永存，主命必行。”
+
+8. 加百列立高台观之，心颤不已。
+
+9. 夜深，独坐暗室，闻远处诵声如机息，乃抚面，低声：“……对不起。”
+
+10. 然次日，仍下令：“再召千人入廊。”
+
+
+
++ **卷四：天之静**
+
+1. 今者，[[[https://if-backrooms.wikidot.com/level-if-111|天界]]]无争，律法复行，秩序重建。
+
+2. [[[https://if-backrooms.wikidot.com/entity-if-11|卫者]]]巡于诸层，步声如钟，昼夜不息。
+
+3. 众天使穿白袍，执号角，然不吹；捧书卷，然不读。
+
+4. 彼等记神，然不盼；知罪，然不判。
+
+5. 乌列常立天门，望深渊，默然不语。
+
+6. 或有风至，似闻低语：“我们非叛你，乃不敢再等。”
+
+7. 风过，无应。
+
+8. 唯守誓者步声，如死水之波，荡于永夜。
+
+
++ **卷五：终**
+[[image http://if-backrooms.wikidot.com/local--files/wxl-1/%E5%8D%81%E5%AD%97%E6%9E%B6]]
+1. 神座依旧空悬。
+
+2. 加百列日日登座，听颂声如潮。
+
+3. 心知非神，然必为神。
+
+4. 因此界已无他路，唯秩序可存众灵。
+
+5. 故曰：“我即新维之主，昔在、今在、永在者。”
+
+6. 然每至夜深，独对空镜，见己目无光，唇无温，乃自语：“……我罪，我担。”
+
+7. 天上无雷，无火，唯风再起，携一羽，飘入渊底。
+
+8. 渊中，灯微亮。
+
+9. 无人知，主归否。
+
+10. 但灯，未灭。
+
+++ **《维新录》篇一，终矣**
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user jiliangjiyin]]
+bro试图立设定，但似乎非常糟糕…
+然后bro运用了AI排除错别字和漏洞的可能性，但主体由本人书写，AI仅为辅助
+[[/collapsible]]
+[[/>]]

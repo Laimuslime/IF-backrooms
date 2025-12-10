@@ -1,0 +1,233 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|reverse=a
+|title=a
+|del=a
+]]
+
+[[module CSS]]
+:root {
+    /*深色*/--bb-black: 255,255,255;
+    /*浅色*/--bb-white: 0,0,0;
+}
+[[/module]]
+
+[[html]]
+<hr style="border: 1px solid white; filter: blur(2px);">
+<div style="text-align: center;">
+  <h1 style="color: white; filter: blur(2px); font-weight: bold;">
+    -Level 8-
+  </h1>
+  <h2 style="color: white; filter: blur(2px); font-weight: bold;">
+    岩洞系统
+  </h2>
+</div>
+<hr style="border: 1px solid white; filter: blur(2px);">
+[[/html]]
+
+[[html]]
+<style>
+.line {
+  opacity: 1;
+  filter: blur(1.5px);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 28px;
+  white-space: pre-wrap;
+  margin: 20px 0;
+}
+
+.spacer {
+  height: 20px;
+}
+
+.image-block {
+  margin: 40px 0;
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.image-block img {
+  width: 300px;
+  height: auto;
+  filter: blur(5px);
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.button-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #808080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:focus {
+  outline: none;
+}
+</style>
+
+<div class="button-container">
+  <button class="button" id="toggleBlurButton">模糊效果[已开启]</button>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+  <div class="image-block">
+    <img src="https://s21.ax1x.com/2025/05/24/pVSP5DA.jpg" alt="模糊怪物图像">
+  </div>
+
+  <div class="line">后脑撞上岩壁的一角，</div>
+  <div class="spacer"></div>
+  <div class="line">温热的血顺着脖颈往下淌，</div>
+  <div class="spacer"></div>
+  <div class="line">模糊了视线，也带走了最后一丝力气。</div>
+  <div class="spacer"></div>
+  <div class="line">我靠坐在冰冷的岩石墙上，</div>
+  <div class="spacer"></div>
+  <div class="line">胸膛剧烈起伏，像要把肺撕裂似的，</div>
+  <div class="spacer"></div>
+  <div class="line">我每一次呼吸都在绝望地颤抖。</div>
+  <div class="spacer"></div>
+  <div class="line">那个怪物正在缓缓向我走来……</div>
+  <div class="line">它疲倦的怪声让我止不住地颤抖。</div>
+  <div class="spacer"></div>
+  <div class="line">周围漆黑一片……没有人帮我……</div>
+  <div class="spacer"></div>
+  <div class="line">......</div>
+  <div class="spacer"></div>
+  <div class="line">那东西停下来了......它没有马上扑上来......</div>
+  <div class="line">它喘着气那怪声似生锈的金属在刮磨岩面，带着疲倦</div>
+  <div class="spacer"></div>
+  <div class="line">看来我还有一点时间......</div>
+  <div class="spacer"></div>
+  <div class="line">但我没力气挣扎了......</div>
+  <div class="spacer"></div>
+
+  <div class="image-block">
+    <img src="https://s21.ax1x.com/2025/05/24/pVSi4RU.jpg" alt="抽烟">
+  </div>
+
+  <div class="line">那便让我燃尽最后一根烟......</div>
+  <div class="spacer"></div>
+  <div class="line">尼古丁涌进肺里，我闭上眼，脑海里浮现昔日的“家”</div>
+  <div class="spacer"></div>
+
+  <div class="image-block">
+    <img src="https://s21.ax1x.com/2025/05/25/pVSZhJ1.jpg" alt="家">
+  </div>
+
+  <div class="line">阳光透过树叶洒在午后的窗台……</div>
+  <div class="spacer"></div>
+  <div class="line">一切都好美.....都已经远去了......都再也回不去了......</div>
+  <div class="spacer"></div>
+  <div class="line">......</div>
+  <div class="spacer"></div>
+  <div class="line">片刻间，那个怪东西重新走向我......</div>
+  <div class="spacer"></div>
+  <div class="line">步步紧逼着......踩在碎石上的声音慢慢压过我耳边的血鸣</div>
+  <div class="spacer"></div>
+  <div class="line">我不敢睁眼......希望就此沉睡过去......</div>
+  <div class="spacer"></div>
+  <div class="line">它的影子已渗入每一寸黑暗</div>
+  <div class="spacer"></div>
+
+  <div class="line">而在这绝望之间......</div>
+  <div class="spacer"></div>
+</div>
+
+<script>
+  const toggleButton = document.getElementById("toggleBlurButton");
+  const lines = document.querySelectorAll(".line");
+  const images = document.querySelectorAll(".image-block img");
+
+  let isBlurred = true;
+
+  toggleButton.addEventListener("click", function() {
+    isBlurred = !isBlurred;
+    if (isBlurred) {
+      lines.forEach(line => line.style.filter = "blur(1.5px)");
+      images.forEach(img => img.style.filter = "blur(5px)");
+      toggleButton.textContent = "模糊效果[已开启]";
+    } else {
+      lines.forEach(line => line.style.filter = "none");
+      images.forEach(img => img.style.filter = "none");
+      toggleButton.textContent = "模糊效果[已关闭]";
+    }
+  });
+</script>
+
+[[/html]]
+
+[[html]]
+<style>
+  a.animated-link {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease, text-shadow 0.3s ease;
+  }
+
+  a.animated-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 100%;
+    height: 2px;
+    background: white;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+  }
+
+  a.animated-link:hover {
+    transform: translateY(-3px);
+    color: #ffffff;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+  }
+
+  a.animated-link:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+</style>
+
+<div style="text-align: center;">
+  <h1 style="color: white; filter: blur(2px); font-weight: bold; font-size: 2.2em; margin: 20px 0;">
+    <a href="https://if-backrooms.wikidot.com/collab:level-if-1/offset/2" target="_blank" class="animated-link">
+      蓦然跌入深渊之中......
+    </a>
+  </h1>
+</div>
+
+[[/html]]
+
+[[html]]
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img src="https://s21.ax1x.com/2025/05/25/pVSeSQf.png" alt=" " style="width: 300px; height: auto; filter: blur(5px);">
+</div>
+
+[[/html]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[>]]
+[[collapsible show="阅读提示" hide="收回"]]
+文本“蓦然跌入深渊之中”可被点击
+[[/collapsible]]
+[[/>]]

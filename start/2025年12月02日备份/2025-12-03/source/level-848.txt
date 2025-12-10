@@ -1,0 +1,246 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:theme:aeternum-repositorium]]
+
+[[div class="darkdocument"]]
+
+哈喽，Requiem。
+
+此次延误非常不幸。虽说我理解你的处境，但**达尔文计划**实在经不起更多耽搁。你们的小队必须开始轮班工作，直至进度重回正轨。前来上报此回复的研究小队将全力提供协助，此外，他们还需执行对愁眉苦脸的观察并将其招募至资料库的主要任务，你们途中可能还会意外获得更多帮手。切勿放缓进度。
+
+真诚的，Crescendo
+
+附言：线人已上报有关**生日蜡烛**的情报。
+
+[[/div]]
+
+[[include :backrooms-sandbox:component:repository-sd
+|danger=1
+|goi=timid
+|environmental=low
+]]
+
+[[div class="floatbox"]]
+[[tabview]]
+[[tab 图1]]
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/level-848/backway20
+|caption=一张Level 848的图像
+|align=center
+]]
+@@ @@
+@@ @@
+[[/tab]]
+
+[[tab 图2]]
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/level-848/backway58
+|caption=一张由反实体机构于1953年拍摄的Level 848的图像。
+|align=center
+]]
+@@ @@
+[[/tab]]
+[[/tabview]]
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
++ **描述**
+Level 848是由无数个类似于传统剧院的大厅和房间组成的无限空间。虽然大多数后台与储藏室空无一物，但其中也分布着存放各类道具、戏服及剧院相关设备的房间。
+
+尽管该层级不会生成任何实体，但--愁眉苦脸-- --扫兴客 [[span style="color:red"]]=)[[/span]]--和[https://backrooms-wiki-cn.wikidot.com/entity-68 扫兴客] [[span style="color:blue"]]=([[/span]]常会迁徙于此。它们经常会进入这个层级，利用随处可见的道具布置场景模型，以讲述自己的人生故事。人们还发现它们会在此处留下文字记录或“壁画”。尚未明确这个传统的起源。
+
+@@ @@
+
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/level-848/ominousdrawing
+|caption=某只愁眉苦脸在**红毯行动**期间用于向其他层级的M.E.G.前哨站求救的两张手绘草图之一。
+|align=right
+]]
+
++ **红毯事件**
+在2021年9月6日，--派对客-- [https://backrooms-wiki-cn.wikidot.com/entity-67 地狱爪牙]对Level 848展开了恐怖的袭击。上百只派对客纵火焚烧了--愁眉苦脸-- --扫兴客 [[span style="color:red"]]=)[[/span]]-- 愁眉苦脸 [[span style="color:blue"]]=([[/span]]留下的壁画、手绘草图与模型。整场袭击造成数百间房间被完全焚毁，数十只--愁眉苦脸-- --扫兴客 [[span style="color:red"]]=)[[/span]]-- 愁眉苦脸 [[span style="color:blue"]]=([[/span]]死亡。M.E.G.与阿丽亚娜集团结盟反击并成功击退袭击者。袭击持续了37小时。最终留下5片数公里宽的焦土，除了--派对客-- 地狱爪牙用涂鸦覆盖的墙面。一切皆归于灰烬。该区域的照明系统已全部失效，多位流浪者报告称在此目击--派对客-- 地狱爪牙。经[https://backrooms-wiki-cn.wikidot.com/backrooms-remodeling-co 后室装修公司]修缮后，原本5处受损区域目前仅剩4处。但最新报告显示，此些废墟中仍存在--派对客-- 地狱爪牙出没的目击事件。
+
+@@ @@
+
+[[div class="darkdocument"]]
+[[=]]
++ **达尔文计划**
++++ **现场观察**
++++ **报告1**
+[[/=]]
+-----
+**观察员：**Everett Locke
+
+**观察日期：**2021年9月11日-2021年9月17日
+
+**观察记录：**
+[[div class="blockquote"]]
+在**红毯事件**发生后，愁眉苦脸 扫兴客们制作的许多模型、文字与壁画皆已遗失。我们原以为要在无面部表情的情况下读懂他们的表达很难，但实际操作起来要比预想的要容易的多。为弥补无法使用面部表情和声音交流的缺陷，他们就像默片时代的演员，用特别夸张的肢体动作以表达自己。而最让我惊讶的是他们最主要的交流方式（除了电子设备），他们会在各种平面上描画字母，最常见的是在躯干上书写。我甚至观察到有一只甚至使用了西班牙语。
+
+他们的普遍表达是对损毁成果的哀伤，以及对肇事派对客的愤怒。尽管多数心血之作付之一炬，他们仍迅速投入重建。一边复原被毁掉的文字，一边修复阿丽亚娜集团结盟基地。Requiem曾说服部分成员协助建造我们的研究站，但很快发现这个方案行不通，他们难以熟练操作工具。不久，我们就将此些成员转移至数据库004-Γ，融入Aegis档案员的体系。
+[[/div]]
+[[/div]]
+
+@@ @@
+
+[[div class="darkdocument"]]
+哟Crescendo！
+
+好消息！我们总算把基地/研究站/招募站建完了！不过得遗憾地说一下，我们比计划晚了一小时完工。但既然马上就要过节了，我还是想去申请点资料，好帮那些阿丽亚娜集团结盟搞定他们的新基地。那帮官僚连个工地也搞不利索！若需其他理由，就说此事能改善关系，回见！
+
+你的得力干将，Requiem
+[[/div]]
+
+@@ @@
+
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/level-848/backwaymovie
+|caption=一张电影院的图像
+|align=right
+]]
+
++ **电影院**
+**红毯事件**结束约40天后，有人发现后室装修公司的成员正在勘查部分受损区域。几天后他们开始施工，成功修缮了一处受损区域。但阴差阳错的是，他们非但未复原原本的舞台，反而误建成了一批电影院。此些新建的电影院的设施很齐全，投影仪、胶片卷轴（当然，胶片皆是空白的），运行也无问题。
+
+@@ @@
+
+[[div class="darkdocument"]]
+[[=]]
++ **达尔文计划**
++++ **现场观察**
++++ **报告4**
+[[/=]]
+-----
+**观察员：**Everett Locke
+
+**观察日期：**2021年10月21日-2021年10月28日
+
+**观察记录：**
+[[div class="blockquote"]]
+我和我的研究同伴们有幸观看了一场由寂静剧院剧团演出的戏剧。此是一次非常特别的体验，演员们戴着画有面孔的面具，用夸张的肢体动作和音乐来代替对白。那感觉就像是在观看一部没有歌词的歌剧，整场演出堪称一件真正的艺术杰作。他们演绎的是莎士比亚的《理查三世》。就在第三幕即将开始前，一位工作人员因为Requiem和他女友的接吻声太大，把他们给请了出去。
+
+后来我们有些人和剧组人员聊了聊。他们对人生的看法略显阴郁，但总体很有礼貌，回答了我们许多的问题。除了在排练或演出时佩戴区分角色的面具外，他们平时都不戴任何道具，而是通过手腕上写着名字的腕带来互相辨认。他们最终想全身心投入此种新的艺术形式。我很期待看见他们能取得怎样的成就。
+[[/div]]
+[[/div]]
+
+@@ @@
+
++ **基地、前哨与社区**
++++ --阿丽亚娜集团剧团-- --[[span style="color:red"]]失败之地 =)[[/span]]-- 阿丽亚娜集团剧团 [[span style="color:blue"]]=([[/span]]
+
+阿丽亚娜集团剧团是这个层级里的一个小型前哨，由大约20名常驻成员组成，他们专门研究进入此处的愁眉苦脸。此处还设有一块公告板，上面张贴着各个团体发布的愁眉苦脸勘察工作招募信息，此些工作被视为重新融入社会的一种途径。在**红毯行动**后，他们将基地迁徒至该层级的另一个区域。
+
++++ 静默剧团公会
+
+静默剧团公会是由一群愁眉苦脸开创的表现主义戏剧流派实践者。他们的演出无有台词，仅通过夸张的肢体动作和强烈（通常是管弦乐）配乐来传递情感。这个剧团已连续五次入选《激进电台》评选的//后室空间25大消费者体验榜//。
++++ 扫兴客工作室
+
+此是一群规模适中的愁眉苦脸，他们专门创作动画和卡通作品，并在改造而成的电影院区域放映。入场方式是用艺术/影视物资或电子设备换取门票（例如数位绘图板、触控笔等）。他们最受欢迎的系列作品是对后室中诸多重要人物及团体的讽刺。
+
+@@ @@
+
+[[collapsible show="插入ALPHA等级凭证" hide="我们很感激能有这个机会 =("]]
+[[div style="padding:0.1rem 0.7rem;margin:0.5rem 0;background:#000000;border-radius:0.0rem;box-shadow: 0px 0px 1px;border: 1px solid #8250a0;box-sizing:border-box;box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);"]]
+
++++ 售票处（永恒资料库）
+
+此是由永恒资料库运营的愁眉苦脸招募处。部分成员拥有堪比派对客的计算机技能，事实证明他们在盾牌档案管理员队伍中非常能干。由于愁眉苦脸的高频往来，这个前哨同时也充当着研究站的角色。
+
+此是**达尔文计划**的组成部分，该计划旨在为各类实体寻找新用途（以及驯服它们的方法）。除了负责招募的人员外，此处还驻扎着一个研究团队，专门研究愁眉苦脸。他们在这个层级已经取得了重大进展。
+[[/div]]
+[[/collapsible]]
+
+@@ @@
+
+[[div class="darkdocument"]]
+[[=]]
++ **达尔文计划**
++++ **现场观察**
++++ **报告11**
+[[/=]]
+-----
+**观察员：**Everett Locke
+
+**观察日期：**2022年1月13日-2022年1月20日
+
+**观察记录：**
+[[div class="blockquote"]]
+在我们观察后室装修公司最近的翻新工程时，意外发现此处建起了电影院而非剧场，考虑到他们过往的改造记录，倒也合情合理。不过在此些电影院里，我们发现了一个尚在萌芽期的新团体：派对扫兴者制作组。他们那种粗俗的幽默感究竟源于虚无主义还是发自内心的快乐，我实在拿不准，那群家伙确实让人捉摸不透。
+
+这个初创团队打算制作老派的无厘头卡通片（主要是讽刺类作品），并在电影院里放映。不过关于门票收费问题，他们内部似乎还没达成共识。总而言之，看见此些愁眉苦脸如何适应新环境真是令人着迷。他们依然保持着惊人的创造力与实现目标的意志力。可以预见，未来几个月其他团体肯定会注意到他们的存在。
+[[/div]]
+[[/div]]
+
+@@ @@
+
++ **入口与出口**
+
+++++ 入口
+
+* 在[https://backrooms-wiki-cn.wikidot.com/level-847 Level 847]找到一扇玻璃门。
+* 
+* 爬上[https://backrooms-wiki-cn.wikidot.com/level-849 Level 849]的粉色梯子。
+* 
+* 在编号倍数为8的层级中随机进行切出操作。
+* 
+* 切入一座威廉·莎士比亚的雕像
+
+@@ @@
+
+++++ 出口
+
+* 玻璃门的出口可返回[https://backrooms-wiki-cn.wikidot.com/level-847 Level 847]。
+* 
+* 寻找并爬上粉色梯子可返回[https://backrooms-wiki-cn.wikidot.com/level-849 Level 849]。
+
+@@ @@
+
+[[div class="darkdocument"]]
+亲爱的Requiem，
+
+我注意到你和阿丽亚娜集团的成员谈恋爱了，具体来说是和那个在**Level 848**阿丽亚娜集团研究站工作的人。虽说并不违反规定，但除非你想让我告诉你的妻子，**达尔文计划**现在需在[https://backrooms-wiki-cn.wikidot.com/level-9 9]、[https://backrooms-wiki-cn.wikidot.com/level-81 81]和[https://backrooms-wiki-cn.wikidot.com/level-650 650]设立研究站。作为我的得力干将，我希望你能及时完成此些任务，而且以后和我沟通时务必保持专业态度。
+
+真诚的，Crescendo
+[[/div]]
+
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 847]]] | Level 848 | [[[Level 849]]] >>
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=Solomon Sam
+|translator=calf-0
+]]
+=====
+> **名称：** Barkly Theatre, Footscray
+> **作者：** State Library Victoria's Collections
+> **协议：** CC BY 2.0
+> **来源链接：** https://openverse.org/image/35e3453c-7dab-4f63-8c5a-667497ff9ff4?q=theatre&p=214
+=====
+> **名称：** Skywalker Ranch -- screening room
+> **作者：** mccun934
+> **协议：** CC BY 2.0
+> **来源链接：** https://openverse.org/image/57b11ce0-454b-4d9e-b921-4c3bd3c4479a?q=empty+movie+theatre&p=25
+=====
+> **名称：** Auditorium Diamond
+> **作者：** jocovett
+> **协议：** CC BY 2.0
+> **来源链接：** https://openverse.org/image/73a4c5cf-bba3-42e4-895f-a70f832ec2dd?q=empty+theatre&p=74
+=====
+> **名称：** none
+> **作者：** Smiler
+> **协议：** CC-BY-SA 4.0
+> **来源链接：** https://discord.com/channels/695664941247627274/714030848525205555/1389773628635086888
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

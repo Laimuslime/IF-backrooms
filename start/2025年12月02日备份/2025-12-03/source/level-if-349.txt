@@ -1,0 +1,249 @@
+[[module css]]
+@import url("https://hoah2333.github.io/Archived-works/Backrooms/theme-fandom-theme/fandom-theme-level.css");
+
+.headerbox{
+    padding:1rem 0;
+    background: linear-gradient(180deg, rgba(197, 197, 187,0.25) 0%, rgba(232, 228, 220,0.2) 90%);
+    float:none;
+    width:auto;
+    margin:auto;
+    border-radius:1rem 1rem 0 0;
+}
+
+.scrollheader{
+    background: url("https://brsandbox-mini.wikidot.com/local--files/level-if-349/level-if-394-tp1");
+    animation: slide2 180s linear infinite;
+    background-size: 330px;
+    background-repeat: repeat-x;
+    width:calc(100%);
+    max-width: 800px;
+    min-height: 170px;
+    border-radius:1rem 1rem 0 0;
+    position: static;
+    border-right: 5pt solid #C6C3BC;
+    border-left: 5pt solid #C6C3BC;
+    border-bottom: 5pt solid rgb(198, 198, 188);
+}
+
+.stroke {
+  color: #FBE7B5;
+}
+
+@keyframes slide2{
+  0% {
+    background-position: 120px bottom;
+  }
+  100% {
+    background-position: -770px bottom;
+  }
+}
+
+#page-content .sd-container .class-4 {
+    --sd-bg-gradient: linear-gradient(to right, #399DDC 0%, #399DDC 90%);
+}
+
+.dark-titleblock {
+        background-color: rgb(var(--grey-monochrome));
+        color:rgb(255, 255, 255);
+        padding: 0.5rem 1rem 0.10rem;
+        margin: 1.5rem 0rem 0.5rem 0rem;
+        box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.5);
+        border: solid rgb(var(--bright-accent)) 2px;
+     }
+ 
+     .dark-titlebox{
+       color: rgb(255, 255, 255);
+       position: relative;
+       top: -1.6rem;
+       background-color: rgb(var(--bright-accent));
+       padding: 0.25rem 1rem;
+       line-height: 0.1rem;
+     }
+.titleblock {
+        background-color: rgb(239, 219, 166);
+        color:rgb(12, 12, 12);
+        padding: 0.5rem 1rem 0.10rem;
+        margin: 1.5rem 0rem 0.5rem 0rem;
+        box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.5);
+        border: solid rgb(206, 187, 135) 2px;
+     }
+ 
+     .titlebox{
+       color: rgb(12, 12, 12);
+       position: relative;
+       top: -1.6rem;
+       background-color: rgb(222, 203, 150);
+       padding: 0.25rem 1rem;
+       line-height: 0.1rem;
+     }
+[[/module]]
+
+[[div class="scrollheader"]]
+[[div class="headerbox"]]
+@@@@
+@@@@
+[[=]]
+[[div class="stroke"]][[/div]]
+//黑暗永恒。//
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=3
+|three=未探明实体存在
+]]
+
+------
+[[include component:image-block
+|name=https://brsandbox-mini.wikidot.com/local--files/level-if-349/level-if-394-tp1
+|caption=**Level IF-349**最著名的照片。
+]]
+
+[[include component:image-block
+|name=https://brsandbox-mini.wikidot.com/local--files/level-if-349/level-if-394-tp2
+|caption=疑似为**Level IF-349**的照片。
+]]
+
+**Level IF-349**是后室 IF 层群的第 349 层。
+
++ **描述：**
+
+**Level IF-349** 更像是由多个不同环境结构拼接而成的层级。该层级永处于黑夜之下，天空中并未观测到任何天体，唯一的光源来自层级内建筑发出的微弱灯火。目前已记录的结构包括：郊区、公园、集镇与医院；其建筑风格混杂，呈现出20世纪初至21世纪初特有的怀旧与诡异感。将层级地板看做是搭建积木的地基，那么这些结构就是在这个地基之上的积木；这些建筑结构在地面上呈随机分布状态，但它们之间总能形成一种怪异的空间连续性，彼此紧密而无缝地衔接在一起。
+
+**Level IF-349** 的黑暗并非纯粹的光线缺失，而是一种具有半流体性质的物理存在。它如同弥漫在空气中的浓稠油脂，会对身处其中的流浪者产生轻微但明确的阻力。这种阻力不仅体现在行动上，会使奔跑变为快走，快走变为跋涉；更体现在感官与生理层面。任何人工光源在此层级的效果都会大打折扣。
+
+手电筒的光束会被迅速吸收与散射，有效照明范围通常被压缩至10米以内，光线边缘模糊不清。声音的传播也同样受到抑制，呼喊声会变得沉闷且传不远，进一步加深了孤立感。长时间暴露于这种黑暗中，流浪者会报告产生一种轻微的胸部压迫感与窒息感，类似于身处高海拔地区或戴着过紧的口罩。
+
+这种不适感会随着时间推移而加剧，并引发心理上的焦虑与急切，促使流浪者趋向于有光源的建筑结构寻求“喘息”。有报告称，当黑暗浓度达到一定程度时，尝试向黑暗中投掷小型物体会观察到其运动轨迹出现不自然的延迟与减速，如同在某种不可见的粘液中穿行。
+
+当流浪者长时间停留于某一结构[[footnote]] 尤其是无人建筑。 [[/footnote]]内时，有概率会听到从墙壁内部传来的、无法辨识的窃窃私语。它可能表现为：
+
+* 无法辨识字词的窃窃私语。
+
+* 老旧木地板发出的、并非由脚步引起的吱呀声。
+
+* 墙壁内传来的、类似指甲刮擦的细碎声响。
+
+* 从空无一物的房间传来的、模糊不清的谈话片段。
+
+这些低语的核心危害在于其心理影响。它们并非简单的噪音，而是会主动引发并放大聆听者的负面情绪，尤其是焦虑、偏执与一种深切的怀旧性悲伤。流浪者会开始无端怀疑自己被监视，或不可控制地回忆起个人过往中带有遗憾或创伤的片段。持续暴露超过数小时可能导致暂时性的认知混乱与方向感丧失。
+
+不同结构之间的界限并非恒定。该层级存在着一种名为“空间沁染”的特殊效应，该效应主要表现为：
+
+* 公园的鹅卵石小径会悄然延伸，逐渐“覆盖”掉集镇区域的柏油路面，整个过程如同水滴石穿，在数小时内完成肉眼可见的变迁。
+
+* 一栋郊区住宅的白色木质外墙可能开始浮现医院墙面的淡绿色调和瓷砖纹理，最终形成一种兼具两种建筑特征的、怪异的混合体。
+
+* 医院的“安静”规则可能会沁染到原本喧闹的集镇区域，导致该区域的声源[[footnote]] 包括流浪者的脚步声和谈话声 [[/footnote]]被大幅削弱。
+
+* 并且，该效应是渐进且几乎无声无息的。
+
+该效应会使得绘制精确的层级地图变得毫无意义。一条昨天还安全的路径，今天可能已被另一片区域的景观阻塞或取代。这也意味着，一个此前已探索并确认为安全的建筑，其内部结构可能在无人察觉时已被“替换”或“混入”来自其他区域的、可能危险的房间。依赖地标导航变得极不可靠，因为地标本身也在缓慢地改变其属性和位置。
+
+++ **基地、社区与前哨站：**
+
+++++ M.E.G. “守夜人”前哨（已废弃）
+
+* 建设于一个结构相对稳定的废弃集镇建筑群内。
+* 过去有常驻成员约15人。
+* 他们主要负责维持一条从集镇通往医院的安全路径。
+* 对流浪者态度友好，开放有限度的贸易与庇护。
+* 由于遭到了“空间沁染”效应，该前哨站被迫废弃。
+
+++ **入口与出口**
+
+++++ **入口**
+
+* 在 [https://backrooms-wiki-cn.wikidot.com/level-11 Level 11] 走入一条风格明显陈旧于周围环境的巷子，有低概率会被传送至此。
+
+* 在 [https://backrooms-wiki-cn.wikidot.com/level-57 Level 57] 翻阅一本名为《逝去的风景》的空白相册，其页面会逐渐浮现出本层级的景象，随后切入。
+
+++++ **出口**
+
+* 在层级内的医院中，找到一扇标有“手术中”且灯光常亮的大门。进入后会来到 [https://backrooms-wiki-cn.wikidot.com/level-58 Level 58]。
+
+* 在公园区域，有时会出现一张异常干净、崭新的铁艺长椅。在上面入睡，有极高概率会在 [https://backrooms-wiki-cn.wikidot.com/level-130 Level 130] 醒来。
+
+* 极少数情况下，集镇街道上会出现一盏闪烁不定、光线为诡异紫色的路灯。触摸其灯柱会被立即切入 [https://backrooms-wiki-cn.wikidot.com/level-4 Level 4]。
+[[footnoteblock]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="titleblock"]]
+[[span class="titlebox"]]
++++ **勘探记录**
+[[/span]]
+**< 记录开始 >**
+
+**M.E.G. 档案部：**勘探记录
+
+**记录员：** 雅各布·莱恩 (Jacob Lane)
+
+**所处层级：** Level IF-349
+
+@@@@
+@@@@
+
+----
+
+
+一切都从那股“粘稠的黑暗”开始。那儿的黑，不是你们想象中关掉灯的那种黑。它像是有了分量，有了质感，像冰冷的、浑浊的糖浆，满满当当地充斥在每个角落。你在里面走路，得费劲地把腿从黑暗里拔出来，再插进去。胸口永远闷得慌，好像有人在你心口上坐着一块冰冷的石头。我带的手电筒，成了个可怜的笑话，光柱射出去，还没照到十米远，就被黑暗“嘎嘣”一口给咬断了，只留下一圈模糊的光晕，反而让你更看不清黑暗里到底藏着什么。
+
+后来，我躲进了一栋郊区的破房子里，想着总算能喘口气。结果，更邪门的来了。那房子……它在跟我“说话”。不是鬼故事里那种清晰的声音，是低语，从你背靠的墙壁里，从你脚下的地板缝里，丝丝缕缕地渗出来。你听不清任何一个词，但它就是往你脑子里钻。最可怕的是，它不吓唬你，它折磨你。它会把你这辈子最不愿想起的糟心事儿，一件件翻出来，摆在你自己面前。我那会儿，就不可控制地想起了我小时候，那感觉，就像有人用你自己的过去当鞭子抽你。
+
+我受不了了，我得逃。地图上说，西边有个公园，穿过公园就是集镇，那里有我们M.E.G.的一个安全屋。我抱着最后的希望，一头扎进那片粘稠的黑暗里，朝着西边跋涉。
+
+可等我走到地方，我傻眼了。公园？哪儿还有什么公园！我面前是一条硬邦邦的柏油路，旁边还立着个红得刺眼的邮筒。这分明是集镇的景象！那个公园，那么大一个公园，就像被一张看不见的巨嘴给吞掉了，连点渣子都没剩，然后随随便便拿别的地方的景致给“补”上了。草坪和路面严丝合缝地长在一起，像一道丑陋的伤疤。那一刻我明白了，这鬼地方自己会“变形”，地图在这里，就是一张废纸。
+
+我几乎是连滚带爬地找到了地图上标的那栋二层小楼，门口还挂着我们破损的标志。我心里刚升起一点希望的火苗，一种更冰冷的东西就把它掐灭了。我说不上来，就是一种感觉，感觉那栋房子……在“看”着我。不是实体，是这层级本身，它好像有意识，正透过那些黑洞洞的窗户，无声地审视着我。它让我打心底里发毛，比看见任何怪物都让我害怕。我不敢从正门进，绕到了后面。
+
+推开那扇吱呀作响的后门，我的心彻底沉了下去。里面，根本不是什么安全屋。是医院！惨白的瓷砖，消毒水的味儿，可墙纸却还是郊区那种庸俗的小碎花……两种风格被暴力地糅合在一起，像个精神错乱的疯子造出来的东西。我知道，完了。最后一个指望也没了。“空间沁染”，他们档案里冷冰冰的词，此刻就活生生地、恶意地展现在我面前。
+
+我站在那个扭曲的门口，前面是这栋不伦不类的怪屋，后面是吞噬一切的粘稠黑暗和无孔不入的低语。我无处可去了。
+
+黑暗好像更浓了，墙里的低语声也越来越响，它们不再只是窃窃私语，像是在嘲笑，在宣告它们的胜利。我感觉自己正在被这个层级一点点地消化掉，连同我的身体，和我那些糟糕的回忆……
+
+我看了一个突兀的山体，就像是嵌入了建筑中一样，山体的旁边有一个道路，我并不清楚这条道路会通向哪里。我将所经历的一切全部记录在了这个笔记本中，愿有缘人发现它，顺带加入了一张我拍摄的照片。
+[[include component:image-block
+|name=https://brsandbox-mini.wikidot.com/local--files/level-if-349/level-if-394-tp1
+|caption=至暗时代、唯暗之世。
+|align=center
+]]
+------
+@@@@
+@@@@
+**<记录结束>**
+
+[[/div]]
+@@@@
+@@@@
+[[>]]
+
+[[module rate]]
+[[collapsible show=">>> 作者信息" hide="隐藏"]]
+本文章作者为[[*user user CCB]]
+趁国庆有时间手搓一篇文章
+顺带一提，该文章我会搬运至Fandom
+
+[https://unsplash.com/photos/lighted-street-lamp--SZlAORln-U 图一]
+图二：他人自摄，已获得授权
+[[/collapsible]]
+[[/>]]

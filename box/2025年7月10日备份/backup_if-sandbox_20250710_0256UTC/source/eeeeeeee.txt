@@ -1,0 +1,50 @@
+[[include :etinjat:backrooms:fit-bhl
+|new=true
+|sidebar=true
+|header-title='荒服'
+|header-subtitle='八骏日行三万里，穆王何事不重来'
+]]
+
+[[module css]]
+@import url("https://scp-wiki-cn.wdfiles.com/local--code/theme%3Ablack-rain/1");
+
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&amp;display=swap');
+
+
+#header h1 a{
+ font-family: 'Zhi Mang Xing', sans-serif;
+}
+
+#header h2 span:before{
+font-family: 'Ma Shan Zheng', sans-serif;
+color:#bababa;
+}
+
+#page-title{
+  display: none;
+}
+
+#header{
+  background: none
+}
+
+/*--------------------------------------*/
+#edit-page-textarea{
+}
+
+#login-status #account-topbutton::before {
+  content: none;
+}
+
+#header h2 span {
+   font-family: var(--header-font);
+  margin-top: calc(var(--header-height-on-mobile)/2 + var(--header-h1-font-size)/2 - 1.5em);
+}
+
+
+h2, h3, h4, h5, h6{
+  color: #555 !important;
+}
+
+[[/module]]

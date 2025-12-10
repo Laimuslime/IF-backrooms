@@ -1,0 +1,667 @@
+[[include :backrooms-wiki-cn:theme:liminal-greyspace]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[module css]]
+:root{
+   --header-title: "The Backrooms";
+   --header-subtitle: "拯救我们。我们曾经为人。";
+
+}
+.document {
+    background-color: rgb(var(--white-monochrome));
+    color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 3.5rem 0.2rem;
+    padding: 0.2rem 1rem;
+    position: relative;
+}
+ .alt-borderblock {
+    background-color:rgb(var(--bright-accent));
+    color:rgb(var(--black-monochrome));
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    border: solid 0.3rem rgb(var(--gray-monochrome));
+ }
+.document:before,
+.document:after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+ 
+.document:before {
+    background-color: rgb(var(--white-monochrome));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    left: -5px;
+    top: 4px;
+    transform: rotate(-4deg);
+}
+ 
+.document:after {
+    background-color: rgb(var(--white-monochrome));
+    box-shadow: 0 -5px 8px rgba(0, 0, 0, 0.5);
+    right: -3px;
+    top: 1px;
+    transform: rotate(3deg);
+}
+
+.dark-document {
+    color: rgb(var(--white-monochrome));
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 3.5rem 0.2rem;
+    padding: 0.2rem 1rem;
+    position: relative;
+}
+ 
+.dark-document:before,
+.dark-document:after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+ 
+.dark-document:before {
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    left: -5px;
+    top: 4px;
+    transform: rotate(-4deg);
+}
+ 
+.dark-document:after {
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 -5px 8px rgba(0, 0, 0, 0.5);
+    right: -3px;
+    top: 1px;
+    transform: rotate(3deg);
+}
+
+.noticeblock {
+    background-color: rgb(var(--white-monochrome));
+    background-image: url(https://s1.ax1x.com/2022/12/02/zBgKX9.png);
+    background-size:auto 7rem;
+    background-position: center bottom;
+    background-repeat:no-repeat;
+    color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 3rem;
+    padding: 0.2rem 1rem 8rem 1rem;
+    position: relative;
+}
+
+.noticeblock>p:nth-child(1)::before {
+    content: "M.E.O.D.";
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.6rem;
+    border-bottom: double 0.2rem rgb(var(--dark-accent));
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.noticeblock>p:nth-child(1)::after {
+    content: "Acting as one on the behalf of many.";
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 75%;
+    text-align: center;
+    margin-top: -4.25rem;
+    padding-bottom: 0.3rem;
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.noticeblock>p:nth-child(2) {
+    margin-top: 4rem;
+}
+
+.dark-noticeblock {
+    color: rgb(var(--white-monochrome));
+    background-image: url(https://s1.ax1x.com/2022/12/02/zBgKX9.png);
+    background-size:auto 7rem;
+    background-position: center bottom;
+    background-repeat:no-repeat;
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 3rem;
+    padding: 0.2rem 1rem 8rem 1rem;
+    position: relative;
+}
+
+.dark-noticeblock>p:nth-child(1)::before {
+    content: "M.E.O.D.";
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.8rem;
+    border-bottom: double 0.2rem rgb(var(--white-monochrome));
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.dark-noticeblock>p:nth-child(1)::after {
+    content: "Acting as one on the behalf of many.";
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 75%;
+    text-align: center;
+    margin-top: -4.25rem;
+    padding-bottom: 0.3rem;
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.dark-noticeblock>p:nth-child(2) {
+    margin-top: 4rem;
+}
+
+.bntgblock {
+    background-color: #E8E7D5;
+    background-repeat:no-repeat;
+    border-left: 0.3rem solid #566C5A;
+    border-right: 0.3rem solid #566C5A;
+    color: rgb(102, 102, 102);
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 1rem 0.2rem;
+    padding: 0.2rem 1rem;
+    position: relative;
+}
+
+.bntgblock>p:nth-child(1)::before {
+    content: "B.N.T.G. Announcement System";
+    font-family: 'Staatliches', sans-serif;
+    font-weight: 600;
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 0.15rem solid #566C5A;
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.megblock{
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    background-image: url(http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG);
+    background-size:auto 5rem;
+    background-position: center bottom;
+    background-repeat:no-repeat;
+    color:rgb(255, 255, 255);
+    margin: 1rem 0.2rem;
+    padding: 0.2rem 1rem 8rem 1rem;
+    display: block;
+    position: relative;
+    background-color: rgb(54, 52, 21);
+    border: solid 0.3rem rgb(255, 245, 166);
+    }
+
+
+.megblock>p:nth-child(1)::before {
+    content: "M.E.G.";
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.8rem;
+    border-bottom: double 0.2rem white;
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.megblock>p:nth-child(1)::after {
+    content: "Bettering humanity.";
+    font-weight: 600;
+    font-size: 75%;
+    text-align: center;
+    margin-top: -4.25rem;
+    padding-bottom: 0.3rem;
+    max-width: 49rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+
+.megblock>p:nth-child(2) {
+    margin-top: 4rem;
+}
+.logoblock{
+    padding: 0.01rem 1rem;
+    color:rgb(255, 255, 255);
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    }
+ 
+    .logoblock::after{
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG) center/25% no-repeat;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    }
+ 
+    .dark-logoblock{
+    padding: 0.01rem 1rem;
+    color:rgb(255, 255, 255);
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--darker-meg-accent));
+    }
+ 
+    .dark-logoblock::after{
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG) center/25% no-repeat;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    }
+.border-logoblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(255, 255, 255);
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+     border: solid 0.3rem rgb(var(--bright-accent));
+    }
+ 
+    .border-logoblock::after{
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG) center/25% no-repeat;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    }
+.scp-image-caption{
+   color: white
+}
+:root {
+--logo-image: url();
+}
+
+[[/module]]
+[[include :backrooms-wiki-cn:component:nulevelclass-animation]]
+[[include :backrooms-wiki:component:centered-title]]
+[[=]]
+[[module rate]]
+[[/=]]
+[[include :scp-wiki:component:author-label-source start=--
+|name=Dragon
+|center=*]]
+本文由[[*user I_am_a_dragon]]创作。
+
+感谢这些对我的文章给予批评的人:
+[[*user Xedkarmen]]
+[[*user Vysperaisa]]
+[[*user DrAkimoto]]
+[[*user DrJTC]]
+[[*user Red-eyes Dragoon]]
+
+绿灯:
+[[*user Red-eyes Dragoon]]
+
+译者：[[*user JgPz.E-100]]
+我向Nostalgi Gaius发誓这篇是我自己翻译的
+这是我在Wikidot的第一篇翻译文章。
+感谢[[*user error-com]]，[[*user calf-0]]，[[*user ThEndlessRain]]
+[[include :scp-wiki:component:author-label-source end=--]]
+[[div class="lightblock"]]
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:nulevelclass
+|lang=cn
+|no=510
+|customline=1
+|linecolor=var(—gray-monochrome)
+|ent=0
+|customent=1
+|enttext=实体绝迹
+|entcolor=var(--gray-monochrome)
+|ext=5
+|customext=1
+|exttext=极度难以逃离
+|extcolor=var(--gray-monochrome)
+|env=2
+|customenv=1
+|envtext=潜在的环境危害
+|envcolor=var(--gray-monochrome)
+|customclass=1
+|classtext=?
+]]
+@@@@
+@@@@
+[[module css]]
+.sd-container.newsd {
+  display: grid;
+  grid-template-areas:
+  'number border class exit'
+  'number border environment entity';
+  grid-gap: 10px;
+  grid-template-columns: 8rem 1px 1fr 1fr;
+  font-family: var(--mono-font);
+  grid-auto-rows: 1fr;
+  overflow: hidden;
+  border-radius: 0rem;
+}
+[[/module]]
+[[/div]]
+@@@@
+[[div class="lightblock"]]
+@@@@
+@@@@
+------
+[[=]]
++ {{描述}}
+[[/=]]
+------
+@@@@
+[[include component:image-block
+|name=https://scp-sandbox-3.wikidot.com/local--files/dragon-s-roots2024/picture
+|caption=Level 510中的一条走廊。
+|align=right
+]]
+**Level 510**由外观单调的灰色大厅组成，这些大厅无休止地重复着————每一条走廊的宽度和高度都保持在两米。这个层级被认为具有与[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]类似的孤立效应，因为到目前为止还没有在层级中发现其他人类的痕迹。
+
+构成**Level 510**的隧道在两个方向上无限延伸，两侧有随机出现的走廊入口。这些隧道交叉的方式表明，**Level 510**的空间可能是欧几里德空间，因为它们只是将流浪者带入不同的走廊，而不是引发更异常的效应。
+
+所有进入**Level 510**的流浪者都报告了一种强烈的不安感。尽管**Level 510**没有构成重大威胁的实体，但M.E.G.将这一现象归因于该级内普遍存在的噪音。**Level 510**的流浪者会间歇性地听到不同年龄段的人互相撞击物体和哭泣的声音。有时，这些声音会加剧，让流浪者相信有什么东西在追赶他们。
+
+**警告：**如果你发现自己处在这个区域，请找到最近的出口——它位于大厅的右侧，后面有一条装有发光灯的通道。所有在**Level 510**停留30分钟以上的流浪者都无一例外地失去了联系。我们还没有确认这些流浪者的身份。
+
+[[=]]
+[[include :backrooms-wiki:component:custom-collapsible
+show=.-- . .- .-. . - .-. .- .--. .--. . -.. ... .- ...- . ..- ...
+|hide=我们被困住了。拯救我们。
+|font=var(--header-font)
+|size=100%
+|color=255,0,0
+|weight=900
+|style=normal
+]]
+[[/collapsible]]
+[[/=]]
+@@@@
+[[/div]]
+@@@@
+[[div class="dark-logoblock"]]
+[[=]]
+你花了一些时间才想起你是通过**[https://backrooms-wiki-cn.wikidot.com/level-3 Level 3]**的铁门到达这个地方的。你的眼睛在昏暗的走廊里扫视，半蹲着扫视着这个地方。没有实体？
+
+你已经走了好几个小时了。一声叹息，兼有松了口气和筋疲力尽，从你嘴里滚了出来。
+
+谁在敲门？是SOS吗？为什么这里能使用信号，但手机却不能工作？由于这些声音没有危险，你决定坐下来休息。也许是因为你观察了太久的单调环境；整个世界开始旋转。
+[[/=]]
+[[/div]]
+@@@@
+[[div class="lightblock"]]
+@@@@
+@@@@
+------
+[[=]]
++ {{510 综合征}}
+[[/=]]
+------
+@@@@
+510综合征是指进入**Level 510**的个体所表现出的一系列症状的统称。该综合征的发病机制目前尚不清楚；然而，众所周知，流浪者在**Level 510**停留的时间越长，该症状的情况就会更加恶化，如下所示：
+
+||~ 停留时间||~ 症状 ||
+|| 5分钟 || 头晕和皮肤发痒。在这个阶段，有罕见的报告称皮肤上长有绒毛。||
+|| 10分钟 ||病人开始咳嗽，可能导致咯血。这偶尔会伴有严重的咽炎。[[footnote]]主要症状是疼痛和喉咙里有东西卡住的感觉。[[/footnote]] ||
+|| 15分钟 || 在这个阶段，患者开始出现幻觉，一个典型的例子是感觉天花板上升。这些幻觉非常危险，因为它们通常会减缓流浪者逃离**Level 510**的速度。||
+|| 25分钟 || 患者经常表现出困惑，许多人甚至认为羽毛或鸟喙是从他们的身体上长出来的。因为几乎没有人在病症达到这个阶段后逃脱**Level 510**，其对个人的确切影响仍然未知。 ||
+
+有人怀疑，在**Level 510**失踪的流浪者死于510综合征。然而，由于在**Level 510**没有发现流浪者的尸体，这一假设仍未得到证实。
+
+除了离开层级本身外，没有已知的方法可以治疗510综合征。
+
+[[=]]
+[[include :backrooms-wiki:component:custom-collapsible
+show=... .- ...- . ..- ... .-- . .- .-. . .- .-.. .. ...- .
+|hide=拯救我们。我们还活着。
+|font=var(--header-font)
+|size=100%
+|color=255,0,0
+|weight=900
+|style=normal
+]]
+[[/collapsible]]
+[[/=]]
+@@@@
+[[/div]]
+[[div class="dark-logoblock"]]
+[[=]]
+剧烈的咳嗽迫使它们从你嘴里出来，留下金属般的回味。这是什么病？你需要离开。
+
+一步，二步，十步，二十步。你的眼睛四处扫视，寻找逃离的出口，但只会遇到失望。这时，一个熟悉的声音在你耳边回响：**三次快敲，三次慢敲，三次快敲**。它更近了吗？这里的环境是重复的，所以此时向声源移动似乎是你最好的选择。
+
+声音会在你的脑海中留下印记。你现在应该已经到了。你知道的。你走到一个交叉口，观察另一条隧道里的情况。令你惊讶的是，与通常的没有生命迹象不同，你发现了一些......等等，那些是生物吗？
+[[/=]]
+[[/div]]
+@@@@
+[[div class="lightblock"]]
+@@@@
+@@@@
+------
+[[=]]
++ {{灰麻雀}}
+[[/=]]
+------
+[[include :backrooms-wiki-cn:component:cecs
+|primary-color= #666666
+|secondary-color= #b3b3b3
+|accent-color= #262626
+|number=1
+|habitat=Level 510
+|goi-specification=[http://backrooms-wiki.wikidot.com/iets IETS]:
+|danger=?
+|intel=B+
+|sin=X
+|other-spec=X
+|class=类人
+|properties=CBR UNQ
+|properties-hazard=
+]]
+
+灰麻雀是**Level 510**中唯一的实体。它们似乎是前厅中麻雀的比例放大版本，唯一显著的区别是它们的整体灰色。它们的身高约为1.5米，略低于正常成年人的平均身高[[footnote]]约1.7米。[[/footnote]]。它们也拥有与成年人相似的智力。
+
+当灰麻雀遇到流浪者时，它们会变得非常兴奋，并试图跟随他们。它们也会试图用自己的语言与流浪者交流。此外，它们用喙敲地板，发出类似莫尔斯电码的规则声音。这些声音大多遵循**三次快敲、三次慢敲、三次快敲的顺序**[[footnote]]这类似于国际遇险信号SOS。[[/footnote]]。
+
+虽然**Level 510**的供应有限，但我们强烈建议不要食用灰麻雀肉。一些流浪者在食用它们后出现了感染朊病毒的症状[[footnote]]朊病毒是一种基于蛋白质的感染因子，可以通过接触受感染的动物和摄入人体组织而感染。[[/footnote]]。
+
+此外，大多数灰麻雀发出的呜咽与它们的叫声截然不同，类似于人类的哭声。它们的解剖结构表明，它们拥有与人类相似的发声系统；然而，发声系统的位置非常不寻常，只有在极少数情况下才会有气流通过它。
+
+[[=]]
+[[include :backrooms-wiki:component:custom-collapsible
+show=.-- . .-- . .-. . .... . .-. . .- .-.. .-.. .- .-.. --- -. --.
+|hide=我们一直都在这里。
+|font=var(--header-font)
+|size=100%
+|color=255,0,0
+|weight=900
+|style=normal
+]]
+[[/collapsible]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+@@@@
+[[div class="dark-logoblock"]]
+[[=]]
+三次尖锐的敲击。三次慢敲，三次快敲。
+@@ @@
+当你静静地走过时，它们会自主地啄墙，发出敲击声——它们似乎对你的存在不感兴趣，即使实际上它们并非如此。一只鸟停顿了一下。然后是另一只。一阵高而疯狂的唧唧声爆发了，几乎是紧急的。..恳求。
+@@ @@
+它们饿了吗？孤独？也许是在呼唤伴侣？不，这都不一样。
+@@ @@
+有那么一瞬间，它们的出现给你带来了一种奇怪的安慰。..你把手掠过胳膊，感觉到有什么异样。
+@@ @@
+柔软的质地。它太软了，不可能是其他东西。
+@@ @@
+你没有看它。
+@@ @@
+一旦你转身离开，它们又安静了。一只歪着头，发出一声巨响。另一只向后退了。唧唧喳喳的如下雨一般的叫声现在被某种被隐瞒的东西的寂静所取代。
+@@ @@
+当你离开时，你感觉到它们在看着你。一种只有看到亲人去世时才能感受到的的悲伤。
+[[/=]]
+[[/div]]
+@@@@
+[[div class="lightblock"]]
+@@@@
+@@@@
+------
+[[=]]
++ {{入口与出口}}
+[[/=]]
+------
+[[=]]
++++ 入口
+[[/=]]
+在[[[https://backrooms-wiki-cn.wikidot.com/level-2|Level 2]]]与[[[https://backrooms-wiki-cn.wikidot.com/level-3|Level 3]]]中进入一扇沉重的铁门可以使你来到**Level 510**。
+[[=]]
++++ 出口
+[[/=]]
+层级内会随机出现一些非常狭窄的走廊。穿过它会通向[https://backrooms-wiki-cn.wikidot.com/level-15 Level 15]。值得注意的是，许多灰麻雀经常聚集在这些出口前，即使它们的体型不允许它们通过。
+@@@@
+@@@@
+[[=]]
+[[include :backrooms-wiki:component:custom-collapsible
+show=... .- ...- . ..- ... .-- . .-- . .-. . --- -. -.-. . .... ..- -- .- -. ...
+|hide=拯救我们。我们曾经为人。
+|font=var(--header-font)
+|size=100%
+|color=255,0,0
+|weight=900
+|style=normal
+]]
+[[/collapsible]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="dark-logoblock"]]
+[[=]]
+你已经走了很久了。
+ @@ @@
+此时，一切都变得模糊不清；同样的颜色，同样的角落，同样的寂静。多久了？几个小时？几天？也许几年？你可能只走了几分钟。你不确定。
+@@ @@
+然而，你仍然继续走着。这是你所知道要做的唯一一件事。
+@@ @@
+然后......脚步声。
+@@ @@
+柔软。单调。另一个人。
+@@ @@
+你的心跳在你冷静下来之前就已经急剧加快。
+@@ @@
+你喊了出来。你的声音因许久未言语而变得粗糙，但它仍然在努力。你走向他，想要被认出、与他联系，什么的。什么都行。
+@@ @@
+他根本不理你；若无其事地走过，仿佛你一开始就不在那里。
+@@ @@
+你想跟随，但你的身体却摇摆不定。你摔倒了。
+@@ @@
+出于某种原因，地面感觉很软，几乎就像有什么东西阻止了你的摔倒。你试着重新站起来，重新开始，但你的手指永远都感觉不到冰冷的混凝土地面了。你不能移动它们。你为什么不能？
+@@ @@
+你看着你的手，却发现那里什么都没有。只是一只翅膀。柔软的。灰色的和颤抖着。
+@@ @@
+当你伸手去摸你的脸时，你的胃里就如同打了一个结。没有鼻子。没有面部结构。没有柔软的嘴或皮肤。甚至连一根头发都没有。只是柔软的羽毛。..一个喙。
+@@ @@
+你坐在那里呆了一会儿，屈膝靠近你那已经非人的身体，开始哭泣。
+@@ @@
+柔软的。筋疲力尽的。厌倦了生活中一切对你不利的事情。当你太坚强，过了太久，最终接受了这种情况时，就会出现这种情况。
+@@ @@
+你回忆起不久前的一段时间。一个你被听到的地方。一个你可以笑的地方。一个你知道别人能理解你的地方。
+@@ @@
+你记得你曾经为人。
+@@ @@
+但你已经再也不是人了。
+@@ @@
+你把你的喙猛撞到墙上。自行的。一遍又一遍地期待着结果，每时每刻都在失望，希望有人能听到。希望有人能回应。
+[[/=]]
+[[/div]]
+@@@@
+----
+[[=]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=I_am_a_dragon
+]]
+=====
+> **文件名:** DSC00347.JPG
+> **作者:** Bob Mazza
+> **协议:** [https://creativecommons.org/publicdomain/zero/1.0 CC0 1.0 通用]
+> **其他注意事项:** 编辑自[[*user I_am_a_dragon]]。
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[/=]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [http://backrooms-wiki-cn.wikidot.com/level-509 Level 509] | Level 510 | [http://backrooms-wiki-cn.wikidot.com/level-511 Level 511] >>
+[[/=]]
+[[/div]]

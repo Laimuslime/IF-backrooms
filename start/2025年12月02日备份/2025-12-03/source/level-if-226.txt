@@ -1,0 +1,41 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=5
+|lang=cn
+]]
+**Level IF-226**是后室IF层群的第226层。
++ **描述**
+[[include component:image-block
+|name=http://scpsandboxcn.wikidot.com/local--files/11142/new26.jpg
+|caption=**Level IF-226**的走廊]]
+近期M.E.G.档案库之中新添加了很多层级，数据库仍在不断迭代更新之中，且内容更加丰富广泛。但同样的是，数据库中也有许多老旧层级的信息因各种原因，大多是过时原因而被删除。此层级原为那些层级之中被删除的部分，但直到近期M.E.G.才重新发现该层级的各类新信息，因此在此展示。**Level IF-226**是一个面积约为数百万公里的有限层级，尽管大小有限，流浪者也难以探索完本层的所有区域。部分流浪者称自己达到了层级的“边缘地带”，并接触到了层级的边界，然而，目前这些报告仍未被证实。
+
+**Level IF-226**在外观上会使人联想起典型的城市公寓，布满花纹的地毯覆盖着层级的每个地带。层级的墙壁总是呈淡黄色，表面有着部分开裂的痕迹。供电设施在层级中广泛出现，几乎遍布了流浪者可达到的每一个地方。层级中有着少许植物盆栽装饰，分布于走廊末端。层级的照明来自天花板上的圆灯与壁灯。层级中的大部分房间都可进入，大部分房间中配有客厅与厨房，这些区域内部通常是极度黑暗，可见度极低，黑暗之处可能埋伏着少许实体。客厅中陈设大致有一张老旧沙发和一张老式茶桌，房间内有时会出现一些以供照明的台灯，但这些台灯往往只能发出极其微弱的光芒，除此之外，其他的照明设备在房间之中都是完全不可用的。厨房中同样黑暗，仅有透过房门传来的诡异微光能照亮厨房这一区域。厨房的水槽之中往往存放着一些废弃的餐盘和刀叉，上面带有少许清洗时的泡沫残留。厨房的烤箱之中有时会出现诸如水果罐头和午餐肉罐头之类的食物，且完全可以正常、安全地食用。除此之外，房间中可能会出现一些枯死的植物残骸，这些植物残骸常出现在房间地面之上。
+
+**Level IF-226**与[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]的空间结构相似，在这一层级可以找到许多带有混乱结构的割裂空间，这包括随机出现的门扉与楼梯、通向死路的走廊以及被墙壁堵住的门等等。某些过于狭窄的走廊因极度危险而无法通过，试图通过的流浪者都会因为挤压而死。本层级大多数房间似乎以错误的形式缝合在一起，缝合的边缘极其怪异，且这些房间中的物品都被以未知的方式撕裂开来。家具等其他物体有时会导致流浪者切出至其他随机层级，大多是包含孤立效应、属性极为神秘或是原本被归纳为负数层级或者隐秘层级的普通层级，从楼梯切出会来到[[[http://backrooms-wiki-cn.wikidot.com/the-basement|地下室]]]。窗户不一定是[[[https://backrooms-wiki-cn.wikidot.com/entity-2|Entity 2]]]的陷阱，这些窗户有时可通向一个外部空间，外部空间与内部相似，但结构更加不稳定，且物资稀少，实体居多。除了始终存在的蓝雾，该层级的外部区域看起来与[[[http://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]十分相似，大部分流浪者都会被它与现实世界极其相似的环境所蒙骗。这种雾可使眼睛融化，使该流浪者失去视力，但其本身没有表现出任何毒性，流浪者应多加防护。
+
+**Level IF-226**存有许多被遗弃的物品以及其他随机生成的物品，这些物品通常是可以安全地使用的，[[[https://backrooms-wiki-cn.wikidot.com/object-3|驱笑剂]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-1|杏仁水]]]和[[[http://backrooms-wiki-cn.wikidot.com/object-16|皇家口粮]]]可在本层级的冰箱和厨房内找到，且数量较多，流浪者较容易发现，[[[https://backrooms-wiki-cn.wikidot.com/object-2|层级密钥]]]、[[[http://backrooms-wiki-cn.wikidot.com/object-8|小台灯]]]、[[[http://backrooms-wiki-cn.wikidot.com/object-14|圣甲虫]]]和[[[http://backrooms-wiki-cn.wikidot.com/object-15|火盐]]]会在随机地点被发现，分布极广，但数量极少，所有书架上摆满了写有多种文字的书籍，这些书籍的内容大多为前厅中的哲学、物理学、数学、政治学术知识的汇总，其价值较高，这些书籍部分极其破败，书页泛黄，打印油墨的气味使人昏昏欲睡，偶然情况下[[[http://backrooms-wiki-cn.wikidot.com/object-21|Wi-Fi]]]在本层级也有几率被找到，且信号极佳。
+
+位于该层级的流浪者有很大概率会遭遇大量实体，包括了后室中常见的各类实体，部分实体会出现在特定房间的内部。这包括[[[https://backrooms-wiki-cn.wikidot.com/entity-2|窗户]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-3|笑魇]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-5|肢团]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-6|钝人]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-8|猎犬]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-9|无面灵]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-10|窃皮者]]]以及其他实体。这些实体充斥着整个层级，且危险性受到了进一步的提高。与其他危险层级的区别在于，该层级之中的实体个体普遍更大，且智商较高，能够理解部分人类的语言，每个单体都存在显著的区别。正如人们所言，该层级会随着[[[http://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]的变化而不断增长或缩小，Level IF-226的房间全部对应着现实世界中的房间，每个房间都可找到现实世界之中的复刻。每当你进入该层级时，上述现象似乎会导致你出现在与你的居所相对应的层级区域中，或是相对几率最短的层级区域。
++ **基地、前哨与社区**
+目前暂无已知的基地、前哨与社区。由于该层级饱受实体侵扰，在这一层之中建立基地、前哨与社区是不现实的事。曾有流浪者报告称在层级中出现了一个疑似基地的区域，该区域似乎建有简易的防御工事，内部结构混乱使得难以探索全部区域。基地中放有大量科学仪器以及实验用品，然而遗憾的是，迄今为止未发现该基地的人员，该基地似乎早已废弃。
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-113]]]中不断切行可能使你来到本层级
+++++++ 出口
+* 来到层级的地下部分，流浪者会来到[[[Level IF-72]]]或[[[Level IF-129]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+原文[https://backrooms-wiki-cn.wikidot.com/old:level-26 Level 26（旧）]
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-225]]] | Level IF-226 | [[[Level IF-227]]] >>
+[[/=]]
+[[/div]]

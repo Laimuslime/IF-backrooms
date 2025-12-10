@@ -1,0 +1,605 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "MCMK-1234";
+   --header-subtitle: "水文与水文";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+这个人死了
+[[include :backrooms-to-dv:component:achievement
+|code=A-1
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-2
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-6
+]]
+为了自己方便留的模板（）
+> = [[[XXX|XXX]]]
+> 
+> ----
+好人[[*user calf-0]]做的组件：
+[[include :brsandbox-mini:collab:page]]
+[[tabview]]
+[[tab 层级]]
+= [[[Level IF-14|Level IF-14 - “玻璃制空中立方组合体”]]]
+入机一样的对话，平淡的正文 **##purple|紫##**
+----
+= [[[Level IF-30|Level IF-30 - “你赢了”]]]
+写的时候想的一堆典型场景结果没用上，不够详细惨遭肘击，复活用资料之力总算凑到几千字。**##grey|灰##**
+----
+= [[[Level IF-31|Level IF-31 - “木质结构”]]]
+平淡对吧，那就对了，做梦的时候梦到的。
+----
+= [[[Level IF-32|Level IF-32 - “深雾城区”]]]
+根据[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]的照片写出来的，出入口也是[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]。
+----
+= [[[Level IF-33|Level IF-33 - “太空前哨”]]]
+神秘朋友的AI文（疑似，也有点像真人），改了半天才写上去。
+----
+= [[[Level IF-36.1|Level IF-36 - “雾山废城”]]]
+与[[*user Suesa]]的合著文，之后可能有更多
+----
+= [[[Level IF-39|Level IF-39 - “黑暗之房”]]]
+到底写的时间有多短才能赶出这样的文章，，，**##black|黑##**
+----
+= [[[Level IF-43|Level IF-43 - “禁闭回廊”]]]
+云分N年前投的文章，写的时间不超过半小时。
+----
+= [[[Level IF-45|Level IF-45（旧） - “甜蜜致死或是落寞永生”]]]
+勾式正文和勾式故事 **白**（当然因为版式原因用不了白）
+----
+= [[[Level IF-46|Level IF-46 - “黄昏之港”]]]
+我不会写 **##orange|橙##**
+----
+= [[[Level IF-47|Level IF-47 - “死之校垣”]]]
+哎呦我滴妈你别笑 **##brown|棕##**
+----
+= [[[Level IF-49|Level IF-49 - “饱满之房”]]]
+你们在伤害我。 **##orange|不是很黄的黄##**
+----
+= [[[Level IF-52|Level IF-52 - “冰镇”]]]
+冰镇可乐，钟摆式可乐。 **###70f3ff|青##**
+----
+= [[[Level IF-54|Level IF-54 - “森林”]]]
+好看的版式，爱来自暮色马克杠壹贰叁肆。 **##green|绿##**
+----
+= [[[Level IF-59|Level IF-59 - “简易空间”]]]
+哇，这是一个好的版式，即使是我也感到心潮澎湃，随便写的 **白**（版式原因！！！）
+----
+= [[[Level IF-61|Level IF-61 - “霞滨静城”]]]
+睡觉去吧 **##orange|橙##**
+----
+= [[[Level IF-63|Level IF-63 - “暗空悬房”]]]
+梦游的时候写的
+----
+= [[[Level IF-64|Level IF-64 - “晌午默景”]]]
+有一种正午带皮整榨的静谧感
+----
+= [[[Level IF-65|Level IF-65 - “林地之域”]]]
+经典塞小作文 **##green|绿##**
+----
+= [[[Level IF-66|Level IF-66 - “忆事之晚”]]]
+我怎么看不见小猫了😨😨😨厚实才是真实世界😱😱😱
+----
+= [[[Level IF-69|Level IF-69 - “影覆径道”]]]
+对不起Silver
+----
+= [[[Level IF-74|Level IF-74 - “暗无天日的街道”]]]
+没旧的好
+----
+= [[[Level IF-75|Level IF-75（旧） - “移动与相交的无尽迷宫”]]]
+10分钟速写😎😎😎
+----
+= [[[Level IF-76|Level IF-76 - “大海上的鲸鱼”]]]
+代写
+----
+= [[[Level IF-77|Level IF-77 - “过道”]]]
+代替了牢[NO DATA？]的新IF-77，感觉很普通。
+----
+= [[[Level IF-79|Level IF-79（旧） - “循环走廊门”]]]
+乐吧
+----
+= [[[Level IF-81|Level IF-81 - “孤寂乡村”]]]
+暗黑心理学
+----
+= [[[Level IF-83|Level IF-83 - “无菌地狱”]]]
+人性的秘密
+----
+= [[[Level IF-87|Level IF-87 - “亮度节点”]]]
+不是你能别这样吗
+----
+= [[[Level IF-89|Level IF-89 - “车站走廊”]]]
+我有玉玉症
+----
+= [[[Level IF-90|Level IF-90 - “反重力等候厅”]]]
+玉玉症治好了
+----
+= [[[Level IF-93|Level IF-93 - “黑白展览馆”]]]
+你知道的原本我是想写一个0级的
+----
+= [[[Level IF-94|Level IF-94 - “无聊的门廊”“请注意观察”]]]
+请输入文字
+----
+= [[[Level IF-104|Level IF-104 - “空荡荡的商场”]]]
+眼花文
+----
+= [[[Level IF-105|Level IF-105 - C H A O S]]]
+批量甩卖流水线文
+----
+= [[[Level IF-106|Level IF-106 - “宁静沙滩”]]]
+傻子写的
+----
+= [[[Level IF-107|Level IF-107 - “极寒墓园”]]]
+失败作层级
+----
+= [[[Level IF-109|Level IF-109 - “辽阔雪峰”]]]
+速写
+----
+= [[[Level IF-110|Level IF-110 - “虚幻之影”]]]
+FW
+----
+= [[[Level IF-117|Level IF-117 - “被遗弃的失落深海公园”]]]
+第三个用这个版式的
+----
+= [[[Level IF-118|Level IF-118 - “欢迎来到希腊”]]]
+重写文
+----
+= [[[Level IF-126|Level IF-126 - “椅群”]]]
+10分钟写的
+----
+= [[[Level IF-127|Level IF-127 - “暮光车站”]]]
+装
+----
+= [[[Level IF-129|Level IF-129（旧） - “消亡寒假”]]]
+短
+----
+= [[[Level IF-132|Level IF-132 - “门”]]]
+没想到原文竟然有X_R_H
+----
+= [[[Level IF-141|Level IF-141 - “永不结束之雨”]]]
+雨！
+----
+= [[[Level IF-142|Level IF-142 - “霓虹光芒”]]]
+无聊
+----
+= [[[Level IF-144|Level IF-144 - “高山湖泊之夜”]]]
+梦游写文の集大成之作
+----
+= [[[Level IF-146|Level IF-146 - “孤独卧室”]]]
+999
+----
+= [[[Level IF-151|Level IF-151（旧） - “迷失花园”]]]
+睡觉写的
+----
+= [[[Level IF-158|Level IF-158 - “损毁城市”]]]
+FNF那张图片没加上去
+----
+= [[[Level IF-159|Level IF-159 - “洁净卫生间”]]]
+问号
+----
+= [[[Level IF-160|Level IF-160 - “虚伪希望”]]]
+快餐
+----
+= [[[Level IF-161|Level IF-161 - “空中花园 实验室”]]]
+无聊
+----
+= [[[Level IF-162|Level IF-162 - “无限酒店”]]]
+瞎写
+----
+= [[[Level IF-163|Level IF-163 - “无限购物区”]]]
+半重名
+----
+= [[[Level IF-164|Level IF-164 - “一种名为走廊的病毒”]]]
+水
+----
+= [[[Level IF-168|Level IF-168 - “阈城”]]]
+竞赛の大失败
+----
+= [[[Level IF-173|Level IF-173 - “破碎之地除外”]]]
+忘吃药了
+----
+= [[[Level IF-174|Level IF-174 - 瘟疫之楼]]]
+忘吃药了
+----
+= [[[Level IF-179|Level IF-179 - “光赎”]]]
+短
+----
+= [[[Level IF-182|Level IF-182 - “宴会之地”]]]
+好写兄弟
+----
+= [[[Level IF-183|Level IF-183 - “电影场景”]]]
+清朝画质
+----
+= [[[Level IF-191|Level IF-191 - 束缚]]]
+神秘
+----
+= [[[Level IF-196|Level IF-196 - “后室观测极点广播电台”]]]
+为什么MCMK-1234这么喜欢靠后的编号
+----
+= [[[Level IF-197|Level IF-197 - “永恒日常”]]]
+老文
+----
+= [[[Level IF-198|Level IF-198 - “半开放仓库”]]]
+为了图片写的层。
+----
+= [[[Level IF-199|Level IF-199 - “观测极点”]]]
+我是飞舞你们都来骂我。 **##blue|蓝##**
+----
+= [[[Level IF-202|Level IF-202 - “温楼”]]]
+粉丝投稿就是好👍👍👍
+----
+= [[[Level IF-207|Level IF-207 - “唱片店”]]]
+长
+----
+= [[[Level IF-215|Level IF-215 - “严格行动咖啡厅”]]]
+抄袭userCCB
+----
+= [[[Level IF-217|Level IF-217 - “遵守规则”]]]
+视
+----
+= [[[Level IF-223|Level IF-223 - “木质洞穴”]]]
+而是
+----
+= [[[Level IF-224|Level IF-224 - “无尽宾果游戏厅”]]]
+瞎
+----
+= [[[Level IF-226|Level IF-226 - “恍如隔世”]]]
+牢恍终于在IF打赢了复活赛
+----
+= [[[Level IF-227|Level IF-227 - “高尔夫球场”]]]
+写爽了，{{Lake Lemon}}非常好喝
+----
+= [[[Level IF-233|Level IF-233 - “切尔夫卡利亚的私人森林”]]]
+感谢黄巢🙏🏼🙏🏼🙏🏼
+----
+= [[[Level IF-237|Level IF-237 - “常见之地 梦 住处”]]]
+我傻了
+----
+= [[[Level IF-239|Level IF-239 - “公寓报告”]]]
+天气报告
+----
+= [[[Level IF-241|Level IF-241 - “斜坡”]]]
+我以为文档丢了呢。。。
+----
+= [[[Level IF-258|Level IF-258 - “快餐店”]]]
+孙笑川
+----
+= [[[Level IF-261|Level IF-261 - “虚伪恐怖主义”]]]
+叒沝
+----
+= [[[Level IF-265|Level IF-265 - “克罗丽娜莉”]]]
+你好短
+----
+= [[[Level IF-269|Level IF-269 - “娱乐城”]]]
+点击输入文字
+----
+= [[[Level IF-270|Level IF-270 - “钟鸣寻迹”]]]
+累
+----
+= [[[Level IF-298|坠落、归家（Level IF-298）]]]
+不会写
+----
+= [[[Level IF-310|Level IF-310 - “基数层级”]]]
+疯
+----
+= [[[Level IF-313|Level IF-313 - “一个熟悉的地方”]]]
+旧生存难度
+----
+= [[[Level IF-335|Level IF-335 - “拨号中心”]]]
+合著✗ 混战✔
+----
+= [[[Level IF-369|Level IF-369 - “加利福尼亚州”]]]
+好合著喵
+[[/tab]]
+[[tab 物品]]
+= [[[Object IF-4|Object IF-4 - “层级探索器”]]]
+我瞎写。
+----
+= [[[Object IF-5|Object IF-5 - “清醒梦药水”]]]
+水
+----
+[[/tab]]
+[[tab 实体]]
+= [[[Entity IF-9|Entity IF-9 - “迷你骑行者”]]]
+写的像史
+----
+[[/tab]]
+[[tab 故事]]
+= [[[End Me|自我终结]]]
+Q、打波Q
+----
+= [[[hell-backrooms-if-i|炼狱后室：IF层群版 第一章]]]
+厚实。
+----
+= [[[hell-backrooms-if-ii|炼狱后室：IF层群版 第二章]]]
+强势灰的。
+----
+= [[[hell-backrooms-if-iii|炼狱后室：IF层群版 第三章]]]
+水
+----
+[[/tab]]
+[[tab 翻译]]
+= [[[Level 992|Level 992 - “体验”]]]
+原作者写的太好了。
+----
+= [[[old:Level 145|Level 145（旧） - “Jane，于地狱间燃烧”]]]
+意义不明
+----
+[[/tab]]
+[[/tabview]]
+[[include :backrooms-wiki-cn:component:author-page order=created_at]]

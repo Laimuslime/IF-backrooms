@@ -1,0 +1,90 @@
+[[include :backrooms-wiki-cn:theme:meg]]
+[[include :backrooms-wiki-cn:component:popup]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=1
+|lang=cn
+|three=可能存在的环境危害
+]]
+**Level IF-368**是后室IF层群的第368层。
++ **描述**
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/collab:level-if-368/Videoframe_20251122_113458_com.huawei.himovie.local_edit_712240036864753.jpg
+|caption=**Level IF-368**的墙壁区域。
+]]
+**Level IF-368**为一座无限延伸的巨型设施，任何对于该层级的测量均为毫无意义的行为。理论上该层级大小有限，但目前暂无已知关于到达了该层级边缘的报告。
+
+该层级由一系列看似无止尽的地下厅廊螺旋延展构成，这些结构极度相似，流浪者极易迷失在这些结构之中。大部分结构为由混凝土与钢铁所制成的房间与楼梯，这些结构均由承重柱支撑，并半悬在整个层级空间之间。
+
+这些结构其间布满了高科技工业机械，大部分机械设施均为前厅中常见的类型，但也有少数机械设计理念较为超前，以目前的眼光来看难以理解。
+
+这些设备总是持续产生一些轰鸣声，这些环境噪音足以在长期接触后造成流浪者的听力损伤。大部分久留于此的流浪者均出现了反应迟钝、感官扭曲、听力衰退等症状，不建议流浪者在此层级内长期驻留，否则将会导致流浪者出现生理上的不适症状。
+
+厅廊墙壁零星分布着已废弃的窗户，这些窗户均由磨砂玻璃制成，窗户上贴着印有简易几何图像的窗贴膜。窗外唯有泥土景象，泥土内可见少数环节动物与植物根茎的残骸，且越远离该层级中心区域，这些窗户分布的越稀疏。
+
+设施中心装有一套双电梯系统，该系统可通往建筑内10个楼层，电梯配有完整的空调系统与电力系统。各楼层不以数字区分，而是采用不同颜色标识：黑色代表"地面"层，其余地下楼层按降序排列分别为棕色、红色、橙色、黄色、浅绿、绿色、蓝色、青色与白色。
+
++ **基地、前哨与社区**
+++ 浮游叛乱军
+* 极度敌对
+* 组织较小
+* 无法交易
+* 集中于某个楼层
+++ B.O.P.&M.E.G.联合基地
+* 用以实现千层计划
+* 持续发掘此层级与它层联系
+* 正在利用一些层级内的武器
++ 采访记录 12 Dec 2024
+[[div class="dark-borderblock"]]
+++++ **<开始记录>**
+**时间：**12:00
+**日期：**12 Dec 2024
+**地点：** [[[Level IF-17]]] 某处会议室中
+**采访者：** Alistair Vance
+**受访者：** Brenna Croft
+
+------
+//[Alistair Vance与Brenna Croft临时找到了箱子中的一处房间，房间内放有一张桌子，足以用于谈话，Alistair Vance与Brenna Croft各坐在桌子的两边。]//
+
+**Alistair Vance：**咳咳，Brenna，你应该知道最近B.O.P.筹备的那个计划吧，就是被名为“千层”的计划，用以复现Fandom层级的那个。
+
+**Brenna Croft：**Alistair，他们只会把这一切搞的一团糟，Wikidot与Fandom的隔阂早已不可避免，就连基础的前300层都有1500个不同版本，那群B.O.P.的只会在理论上下功夫，实现起来就难了。
+
+**Alistair Vance：**那你应该对[[[Level 368]]][[footnote]]此处指该层级[[/footnote]]有些了解吧，虽然比[[[Level 980]]][[footnote]]此处指Fandom旧版Level 980，详情请见[[[Level IF-118]]][[/footnote]]晚些，但至少复刻得很完美。
+
+**Brenna Croft：**我只知道那群人把层级底朝天翻了个遍，带出来一些比[[[Level IF-19]]]里面东西还邪乎的武器，但是他们不会用。
+
+**Alistair Vance：**战争要开始了吗。
+
+**Brenna Croft：**可能会，也许会持续很久，M.E.G.总部那群人和正电子与观测极点达成了合作，准备不费吹灰之力地占领好几百个虚妄归档资料内的层级，他们甚至掌控了一个可以在层级之外快速切出的[[[Level IF-400|通道]]]，如果有他们眼中的敌人，他们会立即开始军事行动，武器来源嘛，我猜就是你刚才说的那个层级。
+
+**Alistair Vance：**我们好像话题一直聚焦在IF层群上了，自从虚妄归档降生以来，M.E.G.对于IF层群就愈发重视，虽然IF层群现在已知的数据库，截止我们谈话的今天也仅有几百层。
+
+**Brenna Croft：**你不觉得有些喧宾夺主吗，Alistair，明明是初登场于Wikidot与Fandom主层群的层级，却被主层群所忽视，在IF层群才真正的引人注目，还有C层群，虽然也复现了一些层级，但从来就和虚妄归档没有一点关系，例如[https://backrooms-wiki-cn.wikidot.com/level-c-752 Level C-752]与[https://backrooms-wiki-cn.wikidot.com/level-c-1462 Level C-1462]，那个时候IF层群还不被重视。
+
+**Alistair Vance：**谁知道之后的事情会怎样发展呢。
+
+**Brenna Croft：**管他呢。
+
+//[录音笔与摄像机停止录制。]//
+[[/div]]
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-1]]]至[[[Level IF-335]]]的所有层级之中发现任意包含开关结构的钢制物品并将其表面的开关打开即可来到此层级。
+++++++ 出口
+* 进入一个标有“出口”标识的安全通道即可被传送到一个生存难度为0及以下的层级。
+* 进入一个金属门可进入[[span class="popup text-only"]][[[Level 369]]][[span class="popup-content"]]此处为Fandom旧版本Level 369 - ‣ "三维桌布" "3D Table Cloth"(F)[[/span]][[/span]]。
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+原文为Fandom 旧版Level 368，作者未知
+重写者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-367]]] | Level IF-368 | [[[Level IF-369]]] >>
+[[/=]]
+[[/div]]

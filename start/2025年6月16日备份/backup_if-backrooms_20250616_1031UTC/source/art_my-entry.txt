@@ -1,0 +1,12 @@
+[[include :backrooms-wiki-cn:theme:basalt darkmode=a]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[image http://backrooms-wiki.wikidot.com/local--files/art:my-entry/banner.png]]
+
+嗨，我是Blu，此是我为[[[Bannercon2025|2025横幅竞赛]]]提交的参赛作品。
+虽然可能不会获奖，但我很荣幸能够参与本次竞赛^^
+
+本作品遵循CC BY-SA 3.0协议，由[[*user Bluzyx]]所作，由[[*user calf-0]]翻译

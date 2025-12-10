@@ -1,0 +1,93 @@
+[[include :backrooms-wiki-cn:theme:watch-your-back
+|banner=http://otherworld-records.wikidot.com/local--files/looping-basement/L4
+|pale-accent=102, 147, 156
+|visited-link-color=64, 105, 112
+|bright-accent=176, 215, 222
+|medium-accent=143, 150, 160
+|dark-accent=87, 91, 96
+|alt-accent=255, 125, 125
+]]
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+:root {
+    --header-title: "The Rewrite Initiativ Canon";
+    --header-subtitle: "让被遗忘的文档重归数据库...";
+    --logo-image: url("https://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+
+    --bntg-white-monochrome: 220, 221, 215;
+    --bntg-black-monochrome: 102, 102, 102;
+    --bntg-bright-accent: 86, 108, 90;
+    --bntg-dark-gray-monochrome: 64, 61, 60;
+}
+[[/module]]
+
+[[module css]]
+#page-title {
+     display: none;
+}
+
+.footnotes-footer {
+    display: none;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+[[include :snippets:html5player
+
+|type=audio
+
+|url=https://if-sandbox.wdfiles.com/local--files/secret%3Apictures/Level977%EF%BD%9ELevel1007.m4a
+
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=unknown
+|lang=cn
+]]
+**Level IF-310**是后室IF层群的第310层。
++ **描述**
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level1000
+|caption=**Level IF-310**的图片之一
+]]
+**Level IF-310**被确信为曾经的[https://backrooms-wiki-cn.wikidot.com/level1000 Level 1000]之一，其与[https://backrooms.fandom.com/zh/wiki/Level_1000 另一个时空之中的Level 1000]证明有关联，类似于[https://backrooms-wiki-cn.wikidot.com/Level-c-100 Level C-100]和[https://backrooms.fandom.com/zh/wiki/Level_ZH_100 Level ZH-100]的关系，该层级曾短暂地存在过，后被抹除，直至今日，它与[[[Level IF-226]]]一同被发掘，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]证实了曾经消逝的层级正在一个接一个重新出现。
+
+**Level IF-310**类似于一栋处于夜间的黑暗住宅，住宅内部通常是极度黑暗且能见度极低的。层级之中的一切照明设备都难以使用，大部分照明设备会在进入层级后发生诸如电池消失或是内部进水等故障。目前我们对该层级了解甚少，大部分记录来自于后室统一时间2023年以前，在此之后，关于该层级的一切已知记录都在某个时刻完全消失，直至该层级重新被发掘出来。
+
+**Level IF-310**中的物件包含一张沙发、一台电视柜上的电视、一把椅子、一扇窗户和一张吊灯和一个风扇。正如前文所述，层级中极度黑暗，能见度极低，以至于流浪者在进入层级后的颜色感知会逐渐减弱，但电子设备则不受影响。沙发表面极度光滑，内部的弹簧结构总是发出回弹的声音，沙发上有时会出现一些杂乱的毛线团。电视柜中放有大量杂物，包括电脑键盘、幕布、透明塑料罐、平板电脑、石制面具、记载在上面的文字早已无法辨识的牛皮纸日记本。电视大多为复古款式，电视的按钮间隙中夹杂着部分生物毛发，电视屏幕表面附着着一层灰尘，电视的天线似乎遭到过人为破坏，但早已恢复，电视可以正常使用，播放的频道完全随机，但声音和画面都会遭到扭曲。椅子为常见款式的木椅，底部附着些许油脂和不明液体所混合的污渍。窗户为木窗，窗台上黏着一些因老旧而脱落的墙皮，窗户可以正常打开，但总是会发出响声。吊灯无法启动，同样也无法破坏，吊灯无法被带出此层级。风扇上积攒灰尘，齿轮结构极为老旧，风扇需要润滑油才可正常运行。
+
+**Level IF-310**的客厅的外观因人而异，它会逐渐变得像流浪者在前厅时的家的样貌，变换的部分包括家具、墙壁、地板。层级的窗外为一片雨天星空景象，使人感到怀旧，轻微的雨声从窗外传来，有时也会变得震耳欲聋。层级之中似乎存在孤立效应，任何流浪者不可能在层级当中见到其他的流浪者或是实体，同样也无法见到任何存活的生物体，包括其他的植物和真菌，层级中没有任何除外来的自带细菌或是病毒。若两个人同时进入该层级，二人将会被传送到层级的其他随机位置，由于层级是无限大的，因此流浪者也难以找到他人。层级中似乎存在一些物资，包括食物和工具，但这些物品很难在层级之中找到，部分流浪者甚至直到死亡也未发现层级之中生成的物资。
+
+**Level IF-310**的墙壁上有着许多绿色的门，这些门可以将流浪者带去层级之中的一个房间，每个进入的房间都是完全相同的。最初进入房间中时，房间中不会存在任何物品，然而，当流浪者回到该房间的数量逐渐增多，房间之中会渐渐出现新的物品，大部分是无用的杂物。在层级中停留的时间越长，流浪者离开层级就越发困难，层级会逐渐使流浪者陷入癫狂状态。层级会逐渐变得破败和废旧，大部分物品都会受到该影响，除此之外，层级还会变得愈发逼仄，最后难以使流浪者在层级中行动。
+
+随着时间的推移，流浪者的理智会逐渐减少。一个小时之后，流浪者会感到眼前渐渐变得模糊，视力疲劳，难以看清眼前的物品，看到的景象也越发扭曲。两个小时过后，流浪者的移动速度会逐渐变慢，直至流浪者彻底无法移动，失去对身体的控制权。四个小时过后，层级中将开始播放来自于远处的，关于扭曲、悲伤和怀旧的音乐，大多为钢琴、八音盒或是木琴演奏。十个小时之后，流浪者会频繁出现幻觉，流浪者将会认为自己找到了离开此层级的出口。十二个小时之后，层级对流浪者造成的影响将不可逆转，流浪者会逐渐开始变得偏执，并认为自己正在被监视。十五个小时之后，流浪者的眼前会完全失去色彩，同时层级之中播放的音乐速度也会开始减慢。在二十四个小时过后，流浪者将会完全疯狂并在之后的时间内慢慢死亡。进入层级之中的流浪者时间感知会逐渐变慢，度日如年。
++ **基地、前哨与社区**
+该层级暂无已知的基地、前哨与社区
++ **入口与出口**
+++++++ 入口
+* 在[https://backrooms-wiki-cn.wikidot.com/level-999 Level 999]进入一个完全黑暗的建筑物即可来到此层级
+++++++ 出口
+* 在层级中进入一个楼梯间将会来到[[[Level IF-89]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-309]]] | Level IF-310 | [[[Level IF-311]]] >>
+[[/=]]
+[[/div]]

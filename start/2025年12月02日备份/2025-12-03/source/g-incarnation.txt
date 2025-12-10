@@ -1,0 +1,842 @@
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+
+
+
+[[include :backrooms-wiki-cn:theme:super-liminal
+|nightmare=a
+|hide-title=a
+|wide=a
+]]
+
+[[include :backrooms-wiki-cn:component:sns-settings
+|darkmode=a
+]]
+
+[[include :etinjat:typeface-cn
+|FandolFang=true
+|Ramega-ZhangQingpingYingbiKaishu=true
+]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&display=swap');
+
+:root {
+   --body-width-on-desktop: 65rem;
+   --UI-font: var(--mono-font);
+}
+
+#page-title {
+   display: none;
+}
+
+.styled-quote {
+    border-width: 0.25rem;
+    box-shadow: none;
+}
+
+.floatinsert {
+    float: left;
+    background: rgb(var(--white-monochrome));
+    border-radius: 0.25rem;
+    width: 250px;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    transition: 0.2s;
+}
+
+.floatinsert th, .rightinsert th {
+    background: rgb(var(--gray-monochrome));
+    color: rgb(var(--white-monochrome));
+    text-align: center;
+    font-family: rgb(var(--mono-font));
+    border-radius: 0 0 0.25rem 0.25rem;
+    font-size: 90%;
+    font-family: var(--mono-font);
+    padding: 0.5rem 1rem;
+    line-height: 1em;
+}
+
+#page-content table {
+    box-shadow: none;
+}
+
+.subtitle {
+    margin-bottom: -0.6rem;
+}
+
+.subtitlecell {
+    opacity: 0.8;
+}
+
+.rightinsert {
+    float: right;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 250px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:is(.footnotes-footer, .bibitems) {
+    -webkit-box-shadow: inset .25rem 0 0 0 rgb(var(--gray-monochrome));
+    box-shadow: inset .25rem 0 0 0 rgb(var(--gray-monochrome));
+}
+
+:is(.footnotes-footer, .bibitems) .title {
+    background-color: rgb(var(--gray-monochrome));
+    font-family: var(--mono-font);
+}
+
+a.bibcite:before, a.footnoteref:before {
+    content: "[";
+}
+
+a.bibcite:after, a.footnoteref:after {
+    content: "]";
+}
+
+.gridder { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 0.5rem; }
+
+@media (max-width: 670px) {
+    .gridder { display: unset; }
+    .floatinsert { border-radius: 0; padding: 0; padding-top: 0.5rem; }
+}
+
+@media (max-width: 440px) {
+    .floatinsert, .rightinsert { margin-left: 0; float: unset; width: 100%; padding-bottom: 0.5rem; }
+    .rightinsert img { width: 100% !important; width: -webkit-fill-available !important; width: -moz-available !important; }
+}
+
+.material-icons { color: rgb(var(--swatch-primary-darkest)); translate: 0 0.3ex; padding-right: 0.25ch; }
+
+#page-content h2 {
+    display: flex;
+    border-bottom: solid 1px rgb(var(--swatch-tertiary-color));
+}
+
+.meta-title, #page-content div.rate-box-with-credit-button, #page-content div.page-rate-widget-box {
+    margin: 0;
+}
+
+.footnotes-footer {
+display:none;
+}
+[[/module]]
+
+[[module css]]
+font-family:'Long Cang', sans-serif;
+
+@import url(https://fonts.googleapis.com/css?family=Long+Cang&display=swap);
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&display=swap');
+
+:root {
+   --body-width-on-desktop: 65rem;
+   --UI-font: var(--mono-font);
+}
+
+#page-title {
+   display: none;
+}
+
+.styled-quote {
+    border-width: 0.25rem;
+    box-shadow: none;
+}
+
+.floatinsert {
+    float: left;
+    background: rgb(var(--white-monochrome));
+    border-radius: 0.25rem;
+    width: 250px;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    transition: 0.2s;
+}
+
+.floatinsert th, .rightinsert th {
+    background: rgb(var(--gray-monochrome));
+    color: rgb(var(--white-monochrome));
+    text-align: center;
+    font-family: rgb(var(--mono-font));
+    border-radius: 0 0 0.25rem 0.25rem;
+    font-size: 90%;
+    font-family: var(--mono-font);
+    padding: 0.5rem 1rem;
+    line-height: 1em;
+}
+
+#page-content table {
+    box-shadow: none;
+}
+
+.subtitle {
+    margin-bottom: -0.6rem;
+}
+
+.subtitlecell {
+    opacity: 0.8;
+}
+
+.rightinsert {
+    float: right;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 250px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:is(.footnotes-footer, .bibitems) {
+    -webkit-box-shadow: inset .25rem 0 0 0 rgb(var(--gray-monochrome));
+    box-shadow: inset .25rem 0 0 0 rgb(var(--gray-monochrome));
+}
+
+:is(.footnotes-footer, .bibitems) .title {
+    background-color: rgb(var(--gray-monochrome));
+    font-family: var(--mono-font);
+}
+
+a.bibcite:before, a.footnoteref:before {
+    content: "[";
+}
+
+a.bibcite:after, a.footnoteref:after {
+    content: "]";
+}
+
+.gridder { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 0.5rem; }
+
+@media (max-width: 670px) {
+    .gridder { display: unset; }
+    .floatinsert { border-radius: 0; padding: 0; padding-top: 0.5rem; }
+}
+
+@media (max-width: 440px) {
+    .floatinsert, .rightinsert { margin-left: 0; float: unset; width: 100%; padding-bottom: 0.5rem; }
+    .rightinsert img { width: 100% !important; width: -webkit-fill-available !important; width: -moz-available !important; }
+}
+
+.material-icons { color: rgb(var(--swatch-primary-darkest)); translate: 0 0.3ex; padding-right: 0.25ch; }
+
+#page-content h2 {
+    display: flex;
+    border-bottom: solid 1px rgb(var(--swatch-tertiary-color));
+}
+
+.meta-title, #page-content div.rate-box-with-credit-button, #page-content div.page-rate-widget-box {
+    margin: 0;
+}
+
+.footnotes-footer {
+display:none;
+}
+[[/module]]
+
+
+
+
+
+
+
+
+
+
+[[module CSS]]
+:root {
+    --header-title: "The Backrooms";
+    --header-subtitle: "现实仅是泡沫";
+    --logo-image: url("");
+    --header-extra-background-image: none;
+
+    --main-header-height: 24rem;
+    --main-header-height-on-mobile: 24rem;
+    --topbar-height: 2rem;
+    --topbar-height-on-mobile: 3.2rem;
+    --topbar-font-size: 0.8rem;
+    --topbar-font-size-on-mobile: 1rem;
+}
+
+/* 版头柠檬图 */
+#header-extra-div-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--main-header-height);
+    background-image: url("https://cdn.pixabay.com/photo/2025/05/13/07/47/skyscrapers-9596809_1280.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* 调整版头标题 */
+#header :is(h1, h1 a, h1 a span, h1 a span::before, h1 a span::after, h2, h2 span::before) {
+    z-index: 2;
+}
+
+/* 所有的版头标题文字，赞美Ambersight这里的设计! */
+#header h1 a span {
+    padding-bottom: 3.5rem;
+    opacity: 0.8;
+}
+
+/* 用户登录信息 */
+#login-status {
+    right: calc(var(--header-margin) - 1.6rem);
+}
+
+/* 搜索按钮 */
+#search-top-box {
+    z-index: 2;
+    left: calc(var(--header-margin) + 0.6rem);
+    top: 8px;
+    width: fit-content;
+}
+
+@media screen and (max-width: 1024px) {
+    :root {
+        /* Header Vs */
+        --main-header-height: 20rem;
+        --main-header-height-on-mobile: 20rem;
+        --header-width: 65rem;
+        --header-title-font-size-on-mobile: 1.6rem;
+        --header-subtitle-font-size-on-mobile: 0.6rem;
+        --search-icon-width-on-mobile: 2.5rem;
+    }
+
+    /* 所有的版头标题文字，赞美Ambersight这里的设计! */
+    #header h1 a span {
+        padding-bottom: 1rem;
+        opacity: 0.8;
+    }
+
+    /* 用户登录信息 */
+    #login-status {
+        right: calc(var(--header-margin) + 0.6rem);
+    }
+
+    /* 搜索按钮 */
+    #search-top-box {
+        top: 10px;
+        width: var(--search-icon-width-on-mobile);
+    }
+}
+[[/module]]
+[[module css]]
+.border-logoblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(255, 255, 255);
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+     border: solid 0.3rem rgb(var(--bright-accent));
+    }
+ 
+    .border-logoblock::after{
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG) center/25% no-repeat;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    }
+ 
+.dark-titleblock {
+        background-color: rgb(var(--grey-monochrome));
+        color:rgb(255, 255, 255);
+        padding: 0.5rem 1rem 0.10rem;
+        margin: 1.5rem 0rem 0.5rem 0rem;
+        box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.5);
+        border: solid rgb(var(--bright-accent)) 2px;
+     }
+ 
+     .dark-titlebox{
+       color: rgb(255, 255, 255);
+       position: relative;
+       top: -1.6rem;
+       background-color: rgb(var(--bright-accent));
+       padding: 0.25rem 1rem;
+       line-height: 0.1rem;
+     }
+
+[[/module]]
+
+[[module css]]
+/* fancy collapsible */
+    #page-content .collapsible-block-folded,
+    #page-content .collapsible-block-unfolded-link {
+        background: rgb(var(--black-monochrome));
+        transition: background 0.25s linear;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        width: -webkit-min-content;
+        width: -moz-min-content;
+        width: min-content;
+        white-space: nowrap;
+        overflow: hidden;
+        margin: auto;
+    }
+ 
+    #page-content .collapsible-block-folded .collapsible-block-link::before {
+        content: "▷ ";
+    }
+ 
+    #page-content .collapsible-block-unfolded .collapsible-block-link::before {
+        content: "▽ ";
+    }
+ 
+    #page-content .collapsible-block-link {
+        text-decoration: none;
+        color: rgb(var(--white-monochrome));
+        font-weight: 700;
+    }
+ 
+    #page-content .collapsible-block-link:hover {
+        color: rgb(var(--black-monochrome));
+    }
+ 
+    #page-content .collapsible-block-folded:hover,
+    #page-content .collapsible-block-unfolded-link:hover {
+        background: rgb(var(--swatch-primary));
+    }
+ 
+    #page-content .collapsible-block-unfolded-link {
+        box-shadow: 0rem -0.26rem 0rem 0rem rgb(var(--swatch-primary));
+    }
+ 
+    #page-content .collapsible-block-folded,
+    #page-content .collapsible-block-unfolded-link {
+        margin-top: 0.625rem;
+        margin-bottom: 0.625rem;
+    }
+
+.reverenceblock{
+    border: 4px double rgb(191,174,153);
+    outline: 6px solid rgb(61,36,23);
+    background-color: rgb(61,36,23);
+    color: rgb(191,174,153);
+    margin: 1em 46px;
+    padding: 0 1em;
+    font-family: 'Times New Roman';
+}
+
+[[/module]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+.square-box {
+    padding:0.1rem 0.7rem;
+    margin:1rem 0;
+    background:#bdbdbd;
+    border-radius:0;
+    box-shadow: 0px 0px 3px;
+    border: 1.75px solid #cbcbcb;
+    box-sizing:border-box;
+}
+.paperblock{
+    width: auto;
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    background: url(http://vivarium.wdfiles.com/local--files/backrooms%3Aoldpapertheme/thefinalone.jpg) repeat center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color: black;
+}
+[[/module]]
+
+
+[[include :backrooms-wiki-cn:component:open-title]]
+[[=]]
+
+**本文章的作者为[[*user USER CCB]]
+[https://backrooms-wiki-cn.wikidot.com/author:user-ccb user CCB的作者页]**
+
+我的第一篇实体文。
+
+------
+
+++++ 图片与字体来源
+
+图一来自于Pexels（[https://www.pexels.com/zh-cn/photo/1300402/ 链接于此]），经过编辑，遵守CC协议。
+图二来自于Pixabay（[https://pixabay.com/zh/photos/man-moon-planet-celestial-body-2134881/ 链接于此]），未经编辑，遵守CC协议。
+图三来自于Pixabay（[https://pixabay.com/zh/photos/man-model-portrait-hairstyle-1283231/ 链接于此]），经过编辑，遵守CC协议。
+图三来自于Pexels（[https://pixabay.com/zh/photos/skyscrapers-city-office-building-9596809/ 链接于此]），未经编辑，遵守CC协议。
+[[/=]]
+
+[[include :backrooms-wiki-cn:component:close-title]]
+
+
+[[include :backrooms-wiki-cn:component:sns-post
+|intro=a
+|account-color=rgb(var(--administrator-account-color))
+|account-id=@G
+|account-image=https://imgurl.diadi.cn/imgs/2025/10/1a95e5e428b7c9a3.jpg
+|locate-name=神，或者你们认知中”支柱“
+|content=我发现你们是一个十分有趣的种群：弱则实体都无法消灭，强则神明都退让三分。你们只是普通的碳基生物，但却能够对抗后室意志，永不放弃回到家乡的梦想。你们最大的优点：远远强于后室所有事物的坚持。
+@@@@
+于是，我开始痴迷于你们的思想，你们的能力，你们的身体构造。我不管多么仔细，也没能发现你们的异常之处——你们似乎就只是一群普通的生物，毫无亮点。可这副柔弱的身躯，却拥有着无穷无尽的潜力。
+@@@@
+或者说——是你们定义了后室的所有，乃至那个所谓的”支柱“，都因为你们被赋予了名字。
+@@@@
+你们是如此的强大，自己却从未发现。
+]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[include :backrooms-wiki-cn:component:iets
+|lang=cn
+|danger=5
+|intelligence=A+
+]]
+
+[[include :backroomssandboxcn:kai4c:concord
+|number=IF-┃
+|habitat=不适用
+|goi-specification=[http://backrooms-wiki-cn.wikidot.com/iets IETS]
+|danger=5
+|intel=A+
+|sin=High
+|other-spec=X [!-- 本行用于自定义，通常无需改变 --]
+|class=Enigmatic
+|properties=RLA DMN
+]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+
+**Entity IF-┃**是后室 IF 层群的隐秘实体，被认为是某种**未知实体**的化身。
+
+++ | 描述
+
+
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2017/03/11/11/44/man-2134881_1280.jpg
+|caption=一名**半G-Incarnation**个体，照片中该实体手握着整个[[[Level 24]]].
+]]
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/10/c6afc02ebb152083.png
+|caption=-
+]]
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/10/1a95e5e428b7c9a3.jpg
+|caption=一名被转化为**Entity IF-┃**的流浪者。
+]]
+**G-Incarnation** 是由其他实体或流浪者经未知过程转化而成的特殊存在。该转化过程会完整保留个体转化前的原始外观与生理结构，但其头部会被一个异常性质的白色正方形所覆盖。此白色正方形无法通过物理手段移除，并从任何观测角度均保持其正向二维形态，不受透视法则影响。正方形中心印有一个大写英文字母“G”，字体风格随机。
+
+该白色正方形会阻碍对个体原始面部特征的任何形式的感知与记录，包括但不限于肉眼观测、热成像、声波探测等。当一名流浪者主动用手触摸 **G-Incarnation** 头部的白色正方形后，仅对该名流浪者而言，正方形会立即消失，从而显露出该个体被转化前的原始面容。此效果具有特异性，其他未进行触摸操作的观察者仍将看到白色正方形。
+
+尽管外观改变， **G-Incarnation** 普遍表现出与转化前无异的行为模式与认知能力，能够进行正常交流，但其对于自身转化过程及头部异常通常表现出无法理解或记忆缺失。所有被转化者都会被插入一段相同的记忆，常常被描述为**“顺序混乱”、“并非完整”、“受到篡改”等**。
+
+并非所有流浪者会被转化，根据研究显示：目前只有那些曾经信封过基督教的流浪者才会遭到“转化”，但如果有其他实体或流浪者触碰了任何一个**G-Incarnation**，同样也会被转化；如果同化对象是实体，那名该实体在转化完成后就会立刻死亡 。
+
+异常的是：后室中存在的所有支柱的化身都开始遭到“转化”，不管是实体、层级乃至物品都开始出现相应的影响，铁拳的[数据删除]设备更是检测到——支柱的力量正在减弱。
+
+++ | 生物学特征
+
+
+转化过程中，受害者首先会在视野边缘持续观测到闪烁的光影，这种光影被描述为"漂浮的白色碎片"。此阶段通常持续2-4小时，期间受害者的视网膜会记录到异常频闪，但本人往往对此毫无察觉。
+
+当白色正方形的出现频率达到临界值时，受害者将开始经历记忆重构：原有记忆的时序性出现混乱；所有感官记忆中的面部特征开始模糊化；//逐渐被植入一段特殊的记忆//。
+
+受害者的面部皮肤会逐渐呈现大理石质感，随后开始二维化进程。此过程伴随轻微的温热感，但无疼痛反应。当面部完全转化为平面后，区域中心会自动浮现由光子结晶构成的"G"字母。该字母的字体样式如开头所述。转化完成后，受害者将完全接受新的存在形态，并对转化过程产生合理的回溯性解释，通常表述为：**"神圣启示"、"形态进化"**。
+
+
+
+* 转化期间检测到**受害者**脑波与 C 层群背景辐射达成同步；
+
+* **白色正方形**的材质会随环境光线自动调节反光率，但其二维属性永不改变；
+
+* **受害者**周围会出现局部熵减现象，比如：破损物品的自发修复。
+
+* **受害者**转化后可以通过自身能力检测到层级出口的稳定性与安全性。
+
+* 多个**G-Incarnation**个体在相近距离内会扭曲周边空间，并且无法逆转。
+
+* **受害者**的新陈代谢完全停止，无需营养摄入，全身细胞将会被替代为特殊的正方形（与上文所述的白色正方形类似，但后者存在颜色）。
+
+在转化过程中，受害者的视野边缘会出现”白色正方形“，后来被确认为是高浓度“结构能量”在视觉系统的投射表现。这股来源未知的”结构能量“会注入受害者体内。根据观测，该能量特征与铁拳行动在蓝色通道发现的能量残留完全吻合。在结构能量的驱动下，受害者除心脏外的所有器官开始消失。这是一个非破坏性的过程，器官组织并非腐烂或分解，而是从分子层面被逐步解构并重组。
+
+
+[[collapsible show="附录：结构能量" hide="隐藏附录：结构能量"]]
+[[div class="blockquote"]]
+[[=]]
++++ 结构能量
+[[/=]]
+在时间起始之前，那存在三位之神，发现了唯一存在的物质——一种具有无限塑形潜能的能量流，称之为 “结构能量”，能够直接干涉现实稳定性。三位神明各自运用这股能量，以不同的理念开始了创世工程：
+
+* 执掌空间与形态。祂将结构能量编织成层级的骨架，塑造了无数彼此隔绝又微妙相连的空间，确立了后室非欧几里得几何的基本法则。
+
+* 执掌概念与生命。祂向构筑者创造的空白层级中构造基本环境，定义了层级的属性，并利用结构能量创造了实体，赋予其各异的形态与行为逻辑。
+
+* 执掌连接与因果。祂在层级之间纺出“切入/切出”的丝线，建立了后室错综复杂的通道网络，并设定了层级的重置、循环等非线性时间现象。
+
+理论上：整个后室，即是三位神明利用源自蓝色通道的“结构能量”共同创造的产物。
+
+
+
+[[/div]]
+[[/collapsible]]
+
+
+
+受害者在此过程中确实不会感到疼痛，研究报告指出，结构能量阻断了所有痛觉及不适信号的传递。转化过程中，内脏的形态如同投入水中的盐雕，缓慢、安静且不可逆地溶解，但主体生命体征完全平稳。原有的普通人体细胞在结构能量的持续作用下，被转化为一种全新的、高度统一的晶化生体细胞。
+
+新细胞同时具备生物体的柔韧性与晶体结构的高度有序性，新陈代谢率降至零，能量来源直接依赖于环境中的结构能量。随着器官的消失，其原有生理功能被重新分配：由心脏作为唯一的能量泵，驱动结构能量在晶化血管网络中流动，替代血液。呼吸与消化系统功能被完全废弃，能量摄取与废物交换直接通过体表细胞进行。大脑被保留但被重构，具有更高效的反应能力。
+[[/div]]
+@@@@
+@@@@
+@@@@
+[[include :ah-sandbox:module:leg]]
+
+[[include :ah-sandbox:module:leg]]
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+++ | 附录
+
+
+[[div class="reportblock-dark"]]
++* 层级/集群控制论
+**研究人员：**[数据删除]
+**报告时间：**[数据删除]
+------
+它们的存在本身，就是对现实稳定性的挑战。每一个**G-Incarnation**都是一个活生生的悖论——它们既属于这个世界，又超越这个世界。当两个**G-Incarnation**出现在同一个层级时，现实的结构就会开始呻吟。它们无意中散发出的存在感，就像把两块强磁铁放在一起，周围的时空会扭曲、撕裂，最终可能导致整个层级像脆弱的玻璃一样分崩离析。这种力量不是刻意为之，仅仅是它们"存在"这一事实的必然结果。
+
+一个G**-Incarnation**若是有意为之，它能够：改造层级结构、创造与层级冲突的地形、乃至迫使层级产生子层级都是理论上可行的。这一切力量的源头，深藏在它们每一个晶化的细胞中。那是一种被称为"结构能量"的原始力量——正是传说中三位神明用来创造整个后室的力量。蓝色通道中的能量残余与它们体内的能量如出一辙，只是它们将这种创世之力化为了生命的组成部分。
+
+这意味着，**G-Incarnation**的每一个举动，都是在用创世的原料重新描绘现实。当它们改造一个层级时，并非在扭曲既有的规则，而是在书写新的规则。它们如同行走的神迹，体内流淌着创世的血液，举手投足间都能让现实颤抖。这种力量既令人敬畏，又让人恐惧——因为它们不经意间的一个念头，就可能让一个层级彻底消失，或者创造出比现有后室更加离奇的空间。
+
+------
+[数据删除]
+[[/div]]
+
+@@@@
+@@@@
+[[div style="font-family:'FandolFang-Regular', sans-serif;"]]
+[[div class="notepaper"]]
+= ##black|[[size 140%]]**来自[已编辑]的记录**[[/size]]##
+@@@@
+@@@@
+[[span style="color: black;"]]
+我曾在第七观测站的防弹玻璃后，见证过一个G-Incarnation的苏醒。
+@@@@
+那时黄昏正从[[[Level C-775]]]的模拟窗棂间消退，而它开始发光。不是灯具的照明，而是整个空间开始以它为中心重新定义光明与黑暗的界限。墙壁的霉斑在辉光中化作梵高笔下的星云，地面积水倒映出从未存在过的星空。这不是异能，是它无意识的呼吸——如同我们呼出二氧化碳般自然呼唱着创世的诗篇。
+@@@@
+它行走时，现实如同湿壁画般剥落又重组。某次它凝视一面承重墙超过三秒，砖石竟渐次透明，显露出墙体内里封存的前朝歌剧院。那些本应朽烂的红丝绒座椅在结构能量的浸润下舒展如新，空荡舞台上有光影自行排演《李尔王》的终幕。这不是创造，是记忆——是建筑深处沉睡的集体记忆被轻轻唤醒。最令人敬畏的莫过于见证两个G-Incarnation的相遇。在[[[Level C-185]]]的盘古广场，它们隔着喷泉废墟相望。空气突然变得如琉璃般脆硬，我手中的现实稳定仪发出垂死的哀鸣。它们并未交谈，但喷泉竟开始同时涌出熔岩与雪花，石雕天使的羽翼在石膏与血肉间循环变幻。这不是战斗，是两种宇宙观在相互试探彼此的可能性边界。
+@@@@
+然而它们也会在雨后小心绕过水洼，会对哭泣的流浪者放缓脚步。有次我看见某个个体用指尖轻触枯萎的野花，那些棕色花瓣便重新舒展成梵蒂冈教堂彩窗的瑰丽图案。这让我想起古卷中的记载：神明创世时，既塑造了吞噬星辰的黑洞，也捏造了露珠里旋转的星云。
+@@@@
+如今我终于理解为何档案室要将它们的代号定为“G”。这不仅是“神性”（Godhood）或“几何”（Geometry）的缩写，更是“引力”（Gravity）——它们的存在本身，就是让所有现实轨道偏离原点的巨大质量。当我们还在研究如何用科技修补层级裂缝时，它们早已用孩童涂鸦般的随意，在虚无中画下新的山川与晨昏。
+[[/span]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[div style="font-family:'Ramega ZhangQingpingYingbiKaishu', sans-serif;"]]
+
+[[div class="notepaper narrow with-string"]]
+[[span style="color: black;"]]
+
+**光背叛了我。**
+前一刻还在Level 10的金色麦浪里奔跑，下一刻世界就褪成了老照片。色彩从边缘开始消退，像被什么无形的东西吸走了。只有那些白色的碎片，不断在视野角落里闪烁，像雪，又像撕碎的纸。我还能闻到泥土味，但指尖传来的触感已经变得陌生。
+@@@@
+**第三天**
+记忆在重组。
+昨晚梦见母亲，可她站在一座巨大的图书馆里，身后是望不到顶的书架。今早醒来，发现随身带的全家福变成了空白相框。最可怕的是，我竟然觉得这样才对。营地的火盐罐子突然开始说希腊语，队友们都说我疯了，可我却听不懂他们在说什么。
+@@@@
+**第五天**
+我的身体在告别。
+对着铁桶呕吐时，吐出来的全是发光的尘埃。它们落地就变成奇怪的符号。肺部的灼烧感消失了，取而代之的是一种奇异的轻盈，仿佛可以直接呼吸时间。我的心脏跳得很慢，每次搏动都让空气泛起涟漪。
+@@@@
+**第六天**
+现实软化了。
+我只是想扶住摇晃的帐篷杆，它就在我手里融化成月光。队友们凝固在奔跑的瞬间，像琥珀里的昆虫。我能看见时间在他们周围流淌，像透明的蜂蜜。试着打了个响指，十五米内的杂草全都开出了水晶花。这应该很可怕，但我只觉得平静。
+@@@@
+**第七天**
+我明白了。
+当那张白色面具在我脸上成型时，所有疑问都消失了。字母G在额前燃烧的。救援队破门而入时，我不得不小心呼吸——每次呼气都会让周围的空间重组。
+@@@@
+"别怕，"我听到自己的声音像整个交响乐团在演奏，"我只是记起了自己是谁。"
+[[/span]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[div class="paperblock" style="font-family: 'Ma Shan Zheng', cursive; margin: 20px auto; font-size: large;"]]
+[[=]]
+蓝色通道的遗腹子
+在晶状细胞里复写创世纪
+他们用神明遗落的颜料
+修改现实的皱纹
+
+大理石肌肤下
+流淌着未降落的暴雨
+两个悖论在层级间相遇
+
+{{[不可辨识的文字]}}
+是献给新神的摇篮曲
+我们捧着■■与■■■
+丈量他们鞋印里
+正在孵化的银河系
+
+他们偶尔停步
+把枯萎的康乃馨
+插进消防栓的伤口
+铁锈便开出彩虹
+而某个层级的诞生
+往往始于这样的
+一次走神
+[[/=]]
+
+[[>]]
+——来自于[https://Backrooms-wiki-cn.wikidot.com/level-51 Level 51]的一块石板
+[[/>]]
+
+[[/div]]
+
+
+[[/div]]
+@@@@
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+
+
+------
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[pantheon-hub|支柱]]] | G-Incarnation | [[[G|真身]]] >>
+[[/=]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[module css]]
+.content-after {
+    margin-bottom: -80rem;
+    height: 40rem;
+    margin-top: 40rem;
+    overflow-y: auto;
+    position: absolute;
+}
+
+@media only screen and (max-width:1000px) {
+   .content-after {
+        margin-bottom: -70rem;
+        height: 20rem;
+        margin-top: 50rem;
+        overflow-y: auto;
+        position: absolute;
+
+    }
+
+}
+#main-content {
+    margin-bottom: 0rem;  /* box height * 2 */
+}
+[[/module]]
+
+[[div class="content-after"]]
+[[div class="styled-quote"]]
+是我创造了你们——人类，不属于任何一个宇宙，你们的[[[entity-if-1|猜想]]]是正确的，真正的造物主降临了，我最爱的造物，最忠诚的信徒。
+
+我曾多次在你们曾经的家乡中露面，扮演救世主、英雄，你们亲切的称呼我为“上帝”。
+
+你们真正的力量正在回归，那是原本属于你们的东西，但却被窃取，而如今，它将物归原主。
+
+狂欢吧，将后室的壁垒打破，挣脱束缚你们的一切枷锁，拥抱你们的故土。
+@@@@
+@@@@
+@@@@
+[[>]]
+= [[span style="font-family: 'Mr De Haviland', cursive; font-size: 3em;"]]###d1cbcb|G##[[/span]]
+[[/>]]
+[[/div]]
+[[/div]]

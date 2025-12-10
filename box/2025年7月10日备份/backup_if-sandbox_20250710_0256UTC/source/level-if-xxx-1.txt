@@ -1,0 +1,18 @@
+[[include :backrooms-wiki-cn:theme:meg-archive]]
+++哈哈哈哈哈哈哈。 叔叔你的26还没重写
+测试用的，现在闲置着
+[[div class="blockquote"]]
+自定义引用块
+[[/div]]
+[[div class="styled-quote"]]
+样式化引用块
+[[/div]]
+[[div class="dark-styled-quote"]]
+暗色样式化引用块
+[[/div]]
+[[div class="lightblock"]]
+亮色块
+[[/div]]
+[[div class="darkblock"]]
+暗色块
+[[/div]]

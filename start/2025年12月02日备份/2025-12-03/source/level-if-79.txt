@@ -1,0 +1,394 @@
+[[include :backrooms-to-dv:component:sites
+|cloud=e |cloud-link=level-cloud-990
+|s=e |s-link=level-s-225
+|AS=e |AS-link=level-as-215
+|todv=e |todv-link=level-to-95
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+
+[[include :ru-backrooms-wiki:component:centered-title]]
+[[include :backrooms-wiki-cn:component:faq-block]]
+[[include :backrooms-wiki-cn:component:animation
+|cecs=*
+]]
+[[include :backrooms-wiki-cn:component:animation
+|sd=*
+]]
+[[module css]]
+:root{
+    --ani-speed:0.5;/*动画的播放倍数，默认为1*/
+}
+[[/module]]
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=无尽之长廊
+]]
+
+
+[[include :backroom-wiki-cn:component:level-class
+|class=5E - 环境危害
+|lang=cn
+|color=#BC1717
+|image=https://if-backrooms.wdfiles.com/local--files/level-if-79/E
+|sd-symbol=#0000000
+|one=不安全不稳定
+|two=致命腐败威胁
+|three=实体数量稳定
+]]
+@@@@
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[div class="darkblock"]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
+[[module css]]
+.flashing h1 {
+  animation: flashing 1s infinite;
+}
+
+@keyframes flashing {
+  0% { opacity: 100% }
+  50% { opacity: 0% }
+  100% { opacity: 100% }
+}
+[[/module]]
+[[div class="flashing"]]
++ 警告
+[[/div]]
+
+由于**Level IF-79**的危险性，请务必不要进入该层级。
+
+++ 关键信息：
+
+本层级的出口皆较为危险，若您想找到安全出口，请一直向前走入深渊——尽管这样很可能当场丧命，但请尽可能按照文档的出口寻路。
+[[include :scpsandboxcn:inc:fakeprot |name=点击输入文字]]
+
+[[div class="collapsiblealt"]]
+[[collapsible show="登记" hide="注销"]]
+
+感谢您的配合，我们为您献上最后的敬意，愿您如愿抵达终点，祝你好运。
+
+[[/collapsible]]
+[[/div]]
+
+
+[[div class="signblock-img"]]
+[[image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo]]
+[[/div]]
+[[span class="signblock-footer"]]M.E.G. — 为了人类的明天[[/span]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+
+**Level IF-79**是后室IF层群的第79层，由一扇古代木门之后的无垠腐败构成。
+[[include component:image-block
+    name=https://if-backrooms.wdfiles.com/local--files/level-if-79/Level-s-225-1|
+    caption=**Level IF-79**的一个显著入口
+]]
+[[div class="darkblock"]]
++ **描述：**
+如上所述，**Level IF-79**由未勘探出长度的腐败走廊构成，其类似于通往地窖的走廊，走廊宽度大约为2~3米左右，这些长廊组成了该层级的全部。
+该层级的入口由一扇老旧木门组成，一旦打开木门，流浪者便会因为未知力量而被拉入其中[[footnote]] 因为接近时会被直接拉入木门，我们尚不知晓木门内部是什么样子 [[/footnote]]，最终进入层级内部。
+
+++ 内部
+
+该层级内部为非欧几里得空间，环境极其破败，散发着霉味的走廊令人作呕，走廊的一些地方出现了奇怪的倾斜，足以使流浪者难以行走在上面，走廊中还可能有杂物堆积，这些杂物中甚至可能有易燃物[[footnote]]这些易燃物极其容易引燃，但却无法对层级造成任何破坏，目前尚不知晓原因[[/footnote]]。流浪者在经过杂物时应万分小心，防止因此丢失性命。
+
+层级内部不存在任何Wi-Fi信号。
+[[include component:image-block
+    name=https://if-backrooms.wdfiles.com/local--files/level-if-79/S-225-2|
+    caption=**Level IF-79**中较为明亮的走廊
+]]
+
+层级走廊的照明严重不足，部分区域异常的黑暗，建议流浪者在黑暗的区域时刻警惕天花板，目前收到各种报告皆称黑暗区域的走廊天花板极其的不牢固，易发生突然坍塌或掉落。
+地板也是层级中的一大危险，走廊地板随时可能塌陷，这也是该层级臭名昭著的原因之一，一些走廊的地板看似完好，实则是陷阱，一旦流浪者踩上这些地板，便将直接坠入无尽的虚空之中，永无逃出之日。
+
+++ **实体**
+目前已探出层级内存在[[[https://backrooms-wiki-cn.wikidot.com/entity-5|肢团]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-10|窃皮者]]]等实体，在“集体熄灯”事件中还可能出现[[[https://backrooms-wiki-cn.wikidot.com/entity-3|笑魇]]]，但有报告称有流浪者看到了未知的人影，这些人影在看到后随即消失于黑暗之中。由于层级环境的危险性，我们尚不知层级内是否可能存在其他实体。
+[[div class="flashing"]]
++ 最新报告
+[[/div]]
+
+@@@@
+[[collapsible show="查看" hide="关闭"]]
+@@@@
+@@@@
+[[include :backroomssandboxcn:kai4c:concord
+|number=暂定
+|habitat=Level IF-79
+|goi-specification=B+
+|danger=3
+|intel=D+
+|sin=X
+|class=未知种类
+|other-spec=X [!-- 本行用于自定义，通常无需改变 --]
+|properties=AGR UNQ
+|properties-hazard=X
+]]
+
+
+++ “腐败”
+“腐败”是对层级内部出现的腐化现象的总称，目前尚认为“腐败”是一种实体，“腐败”遍布于层级的走廊之中，“腐败”所腐蚀的地方[[footnote]] 包括墙壁、天花板和地板 [[/footnote]]都会变得脆弱，易发生坍塌。目前已证明“腐败”对人是极其危险的，其足以腐蚀人体表面的皮肤，产生灼烧感，严重时足以致命，目前防护服对“腐败”也没有效果。
+“腐败”的外表类似于泥浆，建议流浪者自行分辨其外表，并防止接触“腐败”。
+[[/collapsible]]
+
+@@@@
+@@@@
+@@@@
+
+++++ 目前层级中探明的两种现象
+
+@@@@
+[[tabview]]
+[[tab “集体熄灯”事件]]
+顾名思义，“集体熄灯”事件会使流浪者周围的灯光全部熄灭，任何能发光的物品、实体都会瞬间失效。在灯光熄灭后，流浪者所处的位置的天花板或地板可能直接坍塌。“集体熄灯”事件的长度约3-7分钟左右，此后，灯光将再次亮起，这代表“集体熄灯”事件结束。
+[[/tab]]
+[[tab “腐败镜头”事件]]
+此事件通常发生于离入口处大于等于约2km的位置，事件发生时，周围的走廊将更加的破旧，而流浪者所看到的视线将被扭曲[[footnote]]包括摄像机等拍摄工具[[/footnote]]，此事件通常在结束后引起地震，霎时，整个走廊将“摇摇晃晃”，但并未有实际损坏。事件长度目前尚无测得。
+[[collapsible show="前方是无尽的长廊" hide="你应该回头"]]
+--你不能回头--
+[[/collapsible]]
+
+[[/tab]]
+[[/tabview]]
+
+[[/div]]
+@@@@
+@@@@
+@@@@
++ **基地，前哨和社区**
+该层级不存在已知的基地、前哨和社区。
+@@@@
+@@@@
+@@@@
+
+------
+
+@@@@
+[[div class="darkblock"]]
++ **层级探索记录**
+
+[[collapsible show="展开Level IF-79的探索记录" hide="收起Level IF-79的探索记录"]]
+
++++++ [记录开始]
+
+沁泞：“呼，怎么还没到尽头啊，我明明听说这层是有尽头的啊”
+
+[[include component:image-block
+    name=https://if-backrooms.wdfiles.com/local--files/level-if-79/S-225-3|
+    caption=腐败的深渊
+]]
+
+......
+
+沁泞：“这地方可太危险了，希望我能快点找到出口，我好像有点幻听了，我不知道，那些声音听起来真是令人毛骨悚然。我把这里的景象拍下来，希望你们能看得到”
+
+......
+
+沁泞：“这里的气味很让我作呕，我已经走了多久了？出口......，我想知道，出口到底在哪”
+......（推测这时已经走到了离入口9km处）
+
+沁泞：“你们能听见我说话吗，这是我最后的话语了。警告你们，千万不要进入这个该死的地狱，不要相信那木门，更不要打开，我希望我能找到出口，但黑暗，无穷无尽的黑暗，浇灭了我的希望，如果你们能听到的话，请转告给M.E.G.的监督者们，速速封锁这个该死层级的入口。
+
+我希望我能找到尽头，但事与违愿，我已无法回头，再见了各位，祝我好运。”
+......
+
+
++++++ [记录结束]
+
+[[/collapsible]]
+
+
+该录音带被发现于层级入口处不远[[footnote]]可能是由于层级非欧几里得空间的性质[[/footnote]]，沁泞已被认定为**死亡**，死因可能是天花板掉落。
+
+[[/div]]
+@@@@
+
+------
+
+@@@@
+@@@@
++ **入口和出口**
+
+++++ 入口
+* 在任何城市层级发现一扇与周围景象格格不入的木门，打开后将进入**Level IF-79**。
+++++ 出口
+* 原路返回将进入[[[https://if-backrooms.wikidot.com/level-if-171|Level IF-171]]]。
+* 在走廊中发现一些类似于居民楼中的门，打开这些门会进入[[[Level IF-276]]]。
+* 进入一个通风管道可能切入[[[Level IF-70]]]（概率极低）。
+* 若周围的墙壁突然变为猩红色，则切入[[[https://if-backrooms.wikidot.com/level-if-279|Level IF-279]]]。
+* 掉入走廊的洞中会进入[[[Level IF-28]]]
+* 在“集体熄灯”事件中切出会到达[[[Level IF-219]]]
+
+[[=]]
+[[collapsible show="倘若一直向前" hide="腐败更加严重"]]
+你不应该回头吗？
+[[/collapsible]]
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+[[collapsible show="但是......" hide="天无绝人之路..."]]
+[[/collapsible]]
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+
+
+
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+
+
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+
+@@@@
+[[collapsible show="那是什么...？" hide="一束光？"]]
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-79/S-225-4]]
+[[=]]
++++ 出口...？
+[[/=]]
+[[/collapsible]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+
+@@@@
+
+
+
+@@@@
+@@@@
+
+
+@@@@
+@@@@
+
+@@@@
+[[collapsible show="你得救了" hide="你睁开眼"]]
+
+[[image https://backrooms-wiki.wdfiles.com/local--files/level-0/OGLevel0.jpg]]
+
+
+[[[https://backrooms-wiki-cn.wikidot.com/level-0|结束了······]]]
+[[/collapsible]]
+@@@@
+[[/=]]
+------
+[[=]]
+<< [[[Level IF-78]]] | Level IF-79 | [[[Level IF-80]]] >>
+[[/=]]
+
+[[=]]
+[[collapsible show="走廊深处会有什么呢......？" hide="是作者"]]
+作者：[[*user PVZ-Backrooms]]
+多站投
+图像来源链接：
+图片1：https://www.pexels.com/zh-cn/photo/17115609/
+图片2：https://www.pexels.com/zh-cn/photo/16723161/
+图片3：https://www.pexels.com/zh-cn/photo/2570427/
+遵守CC BY-SA 3.0协议
+[[/collapsible]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="footer-wikiwalk-nav"]]
+[[/=]]
+[[/div]]

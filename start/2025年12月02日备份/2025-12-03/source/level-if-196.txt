@@ -1,0 +1,344 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "后室观测极点";
+   --header-subtitle: "建造与发展";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-196**是后室IF层群的第196层。
++ **描述**
+[[include component:image-block
+ |name=https://cdn.pixabay.com/photo/2019/06/22/20/16/radio-4292411_1280.jpg
+ |caption=**Level IF-196** 的录音室。
+]]
+[[include component:image-block
+ |name=https://cdn.pixabay.com/photo/2023/02/17/20/42/radio-city-tower-7796890_1280.jpg
+ |caption=**Level IF-196** 在[[[Level IF-3]]]中的样式。
+]]
+[[include component:image-block
+ |name=https://cdn.pixabay.com/photo/2015/04/27/16/46/radio-742266_1280.jpg
+ |caption=[[[Level IF-3]]]中的**Level IF-196** 广播站，该广播站建立于1926年。
+]]
+[[include component:image-block
+ |name=https://cdn.pixabay.com/photo/2025/01/08/16/10/hamburg-9319538_1280.jpg
+ |caption=**Level IF-196** 在[[[Level IF-19]]]中的样式。
+]]
+Level IF-196类似于一座高塔，高塔下窄上宽，高塔下半部分有着铁柱支撑。Level IF-196大多数时候位于其他大型层级之内，与[[[Level IF-82]]]类似，但Level IF-196仍可算作一个独立的层级，对层级使用层级密钥和GPS[[footnote]]GPS在此层级可以使用并且可以显示层级名称[[/footnote]]的结果均为Level IF-196。高塔外壳为铁制，表面有着些许油漆的涂鸦，这些涂鸦在层级表面随机生成，内容大多为简单样式的英文字母，对这些涂鸦的清理均无效。
+
+Level IF-196虽极其稳定，但内部的结构较为复杂，在进入时，流浪者通常可见一旁的墙面挂有一层级地图，层级地图上标注了每个区域的位置，层级地图上的文字会显示为该流浪者的母语，若两个及以上流浪者查看层级地图，层级地图会同时标注所有流浪者的母语，若该流浪者并没有准确母语或者没有学习过语言则上面显示为简单易懂的图像。层级地图常常刷新在层级之内，位置不固定，流浪者可以快速地找到这些层级地图。
+
+Level IF-196外壳的样式不固定，通常Level IF-196外壳的装饰会随着环境而变化，尽量贴合其他层级的建筑样式，若其他层级没有明显的建筑则为纯黑色。Level IF-196有时会嵌入其他层级之中，嵌入的层级通常为大型的室内层级，嵌入时外壳也会尽量与其他的层级保持一致。Level IF-196虽然是一个层级个体，但却不断在其他层级之中移动，这种移动通常是缓慢的，肉眼难以观察到Level IF-196的移动，Level IF-196会在一个合适的时机从一个层级切出到另一个层级之中。
+
+Level IF-196内部通常极为混乱，所有物品杂乱地放置在楼道之中，包括电线、录音机，走廊整体明亮，墙壁上写着层级守则，层级守则由进入此层级的人撰写，大致内容如下：
+* 不要试图破坏层级
+* 不要发出巨大声响
+* 不要移动任何杂乱的物品
+* 层级中的食品可以任意食用
+* 禁止在层级中打闹
+* 非工作人员不进入录音室
+
+Level IF-196的大部分区域为休息区，休息区内有着少许可以食用的食物，这些食物使用纸盒包装，纸盒来自于[[[Level IF-198]]]，休息区内往往留有油漆刚刚粉刷后的气味，休息区内部有着少许桌椅，休息区里有着大量人员，其中大部分为休息的工作人员，工作人员分为播报员、信息传输员和后勤人员，工作人员通常工作3～6小时，其余时间休息，B.O.P.运输了少许娱乐用品到此层级。
+
+Level IF-196的录音室内极度安静，与外部使用磨砂玻璃隔开，获得许可的流浪者可进入录音室内参观，录音室里有着大量录音设备，其中很大一部分为备用设备，麦克风和电台主机固定在桌上。大多数录音室在一旁有着放置草稿纸的木桌和放置磁带的磁带墙，木桌格外洁净，桌面上放着几只圆珠笔。磁带墙由木柜组成，里面装满来自各个层级的讯息，以及歌曲，歌曲条目大多来自于[[[Level IF-27]]]，不过这些音乐已无害化，不会产生其余的特殊效应。录音室可与其他层级相联络，内部搭载了AI，AI可实时转录音频并输出识别出来的文字。
+
++ **基地、前哨与社区**
+++ B.O.P.广播电台
+B.O.P.广播电台位于Level IF-196中心，其控制器向外不断延伸，大部分人员都来自于此社区，B.O.P.广播电台并没有一个领袖，大部分聚集者都选择在社区内部生存，他们喜欢搜集来自于其他层级的信息，归类摆放，然后再找社区里的播报员来播报信息，他们不会播报有害信息，播报的信息会来到各个已建立广播站的层级之内，这些层级大多是安全层级，目前广播站仍在建立之中。
++ **入口与出口**
+++++++ 入口
+* 在任何层级打开一个标有“B.O.P.”的收音机都有可能来到此层级
+++++++ 出口
+* 从层级正门离开[[[Level IF-3]]]、[[[Level IF-4]]]、[[[Level IF-19]]]、[[[Level IF-69]]]、[[[Level IF-198]]]、[[[Level IF-199]]]中的任意层级
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+图源
+https://cdn.pixabay.com/photo/2019/06/22/20/16/radio-4292411_1280.jpg
+https://cdn.pixabay.com/photo/2023/02/17/20/42/radio-city-tower-7796890_1280.jpg
+https://cdn.pixabay.com/photo/2015/04/27/16/46/radio-742266_1280.jpg
+https://cdn.pixabay.com/photo/2025/01/08/16/10/hamburg-9319538_1280.jpg
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-195]]] | Level IF-196 | [[[Level IF-197]]] >>
+[[/=]]
+[[/div]]

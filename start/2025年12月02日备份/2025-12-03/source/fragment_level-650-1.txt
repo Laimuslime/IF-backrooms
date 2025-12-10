@@ -1,0 +1,146 @@
+[[include :backroomssandboxcn:theme:boveta]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=首都
+|color=#800009
+|image=https://backrooms-wiki.wikidot.com/local--files/theme:boveta/capital
+|one=波维塔中央政府
+|two=高度完善的基础设施
+|three=国家核心
+]]
+Level 650 是波维塔共和国的首都，以传说中统一后室的国家命名。
+
+[[include component:image-block
+|name=http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/Flag
+|caption=波维塔共和国的旗帜
+|align=right
+]]
+
++ **描述**
+Level 650 呈现为一座建于森林中央的现代城市，其是波维塔共和国的首都。这座城市的规划深受 [[[Level 11 | Level 11]]] 的启发，其间互相垂直的道路构成了网格状的系统。波维塔的设计旨在对标[[[ The Frontrooms |前厅]]]的生活标准，许多情况下甚至要优于该标准。
+
++++ 地理环境
+对于层级本身所知甚少。在波维塔兴建前，本层级完全被一片辽阔的森林所占，平原与山区皆有存在。如今，波维塔城占据了层级的主要区域[[footnote]]即层级所有已知入口通往的区域。[[/footnote]]，而森林占据了层级的余下区域。
+
++++ 历史
+波维塔共和国由威尔逊·波廷格总统于 2022 年 5 月 4 日建立。他和他的小队最初试图通过[[[Level 906 |天鹅座档案馆]]]中的文本寻找波维塔国，但却反而找到了一片森林；他并未离开，而是建立了波维塔共和国。
+
+成立后不久，后室大众对波维塔的成功心存怀疑。正因如此，该国的人口增长主要由其他被主要团体驱逐的人构成。多数团体对其成员忽视而不人道的对待致使许多人选择移民至波维塔，因为该地的执政机构尊重其公民。
+
+2022 年 8 月，首批政府大楼竣工，这是国家发展的重要一步。政府大楼的兴建并不轻松；人口仅有 500，政府大楼的兴建需要大量的智谋。我们领导的优秀计划以及该项目史无前例的高效皆表明，波维塔人民是无可阻挡的。在该项目成功完成后，选择移民波维塔的人数呈指数级增长，该城于 2023 年人口达到 5000，2025 年人口达到 8000。
+
++++ 城中心
+城中心是波维塔的核心。该地有着所有最为重要的建筑（例如总统府）、各政府部门的办公室，以及波维塔议会。此外，城中心同样带有一处大经济区，该区域始终是波维塔经济的核心所在。
+
++++ 居住区
+威尔逊·波廷格总统于 2022 年 7 月宣布，波维塔共和国必须为每位居民提供住所。随后，波维塔市委会规划在市中心旁兴建公共住房，首批 5 栋于 2023 年 7 月竣工，另有 5 栋于 2024 年 7 月完工。本国令人惊叹的奋斗精神让该项目提前一个月完成。截止今日，波维塔共和国会为每户家庭提供一套免费公寓，这使其成为比在 Level 11 购房更优越的选择。
+
++++ 交通方式
+波维塔的交通方式多为徒步，因为在后室中汽车较为罕见。波维塔城市规划师已在该市中设计了复杂的道路布局，使得无论在何种条件下，通行都十分便捷。古德温工业公司近来对 Level 902 采取的方案正迅速将公交车引入波维塔，他们还计划将私人汽车的价格降低至所有市民都能承受的范围。
+
+跨层级物流对于该城的发展而言始终是重中之重，因为许多建筑材料皆是从外部采买而来。因此，波维塔城市规划师在 2023 年物流项目建成连接所有已知层级出口的道路后，已将跨层级物流的便利性提升至极致。尽管在所有的已知出入口处都设有海关办公室，波维塔海关部门却仍将进出波维塔的流程变得十分高效简便，寻常市民只需 2 分钟便能完成。市民们常常在波维塔之外度过休息日与假日。此外，海关部门还极大地简化了货物的检查流程，货物通过海关检查的平均时间仅为 10 分钟。跨层级物流的优化在波维塔的发展中起到了重要作用——它不仅使物资能够快速运输，还让移民到波维塔变得十分简单。
+
++++ 经济
+波维塔共和国的经济是一种混合经济，政府可在任何时间对市场进行干涉，但多数时候都选择不干预。目前经济发展迅速，每个季度的经济增长率都为 5%。波维塔的货币为波维塔元（ℬ），波维塔中心银行设定器价值等同于 32 毫升的[[[Object 18 |寂静汁液]]]。2023 年，威尔逊·波廷格总统宣布波维塔共和国应专注于发展科技产业。不久之后，政府向科技企业发放了补贴，此后波维塔地区的小型科技企业数量有所增加，同时还有众多科学家和工程师来到波维塔开始他们的项目。
+
+波维塔的劳动力主要由次级产业工人构成。由于波维塔快速的城市化发展，最为常见的职业便是建筑业，其次是建造业与物流业。波维塔政府将公民的健康置于首要地位；因此，在 2022 年 12 月，劳动部门通过了劳工安全法案，其划定了严苛的安全标准，并规定每日最长工作时间为 8 小时，每周最多工作 5 天。[[footnote]]公营及私营机构皆适用。[[/footnote]]得益于这些规章制度，自波维塔建立以来还没有一起与工作相关的死亡事故。
+
+@@@@
+@@@@
+
+[[tabview]]
+
+[[tab 山脉]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/mountain]]
+[[/tab]]
+[[tab 新建道路]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/road]]
+[[/tab]]
+[[tab 波维塔的运河]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/canal]]
+[[/tab]]
+[[tab 层级中的夜空]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/sky]]
+[[/tab]]
+[[tab 一处公寓的内部]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/apartment]]
+[[/tab]]
+[[tab 运往波维塔的袋装水泥]]
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/neptunium-7-offset-1/cement]]
+[[/tab]]
+[[/tabview]]
++ **基地、前哨与社区**
+
++++ 波维塔共和国
+
+本层级是波维塔共和国的首都。该国旨在建立一个统一的后室政府，以实现更长远、更协调的全局治理。虽然其他团体也曾尝试过类似的举措，但至今还没有任何团体能达到波维塔共和国那样的高度集中和协调水平。愿意成为公民者，或是想要获取签证访问波维塔的人，都可以在我们位于主要层级中的海关办公室进行登记。
+
++++ B.N.T.G. 办公所
+
+2024 年 9 月，B.N.T.G. 与波维塔政府建立了贸易协定，这导致波维塔中出现了第一栋非波维塔政府的办公所。这一交易是波维塔历史上的一个关键时刻，因其代表着其他组织对于国家成功的认可。目前，该办公所管理着一切 B.N.T.G. 与波维塔共和国间的交易。
+
++ **入口与出口**
+
+++++ 入口
+
+* 在 [[[Level 11 |Level 11]]] 中进入森林会让你切入层级的边检区域。
+* 在 [[[Level 8 |Level 8]]]中找到带有植被的区域便可抵达这里。
+* 在 [[[Level 848 |Level 848]]] 中切入一个纸质木桩会来到这里。
+* [[[Level 140 |Level 140]]] 的一棵橡木中有一个通往这里的活板门。
+
+++++ 出口
+
+* 走到层级边界之外会通往 [[[Level 39 |Level 39]]]。
+* 树林中存在一处通往 [[[Level 11 |Level 11]]] 的地堡，有一条路通往该地堡。
+* 乘坐位于树中的一座电梯可通往 [[[Level 1 |Level 1]]]。
+* 在晚上走入树林深处，直到你在星空中找到一块暗斑，此时切入一棵树会通往 [[[Level 288 |Level 288]]]。
+
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 649]]] | Level 650 | [[[Level 651]]] >>
+[[/=]]
+[[/div]]
+[[>]]
+[[collapsible show="展示作者" hide="隐藏作者"]]
+~ [[*user neptunium153]]
+感谢：
+~ [[*user InspectingCritters]]
+~ [[*user PrismaticMoose]]
+的评判。
+[[/collapsible]]
+
+[[collapsible show="展示译者" hide="隐藏译者"]]
+~ [[*user ThEndlessRain]]
+[[/collapsible]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=neptunium153
+]]
+=====
+> **图像名称：** 沃尔萨尔运河
+> **图像作者：** Elliott Brown
+> **授权协议：** CC BY-SA 2.0
+> **来源链接：** https://www.flickr.com/photos/ell-r-brown/24673212648
+
+> **图像名称：** 枫树之上的夜空
+> **图像作者：** Mmfgh
+> **授权协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Night_Sky_Over_the_Maple_Trees.jpg
+
+> **图像名称：** 法属圭亚那，通往卡瓦的 D 6 道路
+> **图像作者：** Cayambe
+> **授权协议：** CC BY-SA 3.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Guyane_route_de_Kaw_D_6.jpg
+
+> **图像名称：** 河畔广场 2014-08-26 - 公寓内饰 1
+> **图像作者：** August Schwerdfeger
+> **授权协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Riverside_Plaza_2014-08-26_-_apartment_interior_1.jpg
+
+> **图像名称：** 混凝土 02（经剪裁）
+> **图像作者：** Szlomo Lejb
+> **授权协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Cement_02_(cropped).jpg
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

@@ -1,0 +1,134 @@
+[[include :backrooms-wiki-cn:theme:basalt]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=总部
+|color=#44cef6
+|image=http://if-sandbox.wikidot.com/local--files/secret:pictures/house.png
+|one=极度安全
+|two=空间稳定
+|three=人员集中
+]]
+**Level IF-198**是后室IF层群的第198层。
++ **描述**
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-1
+ |caption=**Level IF-198** 进入内部的入口。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-2
+ |caption=**Level IF-198** 的沙袋。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-3
+ |caption=**Level IF-198** 集中的储存罐。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-4
+ |caption=**Level IF-198** 的一条走廊。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-5
+ |caption=**Level IF-198** 的另一条走廊。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-6
+ |caption=**Level IF-198** 的外部区域。
+]]
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-198-7
+ |caption=**Level IF-198** 中正在工作的机器人。
+]]
+Level IF-198类似于一个巨大的半开放式仓库，仓库外体以铁墙与混凝土包裹，有一个大门和若干小门通往仓库的内部。Level IF-198的外开放部分包含有若干小仓库，小仓库的铁制墙刷上了统一的颜色，小仓库的卷帘门需要被B.O.P.保管的储存钥匙打开。
+
+Level IF-198的外部天气十分稳定，天气始终以5晴朗1多云2雨1雪的规律循环变化，Level IF-198内的自然光来源尚不明确，层级中存在季节变化，但变化较小，在季节变化时层级会陷入短暂的阴天，随后产生昼夜长度和层级内温度的变化。
+
+Level IF-198的外部为一片被丛林包裹的水泥地，进入外部区域的丛林会使你进入一个随机的丛林层级，水泥地浇筑时间未知，水泥地上残存部分浇筑与脚印的痕迹，水泥地上有时会刷新少许金属碎片或塑料袋，在水泥地上刷新的金属碎片极其尖锐，反光极强，塑料袋大部分为黑色且极其易燃。Level IF-198的外部稳定性强，虽然迄今为止仍然有被新勘探的区域，但层级结构始终保持着不变。
+
+Level IF-198的内部极其巨大，在粗略的估算下大约高50m+，虽然在外部看上去，仓库的整体结构看起来不过普通工厂大小，但其内部大小大到难以计算，且仍然未被探索殆尽。Level IF-198的内部类似于一个仓库的综合体，包括随处可见照明灯，放置沙袋的空旷房间和置物架。Level IF-198内部时常刷新一些工具或物资，这些物品通常实用性较强，且容易被发现，一些还常常成群或大把的出现，有些物资则是发生了重叠现象，类似于两个物品的结构同时卡在了一起。
+
+Level IF-198内部放置着大量的储存罐，这些储存罐内放置物品各不相同，这些储存罐由铁制成，连接着大量管道以运输到层级的其他未知，这些储存罐上标注有数字，这些储存罐包含一个可以往里面放置物品的孔洞。层级内部的储存罐大部分聚集在一个位置，外侧建有大量围栏。
+
+Level IF-198的天花板充满着钢筋和白炽灯的连接体，以一种有序的方式排列着，源源不断地为内部照明，Level IF-198内部的地板或是由铁制成，或是水泥或橡胶制成，光滑度较低。Level IF-198内部的物品传送带极为常见，这些物品传送带通常与路面平行，且这些物品传送带可以在极短的时间内将物品完好的送到极远的区域。
+
+Level IF-198的照明灯通常发出白光或绿光，这些照明灯通常形状较长，部分下方接有支架，放置于内部路面以照明，部分存在有特殊结构，可以直接卡在墙壁上，与其对应的是，内部的墙壁中部分开有凹槽，照明灯可以直接卡入其中开始照明，且不需要任何能源来源。
+
+Level IF-198内的沙袋内装有较散物品，这些沙袋颜色棕黄，由布料制作而成，口子处以布绳封口上面标有内部的物品名称，但有时，这些沙袋内的物品也可能并不与标签重合。沙袋总是均匀地排列在一起，沙袋内的物品有以下几类：
+* 沙子
+* 面粉
+* 淀粉
+* 化学物质的粉末
+* 碎石头的渣滓
+
+Level IF-198内的置物架为黑色，上面标有物品标签，置物架上放有物品包裹 这些包裹大多为层级内自然生成，少部分为人为制造，这些包裹上仅仅标注了物品与价格，包裹上的白色标签使用紫外线扫描后呈现“198”字样。Level IF-198内的大量塑料垃圾会经过物品传送带来到一个回收站，回收站可以通过改变物品结构的方式使废弃的塑料得到重复加工，在之后，这些被二次加工的塑料会变成层级内新生成的包裹的包装袋或是Level IF-198外部的塑料袋。Level IF-198内存在大量可以接入系统的自动化机器，这些机器已经完全接入B.O.P.的自动网络，在[[[Level IF-199]]]内进行监视与下达指令。这些机器已被证实与[[[Level IF-33]]]中的修理机器人来自同一流水线上。
+> + B.O.P.的成立
+> **（Hydrogen和Helium切入Level IF-198）**
+>  
+>  **Hydrogen**：这就是那个[[[Level IF-199]]]了？
+>  
+> **Helium**：不太像，那些天文学家怎么样也不会把仓库说成白色高塔的。
+>  
+> **Hydrogen**：呃等一下，所以我们现在去哪。
+>  
+> **Helium**：就先待在这呗，看起来这个层级没什么危险源。
+>  
+> **Hydrogen**：哪我们还是先找个能建基地的地方。
+>  
+> **Helium**：建基地干什么。
+>  
+> **Hydrogen**：要不要一起搞个组织，我从其他地方搞到的消息这里能观测其他层级。
+>  
+> **Helium**：看看我们这个基地怎么样再说吧…
+>  
+> **Hydrogen**：没事，至少还有很多物资对吧。
+>  
+> **Helium**：早知道不跟你来这了。
+>  
+> **Hydrogen**：先看着办吧，现在还不知道出口在哪。**（拿起地上的螺丝刀和钳子）**
+> 
+> **（几天后）**
+>  
+> **Helium**：这里东西真是有够多的，地上还有一张地图，我看看。**（拾起地图）**
+>  
+> **Hydrogen**：这是[[[Level IF-199]]]地图？编写者：Cole和Lyn。
+>  
+> **Helium**：我就说嘛，这里不可能是那群人建基地的地方。
+>  
+> **Hydrogen**：**（望着源源不断来往的人员）**还是先转移吧。
++ **基地、前哨与社区**
+++ B.O.P.旧基地
+* 由Hydrogen和Helium建立
+* 于几天后转移至[[[Level IF-199]]]
+* 部分成员仍留在此层级
+* 由3000个集装箱组装而成
+++ 送货上门
+* 一个获得大部分废弃无人机的小团体
+* 欢迎任何人与其交易
+* 人员中等
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-199]]]切出可以到达此层级。
+++++++ 出口
+* 在外部切出可以来到[[[Level IF-3]]]
+* 进入外部区域的丛林会使你进入一个的随机丛林层级。
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+图源：
+https://pixabay.com/zh/photos/door-facade-warehouse-stairs-7921956/
+https://pixabay.com/zh/photos/sacks-stacks-storage-stock-texture-1836329/
+https://pixabay.com/zh/photos/silos-warehouse-storage-8253284/
+https://pixabay.com/zh/photos/store-stacks-shelves-stock-5619201/
+https://pixabay.com/zh/photos/archive-boxes-shelf-folders-1850170/
+https://pixabay.com/zh/photos/storage-warehouse-storage-warehouse-1553550/
+https://pixabay.com/zh/photos/high-level-rack-warehouse-range-408222/
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-197]]] | Level IF-198 | [[[Level IF-199]]] >>
+[[/=]]
+[[/div]]

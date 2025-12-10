@@ -1,0 +1,108 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module css]]
+:root{
+   --logo-image: url("http://if-backrooms.wikidot.com/local--files/level-if-203/1");
+[[/module]]
+[[include component:level-class
+|lang=cn
+|class=宜居
+|one=安全且稳定
+|two=可持续社区
+|three=实体无危害
+]]
+
+**Level IF-203**是后室IF层群的第203层。
+
++ **描述**
+
+**Level IF-203**是一片连绵的山丘，其面积暂未探明。本层级内遍地是梅花树，树上开满了梅花。本层级梅花树上的梅花不会自然掉落，只有在外力剧烈晃动梅花树时才会掉落，本层级的梅花在三天左右会重新生长。
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-203/1
+ |caption=**Level IF-203**的一角
+]]
+
+**Level IF-203**的昼夜变化与前厅类似，温度在适宜的26°C左右。**Level IF-203**会随机的刷新一些物资，如[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、[https://backrooms-wiki-cn.wikidot.com/object-5 糖果]、[https://backrooms-wiki-cn.wikidot.com/object-28 幸运豆奶]、[https://backrooms-wiki-cn.wikidot.com/object-c-1 罐装龙肉]等，因此，流浪者可以居住在**Level IF-203**
+
+**Level IF-203**中会随机的出现一些中式小亭，流浪者在亭子中会不由自主的想起[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]中的江南水乡风光，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]已确认这是**Level IF-203**中一种无害的精神危害
+
+**Level IF-203**中存在天气变化，每周会随机的下雨。并且**Level IF-203**中有着前厅中的**四季变化**，冬天时**Level IF-203**中的梅花会自然掉落，到“春天”时会自然生长回来。
+
++ **梦溪梦卡**
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-203/mcmk
+ |caption=**梦溪梦卡**一条支流的图片。
+]]
+
+**梦溪梦卡**是**Level IF-203**中的一个较为知名的地方。
+
+**梦溪梦卡**位于**Level IF-203**的中心，是**Level IF-203**中一个著名的旅游景点。**梦溪梦卡**是一条溪流，饮用此处的溪水会使人神清气爽，可以消除流浪者们的疲惫感。[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]以证明该水无害，可以放心饮用。
+
+**梦溪梦卡**流动时会发出叮咚的响声，当流浪者看到它时，可以根据水流流向前往**梦溪梦卡**的中部，这也是找到[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]前哨的一种方法。
+
+**梦溪梦卡**的中部是一片较大的湖，湖的周围布满了中式小亭，种满了梅花树。该湖浮力很大，流浪者不会沉入水中而淹死。此处会持续生成对流浪者有益的水，因此，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]前哨选择建立在这里。
+
++ **空猴**
+
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-203/kh
+ |caption=**空猴** 。
+]]
+**空猴**是**Level IF-203**中的一种独特的--实体--**动物**，这种猴子与[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]中的猴子十分相似，只不过这种猴子脾气很好，不会伤害流浪者[[footnote]]当流浪者对其做出过于过分的事情时，空猴会自保而对流浪者存在攻击性。[[/footnote]]
+
+如果流浪者对**空猴**投喂食物，**空猴**会示意流浪者跟着它，带流浪者寻找**梦溪梦卡**的支流。
+
+[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]将这种动物列入了保护名单中，如果流浪者伤害**空猴**，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]会对伤害者实施惩罚。
+
++ **基地、前哨和社区**
+
++++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]“calf”基地
+* 位于**梦溪梦卡**中央
+* 约1000人
+* 对流浪者友好，会带领流浪者离开**Level IF-203**，邀请流浪者加入[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]
+* 开放交易
+
++++ [https://backrooms-wiki-cn.wikidot.com/the-u-e-c The U.E.C.]“xuziqi”基地
+* 人数未知
+* 位置未知
+* 不欢迎流浪者加入，对流浪者敌对
+* **##red|“[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]提醒各位流浪者，如果遇到这个基地，请一定要远离。”##**
+
++++ 诗词爱好者
+* 约20人
+* 在**Level IF-203**中游荡
+* 对流浪者友好，欢迎流浪者加入他们
+* 会伤害不尊重诗词的流浪者
+
++ **入口和出口**
+
++++ 入口
+* 触摸梅花树有概率来到该层级
+* 在[https://backrooms-wiki-cn.wikidot.com/c1-memory 身凝箜篌]中切出有概率来到该层级
+* 在[[[Level IF-95]]]中触摸一副有关梅花的画会来到该层级
+
++++ 出口
+* 伤害空猴可能会来到[https://backrooms-wiki-cn.wikidot.com/c1-memory 身凝箜篌]
+* 切出本层级有概率来到[[[Level IF-95]]]
+------
+[[>]]
+[[collapsible show="没了么翁超牛逼" hide="烂文"]]
+**作者：**[[*user xie5]]
+[https://pixabay.com/photos/red-plum-pink-flower-spring-flowers-4625194/ 1]
+[http://brsandbox-mini.wikidot.com/local--files/level-fs-35/mcmk 2]
+猴子图片由[[*user Hinc_itur_ad_astra]]提供，遵循ccby协议
+[[*user Meilemeweng]]对不起!!!
+[[*user MCMK-1234]]对不起!!!
+[[*user qwertyuiop1000]]对不起!!!
+[[*user calf-0]]对不起!!!
+[[*user xuziqi]]对不起!!!
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-202]]] | Level IF-203 | [[[Level IF-204]]] >>
+[[/=]]
+[[/div]]

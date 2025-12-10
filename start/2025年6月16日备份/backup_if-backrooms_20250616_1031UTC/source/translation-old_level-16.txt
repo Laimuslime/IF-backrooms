@@ -1,0 +1,46 @@
+[[include :backrooms-to-dv:theme:old-theme]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+
+[[include component:image-block
+    name=Level16_cc.jpg|
+    caption=Level 16精神病院的厅房。
+]]
+
+**Level 16**是后室的第17层，由Reddit用户u/iNerdykiddo所发现。
+
++ **描述：**
+
+**Level 16**是一座亦称“J. Barry精神病院”的废弃精神病院。据目击者称，2003年5月12日，整座精神病院及其内部所有病患和工作人员毫无征兆地切入进后室，仿若“直接穿透地面，下方空无一物”。
+
+这座医院的设计风格明显属于2000年代初期特征（根据墙上的日历及可用设备判断）。休息室和接待区设有WiFi，而窗户极小概率是[[[entity-2|实体]]]。除此之外，栖息于该层级的所有实体基本上都是[[[entity-9|无面灵]]]或[[[entity-15|悲尸]]]。鉴于医院内绝大多数患者都处于精神错乱的状态，研究人员认为他们一旦进入后室便会立即转变为悲尸。
+
++ **据点与前哨**
+
++++ “医护人员”
+
+此是该层级仅存的约20名流浪者，包括医护人员和前台接待员。他们愿意交易医疗物资，且对陌生人态度友善。切勿询问医院的情况，那是一段极其惨痛的经历。
+
++ **入口与出口：**
+
+若深入[[[Level 14]]]过远，将会进入Level 16。此处没有可供离开的门，只需通过切出操作即可。
+
+------
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+此条目的原作者是Reddit用户u/Nerdykiddo4884
+由[[*user 1000dumplings]]重写
+由[[*user calf-0]]译就
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 15]]] | Level 16 | [[[Level 17]]] >>
+[[/=]]
+[[/div]]

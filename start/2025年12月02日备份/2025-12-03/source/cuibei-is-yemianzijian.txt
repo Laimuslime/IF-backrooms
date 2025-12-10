@@ -1,0 +1,1 @@
+[[include :backrooms-wiki-cn:component:author-page order=created_at]]

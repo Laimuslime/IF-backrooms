@@ -1,0 +1,245 @@
+[[include :backrooms-wiki-cn:component:interwiki-style
+| priority=1
+| type=sidebar
+| override=0
+]]
+
+[[iftags +版式]]
+
+此版式由[[*user MCMK-1234]]制作。
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-sandbox.wikidot.com/theme:backrooms-observation-pole]]@@
+
+[[/div]]
+
++ 示例
+
+[[include component:image-block
+name=https://if-backrooms.wdfiles.com/local--files/start/Logo
+caption=IF]]
+
+可通过四个连字符“@@----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+多么精巧绝伦。
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。我想知道为什么？这很奇怪。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+----
+
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkerblock";]]
+
+@@[[div class="darkerblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+-----
+
+[[/iftags]]
+[[div [[iftags -版式]]style="display: none;"[[/iftags]] ]]
+[[collapsible hideLocation="both" show="+ 版式代码" hide="- 收起"]]
+[[module css show="true"]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "foj-theme-modified";
+    --theme-name: "后室观测极点主题";
+ 
+    /* Header */
+    --header-title: "后室观测极点";
+    --header-subtitle: "建造与发展";
+ 
+    /* 浅蓝白色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 245, 249, 252;
+    --light-pale-gray-monochrome: 220, 238, 255;
+    --very-light-gray-monochrome: 235, 245, 255;
+    --light-gray-monochrome: 200, 220, 240;
+    --gray-monochrome: 180, 200, 220;
+    --dark-gray-monochrome: 150, 180, 210;
+    --black-monochrome: 50, 100, 150;
+    
+    /* 蓝色系配色 */
+    --pale-accent: 200, 230, 255;
+    --bright-accent: 100, 180, 255;
+    --medium-accent: 70, 150, 230;
+    --dark-accent: 40, 120, 200;
+    --alt-accent: 120, 190, 255;
+ 
+    /* 背景和头部颜色 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+ 
+    /* 主要主题颜色 */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 保持其余CSS规则不变，颜色会自动应用新的配色方案 */
+#page-title {
+    border-color: rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2.2rem;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+#header h2, #header h2 span {
+    font-size: 1.4rem;
+    color: rgb(var(--medium-accent));
+}
+
+/* 调整背景渐变使其更柔和 */
+body, #skrollr-body {
+    background-image:
+     linear-gradient(to top,
+       rgba(var(--header-gradient-color-bottom), 0.8) 0%,
+       rgba(var(--header-gradient-color-middle), 0.6) 50%,
+       rgba(var(--header-gradient-color-top), 0.4) 100%
+     ),
+     var(--gradient-background)!important;
+}
+
+/* 使块引用看起来像蓝色便签纸 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--bright-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+    text-decoration: none;
+    border-radius: 3px;
+}
+[[/module]]
+[[/collapsible]]
+[[/div]]

@@ -1,0 +1,46 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[html]
+[[include :backrooms-wiki-cn:component:plas
+|number=C-n
+|level=1
+|class=现象等级
+|area=现象区域
+|form=现象形式
+]]
+可选用以上演示的名为PLAS的组件，并按PLAS使用说明自定义修改。
+亦可选用PCS更方便的直接生成类似作用的PCS模块代码。
+
+**现象编号：**C-n
+**影响位置：**该现象发生的区域
+
++ **描述：**
+现象的整体描述。
+
++ **特征：**
+该现象最具特色的几点特征。例：
+* 特征1
+* 特征2
+
++ **应对方式：**
++++ **缓解：**
+* 方法
++++ **加剧：**
+* 方法
+（描述流浪者遭遇该现象时应有的应对方式。）
+
+------
+
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+此处添加作者信息，致谢等，以及所用图像（若有）图源链接。
+使用 [[*user 用户名]] 以标注作者名。
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+ << [[[Phenomenon C-n-1]]] | Phenomenon C-n | [[[Phenomenon C-n+1]]] >>
+[[/=]]
+[[/div]]

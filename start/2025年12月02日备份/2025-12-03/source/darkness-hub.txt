@@ -1,0 +1,443 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[include :backrooms-wiki:component:centered-title]]
+[[include :scp-wiki-cn:component:fade-in speed=1]]
+[[include :backrooms-wiki:theme:dark-liminal]]
+[[include :backrooms-wiki:component:centered-title]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@100;300;400;500;700;900&display=swap');
+
+:root {
+    --body-font: Inter, "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, "Noto Sans SC", "Noto Sans TC", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, "Noto Serif SC", "Noto Serif TC", Consolas, monaco, monospace;
+}
+[[/module]]
+[[module css]]
+
+}
+#page-title {
+    display: none;
+}
+
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+#header::before {
+   filter: brightness(0%) invert(100%);
+}
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 0.8) 85%, rgba(0, 0, 0, 0.8) 100%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+[[/module]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
+.kelly {
+    font-family: 'Kelly Slab', sans-serif;
+}
+.scp-image-caption {
+    box-shadow: 0px 0px 5px 5px #1e1e1e;
+}
+.scp-image-block.block-right {
+   box-shadow: 0px 0px 5px 5px #1e1e1e;
+}
+
+.scp-image-caption p{color: rgb(var(--newpage-color));
+}
+[[/module]]
+
+[[module css]]
+:root {
+   --newpage-color: 205, 204, 209;
+   --black-monochrome: 0, 0, 0;
+   --medium-accent: 0, 0, 0;
+   --dark-accent: 205, 204, 209;
+   --pale-accent: 205, 204, 209;
+
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--black-monochrome)) 0%,
+      rgba(var(--black-monochrome), 0.90) 100%
+   );
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+
+.printuser img.small {
+    display: flex;
+   -webkit-filter: grayscale(50%);
+   filter: grayscale(50%);
+}
+
+.boxbox{
+background-color: #1e1e1e;
+padding: 0.5rem 1rem 0.3rem 1rem;
+    width: 90%;
+    margin:auto;
+}
+.boxbox2{
+background-color: #1e1e1e;
+box-shadow: 0 0px 15px #1e1e1e;
+padding: 0.5rem 1rem 0.3rem 1rem;
+    width: 90%;
+    margin:auto;
+}
+.titleboxbox{
+  position: relative;
+  top: -1.6rem;
+  background-color: #272727;
+  border: solid 0.5rem #1e1e1e;
+  box-shadow: 0 0px 15px #1e1e1e;
+  color: rgb(var(--dark-accent));
+  padding: 0.25rem 1rem;
+  line-height: 0.1rem;
+  font-weight: bold;
+}
+.BDborderblock hr {
+    border-color: rgb(var(--dark-accent));
+    background-color: rgb(var(--dark-accent));
+}
+.BDborderblock {
+   background-color:#272727;   
+   border: solid 0.5rem #1e1e1e;
+   padding: 0.1rem 1rem;
+    width: 88.05%;
+    margin:auto;
+}
+.BDborderblock2 {
+   background-color:#272727;
+   box-shadow: 0 0px 7.5px #272727;
+   padding: 0.1rem 1rem;
+    width: 90%;
+    margin:auto;
+}
+.BDborderblock2 hr {
+    border-color: rgb(var(--dark-accent));
+    background-color: rgb(var(--dark-accent));
+}
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 100%;
+    margin:auto;
+}
+:is(div.image-block,div.scp-image-block) :is(.image-caption,.scp-image-caption) {
+    background-color: #272727;
+}
+#page-content .licensebox .collapsible-block-link {
+    color: rgb(var(--dark-accent));
+}
+#page-content .licensebox .collapsible-block-link:hover {
+    color: rgb(var(--dark-accent));
+}
+[[/module]]
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+.glitch {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+    --header-title: "The Backrooms";
+    --header-subtitle: "至暗时代、唯黑之世";
+}
+[[/module]]
+
+[[module css]]
+.weekblock{
+   color: black;
+   background-color: white;
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0rem;
+   border: 2px solid rgb(var(--medium-accent));
+   border-left: 8px solid rgb(var(--medium-accent));
+   position: relative;
+}
+
+
+.weekblock:hover {
+   cursor: hand;
+   cursor: pointer;
+   opacity: .7;
+   transform: translateX(30px);
+   transition: all 0.5s ease-in-out;
+}
+
+.weekblock a{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   text-decoration: none;
+   z-index: 10;
+   opacity: 0;
+}
+[[/module]]
+[[module css]]
+.achieve-wrap img {
+      min-width:5rem;
+       min-height:5rem;
+}
+[[/module]]
+[[=]]
+[[module rate]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+//**{{@@    @@有这么一个传说：支柱其实只是卑劣的神祇，只是靠着窃取的下等神——而真正纯真的神性种族，则是我们人类，是主最忠诚的信徒。但这有谁会信呢？直到......}}**//
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+//**{{@@    @@那场另神都害怕的大清洗再次降临。}}**//
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+------
+
+[[=image https://imgurl.diadi.cn/imgs/2025/08/8b688126d1ed7e29.jpg]]
+
+------
+@@@@
+@@@@
+++ 前言：
+{{@@    @@}}当人类才是真正具有神性的种族，而[[[https://backrooms-wiki-cn.wikidot.com/pantheon-hub|万神殿]]]只是一个卑劣的模仿者时，会产生怎样的故事呢？本设定就是围绕着这么一个故事，进行的各种各样的扩展所诞生的**「 世界观 」**，你只需要知道该设定基本以人类至上为主即可。
+
+@@@@
+
+{{@@    @@}}在后室中的万神殿设定，人类似乎都扮演着**”受难者“**、**”被迫害者“**、**”信徒“**，以各种杂七杂八的神明或强大实体为主。可笑的是——这反而是后室中最庞大的世界观之一。于是，我就想改变此现状，让人类文明翻身作主，就像[https://backrooms-wiki-cn.wikidot.com/the-iron-fist 那个只为弑神的疯子]一样。
+
+{{@@    @@}}设定的启发来自于我的一篇早期文章——[[[level-if-350|黑暗万丈之山]]]与我早期制作的一个OC（被称为**”G“**）和架空世界观的人类文明（即：[[[g-incarnation|Entity C-┃]]]），以下是这三个重要角色的的基本设定——
+
+
+[[div class="darkblock"]]
+
+
+[[=]]
++* **{{[[[level-if-350|黑暗万丈之山]]]}}**
+[[/=]]
+@@@@
+**黑暗万丈之山**是一个具有自我意识的危险层级，有那个最早出现的神明——**”G“**所创造，用于制造各种灾难的**”战争机器“**。祂曾给后室带来了一个不可磨灭的灾难，被支柱们称为：{{”黑暗大清洗“}}。这场灾难使得原本存在无数个的支柱现如今只剩下了 24 个，各种依赖于万神殿的实体绝迹。
+
+@@ @@
+
+[[/div]]
+
+[[div class="darkblock"]]
+
+
+[[=]]
++* **{{[[[g-incarnation|Entity IF-┃]]]}}**
+[[/=]]
+@@@@
+**Entity C-┃**在该设定中是最初的人类，你也可以叫祂——**”原型“（Prototype）**，该实体是”G“最早、最爱的造物，同时也是”G“**唯一的**化身。该设定中，支柱的力量来源于**Prototype**，他们运用了某种我们并不知道的方法窃取了**Prototype**的所有力量，失去力量后就退化成了我们所熟知的人类。
+@@ @@
+@@ @@
+[[/div]]
+
+[[div class="darkblock"]]
+
+
+[[=]]
++* **{{G}}**
+[[/=]]
+@@@@
+**G**是本系列中最神秘的存在，据传：祂是最早的神、祂是整个世界、祂是万物的原本......但祂真正的身份究竟如何，我们无从而知——但可以确认的是，祂是**支柱**最害怕的存在。在本系列中，**基督教**中指的主正是**G**，而在设定中祂的所有孩子均属于未失去力量的**Prototype**。
+@@@@
+@@ @@
+@@ @@
+[[/div]]
+
+------
+
+++ 时间线：
+
+[[tabview]]
+[[tab 第一纪元：？？？]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
+++ ##red|[对不起，我不会让你知道这里有什么]##
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+------
+* 这是一个暂未被证实的纪元，传说这个纪元中包括了**G**与**Prototype**的诞生，以及包含了我们可能不知道的讯息。
+
+* 但我们仍然不确定这里有什么。
+
+------
+++ 与该阶段相关的作品
+[[/tab]]
+
+[[tab 第二纪元：Prototype的陨落与支柱的崛起]]
+* 在该纪元中，**支柱**利用了某种不为人知的手段窃取了**Prototype**的力量，使得这两个角色朝向了不同的方向发展。支柱首先创造了他们最初的三个化身，于是就发生了[https://backrooms-wiki-cn.wikidot.com/icarus-procidens 接下来的故事]。
+
+* 但与原万神殿故事不同的是，G发现了**Prototype**的力量被窃取，于是创造了[[[Level IF-350|黑暗万丈之山]]]给整个后室带来了一次惨无人绝的大清洗，除前厅以外的所有宇宙都被清洗，对”支柱“这个庞大的种族带来了不可磨灭的影响。
+
+* 于是，这段历史被支柱隐藏，那些在这个阶段中落入后室的人类也被抹除了这段记忆。
+
+------
+
+++ **与该设定相关的作品**
+[[div class="weekblock"]]
+
+*https://if-backrooms.wikidot.com/level-if-350
+
++ **至暗时代：黑暗万丈之山**
+**“黑暗万丈之山（The darkest era, a world of darkness）”**
+----
+
+//“长老的预言在记忆里闪烁——原来他当年叙述时始终闭着双眼，并非出于庄严，而是不忍让我们看见他空洞的眼窝深处，那片早已降临的永夜。”//
+
+[[/div]]
+[[/tab]]
+
+[[tab 第三纪元：第二次”黑暗大清洗“开始]]
+* 黑暗大清洗又一次的开始，这一次所有在该灾难中死亡的人类都会变成**Entity C-┃**，而后室中的一切则将逐渐崩塌，黑暗又一次的降临在了后室中。
+
+* 支柱的力量开始消散，那份属于祂者的力量正在物归原主。而作为最高神性的人类，是会阻止这一切，还是任凭**黑暗万丈之山**毁灭后室呢？
+
+------
+
+++ 与该阶段相关的作品
+
+[[div class="weekblock"]]
+
+*https://if-backrooms.wikidot.com/level-if-349
+
++ **至暗时代：Level IF-349**
+**黑暗前夕（The Eve of Darkness）**
+----
+
+//“我看了一个突兀的山体，就像是嵌入了建筑中一样，山体的旁边有一个道路，我并不清楚这条道路会通向哪里。我将所经历的一切全部记录在了这个笔记本中，愿有缘人发现它，顺带加入了一张我拍摄的照片。”//
+
+[[/div]]
+
+[[div class="weekblock"]]
+
+*https://if-backrooms.wikidot.com/g-incarnation
+
++ **至暗时代：Entity C-┃**
+**“G-Incarnation（G-Incarnation）”**
+----
+
+//“狂欢吧，将后室的壁垒打破，挣脱束缚你们的一切枷锁，拥抱你们的故土。”//
+
+[[/div]]
+[[/tab]]
+
+[[tab 支线]]
+当然，你也可以在前两个纪元中做出一定的延伸或分支，统一归类为**支线**。
+
+以下为支线相关作品的添加方式——
+
+[[code]]
+[[div class="lightblock"]]
+
+[[=]]
+++* [[[URL|作品名称]]]
+[[/=]]
+@@@@
+**{{//”插入你的作品中的一段内容。“//}}**
+------
+//”该作品与**至暗时代设定**有着什么样的联系。“//
+
+[[/div]]
+[[/code]]
+
+------
+
+++ 作品：
+
+[[div class="lightblock"]]
+
+[[=]]
+++* [[[Level IF-300|]]]
+[[/=]]
+@@@@
+**{{//”单调重复，令人发指，往昔之息，宁此无声，往无离人，来者无数，千遍无化，仅此而已。仅你而已。“//}}**
+------
+//”该层级是由支柱所创造的危险层级，目的就是为了反扑黑暗万丈之山，但这也仅仅是无稽之谈。“//
+
+[[/div]]
+
+[[div class="lightblock"]]
+
+[[=]]
+++* [[[Level IF-100|割裂之梦]]]
+[[/=]]
+@@@@
+**{{//”因此层级的景象是接合的，就像是看似两个毫无相关的音乐，但于重合后却创造出非凡的效果。这就是割裂之梦的核心，不失真的梦境，真实的幻想。。“//}}**
+------
+//”该层级是唯一不受**黑暗万丈之山**所影响的层级，由早期的**Prototype**所创造。“//
+
+[[/div]]
+
+[[div class="lightblock"]]
+
+[[=]]
+++* [[[Level IF-254|『 素律•秋 』]]]
+[[/=]]
+@@@@
+**{{//”楼宇间，金黄铺满地；屋舍旁，硕果遍枝头。“//}}**
+------
+//”似乎只是一个受到影响的层级，层级出入口全部失效，似乎隐藏着某种秘密。“//
+
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+
+[[div class="blockquote"]]
+ **请使用以下格式添加主线相关的作品：**
+> @@[[div class="weekblock"]]@@
+> @@@@
+> @@*作品链接@@
+> @@@@
+> @@+ **至暗时代：Level/Entity/Object/Phenomenon IF-XXX**@@
+> @@**名称（nane）”**@@
+> @@----@@
+> @@@@
+> @@//“一段对你作品的介绍。”//@@
+> @@@@
+> @@[[/div]]@@
+[[/div]]
+
+------
+++ **主创：**
+[[*user user CCB]]
+
++++ **参与者：**
+[[*user user CCB]]
+[[*user qwertyuiop1000]]
+------

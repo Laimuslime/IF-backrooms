@@ -1,0 +1,301 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|reverse=a
+]]
+[[div class="eerie-moon-div"]]
+[[=]]
++ Level IF-330
+@@@@
+“渐行渐远的月亮”
+[[/=]]
+[[/div]]
+[[div class="eerie-moon-div2"]]
+[[include component:level-class
+|lang=cn
+|class=1
+|one=安全
+|two=稳定
+|three=实体数量未知
+|color=#000
+|image=]]
+[[/div]]
+[[div class="eerie-moon-div2"]]
+[[include component:image-block
+ |name=https://brsandbox-mini.wikidot.com/local--files/zh1729/a8ea9d43993a31b76c532e02fb08d73b.jpg
+ |caption=夜深人静。
+|width=300px
+]]
+Level IF-330似乎又是一处寻常的城市，因此，最终其变为了层群IF的又一个常规层级。
+
+Level IF-330被描述为由沥青公路与混凝土高楼构成的建筑群，目前其因过于巨大而无人探索至边界。层级始终处于永夜状态，天穹上始终悬挂着月亮，月亮也始终闪耀着，因此，层级始终处于较明亮状态。
+
+层级内的所有设施、建筑均呈现出一种诡异的对称感，街道边的路灯、高耸的建筑物，它们始终整齐地排列着。层级中的建筑物均呈现为现代主义风格，它通常被认为是后室对于前室中城市建筑物的一种复刻。
+
+Level IF-330时常出现有关月亮的元素，墙壁上关于月亮的天文海报，地上莫名出现的有关月亮的书籍，层级的月亮似乎也在远离流浪者，如同前室月亮每年远离地球3.8厘米一般，然而，该层级的这一现象已然被加快，流浪者居住在该层级不久后便会难以观测月亮。此外，层级内似乎存在孤立效应，流浪者将独自身处单独一个副本。
+[[/div]]
+
+
+[[=]]
+………
+[[/=]]
+
+
+[[=]]
+这里太过普通、无聊，什么也没有，我看不到任何一个人，只有我自己孤零零地在城市中休憩，睡觉、醒来、在城市里闲逛，每天都是如此，日复一日的循环。直到昨天，月亮不再远离，反而像是，靠近了些许？
+[[/=]]
+
+
+[[=]]
+………
+[[/=]]
+
+
+
+
+
+
+[[div class="email-container"]]
+[[div class="email-header"]]
+[[div class="email-meta"]]
+发件人:■■■
+收件人:M.E.G.
+[[span class="email-subject"]]
+标题：它…它裂开了！
+[[/span]]
+[[/div]]
+[[div class="email-date"]]
+2023-10-27[[/div]]
+[[/div]]
+
+[[div class="email-body"]]
+[[include component:image-block
+ |name=https://brsandbox-mini.wikidot.com/local--files/zh1729/%E4%B8%8B%E8%BD%BD%20%281%29.jpg
+ |caption=……？
+|width=300px
+]]
+这里是Level IF-330，我是■■■，这里的月亮像是……裂开了？我发誓我看见了，这绝对不是幻觉，它如同玻璃摔碎了一样，出现了一个…长而深的裂缝，洞穿了整个月亮，我绝对无法想象，这完全不符合我的认知，那悬挂在夜空的天体，现在出现了条巨大的裂缝，它本来不该是这样的，它本应是柔和的、唯一的光源，现在——它却像是露出了什么。
+
+是血吗？我像是通过裂缝看到了一缕…暗淡的血红？不，那不是血，它比血粘稠的多，那到底是什么？我只看到了蠕动着的血红黏浆，它如同心脏般跳动。我不知道那是什么，我只知道裂缝随着时间的推移，似乎，变得越来越大了，血丝蔓延在了裂缝边缘，那些血丝正在试图把月亮给撑开，整个月亮快被血红给染尽了。
+
+它一开始不过是一个微小的裂痕，没过几天就变成了这样…这……这根本就不可能，我不知道别人那边有没有这种情况，或许是我来到了一个新的地方，那我真的是有够倒霉，我根本就不知道发生了什么，我也根本就不知道那是什么东西，到底发生了什么？
+[[/div]]
+[[/div]]
+
+
+[[=]]
+………
+[[/=]]
+
+
+[[=]]
+月亮又远去了…
+[[/=]]
+
+
+[[=]]
+………
+[[/=]]
+
+
+
+[[div class="email-container"]]
+[[div class="email-header"]]
+[[div class="email-meta"]]
+发件人:■■■
+收件人:M.E.G.
+[[span class="email-subject"]]
+标题：它依旧在扩大着。
+[[/span]]
+[[/div]]
+[[div class="email-date"]]
+2023-10-27[[/div]]
+[[/div]]
+
+[[div class="email-body"]]
+
+[[div class="email-body"]]
+[[include component:image-block
+ |name=https://brsandbox-mini.wikidot.com/local--files/zh1729/20250824_163609.webp
+ |caption=裂隙越来越大了。
+|width=300px
+]]
+过了十天，这十天没有动静。直到今天凌晨，它又开始发裂了。
+
+裂缝横穿了整个月面，血丝从裂缝里蔓延而出，扒住了月亮两侧，像是意图将整个月亮掰成两半，似乎有血红的液体向下滴落，那些液体似乎并没有落下，而是在滴落后，在半空中，莫名地消失了。
+
+月亮裂缝的黑暗之中，似乎隐藏着什么，我的望远镜已经看不到里面到底是什么了，只能看到某种若影若现的轮廓。它……似乎在跳动？如同心脏一样。
+
+这种跳动伴随着公路上路灯的熄灭，每当它跳动，整座城市都开始忽明忽暗，我不明白为什么。
+
+我呼吸不上来了，我对那个东西存在由衷的害怕，它每次的颤动都能让我的心脏为之一跳，
+
+等等，
+
+里面像是有什么东西……出来了吗
+
+它是在看着我吗？
+
+我……我受不了了
+
+
+[[/div]]
+[[/div]]
+[[/div]]
+[[collapsible show="那他妈到底是什么？！" hide=" "]]
+[[div class="eerie-moon-div"]]
+[[=]]
++ 我想我终于知道了。
+[[/=]]
+[[/div]]
+
+
+
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="eerie-moon-div2"]]
+[[include component:level-class
+|lang=cn
+|class=死区
+|one=不安全
+|two=不稳定
+|three=实体数量未知
+|color=#000
+|image=]]
+[[/div]]
+[[div class="eerie-moon-div2"]]
+[[include component:image-block
+ |name=https://brsandbox-mini.wikidot.com/local--files/zh1729/G_20250826_122412.webp
+ |caption=一张受到未知影响的图像，摄影师未知。
+|width=300px
+]]
+Level IF-330随着时间的推迟，逐渐变为了后室中最为危险、最臭名昭著、最令人作呕的一个层级，它也是后室集群ZH的第1730层。起初，人们认为这又是一个圣地，然而，若以如今的眼光看去，这种想法往往是可悲而又荒谬的。
+
+Level IF-330被描绘为类似于前室的建筑群，疑似无限延伸，整个层级都呈现出病态般的复制结构，路灯、建筑均整齐地排列，一切都井然有序，如同被精心设计。远处的月亮始终散发着光亮、照耀着整个层级。
+
+月亮一直在远离层级，在不久后，它将缩小至一个微不足道的白点，难以观察，因此，大部分流浪者最终会逐渐淡忘月亮的存在，然而，若突然发现月亮逐渐逼近，变得庞大且沉重，那意味着该层级正在进入它的下一阶段，进入该层级的所有流浪者将不可避免的经历这一阶段，在此之前，流浪者将无法卡入卡出。
+
+这一阶段时，月亮将会莫名地、不合常理地出现一条长而深的巨大裂缝，其中疑似存在着某些极其粘稠且难以观察的血红色液体，随着裂缝的扩大，月亮散发的光芒会逐渐变得暗淡且不稳定，因此，层级也将逐渐变得黑暗而昏沉。
+
+这一阶段的起始时间尚不明确。每位进入该层级并幸运存活下来的流浪者所记录的时间各不相同，可能是一天后、十天后，甚至更长时间之后，均有可能成为进入该阶段的时间点。
+
+在该阶段结束后，月亮将在较短时间内进入第二阶段。此时，月亮上的裂缝会迅速扩大，裂缝两侧会伸出许多类似血丝的触手状物体，试图使裂缝变得更大、更深。此外，部分流浪者报告，裂缝深处疑似出现了某种表面附有血丝的白色球体。
+
+随着第二阶段的尾声将至，裂缝更为快速地扩大，那颗白色球体也逐渐从裂缝中显现，所有的血丝放弃了撕裂整个月亮，而是全部附着在其表面，它看想去像是人类的眼球。
+
+随着它的显现，流浪者心头将传来某种莫名的压迫感，整个层级像是彻底被停滞，逐渐喘不上来气，呼吸开始急促且沉重，一切开始昏暗、阴沉，这一切都预示着——第三阶段的降临。
+
+那时，整个层级将彻底陷入黑暗，仅有那颗巨大的“月亮”所散发出的淡淡红光，流浪者将逐渐感到急促、不安，部分流浪者或许会因此直接心脏骤停或岔气而亡。无论流浪者走到哪里，“月亮”的“视线”也将始终伴随着流浪者。
+
+第三阶段的末尾从未有人知晓，没有任何一个流浪者经历过完整的第三阶段。仅有少数人在第三阶段初期成功卡出，侥幸存活，记录了关于那硕大的“眼球”部分资料。除此之外，第三阶段后续的所有情况均缺乏任何资料或证据，整个层级的资料在第三阶段初期后便奇怪的戛然而止。曾有人通过邮件向外界传递自己处于随后阶段，然而，这些流浪者均不存在后续消息，它们已被认证为在该层级死亡。
+
+有人猜测，整个层级将成为月亮的养料，流浪者也将成为月亮的一部分，有人说，流浪者最终将因为那强烈的压迫而自杀，然而，这些理论在未来的很长一段时间内，将永远无法证实亦或证伪。
+
+…………
+
+
+
+[[/div]]
+
+
+[[div class="eerie-moon-div2"]]
+“后室的大部分产物都能够在前室找到原型。”我始终坚持着这种思想。Level 11对城市的复刻、某些自然层级对自然与高山的复刻………乃至于Level 0对前室某家店铺曾经模样的高度一致———它们都能够证明这一切。
+
+那么Level IF-330呢？它或许是对于前室某场灾难的拙劣复刻，在前室未来诸多可能中，或许就存在着与该层级情况类似、甚至近乎一致的某条时间线，最终经由后室的扭曲化，这种灾难，将会降临在了每个进入Level IF-330的流浪者头上。
+
+或许是月亮脱离了地球，亦或月亮的消失、月亮被毁灭，还是什么其他的“灭顶之灾”，我们永远都不知道，也永远都不可能知道，我们只知道，它最终将会波及着后室前室的所有人类，让我们，你们还有它们，全部陷入这场灾难中。
+
+它的意图或许就是影响着所有人类，让它们陷入恐慌，又或死亡
+
+这包括我们每一个人，也包括你。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[include component:image-block
+ |name=https://brsandbox-mini.wikidot.com/local--files/zh1729/ChatGPT%20Image%202025%E5%B9%B48%E6%9C%8820%E6%97%A5%2013_46_41.png
+ |caption=未来。
+ |width=300px
+ |align=center
+]]
+[[/div]]
+[[/collapsible]]
+[[module css]]
+.eerie-moon-div {
+  background-color: #111;
+  color: #ccc;margin:10px;padding:10px;
+  border: none;
+  box-shadow:
+    0 0.5rem 1.5rem rgba(0, 0, 0, 0.6),
+    inset 0 0 15px 5px rgba(30, 30, 30, 0.5),
+    inset 0 0 5px 2px rgba(150, 150, 150, 0.2);
+}
+.eerie-moon-div2 {
+padding:10px;
+  background-color: #111;
+  color: #ccc;margin:10px;padding:10px;
+  border: none;
+  box-shadow:
+    0 0.5rem 1.5rem rgba(0, 0, 0, 0.6),
+    inset 0 0 15px 5px rgba(30, 30, 30, 0.5),
+    inset 0 0 5px 2px rgba(150, 150, 150, 0.2);
+}
+.email-container {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* 使用系统字体栈 */
+  background-color: #111;
+  color: #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);}
+.email-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  padding-bottom: 10px;
+}
+
+.email-date {
+  font-size: 0.85em;
+  color: #888;}
+
+.email-meta p {
+  font-size: 0.95em;
+}
+
+.email-meta strong{
+  color: #eee; 
+}
+
+.email-subject strong {
+  font-size: 1.2em;
+  color: #fff;
+}
+
+.email-body {
+  line-height: 1.6;
+  font-size: 1em;
+}
+
+
+.email-body a {
+  color: #66b2ff;
+  text-decoration: none;
+  border-bottom: 1px dotted #66b2ff;
+  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.email-body a:hover {
+  color: #99ccff;
+  border-color: #99ccff;
+}
+[[/module]]

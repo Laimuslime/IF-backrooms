@@ -1,0 +1,109 @@
+[[include :backrooms-wiki-cn:theme:basalt]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-282**是后室IF层群的第282层。
++ **描述**
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/level-if-282/1762607429854_edit_396543554608759.png
+|caption=**Level IF-282**内的唯一实体。
+]]
+**Level IF-282**为一个理论上无限延伸的纯白色空间，内部的所有结构，包括地面、天花板、墙壁等均有一种类似于橡胶的无缝白色材料构成，这些白色材料似乎可自发地发出光芒。
+
+层级中极度寂静，没有明显的环境声音，空气中仅有常见气体，但总是散发着一股淡淡的香气。层级中的温度总是维持在使人最舒适的26℃，其他指数，譬如湿度等也维持在最佳状态。
+
+该层级中存在着一个固定区域，该区域为层级中唯一可辨别的景物。该区域由一个结构简易的DJ混音台、一堆质量极高的音响、一个悬挂在混音台上的麦克风，以及数个内部装满着不同的黑胶唱片和必要电子设备的板条箱。
+
+层级内拥有充足的电量供应，且无需电线便可连接。层级中的一切装置均无法被破坏。
++ **基地、前哨与社区**
+++ 后室 Radio & 后室DJ
+后室DJ为该层级内部唯一的实体，该实体总是出现在DJ混音台附近，该实体身穿黄色防护服，防护服自带一个反光的黑色面罩与防毒面具。后室DJ总是在DJ混音台内不断录制着一档名为“后室 Radio”的节目，该节目为一系列发布在Backbili[[footnote]]后室中知名的中文视频平台之一，参考了前厅软件Bilibili的设计。[[/footnote]]的视频，视频的内容大多配有该实体的大头照与曲目列表。
+
+该节目通常由开场白、口播和音乐内容所构成。在开场白内容时，该实体先是会与观众客套几句，介绍自己，以及讲述最近观众与其的反馈。口播内容大多是以专业口吻进行的叙述，例如后室氛围的由来、层级与实体的资料。音乐内容是该节目最为重要的一部分，通常是播放几首至几十首不等的多风格音乐，每首歌之间存在自然的衔接段或是口播内容。
+----
+
+以下为某次录制节目的录音内容：
+
+----
+
+嗨大家好，这里是由你的后室DJ主持的音乐电台栏目，那在过去的一周里，我有幸看到很多的观众朋友分享他们在后室视频里的音乐才华，品味不错我的朋友。最近总是有观众朋友在评论区里发“谁还有多余杏仁水”，这个是什么意思啊。最后，祝贺我们电音圈&后室圈&摇滚圈走向巅峰，对了别把阈限忘了。
+
+----
+
+该视频的评论：
+
+----
+Backrooms-07【Lv.6】【up主】
+【置顶】本期音乐（哦对了我还把一些超级可爱和超级迷幻的加入进去了）：
+||~ # ||~ Track Title ||~ BPM ||
+|| 1 || It's just a burning memory-The Caretaker || 73 ||
+|| 2 || Libet's Delay-The Caretaker || 93 ||
+|| 3 || Childishly fresh eyes-The Caretaker || 113 ||
+|| 4 || Young-Vacations || 80 ||
+|| 5 || 505-Arctic Monkeys || 139 ||
+|| 6 || Goodbye to a World-Porter Robinson || 88 ||
+|| 7 || Sweater Weather-The Neighbourhood || 123 ||
+|| 8 || Vas-jagger finn || 71 ||
+|| 9 || Among Us-Mynn || 60 ||
+|| 10 || 【免费wav可商用】'coast' 88rising RnB × Lofi type beat-克兰 || 72 ||
+|| 11 || Take it easy-Blackhetsu || Null ||
+|| 12 || Dreamin-Xori || 63 ||
+|| 13 || wistful-Øneheart/james king || 89 ||
+|| 14 || every day- bo en/桃音モモ/雪歌ユフ|| 90 ||
+|| 15 || green to blue (Sped Up)-Aurenth || 93 ||
+|| 16 || How Did I Ever （socandice remix）-Socand1ce || 63 ||
+|| 17 || Freaks-Surf Curse || 89 ||
+|| 18 || midnight jam sesh-aqualina || 68 ||
+|| 19 || SimpsonWave1995-FrankJavCee || 84 ||
+|| 20 || Hot Milk-Snail's House || 74 ||
+|| 21 || Nice Boys-TEMPOREX || 75 ||
+----
+一个神秘的美味咖喱【Lv.6】
+品味不错我的朋友
+----
+不知道取什么名Offcial【Lv.6】
+谁还有多余层级密钥
+----
+叁樊邬-3F5【Lv.6】
+谁还有多余火盐
+----
+我去！-499！身份盗窃！【Lv.5】
+你牛大了
+----
+无机盐和很多很多的叶绿体_【Lv.5】
+666和我收藏夹音乐一模一样
+----
+_Made In Heaven_【Lv.5】
+感谢开源和汉化组
+----
+舞韵春风【Lv.4】
+怎么不笑了，是不爱笑吗
+----
+bcbl_294720482191【Lv.4】
+Bro你得笑起来，现在太严肃了
+----
+bench-thwu【Lv.4】
+开一把[[[Level IF-187]]]，再来上这么一首，真是惬意
+----
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-19]]]或[[[Level IF-207]]]打开一扇标有“后室DJ”的白门并进入后方的房间即可来到此层级
+++++++ 出口
+* 向后室DJ请求，后室DJ会将流浪者传送到你想去的地方
+* 在录制过程中打断后室DJ会使流浪者来到[[[Level IF-26]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者 [[*user MCMK-1234]]
+创世神 [https://b23.tv/nj6ksMr Magnivincentw]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-281]]] | Level IF-282 | [[[Level IF-283]]] >>
+[[/=]]
+[[/div]]

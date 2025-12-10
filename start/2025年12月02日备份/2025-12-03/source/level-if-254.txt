@@ -1,0 +1,321 @@
+[[div class="bordered-image"]]
+[[include :backrooms-wiki-cn:theme:better-blank
+|book=a
+|title=a
+|header=a
+]]
+
+
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+
+[[include :scp-jp-sandbox2:inc:ayu18]]
+[[module css]]
+@keyframes fadeOut1 {
+    0% {
+      opacity: 1;
+    }
+    99% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.screen-dark {
+        z-index: 10;
+        pointer-events: none;
+        opacity: 0;
+        background: rgb(0, 0, 0);
+        width: 100%;
+        height: 100%;
+        left: 0;
+        bottom: 0;
+        position: fixed;
+      }
+.line {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+@keyframes floatUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+@keyframes floatUp1 {
+    0% {
+      opacity: 0;
+      transform: translateY(0px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+@keyframes text-blur {
+0% {
+      opacity: 0.7;
+}
+23% {
+      opacity: 0.6;
+}
+31% {
+      opacity: 0.8;
+}
+54% {
+      opacity: 0.3;
+}
+68% {
+      opacity: 1;
+}
+75% {
+      opacity: 0.4;
+}
+83% {
+      opacity: 0.2;
+}
+92% {
+      opacity: 0.8;
+}
+100% {
+      opacity: 0.7;
+}
+
+:root {
+
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 3s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+ 
+:root {
+   --fade-in-delay: 0.1s; /* Change the speed here. */
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay));}
+[[/module]]
+[[module CSS]]
+:root {
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾来过这里";
+   --body-font:  punctuation-marks, Huiwen-mincho, '华文中宋', 'Noto Serif SC', 宋体, lisu, 'New Tegomin', sans-serif;
+   --header-font: punctuation-marks, Huiwen-mincho, '华文中宋', 'Noto Serif SC', 宋体,  dejima, 'Liu ti', kaiti, 'IM Fell English SC', monospace;
+   --title-font: punctuation-marks, Huiwen-mincho, '华文中宋', 'Noto Serif SC', 宋体,  dejima, 'Liu ti',  kaiti, 'IM Fell English SC', monospace;
+   --mono-font: monospace;
+}
+
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms IF
+|2=树树皆秋色，山山唯落晖
+]]
+[[=]]
+[[div class="solid-hr"]]
+[[/div]]
++ [[size 140%]] ##FFD700|**『 素律•秋 』**## [[/size]]
+[[/=]]
+[[div class="solid-hr"]]
+[[/div]]
+[[include :backrooms-wiki-cn:component:nulevelclass
+|lang=cn/tr
+|ent=0
+|env=0
+|ext=1
+|no=IF-254
+]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=宜居
+]]
+[[div class="solid-hr"]]
+[[/div]]
+[[include :backrooms-wiki-cn:credit:start]]
+**Level IF-254**  素律·秋
+**作者：**[[*user Mercury_zahwi]]、[[*user DielsAlder]]和[[*user triangle sandwich]]
+[[*user Mercury_zahwi]]写好了基础框架
+[[*user DielsAlder]]修改优化了附录
+[[*user triangle sandwich]]对附录提供了些许意见并做了些css代码
+**特别鸣谢：**[[*user deleting]]帮助了代码
+**图像：** https://unsplash.com/photos/the-branches-of-a-tree-with-orange-leaves-against-a-blue-sky-J-XverJh8zc
+行文上模仿了Level C-1444
+[[include :backrooms-wiki-cn:credit:end]]
+[[div class="radius-div"]]
+[[div class="lightblock"]]
+[[=]]
+ **这里是后室IF层群的254层，秋夜静谧，繁星闪烁，其便被赋予『 素律•秋 』**
+[[/=]]
+[[/div]]
+[[/div]]
++ 描述
+
+
+**Level IF-254**呈现出一派秋日村落的景象，边界未知，以**槐树广场**[[footnote]] 详见下段 [[/footnote]]为原点向四周延伸约15公里后将会被薄雾逐渐笼罩，雾区内部无法通过任何已知手段探测，试图进入的流浪者会在10-15分钟后从广场上再次出现，且未报告任何不良影响。
+
+[[include component:image-block
+|name=	http://if-backrooms.wikidot.com/local--files/level-if-254/IF-254
+|align=left
+|caption=一张对**槐树广场**中的槐树仰拍图
+]]
+
+层级内有一片被称为槐树广场的区域，面积约500平方米，地面由青石板铺成，中央有着一棵直径约2.3米的老槐树，树干上布满裂纹，其树叶为金黄色，值得注意的是，树叶无自然飘落现象[[footnote]] 即使人为摇晃也并不会掉落 [[/footnote]]。在槐树旁有一张石桌与四个石凳，石桌刻有模糊的棋盘纹路，不过无法辨识具体种类。
+
+
+而在雾区，时常出现一种现象，被命名为**回响**，为短暂重现前厅有关秋日的场景[[footnote]] 如银杏道、梧桐街等 [[/footnote]]。**回响**持续时间不超过5分钟，场景中的人物均为模糊的，无法进行互动，触碰会导致场景损坏，化为落叶。
+	
+
+层级内的时间流速与前厅基本一致，自每日清晨6点将有日出的橙光从东方雾区出现，傍晚18点于西方雾区日落，昼夜温差约8℃，体感湿度稳定在52%-61%之间。层级内的空气中常弥漫着晒干的谷物以及桂花混合的气味。值得注意的是，层级内无自然降水，但每日凌晨5:00-5:03之间，所有露天物品的表面会凝结一层露水，经检测水质符合前厅饮用标准，并且在5:03分后露水将会以未知形式一瞬间消失。
+
+[[div class="radius-div"]]
+[[div class="lightblock"]]
+[[=]]
+ **楼宇间，金黄铺满地；屋舍旁，硕果遍枝头。**
+[[/=]]
+[[/div]]
+[[/div]]
+
+层级内建筑以青砖灰瓦的中式民居为主，共约100栋，分布不规则。层级内民居样式统一，均为斜屋顶结构，墙体由浅灰色砖块砌成，屋顶覆盖有深灰色瓦片，窗户为镂空木质花纹，图案多为稻穗、菊花等。民居大门均为暗红色双扇木门，门上悬挂着不同的木质牌匾，牌匾上刻有不同的汉字，并且无参考以及研究价值。据调查，层级中民居内部布局一致，进门为约8平方米的堂屋，堂屋两侧各有一间卧室，堂屋后方连接着厨房。
+
+
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/level-if-254/Level%20IF-254%EF%BC%882%EF%BC%89
+|caption=水稻
+|width=280px
+]]
+
+本层级内的物资丰富。在民居的厨房灶台边会出现有杏仁水、罐装龙肉等，堂屋木桌上摆放有杏仁制品，并且每个民居皆在每日6点自动补充物资。而在广场东侧约500米处有一片面积约10亩的稻田，稻田分为24块，每块田中种植着成熟的水稻，稻穗饱满呈金黄色，稻秆高度约为1.2米。经观察，稻田无生长周期变化，始终保持“即将收割”的状态，且无论收割多少水稻，在次日清晨6点前会自动补充。
+
+
+层级中部至东部区域流淌着一条溪流，溪流宽度约为5米，水深约为60厘米。溪水清澈透明，溪流水质检测检测合格，可直接饮用，不过即使其表现为清澈的模样，饮用仍然为杏仁水的味道。
+[[div class="lightblock"]]
+[[=]]
++ 实体-穗灵（节选）
+
++++ 编号：Entity IF-254
+
+[[/=]]
+[[div class="solid-hr"]]
+[[/div]]
+Entity IF-254为一存在于Level IF-254的小型实体，身高约30厘米，由麦的麦穗与麦秆组成，头部表现为一团蓬松的稻草，眼睛为淡黄色的光点，移动时会在地面留下细碎的麦屑。
+
+
+该实体栖息于麦田区域，其在麦田区域做无规则的漫游，跳跃时会发出类似风铃的清脆声响，当流浪者靠近时，穗灵会停在其面前，若对方近期存在有悲伤情绪，Entity IF-254会触碰流浪者，带来轻微的温暖感；若其情绪愉悦，Entity IF-254不会有任何行为。
+
+
+......
+[[/div]]
+
++ 基地、前哨站和社区
+
+层级内基地较多不一一介绍。
+
+++ 初禾居
+
+* 由7名前M.E.G.成员于2023年9月建立，现居住12人。
+
+* 社区为广场北侧的5栋民居为核心区域，居民对民居内部进行了简单改造。
+
+* 每日分发实物以及安排工作。
+
+++ 秋之部
+
+* 由M.E.G.成员组成，现有5名固定人员。
+
+* 致力于研究异常性质。
+
++ 入口与出口
+
++++++ 入口
+
+* [[[https://if-backrooms.wikidot.com/level-if-260|日光下澈，你再次看到大海。]]]
+
+* 在[[span class="ruby"]][[[Level IF-13]]][[span class="rt"]]铃兰之路[[/span]][[/span]]中找到明显有秋日特征的建筑，切入后来到本层级。
+
+* 在[[span class="ruby"]][[[Level IF-96]]][[span class="rt"]]澜沧[[/span]][[/span]]中找到一片色调为金黄色的区域，切入地面可以来到本层级。
+
++++++ 出口
+
+* M.E.G.制造了一个通往[[span class="ruby"]][[[Level IF-103]]][[span class="rt"]]我们的伞。[[/span]][[/span]]的新切行点，需寻找秋之部的M.E.G.人员前往。
+
+* 雾区中时常会模糊的出现一颗绿树，切入其前往[[span class="ruby"]][[[Level IF-253]]][[span class="rt"]]槐序•夏[[/span]][[/span]]。
+[[include :scutoidbox:scrollquote
+|image=	http://if-backrooms.wikidot.com/local--files/level-if-254/IF-254
+|number=1
+]]
+[[collapsible show="你矗立在溪流旁……" hide="……"]]
+[[div class="line" style="animation:floatUp 2s 1s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+潺潺流水搅着金色的碎光，跌跌撞撞，一路奔向远方；哗哗啦啦的水流声敲击着耳膜，润泽着你的大脑。
+[[/div]]
+[[/div]]
+[[div class="line" style="animation:floatUp 2s 3.5s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+你盯着横卧在水底的一枚卵石，经年的抛光洗磨把它搓的溜圆，你盯着它，伫立了许久，久到你似乎也成了那圆石，心底纷纷扰扰的杂念被微凉的流水卷得老远，你似乎找到了内心的安宁。
+[[/div]]
+[[/div]]
+[[div class="line" style="animation:floatUp 2s 6s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+浅金色的阳光懒洋洋地洒了你满肩，时间在这一刻似乎放缓了脚步，秋蝉挂在树上兀自喧闹，高低交错的言谈声讲个不休，但那些似乎都被扯开老远，只剩下些细细簌簌的絮语。
+[[/div]]
+[[/div]]
+[[div class="line" style="animation:floatUp 2s 8.5s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+你伸手，试图攥住些什么，可那禾谷清香，秋日暖阳，却都随着微风一并出走，到头来，只握住了一枚落叶。
+[[/div]]
+[[/div]]
+[[div class="line" style="animation:floatUp 2s 11s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+桂香如故，梨云渡海，这片秋会留在记忆里，像糖果，在寒夜里，悄悄暖一下心。
+[[/div]]
+[[/div]]
+[[div class="line" style="animation:floatUp 2s 13.5s forwards;"]]
+[[div style="animation:text-blur 40s infinite ease-in-out;"]]
+溪水悠悠，载着我的忧愁而去，就站在那溪流旁，看着水流带着哗啦啦的记忆寄往我们思念之人的脑海吧……
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[/=]]
+[[/div]]
+[[/div]]

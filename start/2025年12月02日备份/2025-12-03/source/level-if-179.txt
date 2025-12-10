@@ -1,0 +1,81 @@
+[[include :backrooms-wiki-cn:theme:ethereality]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms IF
+|2=你曾经来过这里
+]]
+
+[[include component:level-class
+|class=3E
+|lang=cn
+|color=#F55900
+|image=http://backrooms-sandbox-2.wdfiles.com/local--files/the-mfing-swag-ass-collection/classfivee.png
+|one=不安全
+|two=不稳定
+|three=环境危害
+]]
+**Level IF-179**又称渗水草原，是后室IF层群的第179层。
++ **描述**
+
+[[include component:image-block
+|name=https://s21.ax1x.com/2025/06/07/pViRhtI.png
+|caption=一张Level IF-179的草地照片
+]]
+
+Level IF-179表现为一处面积无限的露天式草原，层级主体部分由杂草与泥土构成，仅有少许人造设施存在。此层级始终保持于白昼且无云的晴天状态，温度恒定于27℃ (80.6℉)，空气湿度约60%RH，无任何已知的[https://backrooms-wiki-cn.wikidot.com/object-21 Wi-Fi]信号存在。
+
+Level IF-179地面由泥土所构成且较为柔软，大量杂草植根于其上，种类多为高羊茅或其余前厅中目前未被记录的种类。此层级中任何杂草可无需水源或阳光存活，且若将其杂草或泥土破坏仍可以未知原因而瞬间复原。
+
+Level IF-179中杂草高度不一，多数呈低矮状，且无法以任何已知方式进行生长或凋谢。但仍有其少数杂草较为高大，若人员触碰其大型杂草则将被其藏于地面长有毒刺的大量荆棘束缚并刺伤，故极不推荐接触任何大型杂草。
+
+Level IF-179中的极少量区域地面异常柔软且粘黏，若人员进入于区域内将立刻陷入其中[[footnote]]多数陷阱深约1.5m，长约1.3m。[[/footnote]]，并逐渐变为牢固直至人员死亡，故于此层级时应注意其脚下区域以防造成伤亡。
+
+Level IF-179中地面极为平坦，近乎无任何起伏存在。部分泥土表面附着少量石子或炭块，除原本作用外该类矿物经证实可正常食用[[footnote]]该类矿物柔软到可正常进行食用[[/footnote]]，且可满足人体所需的部分物质[[footnote]]营养成分与杏仁水相似[[/footnote]]。
+
+Level IF-179内少许区域存在放牧场或小型住宅，其外观表现为破败且长满野草的状态。其内部多数建筑呈老旧状态，通常散发腐臭或霉味等不适气味。且多数家具表现为被人为切割的痕迹。
+
++ **现象**
+
+++++ 渗水
+Level IF-179存在其独有现象，该现象发作时间随机且不可预测，因此极难预防。现象发作期间层级地面将产生极多细小孔洞，并将不断垂直喷射其淡水。现象发生期间层级温度将骤降至约4℃ (39.2℉)。因现象而导致层级水位上升于24m将停止，孔洞将消失且水源将渗于地面中。
+
++ **基地、前哨与社区**
+
+目前为止Level IF-179内未发现任何已知的基地、前哨与社区。
+
++ **入口与出口**
+
+++++++ 入口
+
+* 从[[[Level IF-39]]]的旋转门离开将切入至Level IF-179，但也可能切入至[[[Level IF-3]]]或[[[Level IF-17]]]
+
+* 在任意丛林或草原层级吃掉一片异常湿润且冰凉的杂草可能切入至Level IF-179
+
+* 在[[[Level IF-3]]]找到一处草地并将其故意破坏可能切入至Level IF-179
+
+++++++ 出口
+* 在Level IF-179陷入泥潭可能切出至[[[Level IF-41]]]
+
+* 在Level IF-179找到一片写有桌子的高羊茅食用可切出至[[[Level IF-180]]]
+
+* 在Level IF-179幻想城市超1分钟可切出至[[[Level IF-3]]]
+
+------
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者为
+[[*user jbjgun]]
+图源
+[https://pixabay.com/zh/photos/grasses-lawn-garden-348481/ 一张Level IF-179的草地照片]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-178]]] | Level IF-179 | [[[Level IF-180]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,82 @@
+[[tabview]]
+[[tab 已达删除线的页面]]
+[[module ListPages order="ratingAsc" category="*" tags="-归档 -管理 -作者 -待删除 -重写中 -功能 -指导 -竞赛 -活动 -组件后端 -段落 -掩藏页 -_低分删除豁免 原创 _test" rating="<=-2" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 未达及格线的页面]]
+超过 30 天：
+[[module ListPages order="ratingAsc" category="*" tags="-已归档 -管理 -指导 -作者 -重写中 -竞赛 -活动 -组件后端 -段落 -掩藏页 -功能 -工房 -翻译预定 -论坛 -待删除 -总览 -组件 -版式  -补充材料 +原创 -_低分删除豁免" rating="<2" separate="false" created_at="older than 30 days" perPage="100" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建时间 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_at|%Y-%m-%d %R|agohover%%||%%created_by%%||
+[[/module]]
+
+未满 30 天：
+[[module ListPages order="ratingAsc" category="* -deleted" tags="-已归档 -管理 -指导 -作者 -重写中 -竞赛 -活动 -组件后端 -段落 -掩藏页 -功能 -总览 -组件 -版式 -工房 -翻译预定 -论坛 -待删除  -补充材料 +原创 -_低分删除豁免" rating="<7" separate="false" created_at="last 30 days" perPage="100" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建时间 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_at|%Y-%m-%d %R|agohover%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 低分翻译页面]]
+[[module ListPages order="ratingAsc" category="* -rate -fragment" tags="-_低分删除豁免 -已归档 -功能 -管理 -作者 -待删除 -重写中 -原创 -掩藏页" rating="<0" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 待删除的页面]]
+已满 72 小时：
+[[module ListPages order="updated_at" category="* -deleted" tags="-已归档 -管理 +待删除 -重写中 -_低分删除豁免" separate="false" updated_at="older than 3 days" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 最后更新 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%updated_at|%Y-%m-%d %R|agohover%%||%%created_by%%||
+[[/module]]
+已满 24 小时：
+[[module ListPages order="updated_at" category="* -deleted" tags="-已归档 -管理 +待删除 -重写中 -_低分删除豁免" separate="false" updated_at="older than 1 day" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 最后更新 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%updated_at|%Y-%m-%d %R|agohover%%||%%created_by%%||
+[[/module]]
+未满 24 小时：
+[[module ListPages order="updated_at" category="* -deleted" tags="-已归档 -管理 +待删除 -重写中 -_deleted -_低分删除豁免" separate="false" updated_at="last 1 day" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 最后更新 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%updated_at|%Y-%m-%d %R|agohover%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 重写中的页面]]
+重写满 30 天：
+[[module ListPages order="created_at desc" category="*" tags="重写中" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||" updated_at="older than 30 days"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+
+重写满 14 天：
+[[module ListPages order="created_at desc" category="*" tags="重写中" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||" updated_at="older than 14 days"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+
+重写中：
+[[module ListPages order="created_at desc" category="*" tags="重写中" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||" updated_at="last 14 days"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 无标签页面]]
+[[module ListPages order="created_atDsc" category="* -reserve" separate="false" tags="-" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 自删的页面]]
+[[module ListPages order="created_atDsc" separate="false" category="deleted" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 异常段落与补充资料]]
+缺少父页面：
+[[module ListPages order="created_atDsc" category="* -reserve" separate="false" tags="段落 补充资料" parent="-" perPage="100" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+分类错误：
+[[module ListPages order="created_atDsc" category="-reserve -fragment" separate="false" tags="+段落" parent="-" perPage="100" prependLine="||~ 名称 ||~ 分类 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||%%category%%||%%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[tab 豁免于删除制度的页面]]
+[[module ListPages order="created_atDsc" category="* -reserve" separate="false" tags="+_低分删除豁免" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+||%%title_linked%%||##green| %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])|| %%size%%||%%comments%%||%%created_by%%||
+[[/module]]
+[[/tab]]
+[[/tabview]]
+
+[[module CSS]]
+table { width: 100%}
+[[/module]]

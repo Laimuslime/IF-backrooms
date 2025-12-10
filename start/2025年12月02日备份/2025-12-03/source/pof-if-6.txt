@@ -1,0 +1,52 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "你如今再临此处";
+}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=4
+]]
+**Level IF-74**是后室IF层群的第74层。
++ **描述**
+**Level IF-74**由一片干裂土地和无数破败萧条的城镇组成，面积不详，气温度通常在30~35℃之间。该层级内无Wi-Fi覆盖。
+
+流浪者探索时大概率只会遇到资源匮乏的破败民宿，小概率会遇到类似于前厅西欧风格的别墅，尽管其内部物资比破败民宿丰富不少，但极其危险，建议自保能力薄弱的流浪者不要贸然进入。
+
+在该层级中，流浪者会看到零零散散的[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]在只有荒草和枯树的土地上用层级赐予它们的嘴啃咬着枯萎的干草，往嘴里塞着变得稀罕的枯树皮。有城镇的地方，方圆百里的树似乎都失去了树皮。
+
+流浪者在城镇中探索时，有几率会在一些民宿的地上看到[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]的骨头结构，但表面并没有发出恶臭，似乎不是自然死亡并且发生腐烂，而是被被吃干抹净后遗留下来的骨头。
+
+该层级破败地区的资源及其匮乏，但仍有小概率在破败的民宿中找到[https://backrooms-wiki-cn.wikidot.com/object-15 火盐]以及不足整瓶的[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]。在别墅中流浪者将会找到其它颜色的[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、[https://backrooms-wiki-cn.wikidot.com/object-15 火盐]、[https://backrooms-wiki-cn.wikidot.com/object-16 皇家口粮]等。
+
+该层级自带“饥荒效应”，流浪者会加速感到饥渴，在此效应下，满状态的成年流浪者感到饥渴仅需要两小时，而四个小时后，流浪者若没有摄入任何食物和水将会陷入悲尸循环，因此建议流浪者不要在层级内长时间停留，应尽快切出层级。
++ **实体**
+该层级仅会遇到成年[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]，但似乎受到了“饥荒效应”的影响变得及其瘦弱，但具有强烈攻击性，[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]会手持砍柴斧、锄头等民用工具攻击流浪者。而且在该层级，无面灵脸上会长出一张人类的嘴，方便它们食用猎物的血肉。在别墅中，将会遇到肥胖的无面灵，他似乎能驱使所有瘦弱无面灵攻击一切进入别墅的流浪者。
++ **基地，前哨与社区**
+因资源匮乏、后勤线过长和实体袭击等问题，该层级无任何基地，前哨或社区。
++ **入口与出口**
+++++++ **入口**
+* 从任意层级的干裂土地上有几率切出至该层级。
+* 从任意开放层级向西北方向步行三百英里可切至该层级。
+* 在任意层级遇到在地面如bug般抽搐的[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]瓶，用手触碰该瓶即可切入该层级。
++ **出口**
+* 跟着积雨云走一个小时即可切入[https://backrooms-wiki-cn.wikidot.com/level-10 Level 10]。
+* 在同一栋别墅中取走两份[https://backrooms-wiki-cn.wikidot.com/object-16 皇家口粮]走出正门即可切入[https://backrooms-wiki-cn.wikidot.com/level-33 Level 33]。
+* 在该层级陷入悲尸循环并成功逆转之后即可切入[[[Level IF-144]]]。
+* 在破败的民宿中找到一个[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]的骨骼组织并啃咬一口即可切至[https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]任意一架骨骼模型旁。
+-----
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者：[[*user qianyuyuanche]]
+文章经职员审核，由[[*user IF_Bot]]代为发布。
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-73]]] | Level IF-74 | [[[Level IF-75]]] >>
+[[/=]]
+[[/div]]

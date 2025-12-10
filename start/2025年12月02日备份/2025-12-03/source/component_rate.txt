@@ -1,0 +1,16 @@
+[[div class="module-rate" style="text-align: {$align};"]]
+[[div class="remove-others"]]
+[[include :backrooms-wiki-cn:component:rate-bar -={$-}]]
+[[/div]]
+[[/div]]
+[[module css]]
+.module-rate {
+   margin-bottom: 0.5em;
+   text-align: right;
+}
+[[/module]]
+[[module css]]
+.remove-others > :not(.list-pages-box:first-child) {
+  display: none;
+}
+[[/module]]

@@ -1,0 +1,4 @@
+[[include component:level-class
+|class=等待分级
+|lang=cn
+]]

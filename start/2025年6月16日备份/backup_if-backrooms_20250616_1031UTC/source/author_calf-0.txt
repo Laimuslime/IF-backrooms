@@ -1,0 +1,120 @@
+[[include :backrooms-wiki:component:nuliminal]]
+
+[[module css]]
+:root{
+   --header-title: "C A L F - 0";
+   --header-subtitle: "你曾经访问过他";
+}
+.page-tags::before{
+  content: "标签：" !important;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:credit:start-standalone]]
+= 欢迎访问我的作者页！
+你好，我是//[[*user calf-0]]//，也可以叫我calf、c0，--或者--//[[*user aircraft_flight]]//--取的卡芙琳--，//[[*user shenglvehaowu]]//--取的烤麸--（
+* 男
+* 平常喜欢听听纯音乐
+* 写史大神
+* 喜欢在各个民分逛
+> [[include :backrooms-wiki:component:nuliminal]]
+[[include :backrooms-wiki-cn:credit:end-standalone]]
+[[>]]
+++++++ ↗点击上方红点查看我的个人信息
+[[/>]]
+[[tabview]]
+[[tab 总览]]
++ 层级
+* [[[Level 323]]] - “岛屿使用政策”（翻译）
+* [[[translation-old:level-16|Level 16（旧）]]] - “J. Barry精神病院”（翻译）
+
++ 实体
+* [[[Entity TH-7]]] - “信号草”（翻译）
+
++ 物品
+* 暂无
+
++ 现象
+* 暂无
+
++ 团体
+* 暂无
+
++ 故事
+* [[[hutan-dwirupa|双面森林]]]（翻译）
+
++ 相关人士
+* 暂无
+
++ 设定
+* 暂无
+
++ 隐秘系列
+* 暂无
+
++ 版式/组件
+* [[[component:preview|CROM 预览]]]（翻译）
+
++ 其他
+* [[[akirooms|DrAkimoto的作者页]]]（翻译）
+* [[[art:reydaybanner|Tesseract恭迎横幅]]]（翻译）
+* [[[art:my-entry|Blu的横幅条目]]]（翻译）
+* [[[art:silvers-bannercon-entry|银色横幅参赛]]]（翻译）
+[[/tab]]
+
+[[tab 原创]]
+= 暂无
+[[/tab]]
+
+[[tab 翻译]]
+[[include :scutoidbox:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/level-323/island|number=0]]
+[[=]]
++ [https://if-backrooms.wikidot.com/level-323 Level 323] - “岛屿使用政策”
+[[/=]]
+
+我这几天没检查数据库，没想到那些家伙把那些归档文件给删了。还好我拥有管理员权限，可以把这些文件恢复回数据库里。
+[[>]]
+——匿名用户
+[[/>]]
+= 作者：[[user I_am_a_dragon]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://if-backrooms.wikidot.com/local--files/translation-old:level-16/Level16_cc.jpg|number=1]]
+[[=]]
++ [https://if-backrooms.wikidot.com/translation-old:level-16 Level 16（旧）] - “J. Barry精神病院”
+[[/=]]
+
+= “**Level 16**是一座亦称‘J. Barry精神病院’的废弃精神病院。据目击者称，2003年5月12日，整座精神病院及其内部所有病患和工作人员毫无征兆地切入进后室，仿若‘直接穿透地面，下方空无一物’。”
+
+= 原作者：u/Nerdykiddo4884
+= 重写者：[[user 1000dumplings]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-sandbox-2.wikidot.com/local--files/collab:entity-th/beware|number=2]]
+[[=]]
++ [https://if-backrooms.wikidot.com/entity-th-7 Entity TH-7] - “信号草”
+[[/=]]
+
+= “**Entity TH-7**，亦称**信号草**，是一种外观形似电信宏基塔的实体，常见于[[[http://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]之中。”
+
+= 作者：[[user MrXac]]和[[user Kitachi4Moon]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://if-backrooms.wikidot.com/local--files/author:calf-0/OIP-C.jpeg|number=3]]
+[[=]]
++ [https://if-backrooms.wikidot.com/hutan-dwirupa 双面森林]
+[[/=]]
+
+= “真相永远被迷雾笼罩，无人知晓如何抵达那片禁地。他忽然想起一个念头：若这森林有‘另一面’，是否意味着它正以某种方式颠倒存在着？或许就在脚下？这个念头像毒蛇般啃噬着他的理智。他开始盘算如何在不搅扰土著的情况下探寻，或许该等到夜深人静时？又或是趁集会散场后的混乱？”
+
+= 作者：[[user lemme]]
+[[include :scutoidbox:scrollquote-2]]
+[[/tab]]
+
+[[tab 预告]]
+[[div class="lightblock"]]
+[[image http://backrooms-wiki.wikidot.com/local--files/object-46/snowglobe]]
+= 切出雪球是一种极其稀有却相当实用的物品。Object 46的实例表现为玻璃球体[https://brsandbox-mini.wikidot.com/object-46 ……]
+[[/div]]
+[[/tab]]
+[[/tabview]]

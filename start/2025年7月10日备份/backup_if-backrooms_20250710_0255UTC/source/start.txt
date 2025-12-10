@@ -1,0 +1,498 @@
+[[module rate]]
+[[module css]]
+.page-rate-widget-box .ratedown { display: none!important }
+
+.page-rate-widget-box .cancel { display: none!important }
+
+[[/module]]
+[[div_ class="bannerContainer"]]
+[[div_ class="welcome"]]
+“若汝从后室任意阴暗处切出，汝最终将入IF层群，此处仅有濒临爆炸层级，与绚丽之奇观，倘若汝见某层为绿，愿上帝保佑汝，因为某层一定要发生爆炸……”
+[[/div]]
+[[div_ class="navigator qq"]]
+[[a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=iosS_I6xfmM8z1OyPqGqgC2ABjmSwYzQ&authKey=1xzkHw0mDrP2tW40b%2FKvr1QUcGH47gyYDaFw%2B9qONS2VFvRREiTEkps41LvRgjsR&noverify=0&group_code=901608556"]]QQ交流群[[/a]]
+[[/div]]
+[[div_ class="navigator site-rules"]]
+[[[site-rules|站规]]]
+[[/div]]
+[[div_ class="navigator join"]]
+[[[system:join|加入网站]]]
+[[/div]]
+[[/div]]
+
+[!-- Banner End --]
+----
+[!-- Announcement Start --]
+
+[[div_ class="announceContainer"]]
+[[div_ class="welcome"]]
+欢迎来到 后室IF分站 ！
+[[/div]]
+
+[!-- 公告  --]
+[[include fragment:front-page-news announce=--]]]
+
+[[div_ class="more"]]
+[[collapsible show="想要发布新作品？" hide="找这里就对了！"]]
+在此栏中输入的页面名称中文虽然会在 URL 中忽视，但是还是会成为标题的。
+你可以用这一栏来创建通用页面：
+[[module NewPage size="30" button="建立通用页面"]]
+@@@@
+@@@@
+[[/collapsible]]
+[[/div]]
+[[/div]]
+
+[!-- Announcement End --]
+
+@@@@
+@@@@
+
+
+
+----
+
+[[div class="recentPages"]]
+[!-- Container --]
+
+[!-- RecentPages Start --]
+[[div_ class="pageContainer translation"]]
+[[div_ class="title"]]
+最近新增的所有页面
+[[/div]]
+[[div class="page"]]
+
+[[module ListPages category="-fragment -deleted -credit -code -_admin -forum -admin -record" tags="- " order="created_at desc" separate="no" limit="8"]]
+%%linked_title%% ##blue|【无标签页面】##
+[[/module]]
+
+[[module ListPages category="-fragment -deleted -credit -code -_admin -forum -admin -record" order="created_at desc" separate="no" limit="8"]]
+%%linked_title%%
+[[/module]]
+[[/div]]
+[[div_ class="recently"]]
+[[[system:list-all-pages|所有页面]]]
+[[/div]]
+[[/div]]
+
+
+[[div_ class="pageContainer original"]]
+[[div_ class="title"]]
+最近新增的原创页面
+[[/div]]
+[[div class="page"]]
+
+[[module ListPages category="-fragment -deleted -credit -code -_admin -forum -admin" tags="原创" order="created_at desc" separate="no" limit="8"]]
+%%linked_title%%
+[[/module]]
+
+[[/div]]
+[[div_ class="recently"]]
+[[[most-recently-created|最近新增的所有页面一览]]]
+[[/div]]
+[[/div]]
+
+----
+
+[!-- 精品 --]
+[[include fragment:front-page-features]]
+
+[[/div]]
+[!-- Container --]
+
+[!-- 新闻开头 --]
+[[div_ class="announceContainer"]]
+[[div_ class="welcome"]]
+公告
+[[/div]]
+
+[!-- 公告 --]
+[[include fragment:front-page-news news=--]]]
+
+[[div_ class="archive"]]
+[[[archived-news|旧新闻归档]]]
+
+[[/div]]
+[[/div]]
+[!-- 新闻末尾 --]
+----
+
+[!-- Tools Start --]
+[[div_ class="toolsContainer"]]
+
+[[div_ class="tools"]]
+[[image http://backrooms-wiki.wikidot.com/local--files/start/folder_open.png]]
+[[[guide-hub|指导中心]]]
+[[span class="description"]]指导中心中罗列了本站的所有规则与政策，也能为你提供创作一篇自己的“后室”文章的全部工具！不论是想了解站点，还是打算提笔写作，这里都是你最好的起点。[[/span]]
+[[/div]]
+
+[[div_ class="tools"]]
+[[image https://backrooms-wiki.wikidot.com/local--files/start/sandbox-bucket.png]]
+[http://if-sandbox.wikidot.com/ 后室IF分沙盒]
+[[span class="description"]]你可以在后室IF分沙盒尽情调试你的文章和代码，创作完毕后，你可以在正式发布前将你文章的沙盒链接发布到草稿评判区供其他成员进行批评和建议，也可以选择直接发布，这取决于你自己。[[/span]]
+[[/div]]
+
+[!-- 模板
+[[div_ class="tools"]]
+[[image 图片链接]]
+链接
+[[span class="description"]]描述[[/span]]
+[[/div]]
+--]
+
+[[/div]]
+[!-- Tools End --]
+
+----
+[!-- 建交站点 --]
+[[div_ class="announceContainer international"]]
+[[div_ class="welcome"]]
+建交站点
+[[/div]]
+
+[[div_ class="announcement u"]]
+[[image http://u-backrooms.wikidot.com/local--files/start/u-logo.png]]
++++ 后室U分站
+http://u-backrooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement uf"]]
+[[image http://uf-backrooms.wikidot.com/local--files/start/Image_4766301439360.png]]
++++ 后室UF分站
+http://uf-backrooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement cn"]]
+[[image http://brcreater-pro.wikidot.com/local--files/start/creater-logo-pro]]
++++ 后室建站器Pro
+https://brcreater-pro.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement yt"]]
+[[image https://backroom-yt.wikidot.com/local--files/start/Logo]]
++++ 后室YT分站
+https://backroom-yt.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement dn"]]
+[[image https://backrooms-dn.wdfiles.com/local--files/start/dn-logo]]
++++ 后室DN分站
+https://backrooms-dn.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement cn"]]
+[[image https://imgurl.diadi.cn/imgs/2025/04/1293f9b3c52ad5d3.png
+]]
++++ 捷克语非官方维基
+https://cs-back-rooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement no"]]
+[[image http://if-backrooms.wikidot.com/local--files/start/no-logo]]
++++ 后室NO分部
+https://backrooms-wiki-no.wikidot.com
+[[/div]]
+
+[[div_ class="announcement cn"]]
+[[image https://laimu-lab.wdfiles.com/local--files/files/cy-logo]]
++++ 后室cy层群
+https://backroomscy.fandom.com/zh/
+[[/div]]
+
+[[div_ class="announcement wz"]]
+[[image http://brwz-backrooms.wikidot.com/local--files/start/Logo]]
++++ 后室文卓分部
+https://brwz-backrooms.wikidot.com/
+[[/div]]
+
+[!-- 模板
+[[div_ class="announcement cn"]]
+[[image Logo图片链接]]
++++ 标题
+http://链接.wikidot.com/
+[[/div]]
+--]
+[[/div]]
+------
+[[div_ class="announceContainer international"]]
+[[div_ class="welcome"]]
+其他站点
+[[/div]]
+
+[[div_ class="announcement todv"]]
+[[image http://backrooms-to-dv.wikidot.com/local--files/start/logo]]
++++ 后室TO站及宕
+http://backrooms-to-dv.wikidot.com
+[[/div]]
+
+[[div_ class="announcement s"]]
+[[image https://backroomss.wikidot.com/local--files/start/logo2]]
++++ 后室S分部
+http://backroomss.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement m"]]
+[[image https://mbackrooms.wdfiles.com/local--files/home%3Astart/M.png]]
++++ 后室M分部（内部站点）
+http://m-backrooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement m"]]
+[[image https://mbackrooms.wdfiles.com/local--files/home%3Astart/M.png]]
++++ 后室M分部（外部站点）
+http://mbackrooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement cn"]]
+[[image https://on-clouds.wdfiles.com/local--files/home%3Astart/待定LOGO]]
++++ 云端之上
+http://on-clouds.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement r"]]
+[[image http://r-backrooms-wiki-cn.wdfiles.com/local--files/rate%3Alpoigd5289-logo/ERR]]
++++ 后室R分部
+http://r-backrooms-wiki-cn.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement t"]]
+[[image http://backrooms-t-wiki.wikidot.com/local--files/start/T--Logo.png]]
++++ 后室T分部
+http://tbackroomst.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement z"]]
+[[image http://liurdrooms.wikidot.com/local--files/theme:z-rooms/zlogo.png]]
++++ 后室Z分部
+http://z-backrooms.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement as"]]
+[[image https://backroom-cn.wdfiles.com/local--files/xgzd/as]]
++++ 后室AS分部
+http://asbackroom.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement kp"]]
+[[image https://brsandbox-mini.wdfiles.com/local--files/1000qwertyuiop/kp-black-logo.png]]
++++ 后室KP分部
+http://kp-backrooms.wikidot.com/
+[[/div]]
+
+[!-- 模板
+[[div_ class="announcement cn"]]
+[[image 图片链接]]
++++ 名称
+链接
+[[/div]]
+--]
+[[/div]]
+
+------
+[[div_ class="announceContainer international"]]
+[[div_ class="welcome"]]
+国际站点
+[[/div]]
+
+[[div_ class="announcement cn"]]
+[[image https://7bye.com/hoah/i/2023/12/31/5hsx3.svg]]
++++ 中文维基
+http://backrooms-wiki-cn.wikidot.com
+[[/div]]
+
+[[div_ class="announcement en"]]
+[[image http://scutoidbox.wikidot.com/local--files/front-page:footer/logo.png]]
++++ 英文维基
+http://backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement ru"]]
+[[image http://backrooms-uli.wdfiles.com/local--files/start/ru-logo]]
++++ 俄文维基
+http://ru-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement fr"]]
+[[image http://backrooms-uli.wdfiles.com/local--files/start/fr-logo]]
++++ 法文维基
+http://fr-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement ptbr"]]
+[[image http://backrooms-uli.wdfiles.com/local--files/start/pt-br-logo]]
++++ 葡萄牙文维基
+http://pt-br-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement vn"]]
+[[image http://backrooms-uli.wdfiles.com/local--files/start/vn-logo]]
++++ 越南文维基
+http://backrooms-vn.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement es"]]
+[[image https://7bye.com/hoah/i/2023/12/31/5ha6t.png]]
++++ 西班牙文维基
+http://es-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement pl"]]
+[[image http://pl-backrooms-wiki.wikidot.com/local--files/start/backrooms-pl-bgtr.png]]
++++ 波兰文维基
+http://pl-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement jp"]]
+[[image http://japan-backrooms-wiki.wikidot.com/local--files/start/logo.svg width="30" height="30"]]
++++ 日文维基
+http://japan-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement id"]]
+[[image http://id-backrooms-wiki.wikidot.com/local--files/component:theme/TBID_Logo%20.png width="30"]]
++++ 印尼文维基
+http://id-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement it"]]
+[[image http://backroomssandboxcn.wdfiles.com/local--files/tu-pian-cun-fang/%E6%84%8F%E5%A4%A7%E5%88%A9logo]]
++++ 意大利文维基
+http://it-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement de"]]
+[[image https://de-backrooms-wiki.wdfiles.com/local--files/component%3Atheme/Backrooms%20DE%20Wiki.png]]
++++ 德文维基
+http://de-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement ko"]]
+[[image http://backrooms-wiki-ko.wdfiles.com/local--files/start/logo]]
++++ 韩文维基
+http://backrooms-wiki-ko.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement sr"]]
+[[image https://sr-backrooms-wiki.wdfiles.com/local--files/component%3Atheme/RS-Wiki.png]]
++++ 塞尔维亚文维基
+http://sr-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement ar"]]
+[[image http://ar-backrooms-wiki.wikidot.com/local--files/component:theme/logo.png"]]
++++ 阿拉伯文维基
+http://ar-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement th"]]
+[[image http://th-backrooms-wiki.wikidot.com/local--files/nav:side/thai_logo_yes_3.png]]
++++ 泰语维基
+http://th-backrooms-wiki.wikidot.com/
+[[/div]]
+
+[[div_ class="announcement uli"]]
+[[image https://khoaigarret.wdfiles.com/local--files/backrooms-int-prj/UN-C.png]]
++++ 多语言孵化器
+http://backrooms-uli.wikidot.com/
+[[/div]]
+[[/div]]
+
+[[module css]]
+.footer {
+position: relative;
+display: flex;
+}
+
+.footer:before {
+  content: "";
+  position: absolute; top: 0; left: 0;
+  background-image: url("http://if-backrooms.wikidot.com/local--files/start/Logo");
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.1;
+  -webkit-mask-image: linear-gradient(transparent 0%, black 20%, black 81%, transparent 100%);
+  mask-image: linear-gradient(transparent 0%, black 20%, black 81%, transparent 100%);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.footer ul {
+    list-style: none !important;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    gap: var(--grid-gap);
+    align-items: center;
+    padding: 0;
+    text-align: center;
+}
+
+#page-content .page-watch-options {
+  font-size: 100%;
+}
+[[/module]]
+
+[[div class="footer cool-links"]]
+* {{@@ @@}}
+* {{@@ @@}}
+* {{@@ @@}}
+* {{IF分部Logo由[[*user Laimu42]]基于[[*user EstrellaYoshte]]的设计修改而来。}}
+* {{适用知识共享-版权归属 4.0 授权协议（[http://creativecommons.org/licenses/by/4.0/deed.zh-hans CC-BY 4.0]）。}}
+* {{@@ @@}}
+* {{@@ @@}}
+* {{@@ @@}}
+[[/div]]
+
+[[div class="lightblock"]]
+[[html]]
+<html>
+<head>
+  <title>网站运行时间</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    h4 {
+      color: #333;
+    }
+
+    #timer {
+      font-size: 17px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h4>网站已运行</h4>
+  <div id="timer"></div>
+
+  <script>
+    var startDate = new Date("2025-03-17T00:00:00");
+    function updateTimer() {
+      var currentDate = new Date();
+      var timeDifference = currentDate - startDate;
+      var days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+document.getElementById("timer").innerHTML = days + " 天, " + hours + " 小时, " + minutes + " 分钟, " + seconds + " 秒";
+    }
+    setInterval(updateTimer, 1000);
+  </script>
+</body>
+</html>
+[[/html]]
+------
+[[image http://if-backrooms.wikidot.com/local--files/start/Logo]]
+[[/div]]
+**主页累计访问人数**
+[[=image https://count.littlebell.top/@Laimu_slime?name=Laimu_slime&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto]]
+[[a href="###" class="close-menu"]]
+[[image https://scp-wiki.wdfiles.com/local--files/nav%3Aside/black.png style="z-index=-1; opacity: 0.3;"]]
+[[/a]]
+[[include fragment:front-page-style]]

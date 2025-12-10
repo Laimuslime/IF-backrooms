@@ -1,0 +1,144 @@
+[[include :backrooms-wiki-cn:theme:liminal-greyspace]]
+[[include :scp-wiki:info:start]]
+**作者：**[[*user caikunzitaimei]]。
+[https://s2.loli.net/2022/03/01/CV2geX69JE4TlGo.jpg 图一]、[https://s2.loli.net/2022/03/01/woLRTKqkaelN6bB.jpg 图二]、[https://s2.loli.net/2022/03/01/KbJNirp9dP3WsIG.jpg 图三]、[https://s2.loli.net/2022/03/01/d1iWSgmJyoxKPEr.jpg 图四]、[https://s2.loli.net/2022/03/01/CiJLw2bf8ErzWxl.jpg 图五]、[https://s2.loli.net/2022/03/01/HI5Sa2y84jcKA3p.jpg 图六]和[https://s2.loli.net/2022/03/01/1PUnQWBtZ5VKm4x.jpg 图七]。
+[[include :scp-wiki:info:end]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=4
+]]
+
+**Level IF-247**是后室IF层群的第247层，并且拥有非线性空间和非欧几里得空间的性质。
+
++ 整体描述
+
+**Level IF-247**整体是一个由玻璃纤维墙壁、少数基础家具以及混凝土地板组成的结构复杂的迷宫，层级的天花板上也均匀分布着灯管，这些灯管散发着微弱的光芒，同时也会发出同等频率的嗡鸣声。层级内除**1B区**外的天花板通常会出现无法匹配任何生物的脚步声和哭泣声，目前尚且未知其来源。
+
+另外，虽然该层级墙壁的玻璃纤维均可破坏，但十分不建议流浪者尝试。该层级墙壁上的玻璃纤维往往会更加容易刺伤流浪者，并且再经采样研究发现，其表面附着着少量的未知物种的微生物，附着在皮肤表面会造成严重的烧伤，甚至还会破坏体内的神经，并且已经有报告称有多名流浪者因被该层级的玻璃纤维刺伤而导致引发多种疾病。
+
+层级内的温度通常恒定在19～25℃，其层级具备微弱的WiFi。
+
++ 分区
+
+++ 区域
+
+**区域**区块是大多数流浪者切入该层级来到的区块。该区块是**1A区**、**1B区**、**2A区**、**2B区**的总称，同时也是整个层级最基础的区块。这些区块通常环境类似，光照度以**A字样**表示较亮，**B字样**表示较暗。
+
++++ 1A区
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/CV2geX69JE4TlGo.jpg|
+    caption=广为人知的**1A区**图片。
+]]
+
+**1A区**的玻璃纤维墙壁颜色是为粉色，通常是整个层级亮度最高的小区块。不过怪异的是，这个小区块天花板上的灯管极少，并且已经有实质性证明这些灯管的光照度较弱，因此也不排除**1A区**也存在许多未知的光源。
+
+同时，**1A区**也是基础家具最多的小区块。基础家具包括了桌子、床头柜以及床铺，但多数已被粉色玻璃纤维完全覆盖，已经无法发挥其用途。
+
+**1A区**的地板是干燥的、干爽的，并且总是保持着依晨不染的状态，飘落在该地板上的尘埃会在2～4秒内因未知原因而失去踪影。
+
+**1A区**同时也存在少量的外来实体，包括但不限于[https://Backrooms-wiki-cn.wikidot.com/entity-110 食肉气球]、[https://Backrooms-wiki-cn.wikidot.com/entity-5 肢团]、[https://Backrooms-wiki-cn.wikidot.com/entity-17 爬菌]等的普通实体。
+
++++ 1B区
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/woLRTKqkaelN6bB.jpg|
+    caption=唯一一张已知的**1B区**的照片。
+]]
+
+**1B区**的环境与**1A区**类似，但在地板上和天花板上会随机出现些许的管道，这些管道通常通向[https://Backrooms-wiki-cn.wikidot.com/level-445 Level 445]或[https://Backrooms-wiki-cn.wikidot.com/level-3 Level 3]。另外，在该小区块同样也存在灯管，但大多已被损坏，无法正常使用，只有些许散发着微弱的光芒。
+
+**1B区**的天花板上会随机出现一些通往**狭隙**区块的洞口，这些洞口的出现似乎是毫无征兆的，通常情况都是流浪者的视线离开天花板时才会出现，并且流浪者通过洞口来到**狭隙**区块后，大多洞口也会毫无征兆地闭合。因此，流浪者进入**狭隙**区块后，就很难再回到**1B区**。
+
+**1B区**的实体相比**1A区**会有明显的增加，包括但不限于[https://Backrooms-wiki-cn.wikidot.com/entity-3 笑魇]、[https://Backrooms-wiki-cn.wikidot.com/entity-11 爆酸者]、[https://Backrooms-wiki-cn.wikidot.com/entity-16 麻痹者]等的普通实体。
+
++++ 2A区
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/d1iWSgmJyoxKPEr.jpg|
+    caption=**2A区**的照片。
+]]
+
+**2A区**的墙壁通常呈现为黄色，地板会表现得更加地潮湿，和[https://Backrooms-wiki-cn.wikidot.com/level-0 Level 0]相类似。该小区块的天花板的灯管数量较多，散发出的光足矣照亮**2A区**的所有区域。**2A区**的家具数量是极少的，并且大多的材质极度脆弱，极度不适合流浪者使用。
+
+另外，**2A区**也是整个**区域**区块中唯一存在物资的小区块。同时，该小区块目前没有任何流浪者目击到实体的报告。
+
++++ 2B区
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/HI5Sa2y84jcKA3p.jpg|
+    caption=第一张在**2B区**发现实体的图片，拍摄者下落不明。
+]]
+
+**2B区**天花板的灯管分布与**1A区**相似。家具数量较多，大多可发挥它们的正常用途。地板相比与**2A区**会更加干爽，但仍存在些许较为潮湿的地方。
+
+另外，该小区块是整个层级中实体数量最多的区域，包括但不限于[https://Backrooms-wiki-cn.wikidot.com/entity-66 夺神尸]、[https://Backrooms-wiki-cn.wikidot.com/entity-6 钝人]、[https://Backrooms-wiki-cn.wikidot.com/entity-5 肢团]、[https://Backrooms-wiki-cn.wikidot.com/entity-13 传送者]等的普通实体。
+
+据报告称，在天花板上方除存在未知来源的脚步声外，还存在些许低语声。这些低语声有部分流浪者猜测这是[https://Backrooms-wiki-cn.wikidot.com/entity-53 狭隙生物]的声音，此论未经证实。
+
+++ 边界
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/KbJNirp9dP3WsIG.jpg|
+    caption=一张**边界**的图片。
+]]
+
+**边界**区块是较难发现的，环境通常掺杂着**区域**区块的所有元素，环境会显得更加破败。天花板上分布的灯管极为混乱，地上散步着各种颜色的玻璃纤维以及坚硬的土块，温度也随之降低些许。
+
+**边界**区块的墙壁也存在少许的管道，这些管道通常不会同向[https://Backrooms-wiki-cn.wikidot.com/level-445 Level 445]和[https://Backrooms-wiki-cn.wikidot.com/level-3 Level 3]，而是通向其他的区块，若通过这些管道到达其他区块，则因来时的路毫无征兆地消失而无法原路返回，具体原因未知。
+
+另外，在该区块没发现任何的实体。但鉴于该区块的性质，实体的存在也是有可能性的。
+
+++ 狭隙
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/CiJLw2bf8ErzWxl.jpg|
+    caption=在**狭隙**目击到**狭隙生物**的图片。
+]]
+
+该区块位于**区域**区块的上方，且只可通过**1B区**的洞口到达。**狭隙**区块类似于房屋的狭隙区域，但**狭隙**区块的环境会显更加压抑。
+
+**狭隙**区块的灯管会显得比其他区块更加强烈，是为整个层级光照最充足的区块。**狭隙**区块的地板质感类似于石头，但经过采样研究证实，该物质与坚硬的土块类似。
+
+该区块同时也存在该层级特有的实体[https://Backrooms-wiki-cn.wikidot.com/entity-53 狭隙生物]，该实体具有智慧，若在该区块阅览该实体的文档，则该实体便会将该名流浪者视为目标，并采用各种智慧手段捕食流浪者。因此，流浪者们需多加警惕。
+
+++ 未知
+
+[[include component:image-block
+    name=https://s2.loli.net/2022/03/01/1PUnQWBtZ5VKm4x.jpg|
+    caption=其中一张**未知**的图片。
+]]
+
+**未知**区块的具体位置未知，由目前来看，只有一名流浪者发现了该区域并拍摄了该区块的照片。
+
+从拍摄的图片来看，该区块会显得比**边界**区块更加地破败。墙壁和地板均由混凝土结构为主，地板上会散步着已损坏的家具以及一些亮度较强的台灯。
+
+除此之外，该区域似乎没有任何的实体。
+
+以上便是**未知**区块所有已知信息，若有流浪者获得该区块的其他信息，请及时上报。
+@@ @@
++ 基地、前哨和社区
+
+该层级不存在任何已知的基地、前哨和社区。
+
++ 入口与出口
+
++++++ 入口
+
+* 在[https://Backrooms-wiki-cn.wikidot.com/evel-445 Level 445]通过爬进一个通风口来到此层级。
+
+* 据报告称，在[https://Backrooms-wiki-cn.wikidot.com/level-3 Level 3]可通过切入层级的天花板来到该层级的**狭隙**区块，但此方法并未证实。
+
++++++ 出口
+
+* 原路返回。
+
+* 进入一个没有噪声的通风口即可来到[https://Backrooms-wiki-cn.wikidot.com/level Level 3]或[https://Backrooms-wiki-cn.wikidot.com/level-445 Level 445]。
+
+* 在**狭隙**区块行进至一定的距离即可来到[[[level-247-1|Level 247.1]]]。
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-246]]] | Level IF-247 | [[[Level IF-248]]] >>
+[[/=]]
+[[/div]]

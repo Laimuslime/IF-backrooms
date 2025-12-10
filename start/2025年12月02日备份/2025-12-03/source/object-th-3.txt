@@ -1,0 +1,85 @@
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+你好心的邻居--在开派对 :)--
+-[[*user Kitachi4Moon]]
+
+原名是“มะหวาน（呃……这该怎么翻译呢？ :/）， 但[[*user MrXac]]建议改成“ผลเหมันต์ （英文名是Frozen Fruits）” + 批判（然后也也也也也也也也也也也把这个翻译了 :3）
+[[*user Guy777]]，给这个过了绿灯。
+
+甜甜的冰。
+
+中译者：[[*user calf-0]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:translations
+|lang=th en
+|style=float:right;
+]]
+
+[[include :backrooms-wiki-cn:component:pts
+|number=3
+|class=冰果
+|aoe=出自A.C.T.
+|frequency=2/5
+|duration=3/5
+|intensity=是
+|title-component=编号
+|title-sub=物品分级系统
+|title-class=名称：
+|title-one=罕见度
+|title-two=实用性
+|title-three=可交易
+]]
+
+@@@@
+------
+[[=]]
++ 描述
+
++++ __整体外观__
+[[<]]
+[[include component:image-block
+|name=https://upload.wikimedia.org/wikipedia/commons/8/80/Ice_ball_over_liquid_nitrogen.jpg
+|caption=一个B.C.G.研究实验室内的**冰果**。
+|align=right
+]]
+**Object TH-3**亦称**“冰果”**因其外观类似于雪球。
+
+该物品是[[[entity-th-12|Entity TH-12 “无叶寒冰”]]]的产物，该实体每月都会结果。该物品的外观呈现出圆润的白色球体，外层包裹着果壳与内部果肉。**冰果**的果壳触感柔软且略带粗糙，像是被手工捏成的雪球，可以像大多数水果保持完整形态与外壳结构。其内部由紧密贴合果壳轮廓的冰晶构成[[footnote]] 此些冰晶是新鲜**冰果**被采摘后自然形成的。它们会随着环境温度逐渐融化，但在1至2周内仍能保持固态。[[/footnote]]。果壳内部包裹着粘稠湿润的**冰果**果肉，其内部蕴含着无叶冰的蜜露。此种蜜露的甜度远超市体树液的平淡滋味，丝毫不带酸涩感，风味更近似于红毛丹的香甜。
+
+冰果还会在0~10℃的温度范围释放冷气，与无叶冰的性质类似。不过与它们的源头不同的是，该物品能够根据周围环境的热量自然融化，过程通常需要2至3天。在此过程中，物品内部的蜜露不会发生任何变化。
+[[/<]]
+
++++ __整体性质__
+[[<]]
+如前所述，**冰果**口感清甜且可安全食用。**Object TH-3**的糖分适中，其营养价值相当于半瓶[[[object-1|杏仁水]]]。该物品的低温性质有助于缓解暂时性疲劳，因而成为了流浪者常备的物品之一。
+
+不过，若一次大量食用，会导致食用者血糖骤升，并引发短暂性冰激凌头痛，即食用冷冻食物后常见的头部刺痛感。
+[[/<]]
+
++ 交易
+[[<]]
+[[include component:image-block
+|name=https://upload.wikimedia.org/wikipedia/commons/e/e5/Pyramid_of_Snowballs_Large.png
+|caption=许多**冰果**是通过共谋商人协会采集收获。
+|align=right
+]]
+由于大多数**Object TH-3**都生长在[[[entity-th-12|无叶寒冰]]]上[[footnote]]在某些层级也可能发现**冰果**，但它们在采集前就可能融化了。[[/footnote]]，外加严格的实体管控机制，**冰果**的月产量十分有限[[footnote]]具体来说，若排除野生采集仅计算人工培育部分，每月约产出500颗，全年产量约在3500~5000颗之间。[[/footnote]]。该物品可进行交易，无论是作为生存补给，还是用于装饰，例如将**冰果**点缀在甜点上。交易活动由共谋商人协会管理，虽然规则并不严格，允许普通流浪者自由交易该物品。不过，为保障公平交易并防止价格欺诈，协会建议源自无叶冰的**冰果**最好在设有协会据点的层级进行交易，例如[[[level-th-10-1|Level TH-10.1]]]，此些地方的贸易环境更加稳定。两颗冰果可兑换一瓶满装的杏仁水。
+[[/<]]
+
++ 发现
+[[<]]
+**Object TH-3**与[[[entity-th-12|无叶寒冰]]]是在同一时间发现的。人们认为它们只是附着在无叶冰原树干上的雪球，后来又被误认为它们只是普通的冰柱。直至后室保护协会成立并对TH层群重新展开研究后，发现了**冰果**的存在。
+[[/<]]
+[[/=]]
+
+@@@@
+[[footnoteblock]]
+@@@@
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[object-th-2|Object TH-2]]] | Object TH-3 | [[[object-th-4|Object TH-4]]] >>
+[[/=]]
+[[/div]]

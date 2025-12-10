@@ -1,0 +1,239 @@
+[[module css]]
+/*隐藏页面标题*/
+#page-title{
+display:none;
+}
+[[/module]]
+[[module css]]
+@import url("data:text/css;charset=UTF-8;base64,Ym9keSBkaXYjcGFnZS1vcHRpb25zLWJvdHRvbSBhI2hpc3RvcnktYnV0dG9uLApib2R5IGRpdiNwYWdlLW9wdGlvbnMtYm90dG9tLTIgYSN2aWV3LXNvdXJjZS1idXR0b24sCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGZvcm0jaGlzdG9yeS1mb3JtLTEsCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGRpdi5wYWdlLXNvdXJjZSB7CiAgICBkaXNwbGF5OiBub25lICFpbXBvcnRhbnQ7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0sCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gKiB7CiAgICBkaXNwbGF5OiBpbmxpbmU7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0sCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gbGkgewogICAgbWFyZ2luOiAwOwogICAgcGFkZGluZzogMDsKICAgIGxpbmUtaGVpZ2h0OiAxLjU7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gbGkgYSB7CiAgICBjb2xvcjogYmxhY2s7CiAgICBjb2xvcjogcmdiKHZhcigtLXN3YXRjaC10ZXh0LWdlbmVyYWwpKTsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZSAhaW1wb3J0YW50OwogICAgY3Vyc29yOiB0ZXh0Owp9Cgp1bFtzdHlsZT0ibWFyZ2luOiAwOyJdIC5mb2xkZWQgZGl2W3N0eWxlPSJtYXJnaW46IDA7Il0sCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gLnVuZm9sZGVkIGRpdi5mb2xkYWJsZS1saXN0LWNvbnRhaW5lciB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBsZWZ0OiAtOTk5OXJlbTsKfQoKdWxbc3R5bGU9Im1hcmdpbjogMDsiXSAudW5mb2xkZWQgZGl2W3N0eWxlPSJtYXJnaW46IDA7Il0gcCB7CiAgICBtYXJnaW46IDA7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gLnVuZm9sZGVkIGRpdltzdHlsZT0ibWFyZ2luOiAwOyJdOjpiZWZvcmUgewogICAgY29udGVudDogIlw2NzJjXDdhZDlcNzY4NFw2Njk3XDUzZjdcNTE3MVw2NzA5XDRlMjRcNmJiNVxmZjBjXDhmZDlcNjYyZlw2Njk3XDUzZjdcNzY4NFw3YjJjXDRlMDBcNmJiNVxmZjFhIjsKfQ==");
+[[/module]]
+[[module css]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+}
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+.invis {
+    opacity: 0;
+}
+.invis:hover {
+    opacity: 1;
+}
+[[/module]]
+[[div class="style-block"]]
+
++ 通用删除流程
+
+通用删除流程适用于{{指导}}{{作者}}{{竞赛}}{{活动}}{{组件后端}}{{段落}}{{掩藏页}}以外的所有{{原创}}页面。
+
+本站原创文章的删除线为 **-2** 分[[footnote]] 扣除原作者评分波动；如合著文章，则扣除所有合著者评分。下文中涉及分数的部分同样如此。 [[/footnote]]。
+
+当页面分数低至 **-2** 分或更低时，通用删除流程启动。职员将发布一条删除宣告，其中包含一个 72 小时的倒计时。如在倒计时结束后，没有成员申请重写本文，文章评分亦没有回升至 -2 分以上，则本文将被删除，其源代码会被职员归档至删除通告中。
+
+当页面分数低至 **-10** 分或更低时，倒计时将缩短至 24 小时。
+
+当页面分数低至 **-30** 分或更低时，倒计时将缩短至 0 小时。
+
+在倒计时期间，所有非作者成员都可以在删除宣告下申请重写本文。关于重写的详细规则，详见[https://backrooms-wiki-cn.wikidot.com/rewrite-policy#toc11 重写政策 2.1 条：进入删除倒计时的文章]。
+
+[[/div]]
+
+[[div class="style-block"]]
+
++ 长期低分删除
+
+长期低分删除流程适用于{{指导}}{{作者}}{{竞赛}}{{活动}}{{组件}}{{版式}}{{总览}}{{组件后端}}{{段落}}{{掩藏页}}{{补充材料}}以外的所有{{原创}}页面。
+
+本站原创文章的合格线为 **+1** 分。
+
+当页面分数低于 **+1** 分，且发布时间超过 **30** 天时，长期低分删除流程启动。职员将发布一条删除宣告，其中包含一个 72 小时的倒计时。如在倒计时结束后，没有成员申请重写本文，文章评分亦没有回升至 +1 分以上，则本文将被删除，其源代码会被职员归档至删除通告中。
+
+在倒计时期间，所有非作者成员都可以在删除宣告下申请重写本文。关于重写的详细规则，详见[https://backrooms-wiki-cn.wikidot.com/rewrite-policy#toc11 重写政策 2.1 条：进入删除倒计时的文章]。
+
+[[/div]]
+
+[[div class="style-block"]]
+
++ 翻译删除流程
+
+翻译删除流程适用于{{段落}}以外的所有非{{原创}}页面。
+
+当职员判定某篇翻译存在质量低下 / 篡改原文等问题时，翻译删除流程启动。职员将发布一条删除宣告，其中包含一个 24 小时的倒计时。如在倒计时结束后，没有成员提出异议，则本文将被删除，其源代码会被职员归档至删除通告中。
+
+[[/div]]
+
+[[div class="style-block"]]
+
++ 自删流程
+
+自删流程适用于所有页面。
+
+当发布者决定删除自己发布的页面时，自删流程启动。发布者可以在页面底部的选项按钮中选择 **+选项**，随后点击**删除**，选择**重新命名/移动**。这一行为会将文章移动至 deleted: 分类下。
+
+在一段时间后，职员将删除 deleted: 分类下的页面。自删页面的源代码不会被留档。
+
+[[/div]]
+
+[[div class="style-block"]]
+
++ 直接删除流程
+
+对于以下特殊的页面，职员会直接将之删除。直接删除的页面亦不会留档源代码。
+
+[[div class="quote-block"]]
+* 空页面
+* 占用翻译列表的页面（例如：页面名称为 level-0、entity-414、object-999 的页面）
+* 超出现有层级列表序号的文章 （例如：页面名称为 level-uf-10000、entity-uf-10000、object-uf-999 的页面）
+* 仅含示例代码或模板的页面（例如：一个含有无效图片的图片块、层级创作模板、仅含评分模块的页面）
+* 无效代码页（例如：暴露于外的未运行代码、未能成功生效的 @@[[include]]@@ 模块）
+
+* 测试页（例如：将本站用作沙盒的页面、无意义代码页面）
+* 并非原创的{{原创}}标签页面（例如：使用AI绘画的{{艺术作品}}）
+* 明显是在耍厨的乱投稿行为（例如：对已删除的文章不加修改就多次重投，试图得到更多的downvote或想蒙混过关）
+* 对应原文分数已低于0分[[footnote]]除非已由职员使用{{_低分删除豁免}}标签标记，或已联系职员以确认归旧/归档的。[[/footnote]]、不符合原站点发布政策、明显不符合本站基本内容规范的翻译页面；
+* 没有父页面的{{段落}}{{补充材料}}或{{组件后端}}
+* 失效的{{掩藏页}}
+* 不满足作者页要求的{{作者}}页面
+* 未经职员许可发布的{{指导}}{{论坛}}{{工房}}或{{功能}}
+* 未在沙盒站上打草稿的文章（不包括翻译、搬运文章）
+* 其他，由站务组所评判
+
+[[/div]]
+
+[[/div]]
+
+[[module css]]
+.style-block tt,
+.footnotes-footer tt,
+#odialog-hovertips tt {
+    --wght: 600;
+    --mono-wght: 600;
+    font-family: var(--body-font);
+    background: rgba(var(--medium-accent), 0.8);
+    color: rgba(var(--pale-gray-monochrome));
+    padding: 1px 0.25em;
+    border-radius: 0.2em;
+    margin: 0 0.2em;
+    white-space: nowrap;
+    font-size: 85%;
+    vertical-align: text-top;
+/*
+    background: rgba(var(--dark-accent), 0.2);
+    color: rgba(var(--black-monochrome));
+
+*/
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 2em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block p {
+    margin-top: 0.5em;
+}
+
+div.style-block h1 {
+    margin: var(--base-font-size) 0;
+    text-align: center;
+}
+
+div.style-block h2,
+div.style-block h3 {
+    display: flex;
+    margin: 1em 0 0;
+    align-items: flex-start;
+}
+
+div.style-block h2 span,
+div.style-block h3 span {
+    margin: 0;
+    --wght: 700;
+    font-size: var(--base-font-size);
+    font-family: Recursive, "Noto Sans SC";
+}
+
+div.style-block h2::after,
+div.style-block h3::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.75em;
+    border-bottom: 1.5px solid rgb(var(--white-monochrome));
+}
+
+div.style-block ul {
+    margin: 0.5em 0 2em;
+    padding-left: 0;
+}
+
+div.style-block > ul:last-of-type {
+    margin-bottom: 0;
+}
+
+div.style-block ul li {
+    margin-bottom: 1em;
+}
+
+div.style-block ul li.folded,
+div.style-block ul li.unfolded {
+    margin-bottom: 0 !important;
+}
+
+div.style-block ul li::marker {
+    font-size: 0;
+}
+
+div.style-block div.quote-block {
+    background: rgb(var(--white-monochrome));
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block div.quote-block p {
+    margin: 1em 0;
+}
+
+div.style-block div.quote-block ul {
+    margin: 1em 0 1em 1.5em;
+    list-style-type: disc;
+}
+
+div.style-block div.quote-block ul li::marker {
+    font-size: 1em;
+}
+
+div.footnotes-footer { display: none }
+
+@media only screen and (max-width: 768px) {
+    div.style-block h2 span,
+    div.style-block h3 span {
+        font-size: calc(0.9 * var(--base-font-size));
+    }
+}
+[[/module]]

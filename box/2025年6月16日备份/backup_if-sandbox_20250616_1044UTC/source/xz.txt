@@ -1,0 +1,14 @@
+[[include :backrooms-wiki-cn:theme:super-liminal
+||daytime=a
+||hide-title=a
+]]
+
+[[include component:level-class
+|class=宜居
+|one=安全稳定
+|two=实体绝迹
+|three=长期聚集地
+|lang=cn
+]]
+
+Level IF–xxx是后室IF层群的第xxx层

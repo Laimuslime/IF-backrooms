@@ -1,0 +1,46 @@
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+
+[[include component:image-block
+|name=http://calf-0-sandbox.wikidot.com/local--files/files/gl6YOep.jpg
+|caption=**Level 23**的主要区域。
+|align=right
+]]
+
+[[include component:image-block
+|name=http://calf-0-sandbox.wikidot.com/local--files/files/jMFOFBf.png
+|caption=工厂上层区域的窗户。
+|align=right
+]]
+
+**Level 23**是后室的第24层，呈现出一座杂草丛生的废弃工厂。
++ **描述**
+**Level 23**是由一位不明流浪者在[[[Level 18]]]想象废弃工厂时所发现。此层级的面积至少有300平方千米，实际上可能更大。此层级内尚未发现杏仁水。该工厂似乎曾在某个时期处于运营状态，因为部分机械装置仍能运作，推测曾是用于生产枪械。
+
+霉菌所释放的信息素与空气中的硫酸使得深入探索此层级非常危险，若无防毒面具更是如此。覆盖工厂的植物主要是苔藓和藤蔓。
+
++ **基地、前哨与社区**
+
++++ 放逐者
+由 --17-- 14[[footnote]]我很抱歉，是他们先开枪的——刘队长（至少我抢到了一把AK-47、一把-74、一把AKM和两把手枪）。[[/footnote]]人组成的团体，近乎收刮走了工厂里所有剩下的武器和子弹。他们还控制了所有可以运转的设备，正试图制造更多枪械。这群人很不友善，不接受交易请求，据说以前曾是B.N.T.G.的成员。
+
++ **入口与出口**
+
+为进入，你需要在[[[Level 18]]]想象一座废弃工厂，为离开，则只需通过切出操作（不过你可能会进入一个负数层级）。
+------
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+~ [[*user KingSheep17]]
+由[[[https://web.archive.org/web/20220531140904/http://backrooms-wiki.wikidot.com/1000dumplings|1000dumplings]]]重写
+由[[[https://www.wikidot.com/user:info/calf-0|calf-0]]]译就
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 22]]] | Level 23 | [[[Level 24]]] >>
+[[/=]]
+[[/div]]
+
+[[footnoteblock]]

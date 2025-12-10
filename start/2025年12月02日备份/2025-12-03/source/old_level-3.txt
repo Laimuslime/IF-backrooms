@@ -1,0 +1,48 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=3
+]]
+
+[[include component:image-block
+    name=http://calf-0-sandbox.wikidot.com/local--files/files/Level-3.jpg|
+    caption=**Level 3**的一条走廊。
+]]
+
+**Level 2**是后室的第3层[[footnote]]**译注：**原文如此。[[/footnote]]，也是理论上最有可能进入的初始层级。
+
++ **描述：**
+在**Level 3**，房间比下层区域更加狭窄，走廊也更加令人窒息。在此处，你很容易发现各种物品，其中有些可能极具价值，例如打火机和武器。此外，**Level 3**的WiFi也是最强的。
+
+这个层级非常危险，栖息着大量实体。[[[entity-8|猎犬]]]、[[[entity-9|无面灵]]]、[[[entity-15|悲尸]]]、[[[entity-4|死亡飞蛾]]]、[[[entity-10|窃皮者]]]、[[[entity-6|钝人]]]、[[[entity-3|笑魇]]]、[[[entity-5|肢团]]]与[[[entity-11|爆酸者]]]似乎都栖息于此。墙壁和天花板上密布管道，是它区别于之前层级的显著特征。
+
+建议尽快前往下一个层级。不过，**Level 3**散落着许多有用物品。若你足够谨慎，停留下来收集物品或许能带来优势。此处同时也是目前确认存在微笑剂的唯一层级。
+
++ **基地、前哨与社区**
+++ [[[the-m-e-g|M.E.G.]]] Gamma基地
+* M.E.G.第三大主要基地
+* 驻留人员约50名
+* 曾遭受部分实体的袭击。
+
++ **入口与出口：**
++++ 入口
+为进入，你需在[[[Level 2]]]找到一扇未上锁的门。
+
++++ 出口
+离开**Level 3**的唯一方式即是搭乘电梯进入[[[Level 5]]]，少数情况下会进入[[[Level 4]]]。你也可以返回[[[Level 2]]]。
+------
+
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+本条目的原作者是Reddit用户u/M654z
+本条目的翻译者是wikidot用户calf-0
+[[/collapsible]]
+
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 2]]] | Level 3 | [[[Level 4]]] >>
+[[/=]]
+[[/div]]

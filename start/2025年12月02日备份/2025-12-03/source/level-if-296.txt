@@ -1,0 +1,355 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[include :brsandbox-mini:pc171]]
+[[include :backrooms-wiki:component:centered-title]]
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+.glitch {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾来过这里";
+}
+[[/module]]
+[[module css]]
+
+:root {
+    --bb-black: 0, 0, 0;
+    --bb-white: 255, 255, 255;
+}
+
+
+
+.whiteblock {
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  font-family: 'Instrument Serif', 'Noto Serif SC', serif;
+}
+
+.styled-collap .collapsible-block {
+    margin: 0.5rem 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, padding 0.4s ease, opacity 0.4s ease;
+    font-weight: bold;
+}
+
+.styled-collap a.collapsible-block-link {
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    background-color: rgb(var(--bb-white));
+    color: rgb(var(--bb-black));
+}
+
+.styled-collap .collapsible-block-content {
+    padding: 0.01rem 1rem;
+    background-color: rgb(var(--bb-black));/
+    color: rgb(var(--bb-white));
+    border: 0.125rem solid rgb(var(--bb-white));
+    border-top: none;
+    transition: all 0.3s ease;
+}
+
+.styled-collap .collapsible-block-folded a.collapsible-block-link::before {
+    margin: 0 0.2em 0 0.4em;
+    content: "▶";
+    color: rgb(var(--bb-black));
+    display: inline-block;
+}
+
+.styled-collap .collapsible-block-unfolded a.collapsible-block-link::before {
+    margin: 0 0.2em 0 0.4em;
+    content: "▼";
+    color: rgb(var(--bb-black));
+    display: inline-block;
+}
+
+/* div */
+.rounded {
+    background-color: #696969;
+    border-radius: 4px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.styled-quote-2 {
+   background-color:rgb(var(--bb-black));
+   border-left: 0.2rem solid rgb(var(--bb-white));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+
+/* end */
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(2px); }
+  50% { transform: translateX(-2px); }
+  75% { transform: translateX(1px); }
+  100% { transform: translateX(0); }
+}
+
+.shake-text {
+  display: inline-block;
+  animation: shake 0.5s ease-in-out infinite;
+}
+[[/module]]
+[[module css]]
+#u-active .activechild {
+    margin: 12px;
+}
+
+#u-active:target .activechild {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+#u-active:target .activechild .activechildschild {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#u-active:target .activechild .activechildschild * {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 0 500px black;
+    height: 100%;
+    color: black;
+height: 100vh;
+width: 100vw;
+    font-size: 50rem;
+    line-height: 1rem;
+    margin: 0;
+
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    /*
+    -moz-transform: translate(-50%, -25%);
+    -ms-transform: translate(-50%, -25%);
+    -webkit-transform: translate(-50%, -25%);
+    transform: translate(-50%, -25%);
+    */
+
+    -moz-transition: all 5s linear;
+    -o-transition: all 5s linear;
+    -webkit-transition: all 5s linear;
+    transition: all 5s linear;
+
+    z-index: 999;
+    pointer-events: none;
+}
+
+/* image shit */
+
+#u-active .activebastardchild {
+    display: none;
+    opacity: 0;
+}
+
+#u-active:target .activebastardchild {
+    display: block;
+    opacity: 1;
+    position: fixed;
+    z-index: 999;
+width: 40%;
+height: 40%;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+
+
+    animation-duration: 10s;
+    animation-name: imagein;
+}
+
+@keyframes imagein {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+[[/module]]
+[[=]]
+[[div class="fader"]]
+[[=]]
++ [[size 140%]][[span class="glitch"]]—— Level IF-296 ——[[/span]][[/size]]
+[[/=]]
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+[[=]]
++++++ {{**人眼相较于其余动物之眼来说，是错误的————视网膜的反装的确给了人类些许便利，图像更为清晰，世界更为鲜明，视觉处理效率也更为快速。然而，当周围的环境从光亮转为黑暗，短时间内，人类仅能看见一片黑暗，随时间流逝才可看见物体模糊的轮廓……人类的眼睛给予了人类万般色彩与清晰之像，却换取了脱落的风险与夜视能力低下......**}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ [[span style="filter: blur(3.5px)"]][[span class="Wicked"]][[span style="background: linear-gradient(to top, black,gray,black); -webkit-text-fill-color: transparent; -webkit-background-clip: text;background-color:#000000;"]]{{**自然给予了人类聪明的大脑**}}[[/span]][[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ [[span style="filter: blur(3.5px)"]][[span class="Wicked"]][[span style="background: linear-gradient(to top, black,gray,black); -webkit-text-fill-color: transparent; -webkit-background-clip: text;background-color:#000000;"]]{{**可人类却拿它来破坏他们的母亲**}}[[/span]][[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ [[span style="filter: blur(3.5px)"]][[span class="Wicked"]][[span style="background: linear-gradient(to top, black,gray,black); -webkit-text-fill-color: transparent; -webkit-background-clip: text;background-color:#000000;"]]{{**......**}}[[/span]][[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ {{**当流浪者发觉自己周围的灯光开始暗淡，直至仅能看见些许星点之光，沉沦之世便会显现于流浪者的眼帘，混沌不堪，繁乱至极。变化不断，交融相错。光芒，不过空间中的无用之物；人类，不过空间中的蝼蚁之物。无一人凭借运气侥幸逃脱炼狱，而对于空间信息，再不知更多，再无法探寻。**}}
+@@@@
+[[/=]]
+[[/div]]
+[[=]]
+[[size 350%]]
+[[div class="fader"]]
+。
+。
+。
+[[/div]]
+[[/size]]
+[[/=]]
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/1021/mmexport1754973075005.jpg
+|caption=**终焉之世，混沌之境**
+|align=center
+|width=600px
+]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=不适用
+|image=
+|color=#000000
+|one=极不安全
+|two=永恒
+|three=极端环境危害
+]]
+[[div class="darkerblock"]]
+* {{尘埃与碎片不断交融，既而分裂，往复循坏。微末星光，点点滴滴，散落各处。时而熄灭，时而亮起。尘埃与碎片的拼凑，或许不断凑成为此处的大概。初入此地时，所有流浪者均感到一阵强烈的窒息感贯穿全身，然而仅在瞬间内便彻底消散，无影无踪。可怜的流浪者们无法行动自如，宛如被一副无形的力量拉扯，欲动而无可奈何。空间不断转换，稳定程度不一，流浪者的行动被加以限制，空间性质亦愈发复杂。而摄像机所记录的，便是此般景色。}}
+@@@@
+* {{混沌空间从未停止转换，人眼所映射出的虚影或许并非真实。深陷黑暗泥潭之中，直至怀疑自身，怀疑空间，怀疑世界，怀疑一切。随后星光消散，万物俱灰，沉寂于黑暗桎梏中，无法自拔。望，黑暗与混沌相互交融；听，无助呼喊穿彻寂静空岭；思，分秒之后的悲惨命运；忆，往事如流水不断，轻柔透明。流浪者不过尘埃一粒，不过毫无光辉之星点而已，无用便消散于世。天地分明，暗界空灵......}}
+[[/div]]
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/1021/IMG_20250812_123150.jpg
+|caption=**幽蓝之界，绝望之狱**
+|align=center
+|width=600px
+]]
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+[[=]]
+@@@@
++++ {{**流浪者的生命也随之进入倒计时**}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ {{**它在观望，观望随意闯入的入侵者**}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ {{**......**}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ {{**它又怎会放过你？**}}
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+* {{第九秒时————星光点滴，闪烁不断。流浪者转为尘埃，飘向空中，而无用挣扎则导致消散的加速。混沌交融、碰撞，皮肉撕裂与骨头崩响之声，响彻空谷。坠落于此的人们哀嚎，痛苦呻吟。撕裂之痛传遍全身，他们或许在心中祈祷光明，或许妄图归于黑暗。}}
+@@@@
+* {{第十秒时————幽静空谷不再传来呐喊，肉泥与血浆相互融合，被撕碎为粉末，抛入深渊。一切声响在顷刻间戛然而止。神幻莫测，错误频发。它将本不属于此处的一切赶尽杀绝，拖入深渊。无辜灵魂，堕入炼狱。哀鸿遍野，无余低音。神眼正在欣赏自己的战利品，等待下一位误入此地的生物。以其垂死挣扎为乐，以其无辜死亡为舞。}}
+@@@@
+[[/div]]
++++ **入口**
+* {{**若流浪者发觉周围场景向黑暗转变，则有小几率进入该空间**}}
++++ **出口**
+* {{**未知**}}
+[[=]]
+[[size 350%]]
+[[div class="fader"]]
+。
+。
+。
+[[/div]]
+[[/size]]
+@@@@
+[[div id="active"]]
+[[div class="activechild"]]
+[[div class="activechildschild"]]
++++ [[a href="#u-active"]]......[[/a]]
+[[div class="activebastardchild"]]
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/abcdefg/IMG_20250705_181221.jpg
+|caption= [[size 200%]][[/size]]|
+|width=100%
+]]
+[[/div]]
+[[/div]]
+[[/=]]
+@@@@
+------
+[[=]]
+[[module rate]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user XiaoZi666]]
+296再版，于2025.10.18重写完毕
+图一图二均为[[*user XiaoZi666]]自摄，并经过后期修图
+图三链接：https://pixabay.com/zh/illustrations/alien-sci-fi-extra-terrestrial-9658784/，并经过后期修图（同阈静图五）
+[[/collapsible]]
+[[/=]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-295]]] | Level IF-296 | [[[Level IF-297]]] >>
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]

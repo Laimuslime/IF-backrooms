@@ -1,0 +1,59 @@
+[[include :backrooms-wiki-cn:theme:super-liminal]]
+[[include :backrooms-wiki-cn:component:translations
+|lang=pl en
+|style=float:right;
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:image-block name=http://backrooms-pl-piaskownica.wikidot.com/local--files/obiek-10-translation/Bottle
+|caption=**在瓶中发现的冷树脂**]]
+
++++ **描述：**
+
+**冷树脂**是一种质地类似于树胶的物品。无论所处环境如何变化，该物品始终能保持在-4°C的低温。冷树脂通常被储存在燃烧罐、保温瓶与玻璃瓶内。
+
+冷树脂可通过容器表面因温差凝结的水珠识别，不过取决于环境温度。若所处层级气温较低。便只能通过冷树脂的颜色识别。冷树脂共有三种类型：
+
+* 冷树脂。
+* 冷杏仁树脂。
+* 冷固态树脂。
+
++++ 性质：
+
+* **冷树脂**呈现出粘稠的灰黑色。饮用爆料冷树脂将会因体温过低而死亡。某些团体会通过特殊工艺将其转化为冷却剂。此外，冷树脂的气味可有效驱赶[[[http://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]。
+
+* **冷杏仁树脂**与冷树脂性质类似，不过可安全饮用。该物品具备治疗烧伤的特性。将树脂涂抹在烧伤部位，会产生短暂而剧烈的疼痛，待疼痛消退后烧伤即可痊愈。但仅适用于一度或二度烧伤，三度或四度等严重烧伤无法通过该物品治疗。冷杏仁树脂是由将冷树脂置入沸腾的杏仁水当中制成。混合过程约需1小时，期间会逐渐呈现出淡蓝色。
+
+* 将冷树脂置入容器外时。会逐渐凝固以形成**冷固态树脂**。固态状仍然能保留冷却效果。并可作为后室高温区域的救生装备，只需与皮肤接触，异常的冷却效果就会扩散至全身。
+
++++ Object PL-10的常见用途
+
+* 治疗烧伤。
+* 跨维度旅行社将冷杏仁树脂作为饮料添加剂使用。
+* 冷固态树脂可用于对抗[[[Entity PL-16]]]。
+* 利用冷固态树脂，可制造出对温血实体有效的弹药。
+
++++ 发现
+
+该物品是[[[ |波兰后室科学家集团]]]在[[[Level PL-65.|Level PL-65]]]搜寻怒之先驱[[footnote]]**译注：**原文为“Harbinger of Wrath”。[[/footnote]]的栖息地时发现。他们在补给箱内发现了一瓶冷杏仁树脂。[[[http://backrooms-wiki-cn.wikidot.com/pko-hub|委员会]]]与该团体于[[[http://backrooms-wiki-cn.wikidot.com/poziom-pl-17|Level PL-17]]]进行物品交换时获得了几瓶冷杏仁树脂。
+
++++ **冷树脂的来源：**
+
+获取冷树脂的最佳途径是在[[[Level PL-65|Level PL-65]]]，它通常装在监狱储存区的补给箱内。在[[[http://backrooms-wiki-cn.wikidot.com/poziom-pl-17|Level PL-17]]]，它也会出现在购物车内。此外，它也可能随机出现在后室的每个角落。[[[http://backrooms-wiki-cn.wikidot.com/pko-hub|委员会]]]尚未明确其成因，却怀疑[[[K.P.N.B.]]]可能掌握有相关线索。
+------
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+本文由[[*user Danny140]]撰写，[[user Light_Nate]]译英和[[*user calf-0]]、[[*user JgPz.E-100]]译中
+
+[[/collapsible]]
+
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+
+[[=]]
+« [[[Object PL-9]]] | Object PL-10 | [[[Object PL-11]]] »
+[[/=]]
+
+[[/div]]

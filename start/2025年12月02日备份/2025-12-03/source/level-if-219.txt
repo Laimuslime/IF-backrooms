@@ -1,0 +1,360 @@
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[module ThemePreviewer noUi="true" theme_url="https://cdn.scpwiki.com/theme/en/black-highlighter/css/min/normalize.min.css"]]
+[[module CSS]]
+@import url("https://github.backroomswiki.cn/New_BHL/css/liminal.css");
+[[/module]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+:root {
+/* 版头设置 */
+    --logo-image: url("https://7bye.com/hoah/i/2023/12/31/5hsx3.svg");
+    --header-title: "THE BACKROOMS"!important;
+    --header-subtitle: "你曾来过这里"!important;
+    --header-height-on-mobile: 10rem;
+    --header-height-on-desktop: 10rem;
+/* 字体 */
+    --body-font: Inter, "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+    --header-font: "Josefin Sans", sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, "Noto Serif SC", "Noto Serif TC", Consolas, monaco, monospace;
+    
+    /* 自定义 */
+    --header-title-color: 35, 31, 27;  /* 标题颜色 */
+    --swatch-headerh1-color: 35, 31, 27;  /* 主标题颜色 */
+    --swatch-headerh2-color: 35, 31, 27;  /* 副标题颜色 */
+    --swatch-menutxt-light-color: 35, 31, 27;
+    --swatch-text-light: 35, 31, 27 !important;
+
+    /* 主色调 */
+    --white-monochrome: 236,232,223;  /* 主基调色 */
+    --pale-gray-monochrome: 0,0,0;  /* 浅灰 */
+    --light-gray-monochrome: 180, 177, 170;  /* 中灰 */
+    --gray-monochrome: 100, 98, 94;  /* 深灰 */
+    --black-monochrome: 40, 38, 36;  /* 深黑色 */
+ 
+    /* 强调色  */
+    --bright-accent: 210, 100, 100;  /* 鲜艳红 */
+    --medium-accent: 170, 80, 80;  /* 中等红 */
+    --dark-accent: 140, 60, 60;  /* 深红 */
+    --pale-accent: 230, 180, 180;  /* 淡红 */
+    
+    /* 链接颜色 */
+    --link-color: 200, 80, 80;  /* 红棕 */
+    --hover-link-color: 180, 60, 60;
+    --visited-link-color: 160, 70, 70;
+    
+    --swatch-topmenu-border-color: rgba(var(--gray-monochrome), 0.5);
+    --background-gradient-distance: 0rem;
+    --gradient-header: linear-gradient(to top,
+            rgba(var(--medium-accent), 0.8) 0%,
+            rgba(var(--medium-accent), 0.6) 100%);
+    --diagonal-stripes: linear-gradient(transparent 0);
+}
+
+/* 背景 */
+#skrollr-body {
+    background-image: radial-gradient(circle, rgba(var(--light-gray-monochrome), 0.2) 50%, transparent 0);
+    background: linear-gradient(
+        to bottom,
+        rgb(245, 220, 220) 0%,
+        rgb(180, 177, 170) 100%
+    );
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: 0.25em 0.25em;
+    width: 100%;
+    height: 7.5rem;
+}
+
+#container {
+    background-image: radial-gradient(circle, transparent 50%, transparent 0);
+    background-size: 0.25em 0.25em;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-color: rgb(var(--white-monochrome));
+}
+
+
+/* 版头 */
+#header::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    pointer-events: none;
+}
+
+#header h1, #header h2 {
+    position: relative !important;
+    top: 3.2rem;
+}
+
+#header h1 a, #header h1 a::before {
+    color: rgb(var(--swatch-headerh1-color));
+}
+
+#header h2 a, #header h2 a::before {
+    color: rgb(var(--swatch-headerh1-color));
+}
+
+#header h1 a::before,
+#header h1 a::after,
+#header h2 span::before,
+#header h2 span::after {
+    text-shadow: none !important;
+    -webkit-text-stroke: 0 !important;
+    text-stroke: 0 !important;
+}
+
+@media screen and (max-width: 767px) {
+    #header {
+        padding: 15px 0;
+        text-align: center !important;
+        padding-top: 4.2rem !important;
+
+    }
+    
+    #header h1 {
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+        float: none;
+        margin-top: -1.5rem !important;
+    }
+    
+    #header h2 {
+        text-align: center !important;
+        width: 100% !important;
+        margin: 0 auto !important;
+        float: none !important;
+        margin-top: -4.5rem !important;
+    }
+    
+    #header h1 a {
+        font-size: 1.8rem !important;
+        display: inline-block !important;
+    }
+
+    #header h2 a {
+        font-size: 1.2rem !important;
+        display: inline-block !important;
+    }
+    
+    .mobile-top-bar {
+        background-color: rgb(var(--white-monochrome));
+        position: relative !important;
+        top: -5rem !important;
+    }
+}
+
+#page-content {
+    padding-top: 10px;
+}
+
+/* 顶栏 */
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+    transition: background 0.2s ease, transform 0.3s ease;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    background-color: rgb(var(--white-monochrome));
+    border-bottom: solid 2px rgb(var(--bright-accent));
+    transform: translateY(-5px);
+    border-radius: 4px 4px 4px 4px;
+}
+
+#top-bar div.top-bar > ul > li > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > ul > li > a {
+    background-color: rgb(var(--white-monochrome));
+    border: solid 1px rgb(var(--bright-accent));
+    transition: background 0.2s ease, transform 0.3s ease;
+}
+
+#top-bar div.top-bar > ul > li > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li > ul > li:hover > a {
+    background-color: rgb(var(--white-monochrome));
+    border-color: rgb(var(--bright-accent));
+    transform: translateY(-5px);
+}
+
+#top-bar div.top-bar > ul > li > ul,
+#top-bar div.mobile-top-bar > ul > li > ul {
+    background-color: rgb(var(--white-monochrome));
+}
+
+
+
+/* 底部 */
+div[id*=page-options-bottom]:not(.page-rate-widget-box):not(#search-top-box-form) > a.btn {
+    background-color: rgb(19,23,32);
+    color: rgb(220,194,198);
+    filter: invert(1);
+}
+
+div[id*=page-options-bottom]:not(:is(.page-rate-widget-box,#search-top-box-form))>a.btn {
+    box-shadow: -.125rem 0 .25rem 0 rgba(var(--swatch-tertiary-color), .25), inset 0 -.0625rem 0 0 rgba(var(--swatch-tertiary-color), .75), 0 0 0 0 rgb(var(--ui-button-hover-outline)), inset var(--icon-size) 0 0 0 rgb(45,155,155);
+    filter: invert(1);
+}
+
+div[id*=page-options-bottom]:not(.page-rate-widget-box):not(#search-top-box-form) > a.btn:is(:hover, :active, :focus, :focus-within) {
+    box-shadow: none;
+    background-color: rgb(45,155,155);
+    color: rgb(35, 31, 27);
+    filter: invert(1);
+}
+
+/* 其他 */
+:is(input.text,textarea):not(:placeholder-shown) {
+    background-color: rgb(var(--white-monochrome));
+}
+
+:is(form#edit-page-form,form#edit-post-form,form#new-post-form,form#new-thread-form) .wd-editor-toolbar-panel {
+    background-color: rgb(var(--white-monochrome));
+
+}
+[[/module]]
+
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+
+[[=]]
+--------
+++ - 切入之径 -
+--------
+[[/=]]
+
+行走于后室IF层的迷途之中，四周阴影沉郁如水，虚无蔓延无边。实体的追逐宛如影子般缠绕，冷峻的捕杀与逐渐侵蚀的精神崩溃交织。身心的边缘逐渐模糊，濒临崩溃之际，世界似在颤抖，呼吸变得微弱，意识渐行渐远，即将沉入无底的黑暗之中。
+
+当其在生命的尽头挣扎时，将被引入一座似曾相识的城市。熟悉的街道、模糊的轮廓、微微摇曳的灯光，纷纷映入眼帘。一切依旧温暖，却隐隐透着深不可测的空洞。天色阴郁不明，空气中弥漫着淡淡的寂寞与期待。在无声的寂静中，获得片刻喘息，迎来那遥远而熟悉的归途。
+--------
+[[include component:level-class
+|lang=cn
+|class=死区
+|one=安全
+|two=宜居环境
+|three=实体绝迹
+]]
+
+[[include component:image-block
+|name=https://fnhanbaofn.wikidot.com/local--files/summer/g1
+|caption=只不过是城市的一角。
+]]
+
+**Level IF-219**是后室IF层群的第219层。
+
+++ **城息恒鸣**
+
+摩天大楼在灰滞的天光下列阵而立，玻璃与钢骨交叠，边缘线条笔直，向上延伸至云层的阴影处。更远处有工业构筑物的剪影，塔架、管道与冷却塔保持着寂冷的秩序，似被一层不可逾越的距离隔绝。云层低垂，光线被压扁成一片苍白，偶有细缝放出被削薄的亮度，落在墙面上显出一条条清冷的反光。
+
+天际线从雾气中显出轮廓，塔楼与住宅区按既定的层级排列，屋顶上分布天线与水箱。跨河大桥的索缆呈等距曲线，路面车辆持续通过，结构在轻微振幅中稳定。导向牌以统一字体标注编号与方向，匝道口的标线与减速纹路清晰可辨。地铁出入口送出恒定的风，附带金属与潮气的气味，通风百叶间断发出低声。
+
+近地层的秩序依旧：人行道的盲道砖延伸至路口，行道树把斑驳的阴影投在砖面与井盖上。公交站台的电子屏滚动显示到站时间，报站声与提示音按循环播放；垃圾清运车缓慢驶过，压缩装置短促作动。商铺卷帘半开，冷白光从室内洒到台阶；便利店门口摆放饮料促销牌，冷凝水沿塑料牌脚滴落。信号灯完成一轮又一轮切换，车流、步行与非机动车按既定通行规则交替推进。
+
+街道笔直而漫长，湿润的沥青将霓虹、指示标与红绿灯的色块拉成稀薄的彩带。细雨断续，打在遮雨棚与路牌的金属面，发出均匀而节制的声响；排水口不紧不慢地吞咽水流。车流按既定的节律通过，发动机的低鸣与远处的轮轨摩擦声交织，偶尔有刹车的尖音划开空气，又很快归于背景的喧嚣。
+
+行人沿人行道与天桥错落移动，雨伞在潮湿的风里彼此擦肩，雨衣的反光条时明时灭。“人们”的脸在阴影与雨幕中模糊不清，轮廓像被轻轻抹去，唯有步伐与携带物的形状清晰可辨。交谈声被街角的风切割成层叠的低语，公告与提示音从檐下扩散，像重复而无源的回声，兜转在走廊般的街区之间。
+
+++ **云幕开霁**
+
+[[include component:image-block
+|name=https://fnhanbaofn.wikidot.com/local--files/summer/sky
+|caption=//“太阳在云后散发着不可阻挡的光芒”//
+]]
+
+天幕呈均匀的灰，层云压低，亮度分布平整，阴影被彻底削弱。高层建筑的轮廓在这种光线里失去锐度，边缘与天空的色阶逐渐并拢，远处的山线与天际合为一条朦胧的带。湿度在空中滞留，微粒散射使可视距离缩短，色彩整体下沉为冷调，玻璃与金属表面只保留浅淡的反射。
+
+云体缓慢迁移，形态松散，层理相互覆盖，从明到暗的过渡缺乏明确的界线。偶有轻微的亮斑在云背移动，其强度不足以形成光束，只令天面出现短暂的明灭。鸟群与航迹在这层灰中迅速消隐，风速平稳，气压低缓，近地面的空气略带潮意，悬而未雨。
+
+不久之后，云底抬升，层云的缝隙被风拉宽，冷灰的天幕显出成片浅蓝。日照以平直角度落下，外立面恢复高反差，窗格的投影在墙体上呈清晰的网格。空气湿度下行，视程延展，远处的山脊重新分离出细薄的线；街面水迹在光下变浅，金属边沿出现干脆高光。风向略转，气压回稳，天空转为持续而清澈的晴朗。
+
+++ **归乡即事**
+
+[[include component:image-block
+|name=https://fnhanbaofn.wdfiles.com/local--files/summer/home2?ukey=2daa9697504e52e4f495b11d1527c43505d68a11
+|caption=仿佛看见了“各种”的自己在房间走动
+]]
+
+流浪者想起回家的路线后，转入熟悉的小区入口，门禁短促一响，电梯按钮亮起冷白光。到层，感应灯依次点亮，金属门把微凉，门锁转动时发出低沉的卡嗒声。入内的瞬间，温差贴上皮肤，空气带有洗涤剂与木质的气味；玄关地垫吸了些潮，鞋柜上放着钥匙托与便签，伞沿在伞架里缓慢滴下最后两滴水。换鞋区的拖鞋按尺寸并排，墙上挂钟的秒针稳定推进。
+
+客厅与餐区保持既定的秩序：暖色顶灯均匀落在织物与木面上，沙发靠垫与折叠毛毯放置在旧位；餐桌边缘干净，杯碟反光浅而稳。窗帘半合，纱帘轻贴窗框，窗台上的绿植土面微湿；冰箱压缩机低声运转，间或停顿，空气流向从出风口缓慢送出。卧室门虚掩，床品平整，枕面留有轻浅压痕；书架的灰层薄而均匀，未见扰动。水壶指示灯长亮，卫生间的镜面挂着未干的水珠，排风扇停后余温尚存。灯光、温度与器物的声音共同构成稳定背景，家中温暖依旧。
+
+家里的人与街上的人无异：进出房门，脚步与作息按既定节律运行，视线从身侧掠过，不作停留。近观面庞在室内光与空气水汽中失焦，五官像被压成柔软的影子，只余移动的轮廓与高度。伸手去握门把、拉椅背、触碰杯沿与墙上的开关，指尖仿佛隔着一层无形薄膜，力道被均匀分散，触面不传导温度与质感，物件不发生位移。手机屏不响应，遥控器的按键没有行程，风铃被风掠过却不与之发生碰撞。此刻，流浪者无法触及本层级的任何事物，存在与环境保持清醒而绝对的错位。
+
+[[=]]
+--------
+++ - 返璞之时 -
+--------
+[[/=]]
+
+++ **夜幕将至**
+
+[[include component:image-block
+|name=https://fnhanbaofn.wikidot.com/local--files/summer/night1
+|caption=你本能呼吸着，却感受不到了
+|width=300px
+]]
+
+时间在无声的刻度里后移。流浪者走回街上，路面仍旧潮润，标线反光趋于黯淡。店招依次熄灭，卷帘落下时金属摩擦声短促而平。人群的密度逐格降低，脚步声从多源叠加变为零星回响，随后完全撤离；远端的车辆减至稀疏，信号灯仍按程序切换，却不再对应任何动作。风穿过空旷的走廊与天桥，带起纸屑与细沙，碰触护栏时发出极轻的颤音。街区形成一种均匀而空洞的静。
+
+视野开始出现缺口，像被不规则的边缘从四周侵入，黑色占据了若干区域，表面无纹理、不反光，仿佛缺失了深度信息。它们遮蔽背后的建筑与路面，不产生阴影，也不与空气发生可见的扰动。流浪者试图伸手去触碰，而手掌穿过黑暗部分，感受到的只是温差消失与阻力缺席；指尖在返回时干燥而洁净，仿佛未与任何物体接触。黑暗的面积缓慢扩张，剩余可见的画面被挤压在中央，轮廓仍在，但色彩被抹到最低饱和。
+
+随后，焦距难以锁定，边缘失真，近物与远景在同一平面上叠置；光点拉出疲弱的尾迹，细节迅速塌陷。体力像从四肢末端向外流失，步伐的回弹减弱，呼吸与心跳趋于长周期与低振幅。声音的层次被剥离，只剩低频的嗡鸣，且很快也被吸收。最后的亮度收缩为一粒微光，在无物的背景中短暂悬停，转而熄灭；世界随之彻底陷入黑暗。
+
+++ **终章落幕**
+
+时间缓缓流逝，天色逐渐暗淡，天际的光线变得渐渐微弱。城市的轮廓在暗影中逐渐模糊，空旷的街道上阴影拉长而沉重。层级中那些深邃的黑色空洞方块，似无声的黑影逐渐增多，密集绵延，填满了整个空间，将光与影的界线彻底模糊。似无尽的裂缝，无声地伸展开来，吞噬着一切明亮。
+
+终于，黑色的空洞如潮水般涌入，覆盖了整个世界。那一刻，流浪者的意识变得模糊而遥远，仿佛一粒尘埃被吞没在无尽的黑暗中。生命的火焰逐渐熄灭，身躯在虚无之中蜕变，逐步由生命切入一片金黄的秋林。枯叶纷飞，微风轻拂着寂静的树影，伴随着最后一缕呼吸。终究，静静地陷入死亡的深渊，永恒地沉眠于这片金色的秋林之中。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+------
+[[=]]
+**//「生如夏花之绚烂，死如[https://backrooms-wiki-cn.wikidot.com/level-c-652 秋叶]之静美」//**
+------
+@@ @@
+
+[[collapsible show="[+]作者信息" hide="[-]折叠"]]
+~[[*user FNHanBao]]
+Unsplash[https://unsplash.com/photos/a-view-of-a-city-street-through-a-rainy-window-MTsGj5ba8-U 图一]
+Unsplash[https://unsplash.com/photos/grayscale-photo-of-clouds-and-sky-wFEhHU4LCJs 图二]
+Unsplash[https://unsplash.com/photos/a-dark-room-with-a-light-coming-through-the-window-TE93BBs37f0 图三]
+图四由[[*user Lucifer_597]]自摄提供。
+
+版式by[[*user FNHanBao]]
+本文遵循[http://creativecommons.org/licenses/by/3.0/ Creative Commons Attribution 3.0 License]
+[[/collapsible]]
+
+[[div class="footer-wikiwalk-nav"]]
+<< [[[Level IF-218]]] | Level IF-219 | [[[Level IF-220]]] >>
+[[/div]]
+[[/=]]
+
+[[module CSS]]
+#header {
+    display: none;
+}
+
+#page-title, .meta-title {
+    display: none;
+}
+[[/module]]
+
+[[module css]]
+.sd-container {
+    --sd-symbol-secondary: 255, 255, 255; /* 4 级以上的是白色 */
+    --sd-text: var(--sd-symbol-secondary); /* 顶部框文本颜色 */
+}
+[[/module]]

@@ -1,0 +1,37 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |nightmare=a]]
+[[include :backrooms-wiki-cn:theme:phobia |sanct=true]]
+[[module CSS]]
+:root {
+    --header-title: "黑暗来临之际";
+    --header-subtitle: "Threshold boundary Town.";
+
+    --background-color: 0, 0, 0; /* 版式背景色 */
+
+   --link-color: 205, 204, 209;
+   --hover-link-color: 205, 204, 209;
+   --visited-link-color: 205, 204, 209;
+   --newpage-color: 205, 204, 209;
+}
+
+html {
+   -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+}
+
+.sd-container {
+
+    --sd-text: var(--text-color) !important; /* 顶部框文本颜色 */
+
+    --sd-bullets: var(--text-color) !important; /* 点句符文本颜色 */
+
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:sdse
+|lang=cn
+|class=变化
+|image=http://backrooms-sandbox-2.wikidot.com/local--files/entro-p-level-345/class%20unstable.png
+|one=变化的安全性
+|two=不稳定
+|three=变化的实体数量
+]]

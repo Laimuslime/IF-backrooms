@@ -1,0 +1,102 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+--logo-image: url("https://backroomssandboxcn.wdfiles.com/local--files/horrigap/triangle.png");
+--header-title: "the backrooms_";
+--header-subtitle: "诡异之事常隐匿于暗处";
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=unknown
+|lang=cn
+]]
+
+**Level IF-6**是后室IF层群的第6层。
++ **描述**
+
+[[include component:image-block
+|name=https://brsandbox-pro.wikidot.com/local--files/pd/IMG_7812.png
+|caption=层级入口处。
+|align=right
+]]
+
+**Level IF-6**是近期才发现的异常层级之一，对于该层级的探索行动仍在继续中。根据目前搜集到的资料信息，该层级为一组由多个区域组成的非线性连续空间。该层级的主体表现为一条无尽头的旅馆走廊，在某些情况下可能会出现细微的扭曲或改变。该区域较为空旷，这些走廊中唯一的装饰为一盆绿植，此类绿植的种属无法分辨，且营养不足，少部分绿植已经出现枯死等现象。
+
+该区域有类似于隔音室的效果，会将所有物质产生的声响吸收进墙壁、地板内。绝大多数情况下，该区域是完全安全的，但当流浪者发现墙纸撕裂、壁画抖动的时候，表明该区域已出现实体。此时，流浪者应当警惕墙角与拐角处，保持墙角与拐角处时刻位于流浪者的视线之内，以免遭受实体袭击。但目前为止，我们并未收到记录在案的实体袭击事件。
+
+流浪者在该层级行动的痕迹都会被后面进入的人员探索到，但这类痕迹往往会在一个拐角处或者黑暗处中断。流浪者于该层级内用来留下痕迹的物品通常都会在下一个流浪者进入该层级时瞬间消失，但此现象仅针对活体，任何非活体[[footnote]]例如无人机。[[/footnote]]在进入该层级时不会触发此现象。
+
+[[include component:image-block
+|name=https://asbackroom.wikidot.com/local--files/level-as-149/IMG_7813.jpeg
+|caption=二楼。
+|align=left
+]]
+
+在流浪者打开走廊内的其中一扇门时，往往都会来到更深处。该区域由暗黄色墙壁和大量无法打开的木门组成。不知何种原因，流浪者在该区域内始终会感觉到视线内存在人影，有流浪者称，人影常常躲在黑暗处，且在流浪者移动时，人影仍在视线之内。
+
+该层级绝大多数的区域的照明设备都处于损坏状态，这也导致了很多区域处于非常昏暗甚至完全黑暗的状态。目前对于部分完全黑暗的区域的信息少之又少。有报告称，流浪者们在进入完全黑暗区域时均会与外界断开联系，有人认为此类失踪事件与人影有极大关系，但并未被认可。
+@@@@
+@@@@
+@@@@
+@@@@
++ **基地、前哨与社区**
+目前并未探索完该层级，未建立前哨。
+
++ **行为准则**
+
+[[include component:image-block
+|name=https://asbackroom.wikidot.com/local--files/level-as-149/IMG_8165.jpeg
+|caption=……
+|align=right
+]]
+
++++ **应当**
+* 在条件允许的情况下携带光源。
+* 时刻靠近墙壁以免失去方向。
+* 携带水源、干粮。
+* 尽快寻找出口。
+
++++ **不应**
+* 进入完全黑暗的区域。
+* 随意转身。
+* 在某个区域长期逗留。
+* 闭上双眼。
+
++ **入口与出口**
++++ 入口
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-c-819|Level C-819]]]中快速经过走廊区域有概率切入该层级。
+
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-c-989|Level C-989]]]中坠入内环之内的广域区域有概率通向该层级。
+
+* 更多入口正在发现中。
+
++++ 出口
+* 未知。
+
+[[collapsible show="IMG_7985.jpeg" hide="隐藏"]]
+[[include component:image-block name=https://brsandbox-pro.wikidot.com/local--files/pd/IMG_7985.jpeg|caption=IMG_7985.jpeg|width=100%|align=center]]
+[[/collapsible]]
+
+----
+
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[=]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者
+[[*user Spocpa619]]
+图1、2、4均来自QQ群，已获得拍摄者CC。
+图3为自摄。
+[[/collapsible]]
+[[/=]]
+
+----
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-5]]] | Level IF-6 | [[[Level IF-7]]] >>
+[[/=]]
+[[/div]]

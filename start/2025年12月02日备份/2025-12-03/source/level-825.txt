@@ -1,0 +1,307 @@
+[[include :backrooms-wiki-cn:theme:to-wish-upon-a-dream]]
+[[>]]
+[[include :backrooms-wiki:component:rate]]
+[[/>]]
+
+[[module css]]
+#container:target * {
+   font-family: proxima-nova, sans-serif;
+}
+
+#u-toggle1 {
+   display: none;
+}
+
+#container:target #u-toggle1 {
+   display: inline;
+}
+
+#container:target #u-toggle0 {
+   display: none;
+}
+
+a.toggle {
+   float: right;
+   padding:0.1rem 0.7rem;
+   margin:1rem 0;
+   background: rgb(var(--just-pink));
+   color: rgb(var(--dark-accent));
+   font-size: 1.15rem;
+   border-radius:0.6rem;
+   box-shadow: 0px 0px 3px;
+   border: 2.5px solid rgb(var(--dark-accent));
+   box-sizing:border-box;
+}
+
+a.toggle:hover {
+   background:rgb(217, 91, 125);
+   text-decoration: none;
+}
+
+.quoteblock {
+   clear: right;
+}
+
+#page-title {
+   display: none;
+}
+[[/module]]
+[[a id="toggle0" class="toggle" href="#container"]]切换字体[[/a]][[a id="toggle1" class="toggle" href="#cursive"]]切换字体[[/a]]
+@@@@
+@@@@
+@@@@
+[[div class="styled-quote"]]
+[[=]]
+**我将回到###f20871|天上。##
+与晨露携手
+在黎明轻柔的触碰中渐渐消散**
+
+
+**我将回到###f20871|天上。##
+日落时分，就我们俩一起
+在云端召唤时，于岸边嬉戏**
+
+ 
+
+**我将回到###f20871|天上。##
+当这###f20871|美好的出游##结束的那天，我将离去，**
+
+**而我将会说，###f20871|一切都很美好……##**
+
+——《归天》（귀천）/ 천상병 著-
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:level-class
+|class=**0**
+|color=#68f4c2
+|image=https://i.postimg.cc/T1wfKL84/Blank-SDclass.png
+|one= 安全
+|two= 孤立
+|three= 实体绝迹
+]]
+
+[[=]]
++++ 描述
+[[/=]]
+Level 825呈现出一片无限延伸的草原，已知其是安全的。很少有风拂过，气温始终恒定在13°C (55.4°F)。由于不见季节变化的迹象，天气固定保持在类似于春季的状态；然而，人们却能在此处见到通常生长在不同季节或环境中的多种植物。昼夜循环分为10小时日照和12小时黑夜，因此仍能观察到日落与日出等自然景观。无论从哪个入口进入Level 825，流浪者通常会在一片草地上醒来。身上所有的轻微伤势要么已经愈合，要么不再出血。通常，由于Level 825完全由自然景观构成，不存在任何人工建筑，因此常见的废弃场所或破败木屋等并不会出现。
+[[include component:image-block
+    |name=https://i.postimg.cc/t4tX2gd5/pexels-photo-13638371.jpg
+    |caption=//**Level 825的风景**//
+    |alt=Bright orange sunset over the grass field.
+]]
+Level 825虽是一片纯粹的自然风景，却不见任何生物的痕迹，既无筑巢的鸟儿，也不见昆虫的身影。另外，整个层级宁静的近乎神秘，除了轻柔的微风掠过草叶的沙沙声与流浪者行走时发出的动静外。Level 825似乎具有与[[[Level 0]]]相似的孤立效应，意味着停留在此层级的期间几乎不可能遇到其他人类。不过，极致的孤立感也可能引发抑郁情绪，目前尚未明确是否与此处绝美的风景有关，或是那些生长在恒久不变的土地上、整齐排列的植物释放了某种特殊效果。有报告称，身处这里的人们从未感到过绝望。值得注意的是，患有心理疾病的流浪者进入Level 825之后的症状会得以缓解，而此种舒缓效果甚至会延续至他们离开之后。
+@@@@
+[[include component:image-block
+    |name=https://i.postimg.cc/sx4rK672/free-photo-of-paisaje-naturaleza-cielo-nublado.jpg
+    |caption=//**宁静**//
+    |alt=Picture showing grass field.
+]]
+如前所述，此处的天气恒久不变。天空通常晴空朗照，其上方漂浮着蓬松如棉的云朵，鼓舞着每位流浪者继续前行。由于Level 825遵循典型的昼夜循环，旭日与月亮倾洒于整个层级，为所有流浪者注入前行的力量。此处的草甸柔软似初生羔羊的绒毛，轻柔的微风似呢喃细语，不羁的草甸焕发出自然久违的生机。在和谐的氛围中，大多数流浪者皆选择驻足，正如他们心底深处的渴望。
+[[div class="pinkquote"]]
+[[=]]
+**在
+##61e0bb|美丽的天空下，##
+##f20e6d|你##也在这里
+那些忧郁的岁月里，
+###f20e6d|你##也在这里**
+
+——《致那个人》（그 사람에게）/ 신동엽 著-
+[[/=]]
+[[/div]]
+@@@@
+[[include component:image-block
+    |name=https://i.postimg.cc/qq2Sx41X/pexels-photo-131723.jpg
+    |caption=//**睡去**//
+    |alt=Forest and mountain silhouette, with shining sunset.
+    |align=left
+]]
+由于Level 825保持着原始的自然状态，此处分布着些许自然景观，例如森林、河流，以及一处罕见的瀑布。此外，此层级的地理元素通常不会混杂在一起，除了少数较为普通的特征外，有关对此层级空间规模的猜测也层出不穷。同时，也有人认为此处的空间非常特殊，以致于每位流浪者会在相反的一侧醒来；也有人认为此处偶尔会发生地形转变，从而造就了其环境的奇特性质。Level 825还因种种谜团而引人注目，例如花草绿植通常无需昆虫授粉或水源滋养便能自然盛开。尽管存在此类奇特性质，每位进入过此层级的流浪者却表示，他们在此处感到了一种被“善待”的感觉。
+
+[[div class="pinkquote"]]
+[[=]]
+[[span style="color:blue"]]**我
+死后
+将化作
+一只蓝鸟**[[/span]]
+
+[[span style="color:blue"]]**蔚蓝的天空
+蔚蓝的原野
+我将在那里飞翔**[[/span]]
+
+——《蓝鸟》（파랑새）/ 한하운 著-
+[[/=]]
+[[/div]]
+此处可以使用电子设备，可Wi-Fi信号源尚未明确。虽然部分功能可以实现，例如拍摄图像向外界发送信息，从Level 825的外部接收通讯却十分困难。就生存而言，层级内随处可见可安全食用的果树和蔬菜。只要有合适的工具，即可找到水源并生火。Level 825的总体上提供了相对安全的生存环境，可由于饮食结构单一和孤立效应的影响，此处并不适合长期居住。
+
+
+------
+[[=]]
++++ 自然景观
+[[/=]]
+由于此处的环境相对安全且可使用电子设备，许多探索经历都得以记录，并整理成了几处有趣的景观。此外，此层级还存在些许微小且简单的自然特征[[footnote]]例如小溪、池塘、生态群落等。[[/footnote]]，可这些都不够显著，无需详细描述。
+
++++++ 树林
+[[include component:image-block
+    |name=https://i.postimg.cc/pdvML0XC/pexels-photo-338936.jpg
+    |caption=//**一张由不明流浪者拍摄的树林图像**//
+    |alt=Picture showing vividly grown woods.
+]]
+沿着山的轮廓前行即可抵达树林，据称林中生长有多种树种，其中以松树最为常见。有关树林面积的记载说法不一，因此目前对面积的估算修正尚未完成。值得注意的是，无论深入丛林多远，只要向后步行至少5分钟，便能重新看见入口。此外，树林呈现出多种不同形态，既有阔叶林，也有针叶林，也有隐约难辨的雨林区域。
+
++++++ 水域
+[[include component:image-block
+    |name=https://images.pexels.com/photos/259843/pexels-photo-259843.jpeg?_gl=1*abhkks*_ga*MTYwOTQ2MTAzMy4xNzUwODEwMTk0*_ga_8JE65Q40S6*czE3NTI3MjIzNjkkbzIkZzEkdDE3NTI3MjI0MTMkajE2JGwwJGgw
+    |caption=//**无声的喧嚣**//
+    |alt= A river that crosses the forest.
+]]
+在探索Level 825时，潺潺的溪流声将会打破此处的寂静，溪流为休憩提供了尚可的环境。水温比周边略低，目前测得水深未超过2米。溪水安全可饮，其化学成分与普通水完全一致。与此处的草类相同，溪中还生长有某些品种的海藻。最奇特的是，无论你在溪水中停留多久，水都不会浸透皮肤或衣物。水域可能会呈现出多种形态，例如瀑布。虽然溪流通常应该汇入河流，在Level 825，顺着水流行走却不会抵达任何地方。
+
+------
+[[=]]
++++ 现象
+[[/=]]
+
++++++ 自然化
+据多位流浪者报告称，此种自然化现象会产生一股神秘的力量，将人造建筑还原为其自然形态，例如，有两位自称在不同时间抵达同一地点的流浪者称，第一位流浪者建造的木质房屋，在第二位流浪者抵达时呈现出的竟是一棵树木。
+
+在Level 825利用当地材料建造的任何建筑或物品，都会保留至流浪者离开此层级。另外，从未有人发现从外界带入的工具[[footnote]]例如小型施工工具或橡皮筋等。[[/footnote]]，据推测，这些物品都在此层级特有的自然化现象发生时被地面吸收了。
+[[include component:image-block
+    |name=https://i.postimg.cc/FRwXxPNm/pexels-photo-599708.jpg
+    |caption=//**一棵自然生长的树。旁边有一面木墙**//
+    |alt=Picture shows a tree standing reverently on grass field. It looks like the tree is staring the sun. 
+    |align=center
+    |width=50%
+]]
+
++++++ 回归
+虽然得出结论，Level 825本身对轻伤有治疗作用，可事实证明，当伤害恶化时，会产生相反的结果。由于电子产品可以访问层级的WI-FI信号，一些濒临死亡的流浪者发送了信息，让我们得出结论，此种现象是存在的。
+
+当一个处于迫在眉睫的生理危险的流浪者进入Level 825时，他们的伤势会逐渐恶化，最终导致他们晕倒。具有讽刺意味的是，一些流浪者在最后时刻寄来了信，声称伤势恶化的现象并没有造成痛苦，而是令他们感到平静和欣慰，这让他们认为这是一个与自然和谐相处的过程。由于尸体从未被发现，所以不确定他们的尸体是被地面吸收了还是因为某种原因而消失。考虑到这一点，此种现象被称为回归。
+
+
+[[div class="darkblock"]]
+来自一位不明流浪者的信息
+------
+我能感觉到我的最后一刻即将到来。不确定这条消息是否会传达给某人。
+
+但留下我的最后一句话。直到现在，我才终于遇到了平静的时刻。
+
+至少我死了，作为人类。
+------
+这条信息是发给一个与此毫不相干的人的，谢天谢地，他把这个发给了我们。
+[[/div]]
+@@@@
+@@@@
+@@@@
+------
+[[=]]
++++ 实体
+[[/=]]
+包括实体在内，Level 825内不存在任何生命体，而有一种理论认为，孤立效应也同样发生在鸟类和昆虫等生物中，所以当它们无可争议地存在时，我们看不到它们。由于该层级的所有这些特征，无法建立任何基地、前哨和社区。
+----
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ 入口与出口
+[[div class="pinkquote"]]
+[[=]]
+我将回到天上。
+
+与晨露携手
+
+在黎明轻柔的触碰中渐渐消散
+[[/=]]
+[[/div]]
+
++++++ 入口
+理论上，在任何层级中，在一个人被冒险追赶或因可怕的擦伤而徘徊的情况下进行的切行，均可能进入该层级。然而，当一个人故意自残、陷入危险或冒着自杀风险，意图进入Level 825时，这种现象不会发生。
+
++++++ 出口
+切行可以在Level 825的任何部分发生，这个动作会使流浪者进入任意与天空有关的层级。
+如果患有癌症晚期或严重伤害等危急情况的流浪者回到天空，他们的尸体将被传送至它应该在的地方。
+
+
+[[div class="pinkquote"]]
+[[=]]
+我将回到天上。
+
+当这美好的出游结束的那天
+
+我将离去，
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[include component:image-block
+|name=https://i.postimg.cc/0jKJy5cL/pexels-photo-2232917.jpg
+|caption=//**而我将会说，一切都很美好……**//
+|alt=Beautiful sky is filled with cloud that partially glowing.
+|align=middle
+|width=100%
+]]
+------
+[[footnoteblock]]
+------
+[[=]]
+[[collapsible show="希望满怀希望地为我们带来希望" hide="真的"]]
+
+作者 - [[*user aster_argyle]]
+译者 - [[*user calf-0]]、[[*user JgPz.E-100]]
+这个层级乃是基于[http://backrooms-wiki-ko.wikidot.com/level-82-ko 我的韩分层级]
+可要记得刷牙，牙医也不希望帮你。
+感谢并爱着每一位支持我的人！快来看看那个既神秘又充满希望的作者写的文。
+[[/=]]
+[[/collapsible]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=aster_argyle
+|translator=calf-0、JgPz E-100
+]]
+=====
+> **名称：** Beautiful sunset over a grass field
+> **作者：** Tom Fisk
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/beautiful-sunset-over-a-grass-field-13638371/
+
+> **名称：** a green and magical spring field
+> **作者：** Igor Meghega
+> **协议：** Pexels License 
+> **来源链接：** https://www.pexels.com/photo/a-green-and-magical-spring-field-a-beautiful-sunset-16825843/
+
+> **名称：** Green leafed tree
+> **作者：** Nejc Kosir
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/green-leafed-tree-338936/
+
+> **名称：** Clouds on sky
+> **作者：** Duong Nhan
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/clouds-on-sky-2232917/
+
+> **名称：** Bare tree on grass field
+> **作者：** Sunel Patel
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/bare-tree-on-grass-field-599708/
+
+> **名称：** Green grass field and green trees during day time
+> **作者：** Andre Cook
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/green-grass-field-and-green-tress-during-day-time-131723/
+
+> **名称：** Body of water between trees
+> **作者：** Pixabay
+> **协议：** Pexels License
+> **来源链接：** https://www.pexels.com/photo/body-of-water-between-trees-259843/
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

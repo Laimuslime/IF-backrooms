@@ -1,0 +1,13 @@
+[[=]]
+[[module rate]]
+[[/=]]
+
+[[module ListPages category="fragment" parent="." order="name"  limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- 
+
+汉堡：恭喜你进入了源代码
+
+--]

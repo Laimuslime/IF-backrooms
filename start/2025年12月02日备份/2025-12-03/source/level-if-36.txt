@@ -1,0 +1,253 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "你如今再临此处";
+}
+[[/module]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div class="blockquote"]]
+[[=]]
+++ **万维聊天室**
+++++ **畅聊后室**
+++++++ **//（主题帖#45）//**
+**//主题：//不知道能不能活着**
+[[/=]]
+-----
+**//#1// Hawoyuki：**
+我在干什么我为什么要切进一个未知层级
+
+青春没有售价看我直接横穿层级
+**IP属地：未知**
+**BTC 2019/6/3 13:25**
+-----
+**//#2// ffA：**
+这个喷不了这个是真勇士
+**IP属地：Level 2**
+**BTC 2019/6/3 13:27**
+-----
+**//#3// user：**
+疑似[[[object-if-3|万维聊天室]]]有史以来第一个断命帖
+**IP属地：Level 1**
+**BTC 2019/6/3 13:28**
+-----
+**//#4// Hawoyuki：**
+等等怎么进了一个像城市一样的地方
+
+好像是废弃城市什么的，盖了一堆植物
+**IP属地：未知**
+**BTC 2019/6/3 13:30**
+-----
+**//#5// user：**
+拍个照，我要看🤓
+**IP属地：1**
+**BTC 2019/6/3 13:31**
+-----
+**//#6// Hawoyuki：**
+[[=image https://plus.unsplash.com/premium_photo-1715605710442-a5b01fc06399?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]]
+**IP属地：未知**
+**BTC 2019/6/3 13:33**
+-----
+**//#7// OwouO：**
+主播主播你似乎是发现新层级了
+
+诶不对你提过未知层级了来着
+**IP属地：Level 111**
+**BTC 2019/6/3 13:36**
+-----
+**//#8// Hawoyuki：**
+让我赶一篇层级描述出来，写之前让我先把环境探一探
+**IP属地：未知**
+**BTC 2019/6/3 13:37**
+-----
+**//#9// user：**
+666居然还是有史以来第一个发现新层级的帖
+**IP属地：Level 1**
+**BTC 2019/6/3 13:39**
+-----
+**//#10// ffA：**
+你是不是把[[[Level IF-14]]]忘了
+**IP属地：Level 2**
+**BTC 2019/6/3 13:40**
+[[/div]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+**Level IF-36**是后室IF层群的第36层。
+[[div class="styled-quote"]]
++ **描述**
+[[/div]]
+[[include component:image-block
+ |name=https://plus.unsplash.com/premium_photo-1715706866931-28572f1643f8?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ |caption=Level IF-36的一张照片。
+]]
+**Level IF-36**表现为一处废弃的城市，被大量蕨类植物覆盖，并被一座巨大的环形山脉环绕，粗略估计层级面积约为数平方公里。
+
+相比于广义上的城市，此层级更像是众多小镇的结合体，并且拥有极多的农业区，在农业区内收集物资是比较明智的选择。
+
+在此层级的公路上拥有大量的已损坏的车辆，这些车辆的标识并不属于前厅中任何一种汽车品牌。在汽车内可能会发现一些衣物。
+[[div class="blockquote"]]
+**//#11// Hawoyuki：**
+阿巴阿巴环境大概是这么个样，我后面再看看
+
+不对怎么有IP了我靠
+**IP属地：Level IF-36**
+**BTC 2019/6/3 14:31**
+-----
+**//#12// ##pink|RWWchat-bot##：**
+因为我在视奸
+**IP属地：Level 1**
+**BTC 2019/6/3 14:32**
+-----
+**//#13// Hawoyuki：**
+666居然把站务炸出来了
+**IP属地：Level IF-36**
+**BTC 2019/6/3 14:33**
+-----
+**//#14// user：**
+你怎么知道极少量实体的
+**IP属地：Level 1**
+**BTC 2019/6/3 14:35**
+-----
+**//#15// Hawoyuki：**
+我听房子里有点声音感觉应该是实体，不过我不敢进去，后面还会再看看的
+**IP属地：Level IF-36**
+**BTC 2019/6/3 14:37**
+-----
+**//#16// Hawoyuki：**
+对了，接下来我先探索一下这个层级吧，我会一直更新文档的，等到完善的差不多了就会投到[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]那里去
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:40**
+-----
+**//#17// ##pink|Hydrogen##：**
+为什么不发给[[[level-if-199|B.O.P.]]]--这样的话我就可以去驻军了--
+**IP属地：Level IF-199**
+**BTC 2019/6/3 14:41**
+-----
+**//#18// Hawoyuki：**
+好像也行，那就两个都发
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:43**
+[[/div]]
+**Level IF-36**中的蕨类植物种类各不相同，这些蕨类植物将整个废弃城市覆盖，城市中的建筑表面均长有蕨类植物，部分蕨类植物悬挂于建筑物之上，剩余部分则保持着下垂方向。
+
+**Level IF-36**中的环形山脉包裹着整个层级，使层级内部时常可见远处山脉之虚影。山脉之外的环境未知，但山脉在一定程度上阻挡了外来的自然灾害，使得山脉内部气候较为稳定。
+
+**Level IF-36**中覆盖着各种植物，大部分植物在其表面肆意生长，但这些植物并不会散发出恶臭味，相反，此区域的植物可提供一种植物的香气，类似[[[Level IF-54]]]中的气味。此区域温度较高，一般处于30℃及以上。
+
+**Level IF-36**的群山区域存在少许特殊细菌，这些细菌仅位于**Level IF-36**，对人类并无危害，研究用途较大。这些细菌的大小通常极大，肉眼可见，这些特殊细菌与其他区域细菌差别为其中包含的特殊结构，这种结构与[[[https://backrooms-wiki-cn.wikidot.com/level-499|Level 499]]]内的细菌类似。
+[[div class="blockquote"]]
+**//#19// Knu974：**
+你不觉得写的有点杂乱吗
+**IP属地：Level IF-199**
+**BTC 2019/6/3 20:14**
+-----
+**//#20// Hawoyuki：**
+我没什么写档案的经验，反正到时候入档流程还是得让档案部去做
+**IP属地：Level IF-36**
+**BTC 2019/6/3 20:15**
+[[/div]]
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+**//#21// Hawoyuki：**
+我靠大半夜的[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]怎么来这里搭营地了
+**IP属地：Level IF-36**
+**BTC 2019/6/3 22:04**
+-----
+**//#22// umua：**
+一定是你的帖被他们看到了
+**IP属地：Level 1**
+**BTC 2019/6/3 22:07**
+-----
+**//#23// Hawoyuki：**
+多方视奸吗，有点意思
+**IP属地：Level IF-36**
+**BTC 2019/6/3 22:09**
+[[/div]]
+在**Level IF-36**之中的道路一般结构较为整齐，横向与竖向的道路互相垂直，同方向的道路互相平行，不过，流浪者可能在其中发现少数例外，如死路或小径等特殊情况，不过，特殊情况发生概率较小。
+
+由于**Level IF-36**相较于城市更像是小镇的综合体，因此层级的不同区域建筑风格各不相同，但这些不同的区域以平滑的方式连接在一起，流浪者可能根本察觉不到周遭景物的变化。**Level IF-36**中包含大部分城市中包含的普通设施，并且在其中包含大量的农业区。
+
+**Level IF-36**中的农业区最大特点为被白色栅栏封闭的区域、较大的区域大小和区域内设施的整齐规划，农业区中包含大量储存作用的仓库，与[[[Level IF-198]]]的外部区域类似，但其中装有大量食物与工具，还包含少量的娱乐用品和药物。
+
+**Level IF-36**中的农业区通常是流浪者搜寻物资的不二之选，农业区中视野较为开阔，区域内不包含明显的危险来源，且物资繁多，大多工具可以正常的使用，甚至部分工具较于原来显得更为耐用。
+
+在**Level IF-36**的建筑内一般会发现一些废弃的家具，在少数情况下，也可能会找到一些较为完好的食物箱，可在内部找到蔬菜、罐头等。
+[[div class="styled-quote"]]
++ **实体**
+[[/div]]
+此层级内几乎没有实体，仅仅在一部分管道中可能会听到[https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]的爬行声。由于管道具有缺口，它们很容易爬到管道外并出现在地面，因此做好防范是有必要的。这些[https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]与其他层级中生成的其他[https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]形态并无二异，唯一可将其与其他层级中种类区分开的是这些[https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]的爬行速度较其他层级中的种类较慢。
+[[div class="blockquote"]]
+**//#24// Hawoyuki：**
+致敬传奇物理学圣剑干爆三只[https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]
+**IP属地：Level IF-36**
+**BTC 2019/6/4 00:04**
+-----
+**//#25// ffA：**
+这么强势
+**IP属地：Level IF-2**
+**BTC 2019/6/4 00:05**
+-----
+**//#26// user：**
+其实很多普通实体都不难打
+
+棍子来几下就爆头了
+**IP属地：Level 1**
+**BTC 2019/6/4 00:07**
+[[/div]]
+[[div class="styled-quote"]]
++ **基地，前哨与社区**
+[[/div]]
+++ **[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G.]]]“杂草丛生”基地**
+“杂草丛生”基地是[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|探险者总署]]]在近期于**Level IF-36**内建造的新基地，该基地在初期仅为极多大型帐篷在层级内部匆匆搭建的营地，在经过多天的改善之后，“杂草丛生”基地已不再于之前一般样貌。
+
+“杂草丛生”基地着手在层级内部进行不定期的探索活动，目前营地中的食物与医疗用品已完备，若流浪者对其感兴趣可对其探索活动进行了解。
+
+此基地内部人员较少，主要原因为**Level IF-36**在近期才被突然发现，[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|探险者总署]]]对其了解尚少，派出人员只占很小一部分。
+++ **[[[Level IF-199|B.O.P.]]]“繁茂植宛”基地**
+[[[Level IF-199|后室观测极点]]]为一个于最近时间段内发展的新兴团体，目前该团体尚未建立起自己的官网与数据库，但已初具规模，[[[Level IF-199|后室观测极点]]]在近期对于其他层级的探索极为频繁--，这主要是因为Hydrogen--。目前，[[[Level IF-199|后室观测极点]]]在层级内部已经建立了较为完善的基地[[footnote]]该基地正处于初期建造环节，范围与规模较小。[[/footnote]]。
+
+“繁茂植宛”基地建立于层级中一个农业区附近，该基地占据了部分小径，目前[[[Level IF-199|后室观测极点]]]已经将基地内部空间利用得极其充分。在基地外围带有一圈玻璃围栏，玻璃围栏为[[[Level IF-14]]]内部所搬运，在基地外围标有B.O.P.标识，基地内部摆设有大量储物支架，这些储物支架中的存储包含食物与工具，流浪者可拾取其并进行利用。
+[[div class="blockquote"]]
+**//#27// Hawoyuki：**
+我切到[https://backrooms-wiki-cn.wikidot.com/level-c-1957 Level C-1957]了
+**IP属地：Level C-1957**
+**BTC 2019/6/4 15:48**
+-----
+**//#28// ffA：**
+这么快就找到稳定出口了吗
+**IP属地：Level IF-2**
+**BTC 2019/6/4 15:49**
+-----
+**//#29// Hawoyuki：**
+花了一天也不算快吧
+**IP属地：Level C-1957**
+**BTC 2019/6/4 15:51**
+[[/div]]
+[[div class="styled-quote"]]
++ **入口与出口**
+[[/div]]
+**Level IF-36**发现时间与撰写此文档相距的时间较短，层级并未被大量探索，因此出入口部分条目较少。
+++++++ **入口**
+* 最有效的方法便是在[[[Level IF-54]]]观察到一座废弃城市，走入城市总会使你进入此层级。
+* 在[[[Level IF-199]]]可以通过出口来到此层级。
+++++++ **出口**
+* 可通过与入口相反的方式回到[[[Level IF-54]]]。
+* 通过下水道离开层级，这会使你到达[https://backrooms-wiki-cn.wikidot.com/level-c-1957 Level C-1957]的下水道。这一出口是单向的，一旦进入[https://backrooms-wiki-cn.wikidot.com/level-c-1957 Level C-1957]便无法返回。
+[[footnoteblock]]
+-----
+[[=]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Suesa]]与[[*user MCMK-1234]]
+图片分别来自unsplash的[https://unsplash.com/photos/a-building-that-has-a-bunch-of-plants-growing-out-of-it-EARZxFJ4v6w 这个页面]和[https://unsplash.com/photos/a-group-of-trees-that-are-next-to-a-building-UOzl15rUdog 这个页面]
+旧站53的复活😀👍
+等等IF36私了😱😱😱直接夺舍😈😈😈
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[Level IF-35]]] | Level IF-36 | [[[Level IF-37]]] >>
+[[/div]]
+[[/=]]

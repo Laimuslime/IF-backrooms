@@ -1,0 +1,119 @@
+[[include :backrooms-wiki-cn:component:page-subtitle
+|subtitle=门后之芒
+]]
+[[include :backrooms-wiki-cn:component:pts
+|number=0E
+|aoe=所有层级
+|frequency=频发
+|duration=不定
+|intensity=无害
+|DropdownAnimation=false
+]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+@@@@
+[[include :backrooms-wiki-cn:component:image-block-base
+|name=https://scp-sandbox-3.wdfiles.com/local--files/dragon-images/38-1
+|caption=于[[[Level 29]]]开阔地域发生的一起Phenomenon 38实例。
+|alt=The image shows a vast dry plain with snow-capped mountains. In the center stands an open white door emitting bright light.
+]]
+@@@@
+[[/div]]
+@@@@
+@@@@
+[[div class="starblock"]]
+[[div class="stripeblock"]]
+[[=]]
++ 描述
+----
+[[/=]]
+[[/div]]
+**Phenomenon 38**是一种有趣且相对安全的异常现象，可能出现在任意层级当中。与其他可能对流浪者造成风险或威胁的现象不同，**Phenomenon 38**不会引发任何危害或不良反应。
+
+当**Phenomenon 38**发生时，流浪者的视野尽头会出现一扇敞开的门。门后的景象与周遭的环境截然不同，透过此门，见到的并非层级所有的场景，而是一片沐浴在自然阳光下的户外开阔场地。其景象通常伴有晴朗的蓝天等元素，能让人强烈感到宁静与自由的气息。
+
+尽管门后的景象栩栩如生，门本身的性质却仍是未解之谜。从未有流浪者报告成功穿过此门，因此研究人员和资深探员至今仍在展开激烈的讨论。无人能确定那究竟是真实存在的实物，或是**Phenomenon 38**制造的某种光学或心理幻觉。
+
+一旦发现此门，建议流浪者立即朝它前进。观测数据和统计分析表明，当向门移动一定距离时，找到当前层级的出口或切行点的概率会显著提高，被认为是**Phenomenon 38**特有性质，进一步印证了该现象实际是在暗中为试图逃离的流浪者提供指引与帮助。
+
+经过大量研究和观察揭示了一个有趣的特性：当流浪者处于特定心理状态时，**Phenomenon 38**的发生频率会显著增高。尤其是当个体极度渴望逃离当前层级，或是长时间徘徊却始终不见出口时，**Phenomenon 38**更加容易发生。
+
+自2024年12月3日被发现以来，**Phenomenon 38**已帮助数十位身处危险层级的流浪者成功逃离。
+[[/div]]
+@@@@
+@@@@
+[[div class="email"]]
+{{> 登录Justin Zimals}}
+
+##red|检测到正在尝试登录监督者账户；请确保环境安全。##
+
+##red|正在验证特征信息，请稍后。##
+
+##red|欢迎，监督者Justin。##
+
+{{> 访问p38-1}}
+
+##red|检测到机密文件，请输入密码：##
+
+{{> @@*********@@}}
+
+##red|正在访问文件……##
+
+[[/div]]
+@@@@
+@@@@
+[[div class="starblock"]]
+[[div class="stripeblock"]]
+[[=]]
++ 附加信息
+++++ 一封电子邮件
+----
+[[/=]]
+[[/div]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**发件人：**{{kat135@backmail.com}}
+**收件人：**{{justintheoverseer@backmail.com}}
+**主题：**{无主题}
+[[/div]]
+------
+这真的太令人意外了，Justin。我实在是搞不明白你为什么要在层级安装出口标志上弄这种花里胡哨的玩意。讲真，我根本不相信这些门形状的灯可以起到普通出口标志的作用，而且成本还更高。
+
+你不仅干了这些，还在我们数据库添加了一个关于虚构现象的文件。简直是在欺骗流浪者。你知道的，我们团体在各个层级安装的这些灯根本没有任何超自然效果，它们既不能保证流浪者的安全，也不是什么现象的产物。
+
+告诉我，Justin，你到底想干什么？
+
+[[>]]
+——Kat
+[[/>]]
+[[/div]]
+@@@@
+@@@@
+[[div class="email"]]
+[[div class="tofrom"]]
+**发件人：**{{justintheoverseer@backmail.com}}
+**收件人：**{{kat135@backmail.com}}
+**主题：**回复：{无主题}
+[[/div]]
+------
+嘿Kat，
+
+你可能不知道，我最近一直在研究Phenomenon 38。没错，Phenomenon 38是真实存在的现象，不只是一个虚构的页面。我最终整理出了一份详细的文档，现在已作为附件附在这封邮件里。
+
+如果要我现在解释这个现象，我还真不太说的清楚。举个例子吧：它就像[https://en.wikipedia.org/wiki/Placebo 安慰剂效应]。只要患者对所服药物的效果抱有充分信心，症状就更有可能改善。这种效果并非来自于药物本身，而是基于患者对康复的心理期待。
+
+也许你还是没明白，但也没事；这份文档会让你搞懂一切。哦对，里面还解释了我为什么要添加这个虚构的页面。我为之前不被认可的行为道歉，但你将会理解Phenomenon 38是多么惊人且珍贵的存在。
+
+[[>]]
+——Justin
+[[/>]]
+[[/div]]
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+检测到本文档的另一个版本，戳[https://if-backrooms.wikidot.com/phenomenon-38/offset/1 此]以打开。
+[[/=]]
+[[/div]]
+[[/div]]

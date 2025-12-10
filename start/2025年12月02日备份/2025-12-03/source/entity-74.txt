@@ -1,0 +1,45 @@
+[[include :backrooms-wiki-cn:credit:start]]
+由[[*user Spectre48]]和[[*user VivamusLudio]]撰写。艺术作品出自[[*user Poliacci]]。（他超帅的迟早会把他从艺术家的地下室放出来，我保证）
+
+由[[*user calf-0]]译就。
+
+若你找不着“隐藏内容”可以去看讨论区。
+[[include :backrooms-wiki-cn:credit:end]]
+
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+
+[!--
+Fragments:
+http://backrooms-wiki.wikidot.com/fragment:entity-74-0
+http://backrooms-wiki.wikidot.com/fragment:entity-74-1
+http://backrooms-wiki.wikidot.com/fragment:entity-74-2
+--]
+
+
+>末日审判是那把无形之锁的钥匙。故事还有更多隐情，只要你懂得去哪里寻找。
+
+>每台机器均配备有它的引擎。
+
+
+[[include :backrooms-wiki-cn:component:license-box author=Spectre48和VivamusLudio |translator=calf-0]]
+
+=====
+
+> 文件名：argospageuse.png
+> 作者：[[*user Poliacci]]
+> 协议：[https://creativecommons.org/licenses/by/2.0/deed.en CC BY 3.0]
+> 来源链接：https://backrooms-sandbox-2.wdfiles.com/local--files/collab%3Aspectre48argos1/argospageuse.png
+> **附加说明：** Maksus就是他
+
+> 文件名：Computer-screen-code-glitch-animation-gif-background-free.gif
+> 作者：Techfiesta
+> 协议：CC BY-SA 4.0
+> 来源链接：https://commons.wikimedia.org/wiki/File:Computer-screen-code-glitch-animation-gif-background-free.gif
+
+=====
+
+[[include :backrooms-wiki-cn:component:license-box-end]]

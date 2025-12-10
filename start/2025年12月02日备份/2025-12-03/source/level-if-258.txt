@@ -1,0 +1,88 @@
+[[include :backrooms-wiki-cn:theme:aero-glass]]
+[[module CSS]]
+:root {
+    --title: " The Backrooms IF";
+    --subtitle: " 你曾经来过这里";
+    --logo: url(http://if-backrooms.wikidot.com/local--files/start/Logo);
+ 
+    --gray-monochrome: 94, 75, 50;
+    --dark-gray-monochrome: 70, 55, 40;
+ 
+    --bright-accent: 210, 180, 140;
+    --pale-accent: 255, 200, 150;
+    --newpage-color: 230, 190, 160;
+ 
+    --background-image: url(https://cdn.pixabay.com/photo/2016/11/18/14/05/brick-wall-1834784_1280.jpg);
+ 
+    --main-aero-glass-filter: blur(7px) brightness(1);
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+]]
+**Level IF-258**是后室IF层群的第258层。
++ **描述**
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2016/11/18/14/05/brick-wall-1834784_1280.jpg
+|caption=**Level IF-258**通常所呈现的样子。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_1280.jpg
+|caption=食物，其一。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2016/11/21/15/52/french-fries-1846083_1280.jpg
+|caption=食物，其二。
+]]
+**Level IF-258**为一个24小时营业的连锁快餐店内部极其整洁。层级内部的装修风格类似于1990年代末至2000年代初的美式快餐店。该层级内部总是有着稳定的电力、水源与食物供应，该层级已变为后室IF层群之中的长期补给点。
+
+**Level IF-258**的面积约300㎡，包含多个区域，其中包含用餐区、柜台、厨房和员工休息室等重要区域，这些区域的用途与前厅中的快餐店类似，且每个区域的装潢都各不相同。可确认的是，每个区域都是绝对安全的。
+
+**Level IF-258**的用餐区是该层级之内最大的一个区域，区域内设有塑料制成的桌椅，这些桌椅总是有着鲜艳的颜色。部分桌椅靠窗，窗户内的景象总是固定为永恒的黄昏景象，目前大部分说法认为外部的层级为[[[Level IF-46]]]，但这未经证实，且并无流浪者到达外部。
+
+**Level IF-258**的中心设有一个自动点餐机，该点餐机始终运作，无需电源。点赞机的菜单上有着大量不同种类的快餐食品，包括汉堡、薯条、炸鸡、奶昔、鸡块、派、鸡米花、披萨、鸡肉卷等快餐食品，有时也包括芝士焗饭、牛排等其他西餐食品。
+
+**Level IF-258**的时间似乎总是停在某一时刻，但流浪者仍可在层级之内感知正常时间。在层级之内久留的流浪者都出现了时间感知变得紊乱的现象，因此推测在层级中停留过久可能导致产生轻微的时间错乱感。
+
+**Level IF-258**的食物会在流浪者将其取走的五到十分钟以后自动补充，且流浪者几乎无法目睹补货的过程。层级内的饮料机可无限续杯，所有从饮料机倒出的饮料都会保持在温度的最佳状态。
+
+**Level IF-258**的厨房之内偶尔会传来一些声响，大部分为烹饪时所产生的声音。流浪者在进入厨房区域之内后往往发现其内部空无一人，甚至不存在任何实体的痕迹，但食物依旧会在某一时刻时正常出现。
+
+**Level IF-258**的所有食物均可正常使用，味道无任何异常，且始终不会腐败 部分食物可能会使流浪者产生细微的情绪变化，但并无较大影响。冰柜中时刻存放着甜品，大部分为苹果派或冰淇淋，这些甜品有着某种特殊效果，可使流浪者变得放松。
+
+**Level IF-258**的柜台上有时会生成一些特殊物品，如未拆封的玩具或是极为干净的记事本等。这些物品没有任何可见的异常，且可正常使用。
++ **基地、前哨与社区**
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]售后服务基地
+* 人员较少
+* 寻找物资
+* 记录层级异常现象
+++ [https://backrooms-wiki-cn.wikidot.com/b-n-t-g B.N.T.G.]快餐交易所
+* 交易层级食物
+* 搜集层级物品
+* 提供有价值的层级情报
+++ [[[Level IF-199|B.O.P.]]]速食前哨
+* 长期研究层级属性
+* 记录层级物品种类
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]、[[[Level IF-19]]]、[[[Level IF-36.1]]]、[[[Level IF-196]]]中找到一个被丢弃的快餐盒并拾取即可来到此层级
+++++++ 出口
+* 从层级正门离开将会来到[[[Level IF-221]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+我的更多作品：
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-257]]] | Level IF-258 | [[[Level IF-259]]] >>
+[[/=]]
+[[/div]]

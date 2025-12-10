@@ -1,0 +1,1244 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:credit:start]]
+撰写自[[*user MCMK-1234]]、[[*user haodemingzi]]、[[*user xuziqi]]、[[*user qwertyuiop1000]]和[[*user xie5]]
+[[f<toc]]
+----
+[[include :brsandbox-mini:collab:page]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[span class="infoblock"]]页面字数较多（包含代码>44000），请在确保自己时间充足后再行阅读。[[/span]]
+
+[[div class="signblock"]]
++* 告示
+欢迎来到**Level IF-335 - “拨号中心”**，一名**Level 1033（旧）**，以下便是该层级的档案。
+[[div class="signblock-img"]]
+[[image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo]]
+[[/div]]
+[[span class="signblock-footer"]] M.E.G.档案部[[/span]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=0
+|three=无害实体
+|image=http://backrooms-wiki-cn.wikidot.com/local--files/component:level-class/zero.png
+]]
+**Level IF-335**是后室IF层群的第335层。
++ **描述**
+[[include component:image-block
+|name=https://mms1.baidu.com/it/u=2410629388,189455411&fm=253&app=138&f=JPEG?w=750&h=500
+|caption=**Level IF-335**的拨号中心区。
+]]
+**Level IF-335**的主体部分为一个大小无尽的呼叫中心，每个区域通常都是极为稳定的。对该层级的初步评估表明，该层级大小至少大于7个现实世界，该层级通常是极为安全的，虽然层级中偶尔会出现实体，但流浪者很难遇见。同样的，该层级也有其他的不同区域，这些区域互相融合，且装饰风格与建筑风格大体一致。层级中除失效的前厅出口外无任何窗户结构，若流浪者看见类似于窗户的物体，请并不要靠近。该层级为原本的Level 1033，因某些原因在数据库中消失了后室统一时间三年以上的时间，在其期间在内部生活的流浪者并不知晓外部的情况，所幸层级中并未出现物资短缺的情况。本层级也是极其罕见的M.E.G.与B.O.P.合作共同发现的旧层级之一。
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1661197880053-7d5441e937a8?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU2JThCJUE4JUU1JThGJUI3JTIwJUU1JUJBJTk3JUU5JTkzJUJBJTIwJUU2JTg5JThCJUU2JTlDJUJBJUU3JTgyJUI5JTIwJUU3JTk0JUI1JUU4JTg0JTkxJUU2JTg4JUJGfGVufDB8fDB8fHww
+|caption=拨号中心的另外几个电话。
+|align=left
+]]
+**Level IF-335**由一个名为A.W.C.，即杏仁水公司的团体掌控着，该公司几乎勘探了层级中可以到达的每一个区域，往后便是未知的未勘探区域，以防万一，已被封锁。杏仁水公司将该层级视为总部，在流浪者切入该层级时，杏仁水公司会检查流浪者身上的每一个区域，发现有害实体或危险物品后，杏仁水公司会立即将该流浪者驱逐到其他层级，并将实体快速处决。
+
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1638891759319-c89d072c4790?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFNiU4QiVBOCVFNSU4RiVCNyVFNCVCOCVBRCVFNSVCRiU4M3xlbnwwfHwwfHx8MA%3D%3D
+|caption=拨号中心的一个电话。
+]]
+**Level IF-335**中有着无穷的电力供应，层级中部分的电力来源来自于层级之外，但层级本身是有自己的备用能源来源的。层级中若是出现临时的大规模能源短缺情况，层级便会自动使用备用能源。层级中随处可见裸露的电线与电力处理处，流浪者若不是必要情况请勿触碰裸露的电线，触碰可能导致电线突然性的漏电。目前，A.W.C.已将层级中大型聚集点中分部的裸露电线标记，层级的裸露电线已被陆续地处理。层级中的备用电力来源于后文之中所介绍的电力室。
+++ 第一区域：呼叫中心
+
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1614879040270-d5220507fc3f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fCVFNiU4OSU4QiVFNiU5QyVCQSVFNSVCQSU5NyUyMCVFNiU4QiVBOCVFNSU4RiVCNyVFNCVCOCVBRCVFNSVCRiU4MyUyMCVFNSU5QyVCQSVFNiU4OSU4MCUyMCVFNiU5OCU4RSVFNCVCQSVBRSUyMCVFNyU5NCVCNSVFNSVBRCU5MCVFOCVBRSVCRSVFNSVBNCU4N3xlbnwwfHwwfHx8MA%3D%3D
+|caption=拨号中心的一个拨号处。
+]]
+**Level IF-335**中的流浪者在初次进入本层级时将会来到层级的第一个主要区域，即呼叫中心。呼叫中心中充满各类无害实体，例如无面灵等，层级中也有一些由危害性强转变为温和的实体，层级中的窃皮者、笑魇、钝人似乎都受到第十一效应潜移默化的影响，并不会主动攻击人类，平时，这些实体将在第一区域闲逛。第一区域的实体有时会发出一些声音，这些声音类似于人类的语言，例如中文、英语等在前厅具有代表性的语言，但这些实体似乎只能发出一些短的单词，无法说出句子，并且理解不了这些语言的意思。第一区域也是人口最为稠密的地方，平均1㎞有超过80个人活动，在第一区域中，常有踩踏事件发生，流浪者需多加小心。所有潜在危险性的实体都会被A.W.C.消灭或是收容，收容场所后文将提及。
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2016/11/29/06/16/apple-1867752_1280.jpg
+|caption=其中一个房间的桌面。
+|align=left
+]]
+**Level IF-335**的第一区域也是层级中最大的区域之一，该区域结构极为复杂，包括若干个走廊和房间，这些走廊和房间与其他区域相连，为层级之中的枢纽。第一区域也是A.W.C.用来移动人口的区域。A.W.C.曾表示移动人口是为了防止每个区域的人口分布不均，难以管理。A.W.C.在该区域中罗列的几十条流浪者应遵守的规则，例如不应携带危险物等。
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1639503579564-4e4654ad27ba?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fCVFNiU4OSU4QiVFNiU5QyVCQSVFNSVCQSU5NyUyMCVFNiU4QiVBOCVFNSU4RiVCNyVFNCVCOCVBRCVFNSVCRiU4MyUyMCVFNSU5QyVCQSVFNiU4OSU4MCUyMCVFNiU5OCU4RSVFNCVCQSVBRSUyMCVFNyU5NCVCNSVFNSVBRCU5MCVFOCVBRSVCRSVFNSVBNCU4N3xlbnwwfHwwfHx8MA%3D%3D
+|caption=第一区域与第二区域的衔接处。
+]]
+**Level IF-335**的第一区域主要陈设包括前台桌、绿植、灭火器等物品，这些物品在其他区域也有分部，但在该区域分部的最多也最广。层级的地面大多为木质，不同区域以分色作为装饰，表面极其光滑。A.W.C.会在大部分时间段内派出打扫工人打扫层级的每一个区域，A.W.C.总部会使用一些物品，例如杏仁水和幸运豆奶等后室中常见的物品作为酬劳，这些物品同样也可以在层级中进行交易活动。A.W.C.会定期招聘志愿者，以临时代劳他们的空缺岗位。
+
+**Level IF-335**的第一区域通常是极为宽阔的，每个聚集点至少能容纳100名流浪者。第一区域中有一些房间，这些房间中放着一些物品，通常是U盘、光盘和办公终端等常见的电子物品。该区域中所有的计算机都运行在具有终身许可证的前厅操作系统Windows Server 2012 R2上，服务器则是运营在Ubuntu Server 19.04。此层级拥有一个域名，域名为 {{www.fhuap1033.com.bcrk}} ，FTP为 {{ftp.fhuap1033.com.bckr}} ，值得注意的是，该网络并不以后室万维网为架构所运行，层级中的网络架构被称为“1033网”即“IF-335网”，K.V.Z.曾短暂地窥探过此数据库。
+
+**Level IF-335**中的互联网速率极快，达到80GB/s，层级中的以太网也为相同的速度。层级中有着大量的拨号手机，但这些拨号手机上网的速率只有50MB/s。该层级因为网络的便捷在旧时期[[footnote]]上层叙事的2019年至2023年初[[/footnote]]曾一度成为多个层级的信号供应处。层级中的手机是主要的通讯设备，这些手机的速率是前厅中的手机诺基亚3310的90倍之上。
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**你是说？除了层级本身以外，那些受困于层级之中的人同样也可以获救？
+
+**Dr.Alice：**//还记得上次那几个自己出来的吗？[[[Level IF-314]]]就是例子之一，用你们M.E.G.的说法真不习惯。//
+
+**Market：**所以说…你的意思是？我们要把Level1033从破碎之地里捞出来？
+
+**Dr.Alice：**//对，就是这样。//
+
+**Market：**这个计划真是比[https://backrooms-wiki-cn.wikidot.com/level-320 L320]还要疯狂，到时候我们怎么处置杏仁水公司以及那些杂七杂八的公司啊。
+
+**Dr.Alice：**//恢复原样即可。//
+
+**Market：**那也算困难的，L1033是Fandom时空的，而我们这一直使用的是Wikidot侧的数据库，真不知道怎么跨版本营救。
+
+**Dr.Alice：**//别忘了那个[https://backrooms-wiki-cn.wikidot.com/level-c-100 两侧的通道]，那就是一个活生生的例子。//
+
+-----
+[[>]]
+//——一则B.O.P.与M.E.G.联合谈论**Level IF-335**[[footnote]]当时为Level 1033。[[/footnote]]的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+[[include component:image-block
+|name=https://mms1.baidu.com/it/u=2139776262,3923952643&fm=253&app=138&f=JPEG?w=379&h=220
+|caption=**Level IF-335**的购物中心区。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1698310830738-8a87eef99cac?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fCVFNSU5NSU4NiVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=一个较为现代的区域。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1631259352402-c6b7f0625df3?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFOSU5QyU5MyVFOCU5OSVCOSVFNyU4MSVBRnxlbnwwfHwwfHx8MA%3D%3D
+|caption=第二区域灯光的示例。
+]]
+++ 第二区域：交易中心
+**Level IF-335**的第二区域为层级的交易中心兼购物中心，第二区域类似于美国2010年典型的购物中心和贸易中心，所有装饰都与那个时代别无二致，墙壁上的彩色瓷砖装饰，随处可见的植株盆栽与商品包裹，甚至是商场自带的游泳池，构成了第二部分的主要图景。
+
+**Level IF-335**的第二部分中的植物极其密集，有些甚至已经布满了一些小型区域。这些植物看似并无生机，然而其结构内部的细胞都在正常活动。据实验表明，这些植物不需要经过光和作用也可正常生存。
+
+**Level IF-335**的彩色瓷砖布满了每一处角落，大部分情况下，这些瓷砖都会摆成简单的图案或是文字，大部分位置接近的文字片段都可组成一句完整的话。有时，层级中的瓷砖会突然掉落，露出后面的混凝土墙壁或是裸露的钢筋结构，但在几天后层级自身便会直接修复。
+
+**Level IF-335**的区域人口较少，大部分是前往其他区域或是前往此处购买物品的流浪者，该区域的大部分区域甚至是充满死寂的，在这一区域，流浪者可以找到由这个层级的居住者们经营的涵盖了主要的现实世界知名品牌的商店。
+
+**Level IF-335**中的流浪者可以在这里免费租一个空置店铺，其中没有任何默认陈设，但第一个月之后，流浪者需要支付每月40美元的租金。流浪者可以通过简单地交易不需要的东西或那些非常罕见的东西来获得钱。
+
+流浪者可以交易的物品具有以下价值：
+
+|| 项目/价值 || 您给予的与您获得的相同价值物品 ||
+|| 杏仁水/25$ || 薯片 ||
+|| 手电筒/20$ || 反派枪 ||
+|| 皇家口粮/50$ || 自热火锅 ||
+|| 枪/500$ || 地铁票 ||
+
+**Level IF-335**的第二区域常有突发的熄灯时间，发生原因不明，但熄灯事件通常是无害且无征兆的。有时，流浪者可发现灯光突然开始渐渐变暗，随着按钮的响声，整片区域笼罩于无边黑暗之中。熄灯事件会在随后的3～6分钟后结束，理论上来说，熄灯事件是有害实体的出没期，但那些有害实体早已被清除干净。
+
+**Level IF-335**的第二区域常见彩灯分布。彩灯以鲜艳色彩照亮周边环境，投射出幻觉般的光辉，其光影在墙壁与地板上呈现出类似欢快舞动的视觉效果。需注意的是，彩灯颜色不同，进入其影响范围的流浪者所受作用也存在差异。以下为各类彩灯的颜色、作用效果及出现频率列表，其中彩灯的出现频率被划分为五个等级，分别为：极其多见、多见、常见、罕见、特有。
+
+[[collapsible show="> 展开灯色指南" hide="> 收起灯色指南"]]
+
+|| 颜色 || 出现概率 ||
+|| 红 || 极其多见 ||
+|| 黄 || 多见 ||
+|| 绿 || 常见 ||
+|| 橙 || 罕见 ||
+|| 紫 || 特有 ||
+
+[[/collapsible]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**看来这里的稀奇玩意还不少，各种东西都来了，复杂程度跟那些文档上万字的有的一拼。
+
+**Dr.Alice：**//我们竟然没早点发现这个这么有价值的层级，资源甚至要溢出。//
+
+**Market：**感觉把这个档案发到M.E.G.数据库肯定会被骂，因为分尸。
+
+**Dr.Alice：**//我觉得还好吧，每个地方长得都一样，要视觉疲劳了。//
+
+**Market：**反派枪是个什么鬼，活这么久还没见过这样的。
+
+**Dr.Alice：**//以前的Fandom M.E.G.文档质量这样你就知足吧，感觉不如太冷了机器人和对水费感兴趣，另外，wikidot那边还有个弹跳深渊（偷笑）//
+
+**Market：**你这么又偷去买糖了，不是说把今天的任务做完才算完吗。
+
+**Dr.Alice：**//人要懂得享受生活～//
+----
+[[>]]
+//——也是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第三区域：酒店区
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1585888757004-1cdec36d1b3c?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFOSU4NSU5MiVFNSVCQSU5NyVFOCVCNSVCMCVFNSVCQiU4QXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-335**酒店区的典型图片。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1659938425098-6788938c89de?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFOSU4NSU5MiVFNSVCQSU5NyVFOCVCNSVCMCVFNSVCQiU4QXxlbnwwfHwwfHx8MA%3D%3D
+|caption=酒店的另一个走廊。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1582484983984-1a930896da01?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU5JTg1JTkyJUU1JUJBJTk3JUU4JUI1JUIwJUU1JUJCJThBfGVufDB8fDB8fHww
+|caption=酒店区最初拍摄的照片之一。
+]]
+**Level IF-335**的第三部分为酒店区，这一区域通常与第二区域紧密连接，大部分的结构都与后文提及的第四区域相似甚至一直，该区域为一个典型的现代酒店，拥有一些超前的科学技术，M.E.G.和A.W.C.正在尝试利用这些科技。总而言之，该区域大部分的区域都在无限延伸。
+
+**Level IF-335**的第三区域中有着许多友好实体，包括区域中特有的无面灵变体“接待员”，接待员为一个面部模糊的服务员，戴着蓝色领带，身穿白色衬衫，对谁都显得彬彬有礼。当流浪者初次进入该区域时，接待员将使用那些前厅中国际上的通用语言热烈地欢迎流浪者，同时带领流浪者前往那些可用的酒店客房，若该流浪者并不会第二语言时，接待员会立即将语言切换为流浪者的母语。有一些接待员包含一些特殊属性，例如，有一些接待员的着装明显与其他接待员不同，或是其身体特征极为奇怪，但接待员总是友好的。
+
+**Level IF-335**的第三部分的主要部分为大厅，大厅是第三区域中最大的次区域，大厅的墙壁与地板、天花板均由光滑的大理石制成，墙壁上有一些木雕立体抽象主义装饰或是抽象主义画作，打听中摆着多张沙发与桌椅，流浪者可以在此区域休息。主大厅中有着大量流动的人群，流浪者应当防备可能发生的踩踏事件。
+
+**Level IF-335**的第三部分的走廊通向每一个酒店套房，其通常是狭长且作为该区域代表的，走廊的墙壁上同样挂着一些画作，但这些画作的内容都已模糊不清。墙壁、天花板与地板的形态并不固定，常见的有木质或瓷制，走廊中的照明来源于墙壁上的壁灯，这些壁灯永不会熄灭。
+
+**Level IF-335**的第三部分的走廊中有着许多箱子，这些箱子大多为储物木箱或是衣柜，储物木箱中的物品多为一些水果，这些水果通常处于新鲜状态，散发着香料的香味。衣柜中会生成着一些衣物，这些衣物的尺寸通常取决于打开此衣柜的流浪者，衣服的尺寸会变为该流浪者的身体尺寸。
+
+**Level IF-335**的第三区域的客房配套齐全，大小各不相同，可以肯定的是，客房内部物资充裕且品类齐全，为流浪者提供了安全的休憩场所。流浪者在室内探索时，可发现杏仁水、火盐等大量补给物资，同时亦可安全使用室内配备的电器。但需注意，吊顶悬挂的灯具时常熄灭，其原因是灯泡因年久失修发生短路。
+
+**Level IF-335**的第三部分中有一些特殊房间，通常为储存室，这些储存室的墙壁由陈旧的木板所组成，空气中散发着木头受潮腐烂与灰尘相混合的气味。储物室中有一些木质箱子，这些木制箱子内部的物件基本与客房之中的物件相同，但有时会出现一些实验仪器。
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**真是奇怪，那些居住于此的流浪者甚至不知道外面发生了怎样的巨变。
+
+**Dr.Alice：**//也是，层级中的物资完全自给自足，养老都没问题，那些无物资被遗忘层级的可就惨了。//
+
+**Market：**在这里点名某个军医院。
+
+**Dr.Alice：**//我记得那不是早就复原了吗？现在可以在你们那个数据库找到。//
+
+**Market：**但那早已不是原初的版本了，大部分都被改写了，自从那片血洗之枫的出现后，战地医院就一直在被蚕食结构。即使它回来了，也终究无法做第十四层了，就跟那片乐园只能做第三百二十层一样。
+
+**Dr.Alice：**//你刚才是说第第十四层而不是第十五层对吧？//
+
+**Market：**说习惯了，那些M.E.G.的条条框框都太麻烦了，不过相比之下杏仁水公司也不是啥好（戛然而止）
+
+**Dr.Alice：**//记住你在哪。//
+
+**Market：**说起数据库，这里的数据库似乎跟其他地方不共通吧…？
+
+**Dr.Alice：**//都用自己的网了怎么可能还和其他地方同步，你可以去看看杏仁水公司的数据库，那里面几百个千层层级可都在呢，后面我们B.O.P.也打算把那些层级也捞出来。//
+
+**Market：**一视同仁吗？
+
+**Dr.Alice：**//当然是只找那些有价值或是可以当长期聚集地的，一个无聊的层级可不会讨人喜欢。//
+
+
+----
+[[>]]
+//——也是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录²。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第四区域：住宅区
+[[include component:image-block
+|name=https://mms0.baidu.com/it/u=1056578582,2481766699&fm=253&app=138&f=JPEG?w=550&h=366
+|caption=**Level IF-335**的住宅区。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1723713296731-a82e99a1873e?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fCVFNSVCOSVCRCVFOSU5NyVBRCUyMCVFNSVCMCU4MSVFOSU5NyVBRCUyMCVFNCVCRCU4RiVFNSVBRSU4NSUyMCVFOSVCQiU5MSVFNiU5QSU5NyUyMCVFOSU5OCU4OCVFOSU5OSU5MCUyMCVFNiVBMiVBNiVFNiVBMCVCOCUyMCVFNSU5MCU4RSVFNSVBRSVBNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-335**一个幽暗的房间，该照片于上一张照片左侧房间之内拍摄。
+]]
+**Level IF-335**的第四区域与第三区域紧密连接，大部分流浪者会在第三区域不断行走后来到该区域。该区域类似于一个封闭性的公寓内部，公寓内没有一扇窗户，整体是幽闭且黑暗的。
+
+**Level IF-335**的第四区域的公寓建筑风格类似于二十一世纪的美国公寓，但内部被刻意建造的狭窄且封闭，区域难以通风，油漆的气味充斥在该区域之中。该区域的结构与其他区域类似，都为无限延伸，但每个区域中的公寓房间总是连接着一个公寓大厅。
+
+**Level IF-335**第四区域的的公寓大厅中有一个接待处，接待处为A.W.C.预留的岗位，由于人口稠密，有时A.W.C.会将其他区域的志愿者安排到此区域之中。接待处有一个储物柜，储物柜为木质，内部齿轮结构似乎曾遭到过破坏，储物柜中放着一些物品，大部分为登记用的蓝色记号笔和笔记本。接待处旁摆放着一些桌椅，桌子上放着一些装饰物，大部分为古董摆件。
+
+**Level IF-335**第四区域的公寓房间中有着基本的陈设，被单、书桌、浴缸，所有物件都摆放的极为整齐，表面极为干净。A.W.C.会定期派出人员维护这些物件。每个房间的房门旁都有一个红色按钮，该按钮的用途为报警，非必要情况下不可使用该按钮。
+
+**Level IF-335**的第四区域中有多个一体式多功能房间，这些房间中的物品涵盖了多个种类，例如生活用品、餐厅餐盘、办公终端、健身用品等不同用途分类的物品。这些一体式多功能房间可以免费使用，但流浪者不可带出其中的物品。
+
+**Level IF-335**的第四区域中有一些基础结构，例如楼梯间或电梯。楼梯间出现在每个人口聚集点或是大厅附近，大多为旋转楼梯。区域中的电梯可以正常使用，这些电梯没有电梯门，速度较快，出现故障时将停止运动。
+
+**Level IF-335**的第四区域中有一些公共区域，这些区域大多为储存室或是公共洗手间。洗手间似乎会自我清洁，每当无人时分，洗手间的墙壁便会缓慢渗出纯净水与消毒液，并在清洁干净后缓慢消失。储存室大多为暗蓝色调，内部放着许多冰柜和冰箱，冰柜与冰箱中放着一些食物，例如新鲜水果或杏仁水。
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**呃我快无聊死了救命。
+
+**Dr.Alice：**//你不觉得这个地方莫名骇人吗，一堆像阈限空间一样的房间，估计A.W.C.没钱装灯//
+
+**Market：**有物资没恐惧说是。
+
+**Dr.Alice：**//确实，有一个大公司在后面撑腰确实没什么好怕的，感觉这个地方建筑风格是最割裂的一个了。//
+
+**Market：**不管怎样，至少这里是一个好的定居点对吧。
+
+**Dr.Alice：**//如果不是，那我们俩可就在办公室里待着了，才不会来这地方。//
+
+
+----
+[[>]]
+//——也是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录³。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第五区域：大学区
+[[include component:image-block
+|name=https://mms0.baidu.com/it/u=2339030631,1472745189&fm=253&app=138&f=JPEG?w=890&h=500
+|caption=**Level IF-335**的大学区。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JUFEJUE2JUU2JUEwJUExfGVufDB8fDB8fHww
+|caption=第五区域的教室内部。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1510531704581-5b2870972060?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU1JUFEJUE2JUU2JUEwJUExfGVufDB8fDB8fHww
+|caption=第五区域的另一个教室。
+]]
+**Level IF-335**的第五区域看起来像一个典型的北美学校或大学，狭长的学校走廊、体育馆、图书馆、会议室、教室、宿舍等次区域出现在该区域中。大部分的走廊墙壁上都贴有海报或是告示，体育馆内极其空旷，篮球、足球等球类物品放置在体育馆的集中区域，图书馆内极度安静，木头的香气充满此区域，该次区域中的书本大多为前厅中的知名书籍，会议室中摆放有多张椅子，其桌面放有多张资料，教室与会议室大致相同，桌椅摆放极其整齐，黑板上积攒着少数粉笔灰，宿舍极其黑暗，地面上充满水垢，宿舍中的洗脸盆似乎无法正常使用，结构极其脆弱。
+
+**Level IF-335**的第五区域的每个教室里，流浪者都可以遇到一个叫做校长或老师的实体，该实体很友好，流浪者可以选择与该实体交谈。她主要教科学、历史、英语或数学等学科方面的知识，对其他部分一窍不通。
+
+数学是该实体教的主要科目。她做的数学是代数和几何。如果她看到你，她会邀请你去她的教室。她偶尔会给你东西，如果你回答了相当数量的问题正确。每隔一段时间，你就会遇到一个学生实体。
+
+**Level IF-335**第五区域的学生实体可以成为流浪者最好的朋友之一，也可以是流浪者亲近的人，他们看起来像是没有明显特征的的11～16岁流浪者，其似乎是一种特殊的无面灵，学生听得懂大部分常用语言。您还可以在储物柜中找到一些学习用品。当校长或老师被激怒时，其将会将你拖去校长室并对你进行训话，但不会攻击你。他会打电话给[[span class="ruby"]]“你妈”[[span class="rt"]]"Your mother"[[/span]][[/span]]，之后将你送回教室或把你留在大厅里。
+
+**Level IF-335**的第五区域地板每周都会自动"清理"干净。任何垃圾，污物，或者碎片等留在地板上的杂质看似都会被自动"清理"掉。任何对大学区的损坏都会被缓慢的修复，因此它类似于一种治疗过程。
+
+**Level IF-335**的第五区的教室中通常摆放着许多桌椅，这些桌椅上通常会刷新着一些物资，目前总结出有[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、[https://backrooms-wiki-cn.wikidot.com/object-c-1 罐装龙肉]、[https://backrooms-wiki-cn.wikidot.com/object-5 糖果]、[https://backrooms-wiki-cn.wikidot.com/object-15 火盐]等，还会随机的刷新一些学习用具及书本。教室内还有概率会刷新储物柜，流浪者可以在此存放物品，某些储物柜中还会刷新物资。流浪者无法打开或破坏不属于自己的储物柜。这些“储物柜”总会出现的物品均类似于前厅中的“学习用具”。其中被报告到最多的有：
+[[code]]
+· 与小块碎尺子粘附在一起并且无法分离的橡皮
+· 无法使用的各类颜色中性笔
+· 断裂成小截的尺子
+[[/code]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**能让人回想起高中时光的地方，那个时候我还在现实呢。
+
+**Dr.Alice：**//废话，谁不是呢。//
+
+**Market：**这个地方有点像那个有派对客和扫兴客的地方，反正这俩都无聊的很。
+
+**Dr.Alice：**//现在早就变成一片洞穴咯。//
+
+**Market：**洞穴也快要没了，估计我们总部还会填上去一个新层级。
+
+**Dr.Alice：**//M.E.G.真闲啊，这么多层级说删就删。//
+
+**Market：**何不是呢，不过新的数据确实要好一点，只不过感觉没那味。
+
+**Dr.Alice：**//阈限味吗，那很原教旨了。//
+
+
+----
+[[>]]
+//——又是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第六区域：医学中心
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1711343777918-6d395c16e37f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU1JThDJUJCJUU1JUFEJUE2JTIwJUU1JThDJUJCJUU5JTk5JUEyJTIwJUU1JUFFJTlFJUU5JUFBJThDJUU1JUFFJUE0fGVufDB8fDB8fHww
+|caption=**Level IF-335**的走廊
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1576669801838-1b1c52121e6a?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCVFNSU4QyVCQiVFNSVBRCVBNiUyMCVFNSU4QyVCQiVFOSU5OSVBMiUyMCVFNSVBRSU5RSVFOSVBQSU4QyVFNSVBRSVBNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=实验室
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1697082977798-72ff9de23c88?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFNSU4QyVCQiVFNSVBRCVBNiUyMCVFNSU4QyVCQiVFOSU5OSVBMiUyMCVFNSVBRSU5RSVFOSVBQSU4QyVFNSVBRSVBNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=另一处走廊
+]]
+**Level IF-335**的第六区域是其最臭名昭著的区域之一，该区域与四区和五区相连，大部分门廊和楼梯间通往第七区域。总而言之，这一区域为一个黑暗且潮湿的孤独医学实验室和医院的结合体，驻留在该区域的人员主要为B.I.S.T.人员。
+
+**Level IF-335**的第六区域似乎对流浪者有着部分精神影响，包括但不限于：
+* 眼前出现幻影
+* 记忆混乱
+* 被害妄想
+* 产生不存在的记忆
+* 既视感
+* 偏执
+这些精神影响常常出现在初次进入该区域的流浪者身上，产生时，流浪者会感到极其难受，并由此产生并发反应，如呕吐或眩晕等。第二次或更多次进入此区域的流浪者将不会再次受到精神影响。
+
+**Level IF-335**第六区域所有的布置都异常地干净整洁，所有实验器具上都附着有水渍。该区域的走廊与房间的主色调永远是一成不变的白色。层级中有着与上述类似的熄灯事件，但所有灯光并不会同时熄灭，总会留下一些未熄灭的灯。层级的灯光色调通常为白色或是暗黄色，有时灯光会变得极其刺眼。
+
+**Level IF-335**第六区域中总是弥漫着一股特殊气味，这种气味类似于生物尸体、消毒水与碘伏的混合气味，这些气味同时也会让流浪者产生类似于上述的精神影响，不过程度稍有减轻，且对所有流浪者生效。
+
+**Level IF-335**第六区域中有着一些化学仪器，包括验光机、光学显微镜、烧杯、心率检测仪等物品。同时，该区域中也杂乱地摆放着一些用普通的笔记本书写的实验日志，实验包括观测病菌活动、元素反应等。
+
+**Level IF-335**的第六区域有时会突然停电，一切照明设备、实验仪器都会在瞬间停止运行。停电的周期似乎是固定的，大部分情况下为15天停电一次，由于层级内并没有窗户，因此也无法观测自然景观以获取时间信息，层级中的人们使用的都为相对时间。
+
+**Level IF-335**的第六区域的箱子和柜子有大量物资，已发现的：[[[https://backrooms-wiki-cn.wikidot.com/object-74|迁跃浆果]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-28|幸运豆奶]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-42|瓶装闪电]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-43|塔罗牌组]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-15|火盐]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-14|圣甲虫]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-20|紫钥石]]][[[https://backrooms-wiki-cn.wikidot.com/object-16|皇家口粮]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-1|罐装龙肉]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-16|结果魔方]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-5|糖果]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-40|后室TCG卡牌]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-40|轻松可乐]]]、[[[Object IF-11|解忧罐头]]]等。
+
+**Level IF-335**总是有着噪音，目前已被记录的噪音如下：
+* 刺耳的防空警报声
+* 水滴声
+* 动物的尖叫声
+* 金属碰撞声
+* 模糊的人类交谈声
+目前尚不明确这些声音的来源。
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**专业对口了是不是，我记得女士您最近也在做关于映射的研究吧…？
+
+**Dr.Alice：**//是啊，每次都是在我的私人实验室之内进行的，那些U.E.C.的人老说我搞独裁还不管事，实际上他们误解的内容都要到飘爪哇岛去了，我本来就是B.O.P.的第二继承人，我也不是不管事，只是最近你知道的，事情太多了，那些新的层级一个接一个浮现。//
+
+**Market：**那我的确是体验不到了，我本来就只是M.E.G.的一个小探员罢了，能分配到您身边实属荣幸了。
+
+**Dr.Alice：**//也没有吧…？这次只是一次共同的探索活动，不分身份的。//
+
+
+----
+[[>]]
+//——还是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第七区域：科技中心
+
+正如其名，**Level IF-335**中的这一区域呈现出类似于一个科技中心的模样。由于该区域的许多区域都只有B.I.S.T.的员工可以进入，而其主要区域均被改造为B.I.S.T.的基地，故请访**基地、前哨与社区**部分以查看对于该区域的描述。
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**呵，所以说这地方既然能发现这么多不同的景观，过去应该还挺繁华的？
+
+**Dr.Alice：**//可不是嘛//
+
+**Market：**但再次强调：我感觉把这个档案发到M.E.G.数据库肯定会被骂，因为分尸。
+
+**Dr.Alice：**//其实我认为这不是啥大问题，而且这地方东西这么多，肯定是值得我们去营救的。//
+
+**Market：**话说你们派出用来营救这一层级的小队进展怎么样了。
+
+**Dr.Alice：**//有点不顺利诶，他们说在fd那边因为各种叫法与世界的差异处处受阻。//
+
+**Market：**唉早该想到的
+
+**Dr.Alice：**//下次再说这些吧，先散了。//
+----
+[[>]]
+//——依旧是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 第八区域：电力中心
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1558054665-fbe00cd7d920?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU3JTk0JUI1JUU1JThBJTlCJUU1JUFFJUE0fGVufDB8fDB8fHww
+|caption=**Level IF-335**的第八区域的主要照片。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1658043121866-c800a1a868e5?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFNSU4RiU5MSVFNyU5NCVCNSVFNyVBQiU5OSUyMCVFNSVBRSVBNCVFNSU4NiU4NSUyMCVFNiU4OCVCRiVFOSU5NyVCNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=通往第九区域的门。
+]]
+**Level IF-335**的第八区域通常与所有区域都相连接，且该区域由巨量的大厅和维修室组成。该区域正如前文所述，为给层级所有区域供电的区域，其中供给的大部分电源都成为了备用电源。
+
+**Level IF-335**的第八区域被描述为一个大型的发电站，大部分的区域重复性极高。区域的天花板使用未知金属所构成，这种金属似乎经过加工，加工方式为磨碎后再次重组结构。该金属总是散发着银色的光芒，因此也被称作銧石。
+
+**Level IF-335**的第八区域的墙壁通常极其老旧，其由混凝土构成。墙壁通常为一成不变的白色，上面附着些许灰尘和油渍，混凝土墙通常是难以破坏的。部分维修室的混凝土墙可能有些破损，露出其内部的钢筋结构。
+
+**Level IF-335**的第八区域的流浪者声称，层级中总是能听到一些奇怪的响声，，大部分为引擎的轰鸣声、系统的警报声等，除此之外，区域之中的白炽灯也会发出嗡嗡声，类似于[https://backrooms-wiki-cn.wikidot.com/level-0 Level 0]。
+
+**Level IF-335**的第八区域中有一些基础的房间，例如电气室等，这些房间是电源的主要生产地。同时，第八区域中存在着一个位于中心区域的大厅，大厅中到处摆满了变压器和电线，同时也摆放着一些机箱和服务器，这些机箱和服务器是层级内局域网的来源。
+
+**Level IF-335**的第八区域中散落着各式各样的工具，大部分与电气有关，如金属制的锤子、扳手、老虎钳等。这些工具大部分都有着使用的痕迹，部分工具甚至遭到的剧烈的损坏，不过，大部分工具仍可以正常使用，这些工具是E.P.G.的主要工具来源。
+
+**Level IF-335**的第八区域中有一些展物架，这些展物架上通常会生成一些有用的物品，例如杏仁水和一些其他类型的食物。展物架上的物品总是在被流浪者拿取后的3小时之内又再次重新出现。
+
+**Level IF-335**的第八区域为E.P.G.的主要驻扎地，E.P.G.会定期派出高等人员巡视该区域，为此区域的维护员。维护员通常是友好的，他们乐意解决流浪者的问题，不过，若流浪者攻击维护员，维护员会立即报警并拘留该流浪者。
+
+**Level IF-335**的第八区域通往第九区域，流浪者需要在区域之中发现一堵铁丝围栏，围栏的中间是一扇铁门，铁门上贴满了注意事项，以及一个标识，该标识的内容为“不安囚笼”，穿过该门，流浪者便来到了接下来讲述的第九区域。
+++ 第九区域：不安囚笼
+
+[[include component:image-block
+|name=https://mms0.baidu.com/it/u=2324320492,1865439865&fm=253&app=138&f=JPEG?w=500&h=665
+|caption=**Level IF-335**的不安囚笼区域。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1580779013733-5ba7d12d708f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU3JTlCJTkxJUU3JThCJUIxfGVufDB8fDB8fHww
+|caption=第九区域的另一个房间。
+]]
+**Level IF-335**的第九区域由大厅和牢房区域组成。第九区域的大厅由许多瓷砖，白色大理石地板组成，该区域偶尔有牢房出现。金属墙被涂成了令人作呕的浅灰色和白色，而天花板由矩形灰泥瓷砖组成，荧光灯成对出现，但放置却不一致。
+
+**Level IF-335**的第九区域中的牢房具有现代风格，拥有白桦木制成的门，牢房门口可能有一个写着“welcome！”的垫子。牢房的内部通常有两层，二楼有一个浴室，而两层都有两间卧室。客厅最常见的是一个单一的沙发，一台不超过2010年风格的电视放在它前面。地板通常是桦木板，屋顶是灰泥材质的。牢房的二楼似乎有一个阳台，尽管没有流浪者使用它。据指出，似乎有些房间的墙壁为浅黄色，天花板的颜色与材质和地板相同。这些房间中最可识别的部分是铁条，它们似乎通向一个似乎能让人想起一个视频中游戏景观的区域。
+
+目前，**A.W.C.**已将该区域利用起来，他们将在**Level IF-335**中犯罪的流浪者关押在此，并在该区域部署数名狱警防止犯罪流浪者逃离监狱。因此，在**A.W.C.**的管理下，**Level IF-335**的犯罪率大大降低，居住在该层级中的流浪者生活更加安全。
+
+**Level IF-335**的第九区域的大厅中会随机刷新一些监狱用品，如囚服、手铐、警棍等，这些物品使**A.W.C.**的管理更加精密。牢房内也随机的刷新着一些物资，如[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、[https://backrooms-wiki-cn.wikidot.com/object-c-1 罐装龙肉]等，这些物资足以让犯人存活
+
+想要前往第十区域，流浪者需要进入一个开放的牢房。随后进入拥有浅黄色墙壁的房间。跟着铁条，来到一个似乎是某个游戏之中的景观的区域，在这里，流浪者可以找到一个井，跳入井会来到第十区域。
+
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+**Market：**我们这是来到那个第九区域了吗？就是那个什么不安囚笼。
+
+**Dr.Alice：**//是，怎么了。//
+
+**Market：**听说这个区域的牢房很高级，真的吗？
+
+**Dr.Alice：**//hmmmm...你这么说，还真是，说不好听点，这个区域的牢房可能比[https://backrooms-wiki-cn.wikidot.com/level-11 L11]中的某些建筑还好些。//
+
+**Market：**让我来看看...话说这个区域前往下一个区域是不是要跳进一个井啊？
+
+**Dr.Alice：**//是，第十区域是一个地下堡垒。要在一个似乎能让人想起一个视频中游戏景观的区域中跳进一个井才能到十区//
+
+**Market：**呃，我的腿啊！！！
+
+**Dr.Alice：**//下次再说吧，我有点事，先散了。//
+----
+[[>]]
+//——又是一则B.O.P.与M.E.G.联合谈论**Level IF-335**的对话记录。//
+[[/>]]
+[[/div]]
+[[/div]]
+
+++ 第十区域：地下堡垒
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1631125393748-5b95f6b1a7ea?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU2JTlDJUFCJUU2JTk3JUE1JTIwJUU1JUFFJUE0JUU1JTg2JTg1JTIwJUU1JTlDJUIwJUU1JUEwJUExfGVufDB8fDB8fHww
+|caption=**Level IF-335**的第十区域。
+]]
+[[include component:image-block
+|name=https://mms1.baidu.com/it/u=3419167293,787407962&fm=253&app=120&f=JPEG?w=800&h=500
+|caption=**Level IF-335**疑似通往前厅的区域（现已失效）
+]]
+**Level IF-335**的第十区域表现为一地下掩体组合体，其类似于前厅中第二次世界大战时建造的的掩体，并且未发现其边界，推测为无限。该区域是绝对封闭的，除该层级的出入口外无任何窗户或通往外界的门，区域中拥有独立的通风系统。
+
+**Level IF-335**的第十区域中有着大量不同种类的房间，这些房间大多为功能性房间，这些房间的门口带有名称标牌。这些房间的种类如下：
+* 生活区
+* 温室
+* 储藏室
+* 自助餐厅
+* 储水室
+* 军械库
+每个房间的装饰都各有不同，但大部分房间都与层级走廊直接或间接相连。
+
+**Level IF-335**的第十区域有着因受潮腐烂的墙纸、破碎的地板以及屋顶。大部分房间的墙壁上都带有破洞，这些洞通向一个死路或是另一个房间。区域中的物件似乎显现出年久失修的迹象，该区域上一次的维护记录为{{1964.3.19}}。
+
+**Level IF-335**的第十区域中居住着大量流浪者，这些流浪者们有着固定的房间。层级的生活区中摆放着一些常见的家具，例如床或抽屉等。层级的温室中种植着一些植物，例如铃兰或玫瑰等。储藏室分为两类，一类为普通储藏室，一类为储水室。储水室会定期补充饮用水，这些饮用水的来源不明，极其干净且内部不掺杂任何杂质，储水室中的水流向每个房间，主要由管道连接。储存室中储存着一些物品，通常是各类繁杂的杂物，也有一些板条箱，里面通常是工具或杏仁水，在此不展开说明。自助餐厅中会自动刷新一些食物，这些食物极其新鲜，仿佛上一秒才被制作完毕。军械库中存放着大量可使用的武器，涵盖了历史上各种冷兵器和热兵器。该区域中有一个较小的团体，被称为S.D.G.S.。S.D.G.S.是B.I.S.T.的其中一个小队，该小队负责维修区域中的各种物件。
+
+**Level IF-335**的第十区域中也有与其他区域相同的熄灯事件，在此不过多说明。该区域疑似可以通往前厅，流浪者可以爬向第九区通往此处的入口，即层级中的游戏景观区，该区域极其开阔，流浪者可以来到该区域的边缘，进入一个狭窄的通道，不断前行，最终将前往前厅。不过，该出口似乎早已失效，对于该出口的记录也极其稀少。
+
++ 实体：
+前文已提及，在此不过多赘述，大部分实体都被A.W.C.所记录或处决，若流浪者在层级之中发现了一些可能或是已被确信的实体记录，请立即汇报至层级中的任意一个人口聚集点或基地。
++ **基地、前哨与社区**
+由于 Level IF-335已经是后室IF层群[[footnote]]实际为Fandom平行世界的旧千层层群，后室IF层群仅为挂名[[/footnote]]历史中的一个重要部分，要列出每一个团体是不可能的。总体而言，算上在后室中出生的许多人，Level IF-335的人口约为 115,535 人，这一数字是根据通用公开数据库的工作人员开展的志愿人口普查得出的。下述团体虽为主要，但仅仅只占层级内人口的小部分，而绝大多数人口则散落在层级内的各个小聚落与社区之中。
+
+然而，目前的主要团体如下：
+[[tabview]]
+[[tab A.W.C.]]
++ A.W.C. - 杏仁水公司
+
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1702967426797-cff3054fa6c0?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU1JTg1JUFDJUU1JThGJUI4fGVufDB8fDB8fHww
+|caption=杏仁水工厂的办公室
+|width=50
+]]
+
+杏仁水公司（Almond Water Company，A.W.C.）的主要基地位于**Level IF-335**的第一区域：“呼叫中心”。该基地涵盖面积超3km^^2^^，是整个**Level IF-335**内面积最大的基地。该基地主要分为杏仁水工厂、供应与发货区和宿舍区三个区域，而杏仁水工厂又分为车间区与办公区两个区域。
+
+该基地内的所有任职人员及收留人员（该基地亦会收留层级内的流浪人类）共计16089人，而编外零散人员则有7123人。因此该基地的庞大规模毋庸置疑。该基地发行自己的货币，称之为“合拉”。这些“合拉”仅在**Level IF-335**内流通。按2025年6月19日的汇率，1合拉≈23.8907 M.E.G.标准金属币（俗称“标金”或“标钢”）。
+
+该组织对**Level IF-335**中的绝大多数区域均有较深的研究与认识，并在层级内的绝大多数区域承担了管理与维护治安的责任。他们的足迹几乎遍布**Level IF-335**内的任何已被发现之处，本层级文档的撰写也主要由他们完成。
+
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+[[=]]
+“为无尽之商场[[footnote]]20世纪早期Level IF-335的曾用名之一。[[/footnote]]贡献！”
+[[/=]]
+------------
+[[>]]
+这是写在一个杏仁水上的贺词。
+//——约于 1799 年 12 月 31 日。//
+[[/>]]
+[[/div]]
+[[/div]]
+[[/tab]]
+[[tab B.I.S.T.（包含第七区域描述）]]
++ B.I.S.T. - 后室科技研究所
+
+
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+
+[[span class="infoblock with-bg-red"]]闲人莫入。[[/span]]
+
+[[>]]
+//———B.I.S.T.主要基地门口的警告标示。//
+[[/>]]
+
+[[/div]]
+[[/div]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1686560739218-7fd383e7624f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUU3JUE3JTkxJUU2JThBJTgwJUU0JUI4JUFEJUU1JUJGJTgzJTIwJUU1JTg2JTg1JUU5JTgzJUE4JTIwJUU1JUIwJTgxJUU5JTk3JUFEJUU2JTgwJUE3fGVufDB8fDB8fHww
+|caption=后室科技研究所的门口。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1682408809639-d3e5c76683c8?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU3JUE3JTkxJUU2JThBJTgwJTIwJUU3JUEwJTk0JUU3JUE5JUI2JUU5JTk5JUEyJTIwJUU1JTg2JTg1JUU5JTgzJUE4fGVufDB8fDB8fHww
+|caption=第七区域内一条走廊的末端，亦是“楼梯间”区域。
+]]
+**后室科技研究所（Backrooms Institute of Science and Technology，B.I.S.T.）**是**Level IF-335**内最为主要的组织之一，控制了整个**第七区域**。以下便是对其控制区域——“科技中心”的描述。
+
+**Level IF-335**内的第七区域呈现出类似于前厅中“科技研究中心”类型建筑内部的结构，并似乎向上一层层地无限延伸。
+
+层与层之间用楼梯连接，楼梯间内的楼梯高度不稳定，有时可能会突然消失。楼梯间通常不大，墙壁上挂着各种难以理解的图纸亦或是海报。楼梯间总是会出现在某条走廊的末端，其后存在一扇门，这扇门总是会通向电力供应区。
+
+第七区域中的每一层除楼梯间外都呈现出相似的样子：空荡荡的房间，黑色的地板上胡乱画着各种难以理解的标线或标志，天花板上存在着许多白色荧光灯。
+
+第七区域中的天花板及墙壁似乎都由一种表观类似于白色混凝土的材料构成，该类材料极为坚硬，目前一切破坏其的尝试均以失败告终。然而，这一材料在高温常压环境下似乎会发生变色，由白色逐渐变为赤赭的红色，最后又变为极深的靛紫色。
+
+在第七区域的每一层中央都存在一个类似于“大厅”或“会堂”的区域，该片区域覆满灰尘，并且其中大部分器物均已破损或无法使用。部分大厅的地板上可能会存在坑洞，这些坑洞反常地向下无限延伸，流浪者一旦坠入这些坑洞，便会在不久后来到[https://backrooms-wiki-cn.wikidot.com/level-198 Level 198]。
+
+进入楼梯间的门将会带你到第八区域——“电力中心”。
+
+而驻扎于此的**B.I.S.T.**则蒙上了一层神秘的面纱。其核心区域一般不允许除其成员外的其他流浪者进入。关于该组织，我们所了解的是：在其的实验室区域会进行各种研究（不仅限于实验），包括研究归纳不同层级的效应、机制和环境；对部分极其特殊的异常性质进行仔细的考察与研探；研究后室较为深层的运作原理。
+
+而其的技术部门则是一个神奇的地方，数不尽的后室发明与实用品在这里诞生，本来应列于此，但实在是罄竹难书。这些发明在被生产之后将会运往层级内的第二区域进行销售。
+
+[[/tab]]
+[[tab E.P.G.]]
++ E.P.G. - 电力集团
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1684674451905-fea49214cb43?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU3JUE3JTkxJUU2JThBJTgwJUU0JUI4JUFEJUU1JUJGJTgzJTIwJUU1JTg2JTg1JUU5JTgzJUE4JTIwJUU1JUIwJTgxJUU5JTk3JUFEJUU2JTgwJUE3fGVufDB8fDB8fHww
+|caption=电力集团的日本分部区域。
+]]
+
+在20世纪前期，第八区域刚被发现时，E.P.G.都还是一个仅仅只由12人构成的小团体，然而，现如今的它早已脱胎换骨，跻身**Level IF-335**主要团体之列。
+
+电力集团（Electricity Power Group，E.P.G.）的主要基地位于Level IF-335的第八区域：“电力中心”。该基地的涵盖面积超2.5km^^2^^。该组织维护并控制着**Level IF-335**中的电力中心并确保其正常运作。正因如此，该组织在层级中举足轻重，而与其他组织均保持着较为融洽的关系。
+
+该组织的主要基地位于**第八区域**的末端。根据该组织于2023年底进行的人口普查，该组织基层员工与管理人员共有2304人，而区域内居住人口(不包括组织人员）则有18904人。其规模亦较大。
+
+该组织的活动范围在近期逐渐从第八区域扩散至近乎整个层级，其甚至在2024年底我们与其的交流大会中展示了这样一个宏大的愿景：他们计划在2040年之前成为整个IF层群规模最大、影响最广泛的工业类团体。而作为他们在IF层群最主要的盟友之一，B.O.P.衷心祝愿他们能够不断进步与发展。
+
+
+[[/tab]]
+[[tab B.N.T.G.]]
+[[include component:image-block
+|name=https://backrooms-wiki.wdfiles.com/local--files/level-11/11erdc.jpg
+|caption=一张空旷的B.N.T.G.办公室的图片。
+]]
+
+而对于**B.N.T.G.**这种规模的团体，专门描述其情况明显是很不必要的，故我们仅介绍其位于**Level IF-335**内的前哨站——“‘三三五’交易点”。
+
+“三三五”交易点位于**Level IF-335**内的第二区域，拥有专门的办公室及宿舍，并在办公室外的一片专用区域内与层级内的流浪者与组织们有序地进行交易。该前哨站的常住人口仅有30人，但通常在工作时段位于区域内的员工与编外人员共计约有350人。
+
+该前哨站并不是B.N.T.G.在IF层群的主要据点，但在**Level IF-335**内物产的交流上有着不可替代的作用。
+
+[[/tab]]
+[[tab B.O.P.＆M.E.G.]]
+
+作为本层级的恢复与再造者，他们在该层级中有着无可比拟的地位。然而，这两个组织在层级内并无相互独立的基地，而是共同使用一个基地。故将其列于同一个分页内。
+
+这一基地名为“再造未来”，位于**Level IF-335**第一区域的正中央。该基地外围社区面积极大（约30km^^2^^），并且该社区容纳了大量流浪者（按照2024年初的数据，30000人）。关于该基地的详细信息，请访[[[renewing-future|再造未来]]]以查看。
+
+[[/tab]]
+[[/tabview]]
++ 附加内容
+++ 层级铁路
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+[[image
+http://if-sandbox.wikidot.com/local--files/secret:pictures/Level1026%20to%20Level1033
+]]
+**Market：**A.W.C.已经和那个名为“Level 1026”的层级合作修建地铁，需要B.O.P.和M.E.G.在此合作，这是铁路的草图（拿出一个笔记本）
+
+**Dr.Alice：**//看样子上面似乎有着不少层级，都是那些有点价值的层级，我或多或少有点耳闻。//
+
+**Market：**听说Level 1026那个旧的军政府现在已经被推翻的差不多了，现在是新政府带头修地铁。
+
+**Dr.Alice：**//那个地方我之前看过记录，很压抑一个地方，上次我们总部的有一个去那边之后回来都疯了，老感觉自己被那些空中飞的直升机监视者，完全就是一片恐怖主义的天地，幸好现在有出口了，而且那个旧军政府跑路了，似乎是去到了[https://backrooms-wiki-cn.wikidot.com/level-49 Level 49]//
+
+**Market：**这样啊，我之前没怎么听说过，只知道现在那里的天空已经恢复了一点了，但大部分区域为了特色还是恢复原样，例如那个霓虹区。铁路是为了方便我们映射和改造那些归档层级的。
+
+**Dr.Alice：**//现在那个铁路修到哪了？//
+
+**Market：**修到Level 1120了，那个生存难度4的鬼地方，不过物资挺多的，确实有价值。
+
+**Dr.Alice：**//现在在试运行吗？//
+
+**Market：**电力集团之前说过的，早就运行从Level 1026到Level 1045的路了，不过最近Level 1045有点插曲。
+
+**Dr.Alice：**//哦，说来听听。//
+
+**Market：**Level 1045原本为“拉丁美洲”，差不多就是前厅现实中的美洲复刻吧，但是最近发现很多地方都出现了不明的地质运动，大陆之间分裂成了岛屿，天逐渐变暗，那些现代建筑逐渐消亡，跟Level 1045的另一个版本“错误”没有区别了。
+
+**Dr.Alice：**//上次Level 1033的报纸还刊登了那个巴士被困到河道里面那件事呢。//
+
+**Market：**反正这些映射的层级似乎会潜移默化地变成它的另一个版本，我们需要稳定它们。
+
+**Dr.Alice：**//我会去找A.W.C.研制这玩意的。//
+
+
+----
+[[>]]
+//——一则B.O.P.与M.E.G.联合谈论**Level IF-335**修建铁路的对话记录//
+[[/>]]
+[[/div]]
+[[/div]]
+++ 访谈记录
+[[div class="bettercollap"]]
+[[collapsible show="> SCP-IF-335-1/Object IF-335-1 映射水晶 访谈记录" hide="> 收起访谈记录"]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+地点：Level IF-199
+时间：20██.█.██
+参与人：Dr.Alice、John Jackson、Market
+[[image
+https://images.unsplash.com/photo-1743448111530-3654e7b66f26?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fCVFNiVCMCVCNCVFNiU5OSVCNnxlbnwwfHwwfHx8MA%3D%3D
+]]
+----
+**Dr.Alice：**从边缘地带带过来的产物，那个什么基金会把这个叫SCP-IF-335-1。
+
+**John Jackson：**所以说，你是说用这个可以勘探那些被删除的层级？
+
+**Market：**那么也就是说无论哪个版本的旧层级都可以用这个恢复？
+
+**Dr.Alice：**算是这样吧，水晶是在核心边缘产生的，效果没有那么强，但也凑合用。
+
+**John Jackson：**听说上次M.E.G.还拿这玩意恢复了Level 37和Level 820。
+
+**Market：**这个物品必须放在玻璃箱容器里吗。
+
+**Dr.Alice：**目前来说差不多是这样的，携带也很麻烦，目前没有什么新方案了。
+
+**John Jackson：**如果，我是说如果，把这个玩意二次加工成一个像终端一样的物品呢？
+
+**Market：**这倒是一个好的想法，M.E.G.估计不缺这样的技术，待会我就稍微拿一点这玩意，带到总部去研发一下。
+
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="> SCP-IF-335-2/Object IF-335-2 映射终端 访谈记录" hide="> 收起访谈记录"]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+地点：Level IF-335/Level 1033
+时间：20██.█.██
+参与人：Dr.Alice、John Jackson
+----
+[[image
+https://images.unsplash.com/photo-1663770114127-4f61cb62b56d?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU3JUJCJTg4JUU3JUFCJUFGJTIwJUU3JTk0JUI1JUU4JTg0JTkxfGVufDB8fDB8fHww
+]]
+**Dr.Alice：**所以，你的意思是，他真的把这玩意改造成了一个终端？
+
+**John Jackson：**差不多是这样吧，稳定性和便携性都有提高，你猜现在这个层级的部分地区是怎么弄出来了？
+
+**Dr.Alice：**就靠这个小终端？
+
+**John Jackson：**没错，的确如此。
+
+**Dr.Alice：**目前对于该物品是怎么分配的呢？
+
+**John Jackson：**这个吗，目前终端还没有实现量产，不过现在已经给了Alpha基地三个，Level IF-199四个。
+
+**Dr.Alice：**这玩意应该设了保险的吧…？
+
+**John Jackson：**需要找M.E.G.或者SCP要2级以上的授权才可以访问，而且不能对其进行任何损伤。唉，SCP怎么都管到这里来了。
+
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
+++ 他层信息
+[[div class="bettercollap"]]
+[[collapsible show="> Level 1000" hide="> 收起信息"]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+地点：Level IF-335/Level 1033
+时间：20██.█.██
+参与人：John Jackson、Voltak
+----
+**John Jackson：**所以，先生，您在来到Level 1033之前是一直待在Level 1000的？
+
+**Voltak：**是的，没错，尽管那里能把人逼疯，我还是生活了一段时间。
+
+**John Jackson：**是那个名为“基数层级”的版本？
+
+**Voltak：**没错，正是，你也知道，我在当时进入了Level 999，当时只能靠忏悔出去，于是我就忏悔了一段时间，来到了这个鬼地方。那个时候这个层级还没被记录过，一些杂乱的声响在我身边经过。层级里面是完全黑的，什么也看不见，我把那些层级里的物品都使用了个遍也没找到出口。在那里待了几天过后，我快要疯了，眼前一切都变得异常模糊，直到此时，我发现眼前有些光亮，那正是Level 1033。Level 1033那个时候是很繁华的，什么人都有，甚至有一些从Wikidot侧来的人，当时大家生活得都很好，直到有一个，层级里面突然开始乱起来了。层级的一切入口与出口都被封闭，有些地方甚至被一片乱七八糟的地方——破碎之地所吞噬。大概是在那样恐慌的情况下生活了几年之后，该层级最后还是被挖出来了，于是我就开始到处找新来的人，这也是我参加这个访谈的原因。
+
+**John Jackson：**感谢您在此作的介绍，其实我对这个层级本来也不是很了解，对了，你还知道其他千层以上的层级信息吗。
+
+**Voltak：**不知道，大部分都被时代所吞没，只有一些还残存了。
+
+
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="> Level 1001" hide="> 收起信息"]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+地点：Level IF-335/Level 1033
+时间：20██.█.██
+参与人：John Jackson、Favipiravir
+----
+**John Jackson：**不用那么紧张，这只是一次临时的记录，听说您知道Level 1001是怎么回事。
+
+**Favipiravir：**呃，应该差不多吧，我之前经过那里。
+
+**John Jackson：**环境大概是什么样的？
+
+**Favipiravir：**那个地方是比较黑暗的，走廊十分狭长，房间有点类似于Level 5，里面有些什么吃的，还有一些扑克牌和手提箱。我在那自娱自乐了一会就往前了。越往前，前面就越发逼仄，甚至有一些实体的声音，层级逐渐开始腐败，到最后就只剩下了洞穴结构，我在那里面迷失了方向，差不多等了几天的样子，后面一切出就来到Level 1033的。那个时候Level 1033似乎有什么大事件，所有人都很惊恐，随后我听到了一声响声，灯熄灭了，整个大厅顿时陷入混乱。好在混乱持续没多久就结束了，我也在那待到了现在。
+
+**John Jackson：**我似乎有些头绪了，所以，这里曾经有过一些大事件？
+
+**Favipiravir：**不知道，但他们都将其称为“大清洗”。
+
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[collapsible show="> Level 1026" hide="> 收起信息"]]
+[[div class="noseeblock"]]
+[[div class="blockquote"]]
+地点：Level IF-335/Level 1033
+时间：20██.█.██
+参与人：John Jackson、Kreyd
+----
+**John Jackson：**差不多要进行到最后一步了。
+
+**Kreyd：**呃什么意思，我没听懂。
+
+**John Jackson：**抱歉，刚才不小心口误了（擦汗），所以意思是您在那个城市待了快三十年？
+
+**Kreyd：**差不多吧，从出生起，我就一直待在那个封闭的地方，一切都是那样黑暗。我的父母早年就已经失踪了，我曾经问过旧军政府的，他们说无可奉告，该死的。我没怎么经过教育，到了三十岁还是文盲。在三十岁之后，我稍微接触一点书本后就一直在写日记，发泄一下情绪。层级里有过几起暴乱，但都被那些空中的眼睛给镇压下去了。总之，在某一天时，层级突然开始频发地震，层级的边缘被破碎之地所侵蚀。除此之外没别的，因为当时该层级连一个出口都没有。后来有了，因为映射的原因，在映射之前，层级里的物资一直短缺，我记得有一回我差点在那个荒废的房间里饿死。总之，现在总算好起来了，听说你们要建地铁是不是？
+
+**John Jackson：**差不多吧，现在已经通路了，你可以去新政府修的地铁站看看。
+
+**Kreyd：**好的，谢谢。
+
+
+[[/div]]
+[[/div]]
+[[/collapsible]]
+[[/div]]
++++ 历史
+[[include component:image-block
+|name=http://brsandbox-pro.wikidot.com/local--files/collab:level-c-887/power-plant-344231_960_720%281%29.jpg
+|caption=电力中心的老图片。
+]]
+Level IF-355最初为一处废弃的商场，起初的样子显然不适合人类生存，然而，由于层级内被发现会出现许多重要物资，于是许多人们便来到这里定居。
+
+人们对该层级进行了许多改造与翻修，而层级自身似乎也在适应并推进这一进程，同时，由于人们的生活分区，层级内部的各个片区所呈现出的表观与特性也逐渐开始相互割裂。于是，在若干年后，层级便成为了现在的样子。
+
+随后，层级内涌现出了一批团体，其中最为强大的“盖斯温顿”自然也就通知了该层级。需要注意的是，Level 1033中的“盖斯温顿”为Level 1026中的“盖斯温顿”分部，Level 1026的“盖斯温顿”总部最终也被另一个政府所替代。
+
+而在大清洗前夕，“拨号中心之战”爆发。这一战争标志着“盖斯温顿”的时代结束了。
+++++ 拨号中心之战
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_1026-%253F%253F.png
+|caption=我恨他们。
+|align=center
+]]
+
+**拨号中心之战**指大清洗前夕原军政府“盖斯温顿”向层级内其他组织发起的战争。该场战争以盖斯温顿进攻A.W.C.为起始，以次日晚盖斯温顿宣布无条件投降为结束。
+
+[[div class="bettercollap"]]
+[[collapsible show="展开战斗事件日志" hide="收起"]]
+[[note]]
+战斗第一天13:54：战斗开始。
+@@@@
+战斗第一天14:10：盖斯温顿对A.W.C.发起进攻。
+@@@@
+战斗第一天14:46:A.W.C.开始反击。
+@@@@
+战斗第二天1:00：盖斯温顿占领了第五区域。
+@@@@
+战斗第二天1:47：盖斯温顿占领了第六区域，并分多路向第七区域进军。
+@@@@
+战斗第二天2:59：盖斯温顿尝试向第七区域进攻然后占领B.I.S.T.的基地但失败了。
+@@@@
+战斗第二天3:30： B.I.S.T.派遣了军队前往反击盖斯温顿。
+@@@@
+战斗第二天4:00：盖斯温顿绝大多数军队聚集于第六区域内的一片安全区域，并准备退至第五区域。
+@@@@
+战斗第二天4:54： A.W.C.的警卫队率领大量民兵来到第六区域并封锁了第五区域与第六区域的连接处。
+@@@@
+战斗第二天5:13：A.W.C.军与盖斯温顿军接触，战斗正式打响。
+@@@@
+战斗第二天5:18：A.W.C.逐渐开始有意的聚集军队守护第五与第六区域的连接处。
+@@@@
+战斗第二天5:24：盖斯温顿派出一支50人的先锋队攻击A.W.C.队形收拢时形成的缝隙以扰乱其行动。
+@@@@
+战斗第二天5:29：B.I.S.T.的军队赶到战场并与A.W.C.军在两面夹住了盖斯温顿的军队并开始了反击。
+@@@@
+战斗第二天5:40：B.I.S.T.与A.W.C.军队成功会合（以下简称“联合军队”），并将盖斯温顿的军队一分为二。
+@@@@
+战斗第二天5:48：盖斯温顿其中一部分军队被包围，另外一部分开始崩溃。
+@@@@
+战斗第二天6:03：盖斯温顿被包围部放弃抵抗。
+@@@@
+战斗第二天6:06：盖斯温顿大部分军队均已崩溃，其中过半均投降，其余绝大多数奔逃或死亡。
+@@@@
+战斗第二天6:30：联合军队在五六区域连接处开始建立营地。
+@@@@
+战斗第二天6:52：盖斯温顿主力残余部分对联合军队发动袭击但很快被反包围。
+@@@@
+战斗第二天7:10：盖斯温顿袭击一部被歼灭。
+@@@@
+战斗第二天7:50：盖斯温顿位于第五区域的总部广播宣布无条件投降。
+[[/note]]
+[[/collapsible]]
+[[/div]]
+
+而在“拨号中心之战”结束后，一场名为“大清洗”的事件席卷了整个fd世界。而该层级正是其中被影响的层级之一。层级的所有出入口突然失效，网络也在无法与外面的世界相连通，层级边缘被破碎之地所吞噬，大部分区域都变得极度不稳定。**Level IF-335**进入了被彻底隔离的**“黑暗时代”**。
+
+**“黑暗时代”**约持续了30年。在2022年，B.O.P.愈发强盛的背景下，他们逐渐掌握了一种能够使层级“起死回生”的技术。在[https://if-backrooms.wikidot.com/the-rewrite-initiativ-canon 许多次利用]后，他们与M.E.G.相合作，开展了对于该层级的“拯救计划”。
+
+**Level IF-335**里的人们几乎不敢相信这一切，他们认为这纯属谣传，WIFI与外界连接的恢复仅仅是因为层级自身的变动。直到十几张生面孔真正出现在该层级原先的入口处。
+
+他们欢呼雀跃。我们则给予他们许多援助。于是，层级终于得以再复往日的繁盛与荣光，他们甚至为我们援建了一座崭新而规模甚大的基地。于是乎，我们与他们和谐相处，共同进步，迈向了该层级的崭新篇章。
+
+++ 映射名单
+在最近，由于映射核心使用变得方便，因此B.O.P.与M.E.G.开始在该层级使用映射终端[[footnote]]详见访谈记录[[/footnote]]以此层级作为起点映射层级，以下是映射的层级名单：
+
+[[div class="bettercollap"]]
+[[collapsible show="展开映射层级名单" hide="收起"]]
+[[tabview]]
+[[tab Wikidot侧]]
+Level -100 - “浅坟”
+Level -9 - “视力受损”
+Level -5 - “雪景球”
+Level 11.2 - “毁灭禁区”
+Level 14 - “战地医院”
+Level 16 - “精神病院”
+Level 20 - “仓库”
+Level 21 - “编号门”
+Level 23 - “杂草重生的工厂”
+Level 26 - “恍如隔世”
+Level 27 - “木室”
+Level 28 - “长廊”
+Level 29 - “艺术观”
+Level 30 - “鸟类庇护所”
+Level 37 - “欢迎来到丛林”
+Level 39 - “反射”
+Level 42 - “都市酒店”
+Level 44 - “交错世界”
+Level 56 - “暗黑作坊”
+Level 60 - “洁净如新”
+Level 61 - “一辆火车”
+Level 64 - “潜伏的黑暗”
+Level 65 - “随机电梯”
+Level 72 - “螃蟹的呼唤”
+Level 73 - “射击场”
+Level 74 - “在操场上玩的开心”
+Level 76 - “幽闭恐惧症”
+Level 77 - “地下列车”
+Level 88 - “走廊门扉”
+Level 89 - “令人震惊之异象”
+Level 91 - “黑白色调”
+Level 92 - “绯红微光”
+Level 95 - “监护人长廊”
+Level 104 N - “阴晴不定的国度”
+Level 114 - “模糊都市”
+Level 123 - “杏仁水工厂”
+Level 128 - “很棒的室外空间”
+Level 131 - “电视惊魂”
+Level 140 - “干山”
+Level 158 - “无限篮球场”
+Level 168 - “不准偷看！”
+Level 169 - “加尼福尼亚州”
+Level 174 - “房内之他”
+Level 188 - “荒芜天穹”
+Level 191 - “迷幻大楼”
+Level 198 - “坠落”
+Level 215 - “腐朽回忆”
+Level 220 - “友好城镇”
+Level 231 - “屠房”
+Level 245 - “它们听不见你”
+Level 248 - “泊车未定式”
+Level 255 - “RGB”
+Level 263 - “弹跳深渊”
+Level 265 - “山村”
+Level 274 - “发条装置”
+Level 282 - “旧日之忆”
+Level 284 - “俱灭天堂”
+Level 288 - “井”
+Level 292 - “数码怀旧”
+Level 293 - “阿尔法”
+Level 297 - “当行路渐逝于视之时”
+Level 306 - “冬日小屋”
+Level 356 - “扭曲廊厅”
+Level 360 - “万物皆有的虚无之路”
+Level 404 - “我那深深破碎之你”
+Level 426 - “加油站”
+Level 466 - “火光渴望”
+Level 514 - “熵”
+Level 556 - “之上与之下”
+Level 601 - “终点”
+Level 616 - “鬼屋”
+Level 647 - “异化怀旧”
+Level 655 - “沙制楼梯”
+Level 674 - “药房”
+Level 739 - “欲望之沙”
+Level 740 - “反应堆之墟”
+Level 743 - “来自天堂的干预者”
+Level 812 - “废墟之路”
+Level 820 - “南极洲”
+Level 880 - “礁石行者号”
+Level 890 - “故障№890”
+Level 907 - “帕克索之理”
+Level 908 - “帕克索之理V2”
+Level 910 - “他X的世界末日”
+Level 981 - “4层”
+Level 993 - “孟固入侵”
+Level 997 - “一个永远的家。”
+Level 1000 - “一个熟悉的地方”
+Level 1000 - “鬼魂迷宫”
+Level 1000 - “恭喜！”
+深红森林
+[[/tab]]
+[[tab Fandom侧]]
+Level 0.01 - “出口？”
+Level 4 - “废弃的办公室”
+Level 6.78 - “辐射地窖”
+Level 13 - “过热”
+Level 14 - “军事医院”
+Level 14.5 - “绯红猎场”
+Level 18 - “回忆”
+Level 20.6 - “昏暗储藏室”
+Level 21 - “编号门”
+Level 28 - “实验室”
+Level 35 - “窃皮者基地”
+Level 37.5 - “阈境崇光”
+Level 42 - “低语走廊”
+Level 48 - “穿云立雾”
+Level 51 - “秋季购物”
+Level 52 - “茶话会”
+Level 58 - “加斯帕之家”
+Level 61 - “扎内蒂列车？”
+Level 63 - “无限群岛”
+Level 70 - “郁径花园”
+Level 78 - “精神危害星球”
+Level 79 - “电梯乱象”
+Level 81 - “美妙岛屿”
+Level 91 - “童年游戏”
+Level 92 - “工业灾难”
+Level 100 - “静谧之声”
+Level 104 - {暂无数据}
+Level 112 - “无限阶梯”
+Level 115 - “旭日度假村”
+Level 124 - “紫间”
+Level 130 - “失落艺术画廊”
+Level 139 - “沙漠之郊”
+Level 149 - “椰子岛屿”
+Level 150 - “悦福伊甸”
+Station 154 - “霓虹快线”
+Level 154.1 - “被遗忘的列车”
+Level 165 - “金凤花”
+Level 184 - “城市灾难”
+Level 200 - “核反应堆”
+Level 201 - “惡地荒林”
+Level 227 - “王是如何摘的他的皇冠的”
+Level 228 - “头痛唐人街”
+Level 229 - “非欧几里得军事基地”
+Level 239 - “无限街机房”
+Level 260 - “睡眠瘫痪”
+Level 261 - “来玩游戏吧”
+Level 274 - “常青岭”
+Level 290 - “煤渣砌砖块走廊”
+Level 338 - “极乐狂欢”
+Level 339 - “医生的办公室”
+Level 354 - “当某种想法浮现?”
+Level 370 - “欢迎来到丛林”
+Level 380 - “沙盒游戏”
+Level 399.3 - “荒云”
+Level 415 - “泰坦尼克号?”
+Level 432 - “遗落圣堂”
+Level 457 - “渲染异常”
+Level 459 - “常规公园”
+Level 491 - “无线电工业”
+LEVEL 492 - “零解”
+Level 513 - “合成波水景”
+Level 526 - “我称为家的地方”
+Level 592 - “节约”
+Level 599 - “纯白迷宫”
+Level 627 - “泯於現實”
+Level 627.1 - “000”
+Level 666.1 - “现代医院”
+Level 722 - “置身汪洋”
+Level 777 - “真正的黑暗恐惧”
+Level 810 - “救赎之路”
+Level 850 - “静谧”
+Level 858 - “水族馆+”
+Level 911 - “警局”
+Level 944 - “永恒的生日派对”
+Level 980 - “欢迎来到希腊”
+Level 981 - “斜坡”
+Level 982 - “宴会场地”
+Level 983 - “电影场景”
+Level 984 - “机会”
+Level 985 - “现实？”
+Level 986 - “开放式房子”
+Level 987 - “梦境森林”
+Level 988 - “霓虹球场”
+Level 989 - “又一个街机房”
+Level 990 - “寂静地底”
+Level 991 - “平静藻泽地”
+Level 992 - “霓虹光芒”
+Level 994 - “绘画图像”
+Level 997 - “阈空”
+Level 999 - “因果之地游乐园”
+Level 1000 - “泡影”
+Level 1000 - “基数层级”
+Level 1000 - “太冷了，机器人”
+Level 1001 - “黑暗走廊”
+Level 1003 - “画廊”
+Level 1004 - “黑暗森林”
+Level 1008 - “损毁城市”
+Level 1009 - “镜灵空间”
+Level 1011 - “城市”
+Level 1014 - “风之界”
+Level 1026 - “反乌托邦”
+Level 1027 - “另一个酒店层级”
+Level 1032 - “门”
+Level 1038 - “单镇”
+Level 1045 - “拉丁美洲”
+Level 1049 - “祖母之房”
+Level 1050 - “垂钓者天堂”
+Level 1051 - “存储空间”
+Level 1052 - “橙色狂热”
+Level 1053 - “自然公园”
+Level 1101 - “枕头堡”
+Level 1102 - “无限购物区”
+Level 1103 - “消防站”
+Level 1104 - “诡影步道”
+Level 1105 - “回忆之地”
+Level 1112 - “只是更多的门！”
+Level 1120 - “愤怒女王之殿堂”
+Level 1137 - “深层恐惧”
+Level 1150 - “霓虹保龄球馆”
+Level 1176 - “孤独但舒适”
+Level 1206 - “不要看天空”
+Level 1267 - “霓虹海”
+Level 1275 - “龙的世界”
+Level 1277 - “遭受”
+Level 1283 - “世界的终点”
+Level 1302 - “废弃学校”
+Level 1311 - “未知房间”
+Level 1380 - “太空”
+Level 1445 - “多数人的家乡”
+Level 1497 - “虚假安宁”
+Level 1536 - “殇”
+Level 1762 - “希望”
+Level 1977 - “缠于君指”
+Level 2000 - “Y2K”
+Level 2020 - “隔离区”
+Level 2727 - “决一死战”
+Level 3997 - “光柱”
+Level 3999 - “真正的结局”
+Level 4999 - “终极保龄球馆”
+Level 5000 - “不要放弃”
+Level !.1 - “4040404航班”
+Run For Your Life!
+实在
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+[[/div]]
++ **入口与出口**
+++++++ 入口
+
+[[div class="bettercollap"]]
+[[collapsible show="显示入口" hide="隐藏入口"]]
+[[tabview]]
+[[tab 切行]]
+* 在[[[Level IF-3]]]切入贸易商场有概率来到该层级的第二区域。
+
+* 在[[[Level IF-4]]]乘坐地铁时窗外有概率出现拨号中心的景象，在此时切入窗户会来到该层级的第一区域。
+
+* 在[[[Level IF-5]]]切入一个电话会来到该层级的第一区域。
+
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-52|Level 52]]]切入一个课桌会来到该层级的大学区。
+
+* 在[[[Level IF-12]]]吃掉2个披萨会来到该层级的第三区域。
+
+* 在[[[Level IF-80]]]被人踢一脚之后切入地面会来到该层级的任意一个区域。
+
+* 在[[[Level IF-32]]]中切入一堵白墙即可来到此层级的第四区域。
+
+* 切入[[[Level IF-221]]]中的一个电话亭。
+
+* 在[[[Level IF-115]]]找到一个电话，等待5分钟后电话会响起，接听之后再等待几分钟，直到电话里传来“XX热线”的声音时，切入电话会来到该层级的第一区域。
+[[/tab]]
+[[tab 门与建筑]]
+* 在[[[Level IF-104]]]进入一个类似酒店房间的门会来到该层级的区域三的任何一个房间。
+
+* 在[[[Level IF-19]]]中进入一扇标有“telephone”的门即可来到此层级的第一区域。
+
+* 在[[[Level IF-8]]]发现一个明显与其他区域不同的现代化建筑并进入即可来到此层级的任意区域。
+
+* 在[[[Level IF-68]]]中走入一个色彩斑斓的房间即可来到此层级的第二区域。
+
+* 理论上来说，[[[Level IF-70]]]可以通过一个活版门直接来到此层级。
+
+* [[[Level IF-27]]]的安全区中的一扇玻璃门可以直达此层级的第六区域。
+
+* [[[Level IF-134]]]中洁净的门通向该层级的第一区域。
+
+* 打开[[[Level IF-86]]]中的一扇写着“拨号中心”的门。
+
+* 打开[https://backrooms-wiki-cn.wikidot.com/latest:level-11 Level 11]酒店内一扇奇怪的门，有概率来到该层级的第三区域。
+
+* [https://backrooms-wiki-cn.wikidot.com/level-c-63 Level C-63]偶尔会凭空出现一扇门，进入会来到该层级。
+[[/tab]]
+[[tab 逐渐过渡]]
+
+* 在[[[Level IF-38]]]中有时可能会出现一片布满电话座机的区域，若继续深入，流浪者这边会发现自己已在不知不觉中来到了该层级的第一区域。
+
+* 在[[[Level IF-95]]]的“家”区域徘徊时，周遭的环境可能会逐渐过渡至**Level IF-335**的第一区：拨号中心。随后，流浪者就来到了**Level IF-335**。
+[[/tab]]
+[[tab 随机机会]]
+
+* 如果你在[[[Level IF-37]]]中呆的时间足够长，你便会有一定概率切入版本层级的随机区域，这一概率随着流浪者在彼层级中留存的时间而增长，最后无限逼近于某个应小于2%的数。
+
+* 在[[[Level IF-45]]]吃掉转生苹果之后经过3个层级后有概率来到该层级。
+
+[[/tab]]
+[[tab 特定行为]]
+* 在[[[Level IF-14]]]打破十个玻璃会来到该层级的第四区域。
+
+* 浸泡在[[[Level IF-203]]]中的**梦溪梦卡**中1分钟，流浪者在浮出水面后会来到**Level IF-335**。
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+[[/div]]
+++++++ 出口
+
+[[div class="bettercollap"]]
+[[collapsible show="显示出口" hide="隐藏出口"]]
+[[tabview]]
+[[tab 切行]]
+* 切入一片绿化带会来到[https://backrooms-wiki-cn.wikidot.com/level-c-307 Level C-307][[footnote]] 欢迎大家！ [[/footnote]]。
+[[/tab]]
+[[tab 门与建筑]]
+* 进入第四区域：住宅区中的一个千禧年风格的房间会来到[[[Level IF-95]]]。
+
+* 打开一扇写着“时钟餐厅”的门会来到[[[Level IF-86]]]。
+
+* 找到一扇写着“XX星君”的门会来到任意一个异途道门系列的层级。
+[[/tab]]
+[[tab 逐渐过渡]]
+* 在不断深入**Level IF-335**时，周遭的环境有小概率会过渡至一片海滩，流浪者随即来到了[[[Level IF-221]]]。
+
+* **Level IF-335**中第七区域中央大厅的坑洞总是通向[https://backrooms-wiki-cn.wikidot.com/level-198 Level 198]。
+[[/tab]]
+[[tab 特定行为]]
+* 切入一盏任意的灯即可来到[[[Level IF-88]]]。
+
+* 吃掉一朵梅花会来到[[[Level IF-203]]]。
+
+* 在4:00找到一座古镇的模型会来到[https://backrooms-wiki-cn.wikidot.com/level-c-597 Level C-597]。
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+[[/div]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-334]]] | Level IF-335 | [[[Level IF-336]]] >>
+[[/=]]
+[[/div]]
+
+[[module css]]
+:root {
+    --body-width-on-desktop: 50.25rem;
+    --pale-gray-monochrome: 77, 67, 54;
+}
+
+.noseeblock {
+   padding:0.1rem 0.7rem;
+   margin:1rem 0;
+   border-radius:0.6rem;
+   border: 0px solid rgb(0,0,0);
+   width: 70%;
+   margin: auto
+}
+
+#main-content{
+    background: rgba(240, 236, 220, 1)0;
+    color: black;
+    border: #000000;
+    margin-top: 2em;
+   margin-bottom: 5em;
+   padding: 1.3em;
+   background-size: cover;
+   box-shadow: 10px 10px 16px;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:footnotecol]]

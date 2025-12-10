@@ -1,0 +1,94 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+.document { color: black !important; }
+[[/module]]
+
+[[module css]]
+#main-content {
+  width: 100%;
+  max-width: unset;
+}
+#page-content { max-width: unset !important; }
+[[/module]]
+
+
+[[div class="lightblock"]]
+[https://if-backrooms.wikidot.com/spec/offset/4 ←] 我的电脑 > Spec - 个人 > 桌面 > 研究记录
+
+------
+
+[[div class="folder"]]
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+研究结果
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/17" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+游戏大师
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/18" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+Janus
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/19" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+你作弊了
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/20" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+蓝色通道
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/22" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+Herne
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/23" class="doc-link"]][[/a]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+------
+
+[[/div]]

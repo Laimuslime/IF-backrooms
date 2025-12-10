@@ -1,0 +1,82 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:addendumblock]]
+[[include :backrooms-wiki-cn:theme:highlighter]]
+[[include :backrooms-wiki-cn:component:animation
+|rras=*
+]]
+[[include :brsandbox-mini:component:userccb-jpsd
+|level=A
+|space=较稳定
+|entity=无实体
+]]
+[[module css]]
+.level--A>.rras--bg {
+  background-image: url("http://japan-backrooms-wiki.wdfiles.com/local--files/component:rras/Class1.svg")
+}
+[[/module]]
+@@@@
+@@@@
+
+------
+
+@@@@
+@@@@
+**场景-18.9-IF**是 IF 号实验区中的场景。其外观类似于真实世界中的高速公路。在多项探索中，均已证明该场景是不存在任何尽头的，因此具有极高的开发条件。目前，M.E.O.D.已经开启了在该场景的多项实验以及建筑项目。
+
++ 布局与效应
+[[include :backrooms-wiki-cn:component:gradient-image-block -=-
+|name=https://backroomss.wikidot.com/local--files/level-s-189/IMG_20250815_234016.jpg
+|caption=**场景-18.9-IF**的第一张照片。
+|align=center
+|alt=图像
+|caption-align=justify
+|caption-size=80%
+|width=300px
+]]
+**场景-18.9-IF**主体为向着前后方向无限延伸的高速公路，宽约136.9米，多名探索人员在尝试走出建筑的边缘时，遭到了一股无形的力量，目前所使用的一切手段都无法解决此问题，其只能在道路之上观测到无边无际的空白。如果不细看，公路的外表与真实世界的公路类似，若仔细看，该场景的公路就像是古早游戏中的劣质贴图，再细看也只能看到“模糊的马赛克”，工作人员在尝试挖掘公路主体，在尝试挖掘后，被破坏的区域在短时间内恢复正常，往后的尝试所得结果相同。
+
+每隔一段时间，公路上就会刷新物资，这些物资通常集中在一个木盒子或一辆报废汽车中，当然也可能散落在公路表面的各个地区，在将物资拿走后，原先容纳物资的物体就会消失，但如果物资刷新在人造建筑中，在拿走物资后（建筑物）则不会消失。物资一般会刷新如//杏仁水//等普通物资，也有可能会刷新如//皇家口粮//等的稀有物资，最幸运的一次M.E.O.D.发现了一个装满//层级密钥//的箱子，这个箱子现已存放在[https://backroomswikicn.wikidot.com/level-1 场景-00.1]的Alpha基地中。
+
+虽与[https://backroomswikicn.wikidot.com/level-0 场景-00.1]的空间形式不同，**场景-18.9-IF**大部分的空间为欧几里得属性，但仍然存在着将近一半的空间为非欧几里得属性，如果流浪者肆意走动依旧可能迷路，好在该场景的物资充沛且不存在实体，流浪者有足够时间寻找那些分布在场景各处的社区。
+
+[[div class="addendumblock"]]
+
+
+[[=]]
+[[collapsible show=" ▷展开：额外信息◁ " hide=" ▼收起：额外信息▼ "]]
+[[<]]
+
+
+
+[[div class="blockquote"]]
+//我们（M.E.O.D.探索人员）在**场景-18.9-S**发现一只奇特的存在——**金币**！它们悬浮在半空中，并不断旋转着，能发出不太耀眼的光芒，当我们中其中一名人员靠近金币时，金币就突然消失了，那名靠近金币的人员头顶上出现了一串字符，**“所剩余额：1”**。我们暂不清楚这些金币有何用处，但可能它们就像是游戏中的那样，能与NPC用作交易。//
+[[/div]]
+
+
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
++ 已知文明
+M.E.O.D.已在**场景 18.9-IF**建立了多个基地、前哨站与交易场所，供相关人员或流浪者居住。当然，场景内也存在着那些，流浪者所建立的微小团体与伪团体，目前M.E.G.正在统计这些团体的数量。
+
+不过，来访者需注意——于最近，[https://backroomswikicn.wikidot.com/the-u-e-c 无羁探险队]闯入了该场景，为了保护流浪者的安危，请不要靠近他们所建立的基地。
++ 入口与出口
+在[[[level-IF-188|场景-18.8-S]]]与[[[Level IF-190|场景-19.0-IF]]]中均能发现通往该场景的通道，只要流浪者幸运的发现了一条向着一个方向无限延伸的高速公路，沿着这条道路你会渐渐来到此场景中。此外危险的[https://backroomswikicn.wikidot.com/Level-998 场景-99.8]也可以来到这里，只需要将自己猛的撞向地板即可。
+
+尝试撞向公路表面有可能使你来到[[[level-IF-11|场景-01.1-S]]]或[[[Level 11|场景-01.1]]]中。通过一扇木门将流浪者带往以下这些场景。
+* [https://backroomswikicn.wikidot.com/Level-1 场景-00.1]
+* [https://backroomswikicn.wikidot.com/Level-1 场景-00.2]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+by [[user user CCB]]
+此文章在S分也有投递，点[https://backroomss.wikidot.com/level-s-189 此]查看。
+来看看我的其他作品呀~
+[[include :brsandbox-mini:user-ccb-is-page]]
+[[/collapsible]]
+[[/>]]

@@ -1,0 +1,44 @@
+[[module css]]
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+#page-title {
+    display: none;
+}
+.list-pages-box {
+    margin: -1rem 0 0 0.25rem;
+}
+.wiki-content-table {
+    width: 100%;
+}
+table.wiki-content-table th {
+    background-color: rgb(var(--gray-monochrome));
+}
+.recent-pages {
+    display: flex;
+    justify-content: space-between;
+}
+.recent-pages .page-container {
+    flex-grow: 1;
+    flex-basis: 49%;
+}
+.recent-pages .page-container .styled-quote {
+    margin-top: -0.5rem;
+}
+@media (max-width: 600px) {
+    .recent-pages {
+        flex-direction: column;
+    }
+}
+.noway::before {
+    content: "　";
+}
+#page-content a[href*="/most-recently-edited"], #page-content a[href*="/random:random-tale"] {
+    display: unset;
+    min-width: unset;
+}
+[[/module]]
+[[div class="darkblock" style="text-align: center;"]]
+++ 最近编辑的页面
+[[/div]]
+[[module ListPages category="-chat" separate="false" perPage="25" order="updated_at desc" prependLine="||~ 名称 ||~ 修改时间||~ 修改者||"]]
+|| %%title_linked%% || %%updated_at|%Y-%m-%d %R|agohover%% || [[span class="[[#ifexpr %%created_by_id%%-%%updated_by_id%% | noway | fa fa-check-circle ]]" style="color: #5cb85c"]]@<&nbsp;>@[[/span]]%%updated_by_linked%% ||
+[[/module]]

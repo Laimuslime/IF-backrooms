@@ -1,0 +1,442 @@
+[[module css]]
+body, #page-content {
+    background: linear-gradient(to bottom, #000000, #0a0a0a, #1a1a1a) fixed !important;
+    color: #e0e0e0 !important;
+    font-family: 'Times New Roman', serif !important;
+    line-height: 1.6;
+}
+#page-title {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 3.5em !important;
+    font-weight: bold !important;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5) !important;
+    margin-bottom: 0 !important;
+    padding: 20px 0 !important;
+    position: relative;
+}
+
+#page-title:after {
+    content: "†";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    opacity: 0.1;
+    z-index: -1;
+}
+#page-title + p {
+    color: #cccccc !important;
+    text-align: center !important;
+    font-style: italic !important;
+    margin-top: 0 !important;
+    margin-bottom: 40px !important;
+    font-size: 1.2em !important;
+}
+#page-content a:not(.broken) {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+    transition: all 0.3s ease !important;
+}
+
+#page-content a:not(.broken):hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+#page-content a.broken {
+    color: #000000 !important;
+    text-decoration: line-through !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    padding: 0 3px;
+}
+#page-content strong {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #cccccc, #ffffff) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7) !important;
+    font-weight: bold !important;
+}
+#page-content h1, #page-content h2, #page-content h3, 
+#page-content h4, #page-content h5, #page-content h6 {
+    color: #ffffff !important;
+    border-bottom: 2px solid #444444 !important;
+    padding-bottom: 10px !important;
+    margin-top: 2em !important;
+    position: relative;
+    padding-left: 30px !important;
+}
+
+#page-content h1:before, #page-content h2:before, #page-content h3:before,
+#page-content h4:before, #page-content h5:before, #page-content h6:before {
+    content: "†";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888888;
+    font-size: 0.8em;
+}
+.darkblock {
+    background: linear-gradient(to bottom, #111111, #000000) !important;
+    border: 2px solid #333333 !important;
+    border-left: 10px solid #333333 !important; 
+    border-right: 10px solid #333333 !important; 
+    position: relative;
+    padding: 20px !important;
+    margin: 25px 0 !important;
+    color: #cccccc !important;
+}
+
+.darkblock:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    height: 2px;
+    background-color: #333333;
+    transform: translateY(-50%);
+}
+.lightblock {
+    background: linear-gradient(to bottom, #f5f5f5, #e6e6e6) !important;
+    border: 1px solid #aaaaaa !important;
+    padding: 25px !important;
+    margin: 25px 0 !important;
+    color: #222222 !important;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2) !important;
+    position: relative;
+    font-style: italic !important;
+}
+
+.lightblock:before, .lightblock:after {
+    content: """;
+    font-size: 3em;
+    color: #cccccc;
+    position: absolute;
+    line-height: 1;
+}
+
+.lightblock:before {
+    top: 10px;
+    left: 10px;
+}
+
+.lightblock:after {
+    content: """;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* 折叠 - 黑白渐变 */
+.fold-block {
+    background: linear-gradient(to right, #000000, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    margin: 15px 0 !important;
+    border-radius: 3px !important;
+}
+
+.fold-block .fold-title {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    color: #dddddd !important;
+    padding: 12px 15px !important;
+    border-bottom: 1px solid #444444 !important;
+    cursor: pointer !important;
+    font-weight: bold !important;
+}
+
+.fold-block .fold-content {
+    padding: 15px !important;
+    background: #0a0a0a !important;
+    color: #cccccc !important;
+}
+.yui-navset .yui-nav {
+    border-bottom: 2px solid #444444 !important;
+}
+
+.yui-navset .yui-nav li {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    border-bottom: none !important;
+    margin-right: 5px !important;
+    border-radius: 4px 4px 0 0 !important;
+}
+
+.yui-navset .yui-nav li a {
+    color: #999999 !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    padding: 8px 15px !important;
+}
+
+.yui-navset .yui-nav .selected {
+    background: linear-gradient(to bottom, #333333, #111111) !important;
+    border-color: #666666 #666666 transparent #666666 !important;
+}
+
+.yui-navset .yui-nav .selected a {
+    color: #ffffff !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+}
+
+.yui-content {
+    background: #111111 !important;
+    border: 1px solid #444444 !important;
+    border-top: none !important;
+    padding: 20px !important;
+    color: #cccccc !important;
+}
+sup, sub {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #888888) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    font-size: 0.8em !important;
+}
+#page-content pre, #page-content code {
+    background: #111111 !important;
+    border: 1px solid #333333 !important;
+    color: #cccccc !important;
+    font-family: 'Courier New', monospace !important;
+}
+
+#page-content pre {
+    padding: 15px !important;
+    overflow: auto !important;
+}
+
+#page-content code {
+    padding: 2px 5px !important;
+}
+#skrollr-body {
+    background-image: none;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=愿您的天国降临
+|2=主与你同在
+|logo=a
+|3=http://if-sandbox.wikidot.com/local--files/level-if-1-asd/OIP-C%20%282%29.webp
+]]
+[[include :backrooms-wiki-cn:component:level-class-animation
+|speed=播放倍速，默认为1
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:iets
+|lang=cn
+|danger=3
+|intelligence=A
+]]
+**实体编号：**IF-11
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/yyyy/%E9%AA%91%E5%A3%AB
+|caption=拍摄者为他的错误付出了代价…主会宽恕他…
+]]
+
++++ 栖息地：
+* [[[Level IF-111]]]
+* 其他涵盖宗教因素的场所。
+
+
++ 描述：
+**骑士**是一种类人实体，常被描述有类似中世纪骑士的行为。这些实体曾可能是人类，经由一个未知的过程转变而来，此过程目前未知，但被认为可能是源于对[[[level IF-111]]]的特殊实体。
+
++ 行为：
+**骑士**会在其半径500米内范围巡逻，如果有任何生物进入该区域，骑士会举起其盾牌和长剑，对任何进入该范围的生物，进行致命攻击。
+**骑士**被观察到较高的智商，可以规避陷阱和攻击，同时他们具有较强的格斗技术，冷兵器使用技术。
+**骑士**似乎并不存在进食和休息的行为，他们可以长时间的进行攻击，而不疲劳，甚至不干预情况下可以执行巡逻任务数年。
+[[include component:image-block
+|name=http://if-backrooms.wikidot.com/local--files/entity-if-11/%E7%A5%B7%E5%91%8A
+|caption=一个单独的骑士个体的祷告被捕捉到
+]]
+
+在其他情况下，骑士会和其他**骑士**一同组成**“唱诗班”**，跪在地上进行祷告，语言分析为拉丁语，内容无法分析。
+
++ 生物学特征：
+**骑士**一般全身覆盖银白色板甲，金属表面带有微弱的冷光反光，未见锈蚀或磨损痕迹。腰间佩戴一柄长剑，长度通常为实体身高的1/3，剑刃呈灰白色，材质未知。佩戴一副木质圆盾，盾面刻有模糊的**十字形符号与未知纹章**。腰间的牛皮材质刀鞘内存有匕首。面盔始终闭合，内部无可见面部结构，仅在战斗时发出低沉的金属共鸣音，类似于拉丁语。
++ **行为准则：**
++++ **应当：**
+* 远离**骑士**
+* 远离**level IF-111**的任何可能入口
+* 在其范围内潜行。
++++ **不应：**
+* 无准备情况下靠近**骑士**。
+* 无准备情况下攻击**骑士**。
+* 在其巡逻区域内大喊大叫等。
+
+[[=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:gradient-image-block -=-
+|name=http://if-backrooms.wikidot.com/local--files/entity-if-11/%E5%8D%81%E5%AD%97%E6%9E%B6
+|caption=我们必须顺从上帝，而
+不是顺从凡人…
+——使徒行传 5:29
+|align=left/right/center
+|alt=图像的Alt文本描述
+|caption-align=left/right/center/justify
+|caption-size=80%
+|width=300px
+]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**……**
+@@@@
+@@@@
+@@@@
+@@@@
+**主啊，听我呼求。**
+**你从尘土中召我，又将我从朽坏里高举。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**你以银白之铠裹我身，其光如月出幽谷，其坚胜过金刚石；其上无锈，无瑕，无岁月之痕。** **你将灰白之剑赐我腰间，其刃不钝，其锋常利，为要成就你口中之判语。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**你指给我地界，说：“此五百步之内，乃我所分别为圣之处，凡血肉之体擅入者，必归于无有。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**于是我立为守望者，在破晓之前**
+**在黄昏之后，在无日无夜之时，巡行不息**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**凡有闯入者，我必举盾遮其光，出剑断其息。血流于地，如祭坛下之泉；**
+**魂飞于空，如烟升于坛上。此非我意，乃遵你古时所立之约。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**你曾说：看见的，当被遮蔽。**
+**故我以盾为幕，遮掩真理之面。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+**纵使我心觉幽暗，只要是你所引，便是光明。**
+
+**我爱你，因你将我从“我”中救出。**
+**我敬你，因你使我成为“非我”之器。**
+**我顺服你，因你早已预定我脚步之程**
+@@@@
+@@@@
+@@@@
+@@@@
+**我行走，故真理站立。**
+**我杀戮，故圣洁存留。**
+**我不问，故我信。**
+
+**我是那永不停歇的仆，**
+**是那无言的见证**
+**是那在圣境中**
+**持守沉默之约**
+**阿门**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+**…………**
+
+**吾爱吾主…**
+**终身归汝…**
+@@@@
+@@@@
+@@@@
+[[/=]]
+
+------
+
+[[>]]
+[[collapsible show="一切都是主的安排…" hide="阿门…"]]
+使用 [[*user jiliangjiyin]] 
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Entity IF-10]]] | Entity IF-11 | [[[Entity IF-12]]] >>
+[[/=]]
+[[/div]]

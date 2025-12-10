@@ -1,0 +1,184 @@
+[[iftags -处分记录 -管理 -总览]]
+[[div style="margin: 1em 0; border: solid 3px red; background: rgb(253, 253, 253);;"]]
+[[div_ style="display: inline-block; padding: 0 3px; font-size: 1.5em; background: red; color: #ffffff; font-weight: bold;"]]
+[[span class="fa fa-exclamation-triangle" style="font-size: 1.4em;"]]​[[/span]]缺少标签！
+[[/div]]
+[[div_ style="padding: 1rem 7px; color: rgb(25, 25, 25);"]]
+这是一个 {{处分记录}}。请在页面创建一小时内，点击[[button set-tags +处分记录 text="此按钮"]]以新增 {{处分记录}} 标签，或点击页面最下方的“标签”，添加 {{处分记录}} 标签。
+[[/div]]
+[[/div]]
+[[/iftags]]
+[[module CSS]]
+:root {
+    --old-color: 255, 251, 240;
+}
+
+.printuser a {
+    margin-right: 0;
+}
+
+.error-inline {
+    color: red;
+    border: 1px solid red;
+}
+
+a:visited {
+    color: rgb(var(--link-color));
+}
+
+.avatar-hover { display: none !important; }
+
+#page-title {
+    display: none;
+}
+
+#breadcrumbs {
+    margin: 0.5rem 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.score-board {
+    display: grid;
+    grid-template-areas: 'warn kick ban';
+}
+
+.score-board > div {
+    text-align: center;
+    padding: 0;
+}
+
+.warns {
+    grid-area: warn;
+}
+
+.warns::after,
+.kicks::after,
+.bans::after {
+    content:"0";
+    font-family: var(--mono-font);
+    font-weight: 800;
+    font-size: 4em;
+    display: block;
+    padding: 0;
+}
+
+.warns::after {
+    content: "%%form_data{warn}%%";
+}
+.kicks::after {
+    content: "%%form_data{kick}%%";
+}
+.bans::after {
+    content: "%%form_data{ban}%%";
+}
+
+@media only screen and (max-width: 768px) {
+    .warns::after, .kicks::after, .bans::after {
+        font-size: 3.2em;
+    }
+}
+
+.warns p,
+.kicks p,
+.bans p {
+    margin-bottom: 0 !important;
+}
+
+.kicks {
+    grid-area: kick;
+}
+
+.bans {
+    grid-area: ban;
+}
+
+.score-board-preview {
+    display: none;
+}
+
+.user .printuser + .not-exist,
+.user .error-inline {
+    display: none;
+}
+.printuser a{margin-right:0}.error-inline{color:red;border:1px solid red}a:visited{color:rgb(var(--link-color))}.avatar-hover{display:none!important}#page-title{none!important}#breadcrumbs{margin:.5rem 0}span.fa-solid{display:contents!important}.score-board{display:grid;grid-template-areas:"warn shield kick ban"}.score-board>div{text-align:center;padding:0}.bans:after,.kicks:after,.shield:after,.warns:after{content:"0";font-family:var(--mono-font);font-weight:800;font-size:4em;display:block;padding:0}.warns:after{content:"%%form_data{warn}%%"}.shield:after{content:"%%form_data{shield}%%"}.kicks:after{content:"%%form_data{kick}%%"}.bans:after{content:"%%form_data{ban}%%"}@media only screen and (max-width:768px){.bans:after,.kicks:after,.shield:after,.warns:after{font-size:3.2em}}.bans p,.kicks p,.shield p,.warns p{margin-bottom:0!important}.warns{grid-area:warn}.shield{grid-area:shield}.kicks{grid-area:kick}.bans{grid-area:ban}.score-board-preview,.user .error-inline,.user .printuser+.not-exist{display:none}.yui-navset{background:#212126}.value-0{display:block!important}
+[[/module]]
+
+[[div style="border: solid 0.15rem rgb(var(--medium-accent)); background: rgb(var(--old-color)); padding: 0 1em; margin-bottom: 1em;"]]
+
+本页面用于记录后室IF分成员 [[span class="user"]][[*user %%name%%]][[span class="not-exist"]]%%title%%[[/span]][[/span]] 的所有历史处分。
+[[>]]
+[[span class="fa-solid fa-%%form_raw{case}%%"]]@<&nbsp;>@[[/span]]%%form_data{case}%%
+[[button edit text="编辑" class="editor-button"]] | [[button history text="历史记录" class="editor-button"]] | [[button rename text="重命名" class="editor-button"]] | [[button delete text="删除" class="editor-button delete-button"]]
+[[/>]]
+[[/div]]
+
+[[div style="border: solid 0.15rem rgb(var(--medium-accent)); background: rgb(var(--old-color)); padding: 0 1em;"]]
+[[div class="score-board"]]
+[[div class="warns"]]
+[[size 85%]]**累计警告次数**[[/size]]
+[[/div]]
+[[div class="kicks"]]
+[[size 85%]]**累计移除次数**[[/size]]
+[[/div]]
+[[div class="bans"]]
+[[size 85%]]**累计封禁次数**[[/size]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+**处分记录：**
+
+%%form_data{record}%%
+@@ @@
++ 证据存档
+[[div class="lightblock"]]
+[[module Files]]
+[[/div]]
+
+@@ @@
++ 内容补充
+[[div class="lightblock"]]
+[[module Comments order="reverse"]]
+[[/div]] 
+====
+
+[[form]]
+fields:
+  warn:
+    label: 警告次数
+    type: text
+    width: 100
+    default: 0
+    match: /^[0-9]{1,2}$/
+    match-error: 仅可填写 0~99 之间的整数。
+  kick:
+    label: 移除次数
+    type: text
+    width: 100
+    default: 0
+    match: /^[0-9]{1,2}$/
+    match-error: 仅可填写 0~99 之间的整数。
+  ban:
+    label: 封禁次数
+    type: text
+    width: 100
+    default: 0
+    match: /^[0-9]{1,2}$/
+    match-error: 仅可填写 0~99 之间的整数。
+  record:
+    label: 处分详情
+    type: wiki
+    width: 100
+    height: 10
+  case:
+    label: 目前情况
+    type: select
+    values:
+      file: 仅记录
+      ban: 处分中
+      unlock:  已解除
+    default: file
+  bigStaticTitle1:
+    type: static
+[[/form]]

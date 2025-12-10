@@ -1,0 +1,247 @@
+[[module css]]
+.achieve-wrap img {
+      min-width:5rem;
+       min-height:5rem;
+}
+[[/module]]
+[[module css]]
+.rateup.btn,
+.cancel.btn {
+    display:none
+}
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:theme:cbs-theme]]
+[[module css]]
+#header::before {
+filter: invert(1);
+}
+
+#header h2 span:before, #header h1 a:before  {
+color: black;
+text-shadow: none;
+}
+
+#skrollr-body {
+background-color: #fff;
+}
+
+:root {
+   --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "Backrooms";
+   --header-subtitle: "解脱之时";
+   --darkslate: 6, 69, 173;
+
+   );
+}
+#header, #top-bar, #my-account, #account-topbutton, .printuser {
+   background-attachment: scroll;
+   color: #000 !important;
+}
+
+@media(min-width:500px){  .textdiv{ display:none;} }
+
+#page-title {
+ display: none;
+}
+:root,
+body,
+body div,
+body form,
+body table {
+    font-family: "Noto Sans", "Noto Sans SC", sans-serif !important;
+}
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container{
+    background-image: none;
+}
+
+@media (min-width: 581px) and (max-width: 767px) {
+    #search-top-box-input {
+        width: 8em;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 580px) {
+    #search-top-box-input {
+        width: 7em;
+    }
+}
+
+@media (max-width: 479px) {
+    #search-top-box-input {
+        display: none;
+    }
+}
+
+#skrollr-body {
+   background-image:
+    radial-gradient(circle, rgb(var(--white)) 100%, transparent 0);
+   background-repeat: repeat;
+   background-size: 0.25em 0.25em;
+   width: 100%;
+   height: 7.5rem;
+}
+
+.container_text {
+   position: absolute;
+   width: 100%;
+   left: 0;
+   overflow:hidden;
+   background-color: white;
+   color: black;
+}
+[[/module]]
+[[collapsible show="点击查看旧版文档"hide=" 关闭"]]
+**[[size 175%]]隐秘层级 日下陵墓[[/size]]**
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=0
+|color=#000000
+|one=特殊入口
+|two=宜居
+|three=必定死亡
+]]
+**日下陵墓**是后室IF层群的一个隐秘层级，该层级一次性只能容纳一名流浪者。
++ 描述：
+
+**日下陵墓**为一座无限延伸的墓地，一座座墓碑整齐的排列在该层级的中心区域，不知为何，阳光在照射这些墓碑时，墓碑会发出低频的振动。由于该层级的天空不存在云层，也不存在黑夜，时间永远停留在正午，所以墓碑的低频振动几乎不间断的发生。
+@@@@
+墓碑的表面通常布满裂痕，脆弱不堪，流浪者可以极其轻易的将该层级中的墓碑损坏。墓碑的表面刻有一些文字，这些文字存在一定的规律，具体如下：
+* 最上方刻有一些哀悼的语言（例如：祝你在天堂过得愉快）
+* 在那之下，是死者的名字（例如：park jnimi）
+* 再往下，为死者的灰白照
+* 背面刻着一个大大的骷髅头标志
+墓碑的下方通常铺垫着一些菊花，来源未知。
+++ 花海
+向任何一个方向行进30km便会进入”花海“，穿过”花海“后将会回到”墓地“。花海区域散布着大量盛开的菊花，这些菊花异常顽固，目前没有任何方法将它们破坏。长时间停留于”花海“会感到身心舒适，一般可以缓解程度较轻的精神损伤。
+@@@@
+目前对于该层级的信息甚少。但已知的是，在离开该层级的三天后将会自然死亡，但在流浪者进入该层级时，肉体上的创伤将被完全治愈。
+@@@@
++ 实体
+[[include :backrooms-wiki-cn:component:iets
+|lang=cn
+|danger=1
+|intelligence=A
+]]
+++ 死灵法师
+死灵法师为一个身穿黑色斗篷，高约1.9米，全身由骨架制成，形态酷似骷髅的实体。该实体自称为该层级的建造者，对所有进入者均保持友好态度，即便对方主动攻击死灵法师。其拥有着超越人类的智慧和身体素质，并且可几乎随意的改造该层级，目前该实体创造日下陵墓的目的我们尚未知晓。尽管该实体未对人类展现出任何敌对行为，但考虑到该实体的潜在威胁，我们依然将其威胁评定为1。
+@@@@
++ 入口与出口
+++ 入口
+* 在任何会令你饱受永世折磨的层级停留极长的时间[[footnote]] 一般在70-130年内 [[/footnote]]后，将会切入该层级，在此期间，流浪者所在层级阻止流浪者切出层级的效应似乎会被暂时无效。
+++ 出口
+* 在该层级停留三日后将会切入一个随机的安全层级[[footnote]] 生存难度为1及以下 [[/footnote]]
+[[/collapsible]]
+[[collapsible show="点击查看切入案例"hide=" 关闭"]]
+[[div class="blockquote"]]
+**切入者：Philip[[footnote]] 与原文相呼应 [[/footnote]]
+**切入地点：Level C-1818
+**当事人的描述：我从那个地狱疯了，彻底疯了，我要前往那极乐世界啦，拥抱独属于我的天堂了！（随后其利用签名进入了Level906，接着向布兰奇请求前往Level599）
+[[/div]]
+[[div class="blockquote"]]
+**切入者：布劳德·卡杰尔
+**切入地点：Level AS-256
+**当事人的描述：我在那钢铁地狱中化为了高楼，白色的玫瑰和邪恶的铝雨一同折磨着我的身体，而且我连自尽都做不到，我的精神已然接近于崩溃。直到我来到了那座墓地，我重见了天日，希望重新被唤起，尽管只有三天。
+[[/div]]
+[[div class="blockquote"]]
+**切入者：王建国
+**切入地点：Level AS-198
+**当事人的描述：我在那地狱中死去了无数次，却永远不能真正的解脱，直到有一天，我切出了Level AS-198，我还以为会到达Level-AS-XS-16，结果却来到了那座墓地，我已得知自己在三天后就会死，但那也比在Level AS-198被折磨到永远要好一万倍。
+[[/div]]
+截止2112年10月27日，已有113位流浪者成功抵达日下陵墓，但其中仅有34位精神保持正常，其余79位流浪者均已身患精神疾病，随后于不同时间自尽。
+[[/collapsible]]
+[[collapsible show=" 交谈记录" hide=" 隐藏"]]
+
+> ++ rismex[[footnote]] M.E.G. 的中级研究员，第107个切入日下陵墓的人类，抵达后主动承担与死灵法师交谈的艰巨任务[[/footnote]]与死灵法师的交谈记录
+> **[记录开始]**
+>
+> **死灵法师：**你好，第107个受尽苦难之人。
+>
+> **rismex：**您好，我是M.E.G.的研究员rismex。
+>
+> **死灵法师：**你来找我有何事?
+>
+> **rismex：**我可以问您一些问题吗，这非常利于我们的信息搜查。
+>
+> **死灵法师：**可以，只要是我知道的，我就无理拒答。
+>
+> **rismex：**您真的是这个地方的创造者吗。
+>
+> **死灵法师：**当然。
+>
+> **rismex：**那您为何要创造这里。
+>
+> **死灵法师：**后室里的流浪者如同尘土一般渺小，随时都会有丧命的风险。
+>
+> **rismex：**的确是这样，后室确实非常危险。
+>
+> **死灵法师：**但这远不是最糟糕的结局，最糟糕的结局是永生，使流浪着持续在永恒的痛苦里的永生啊！
+>
+> **rismex：**所以您创造这里的目的就是帮助那些流浪者们解脱？
+>
+> **死灵法师：**正确，你们认为这里是何地？
+>
+> **rismex：**这里有层级档案，请您过目（展示文档）。
+>
+> **死灵法师：**你们的文档是不正确的。
+>
+> **rismex：**哪里不正确，这对我们的文档收集非常重要。
+>
+> **死灵法师：**这里是幻境，是神流的一种。
+>
+> **rismex：**神流是什么？
+>
+> **死灵法师：**按照你们的档案语言来讲，神流应当被称作......现象。
+>
+> **rismex：**这样……
+> **[记录结束]**
+后方的对话与最新版文档信息重叠，故此不展示
+[[/collapsible]]
+[[collapsible show=" 点击查看最新版文档" hide=" 关闭"]]
+[[include :backrooms-wiki-cn:component:plas-animation]]
+[[include :backrooms-wiki-cn:component:plas
+|number=IF-7
+|level=2
+|class=特定触发
+|area=永世折磨层级
+|form=影响流浪者
+|primary-color=#0000DD
+|secondary-color=
+|accent-color=
+]]
+**phenomenon-IF-7**，亦称苦痛解脱，是一种极为特殊的现象，起初被误认为隐秘层级，后与“死灵法师”的交谈中证实其为一种现象。
++ 描述
+此现象一次仅针对一名流浪者，且对象必须处于“长时间永世折磨”的状态，以下为“长时间永世折磨”的定义：
+* 处于极度痛苦的状态
+* 无法死亡
+* 身份依然为人类
+* 时间在70-130年之间
+符合以上条件的流浪者将有极大概率触发**phenomenon-IF-7**
+
+**phenomenon-IF-7**在发生时会导致受影响的个体意识与痛觉暂时消失，层级对其的伤害行为也会在至多12分钟后无法影响个体，随后，受影响的个体意识恢复，随后此现象会令其五感和精神认为自身处于旧版文档中的“日下陵墓”。
+
+进入“日下陵墓”后，流浪者将遇到一位名为“死灵法师”的人型实体，其坚称为此现象的创造者，M.E.G.已于之进行多次对话，但具有实质性价值的仅有第一次对话。[[footnote]] 上文中的交谈记录 [[/footnote]]“死灵法师”的信息截止至今依然十分稀少，但已完全确认其为友善实体。
+
+流浪者的意识在进入“日下陵墓”后会得到一定的缓解，同时其肉体会在这期间缓慢地恢复，一般情况下在2-3天后将完全恢复。三日后，流浪者的意识会回到身体，同时其会强制切入任一生存难度小于等于1的层级。
+
+但在切入目标层级后，流浪者将会在三日后因各种意外死亡，同时该现象宣告结束。
++  缓解与加剧
+不适用于此现象
+[[/collapsible]]
+-----
+[[collapsible show="作者信息" hide="- 隐藏"]]
+作者[[*user zcbm ]]
+版式源于entity-c-42
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[phenomenon-IF-6]]] | **phenomenon-IF-7** | [[[phenomenon-IF-8]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,209 @@
+[[module UserInfo]]
+
+------
+
+此页面用于快捷封禁用户。
+
+此工具需要安装油猴脚本（见最底部）
+
+首先在下方文本域输入用户名，可以是{{@@[[*user 用户名]]@@}}、{{@@[[user 用户名]]@@}}或{{用户名}}的格式。可以以换行来批量输入
+
+然后点击确定，再按提示分别封禁。
+
+[[html]]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>用户链接生成器</title>
+    <style>
+        :root {
+            --link-color: 100, 100, 200;
+            --hover-link-color: 61, 172, 214;
+            --visited-link-color: 130, 130, 230;
+            --newpage-color: 50, 50, 220;
+            --text-color: 35, 35, 38;
+            --background-color: 252, 252, 252;
+            --light-color-2: 240, 240, 244;
+            --dark-color-2: 229, 229, 238;
+            --dark-color-3: 50, 50, 51;
+        }
+
+        body {
+            background-color: transparent;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: rgb(var(--text-color));
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: rgba(var(--background-color), 0.9);
+            padding: 30px;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        h1 {
+            color: rgb(var(--dark-color-3));
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 25px;
+            font-weight: 600;
+        }
+
+        #inputText {
+            width: 100%;
+            min-height: 180px;
+            padding: 15px;
+            border: 1px solid rgb(var(--dark-color-2));
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 15px;
+            color: rgb(var(--text-color));
+            background-color: rgb(var(--light-color-2));
+            resize: vertical;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease;
+        }
+
+        #inputText:focus {
+            outline: none;
+            border-color: rgb(var(--link-color));
+            box-shadow: 0 0 0 2px rgba(var(--link-color), 0.2);
+        }
+
+        #inputText::placeholder {
+            color: rgba(var(--text-color), 0.6);
+        }
+
+        button {
+            background-color: rgb(var(--link-color));
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 15px;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: rgb(var(--hover-link-color));
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        button:active {
+            transform: translateY(0);
+            box-shadow: none;
+        }
+
+        .instructions {
+            margin-bottom: 20px;
+            padding: 12px;
+            background-color: rgba(var(--light-color-2), 0.7);
+            border-radius: 6px;
+            font-size: 14px;
+            color: rgba(var(--text-color), 0.8);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <textarea id="inputText" placeholder="输入用户名，支持批量"></textarea>
+        <button onclick="processInput()">生成链接</button>
+    </div>
+
+    <script>
+        function processInput() {
+            const input = document.getElementById('inputText').value;
+            const lines = input.split('\n');
+            
+            const processedLines = lines.map(line => {
+                let processed = line.replace(/^\[\[\*?user\s+/, '').trim();
+                processed = processed.replace(/\]\]$/, '').trim();
+                processed = processed.replace(/[ _]/g, '-');
+                return processed;
+            }).filter(line => line.length > 0);
+            
+            processedLines.forEach(username => {
+                const url = `https://if-backrooms.wikidot.com/system:user/${username}`;
+                window.open(url, '_blank');
+            });
+        }
+    </script>
+</body>
+</html>
+
+[[/html]]
+
+
+
+
+
+
+
+
+
+
+
+[[module CSS]]
+#ui-tabs {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(min((100% - 1.25rem),max(20ch,(100% - 1.25rem)/3)),1fr));
+    gap: .5rem;
+}
+
+#ui-tabs li { display: contents; }
+#ui-tabs li a {
+    display: flex;
+    padding: .375em .625em;
+    border-radius: .375rem;
+    align-items: center;
+}
+#ui-tabs li a:is(:hover,:focus) {
+    background-color: #b012;
+}
+#ui-tabs li.active a {
+    background-color: #884148;
+    color: white;
+}
+
+.col-md-9 {
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border-top: solid .05rem #ccc;
+}
+
+.dl-horizontal {
+    display: grid;
+    grid-template-columns: minmax(0,1fr) minmax(0,4fr);
+    gap: .5rem;
+}
+
+#user-info-area :is(dt,dd) {
+    padding: 0;
+    margin: 0;
+}
+.dl-horizontal dt { font-weight: bold; }
+
+#user-info-area > dl a { font-weight: 600; }
+#user-info-area > dl > dt small { color: #999; }
+#user-info-area > dl > dt small::before {
+    content: "—";
+    margin-inline: .25em;
+}
+#user-info-area > dl > dd { margin-block: .125em .75em; }
+[[/module]]

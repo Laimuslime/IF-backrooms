@@ -1,0 +1,214 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |nightmare=a]]
+[[include :backrooms-wiki-cn:theme:phobia |megalo=true]]
+[[module css]]
+@keyframes flicker {
+  0% { color: black }
+  100% { color:rgba(var(--white-monochrome), 0) }}
+.warn{  
+  animation-name: flicker;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;}}
+[[/module]]
+@@@@
+@@@@
+------
+[[div class="blockquote"]]
+[[=]]
++ [[span style="opacity: 0.7;"]]##red|/##[[/span]] ##red|警告## [[span style="opacity: 0.7;"]]##red|/##[[/span]]
+##red|您正在访问##**[[span class="warn"]][[span class="ruby"]]REDE[[span class="rt"]]区域性极端灾难实体[[/span]][[/span]][[/span]]**##red|实体文档。
+请勿惊慌，并接受它们存在的事实。##
+[[/=]]
+[[/div]]
+> = {{//**“当大脑不再是我们引以为傲区别于其他生物的优势。”**//}}
+> = {{//**“人类的未来，又将何去何从？”**//}}
+----
+> = {{//**“回到在level C-11的家，你一屁股坐到沙发上，接着掏出手机，点开了REDE实体名录。”**//}}
+> = {{//**“这是你很早之前就养成的习惯，毕竟你可不想绝望地死在那些稀奇古怪的强大实体手里。”**//}}
+> = {{//**“REDE-53？还真有新的报告啊...”**//}}
+[[include :backroomssandboxcn:kai4c:concord
+|number=REDE-53
+|habitat=[已编辑]
+|danger=5
+|intel=B+
+|properties=DMN AGR
+|sin=X
+|other-spec=X
+|goi-specification=IETS
+|class=Galaxies
+||primary-color=white
+]]
+[[footnote]] 更正：分类应为[已编辑] [[/footnote]]
+[[module css]]
+/* IETS 四个字母 */
+.iets-wrapper strong a {color: white !important;}
+/* IETS 后面的冒号 */
+.iets-wrapper {color: white;}
+/* 分级： */
+.class-label {color: white;}
+/* Mega */
+.class-inner {color: white;}
+[[/module]]
+**灾害等级**：[[span style="color: black"]]●[[/span]]
+**事件名称**：[已编辑]
++ 描述
+**REDE-53**是目前被记录在案的第53种REDE实体，是一种寄生在实体身上的病毒，因其最早被发现于[已编辑]身上，被命名为“HURUS”
+**REDE-53**会导致其宿主[已编辑]，同时，宿主的外观将发生变化，[已编辑],**其眼睛在紫外线照射下呈现为金色。**[[footnote]] 这是其宿主最明显的特征。 [[/footnote]]
+已证实[已编辑]
++ 行为
+* 因**REDE-53**生物本质为病毒，其活动范围难以追踪,推测其可出现在任意存在实体的层级中。
+* [已编辑]
++ **[已编辑]**事件
+* [已编辑]
+* [已编辑]
+* [已编辑]
+* [已编辑]
++ 生物学特征
+该病毒主要宿主为[已编辑]，其DNA序列暂未解明也[已编辑]
++ 行为准则
++ 应当：
+* 尽可能杀死被**REDE-53**感染的实体。
+* 在感染**REDE-53**后立刻自杀
+* [已编辑]
++ 不应：
+* 心存怜悯。
+* 相信**REDE-53**的宿主
+* **##red|杀死##**[已编辑]
+> = {{//**“这也能叫做REDE实体？你不屑地想，一个可以被杀死的REDE？但那一个个[已编辑]却又让你莫名地心慌。”**//}}
+> = {{//**“此时，你惊疑地发现这份档案还能继续往下滑。在好奇心的驱使下，你继续向下看去。”**//}}
+@@@@
+@@@@
+> [[div class="dark-borderblock"]]
+> [[=]]
+> ++ **警告**
+> [[size 120%]]
+> 该文档疑似被未知存在篡改，请勿继续阅读。
+> M.E.G.正在尝试修复文档。
+> [[/size]]
+> [[=image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo style="width:100px;"]]
+> ++++++ {{M.E.G.档案部}}
+> ++++++ {{为了人类的明天}}
+> [[/=]]
+> [[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+> [[div class="dark-borderblock"]]
+> [[=]]
+> ++ **##red|警告##**
+> [[size 120%]]
+> **##red|请 立 即 停 止 下 滑 。##**
+> [[/size]]
+> [[=image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo style="width:100px;"]]
+> ++++++ {{##red|M.E.G. - 监督者A##}}
+> ++++++ {{##red|为了人类的明天##}}
+> [[/=]]
+> [[/div]]
+@@@@
+@@@@
+> = {{//**“连续的两次警告，第二次甚至是监督者亲手发布...你难免地感到犹豫了，但这也让你对下面的内容更加的好奇。”**//}}
+> = {{//**“思考再三，你决定继续往下看。”**//}}
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++ **人类啊**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **......**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **总是喜欢**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **##red|自  欺  欺  人##**
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[html]]
+<div id="loginContainer">
+    <input type="password" id="password" placeholder="请输入密码">
+    <button onclick="verifyLogin()">确定</button>
+    <div id="errorMessage" style="color:red; margin-top:10px; display:none;">错误，请重试</div>
+    <div id="wikidotCode" style="font-family:monospace; margin-top:15px; display:none;"></div>
+</div>
+<script>
+function verifyLogin(){
+    const p="HUMAN",i=document.getElementById("password").value;
+    const wikidotCode = document.getElementById("wikidotCode");
+    
+    if(!i && !wikidotCode.style.display.includes("block")){
+        document.getElementById("errorMessage").textContent="请输入密码";
+        document.getElementById("errorMessage").style.display="block";
+        return;}
+    if(i===p){
+        document.getElementById("errorMessage").style.display="none";
+        wikidotCode.innerHTML='<a href="https://brsandbox-pro.wikidot.com/open-collab:rede-53-password-HUMAN/offset/1" target="_blank" style="color:red;">人 类</a>';
+        wikidotCode.style.display="block";
+        document.getElementById("password").value="";}
+        else if(!wikidotCode.style.display.includes("block")) {
+        document.getElementById("errorMessage").style.display="block";
+        document.getElementById("errorMessage").textContent="错误，请重试";}}
+</script>
+[[/html]]
+> = {{//**“密码...?”**//}}
+> = {{//**“你不由陷入了沉思”**//}}
+> = {{//**“等等，这篇档案的网址似乎...没那么简单？”**//}}
+----
+[[footnoteblock]]

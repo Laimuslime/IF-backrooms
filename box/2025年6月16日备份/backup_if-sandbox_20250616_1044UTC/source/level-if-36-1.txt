@@ -1,0 +1,168 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "你如今再临此处";
+}
+[[/module]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div class="blockquote"]]
+[[=]]
+++ **万维聊天室**
+++++ **畅聊后室**
+++++++ **//（主题帖#45）//**
+**//主题：//不知道能不能活着**
+[[/=]]
+-----
+**//#1// Hawoyuki：**
+我在干什么我为什么要切进[[[Level IF-36]]]
+
+青春没有售价看我直接横穿层级
+**IP属地：Level IF-36**
+**BTC 2019/6/3 13:25**
+-----
+**//#2// ffA：**
+这个喷不了这个是真勇士
+**IP属地：Level 2**
+**BTC 2019/6/3 13:27**
+-----
+**//#3// user：**
+疑似[[[object-if-3|万维聊天室]]]有史以来第一个断命帖
+**IP属地：Level 1**
+**BTC 2019/6/3 13:28**
+-----
+**//#4// Hawoyuki：**
+等等怎么进了一个像城市一样的地方
+
+好像是废弃城市什么的，盖了一堆植物
+**IP属地：未知**
+**BTC 2019/6/3 13:30**
+-----
+**//#5// user：**
+拍个照，我要看🤓
+**IP属地：1**
+**BTC 2019/6/3 13:31**
+-----
+**//#6// Hawoyuki：**
+[[=image https://plus.unsplash.com/premium_photo-1715605710442-a5b01fc06399?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]]
+**IP属地：未知**
+**BTC 2019/6/3 13:33**
+-----
+**//#7// OwouO：**
+主播主播你似乎是发现新层级了
+**IP属地：Level 111**
+**BTC 2019/6/3 13:36**
+-----
+**//#8// Hawoyuki：**
+这么好，让我赶一篇层级描述出来，写之前让我先把环境探一探
+**IP属地：未知**
+**BTC 2019/6/3 13:37**
+-----
+**//#9// user：**
+666居然还是有史以来第一个发现新层级的帖
+**IP属地：Level 1**
+**BTC 2019/6/3 13:39**
+-----
+**//#10// ffA：**
+你是不是把[[[Level IF-14]]]忘了
+**IP属地：Level 2**
+**BTC 2019/6/3 13:40**
+[[/div]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+**Level IF-36.1**是[[[Level IF-36]]]的子层级。
+[[div class="styled-quote"]]
++ **描述**
+[[/div]]
+[[include component:image-block
+ |name=https://plus.unsplash.com/premium_photo-1715706866931-28572f1643f8?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ |caption=Level IF-36.1的一张照片。
+]]
+**Level IF-36.1**表现为一处废弃的城市，被大量蕨类植物覆盖，并被一座巨大的环形山脉环绕，粗略估计层级面积约为数平方公里。
+
+相比于广义上的城市，此层级更像是众多小镇的结合体，并且拥有极多的农业区，在农业区内收集物资是比较明智的选择。
+
+在此层级的公路上拥有大量的已损坏的车辆，这些车辆的标识并不属于前厅中任何一种汽车品牌。在汽车内可能会发现一些衣物。
+[[div class="blockquote"]]
+**//#11// Hawoyuki：**
+阿巴阿巴环境大概是这么个样，我后面再看看
+
+不对怎么有IP了我靠
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:31**
+-----
+**//#12// ##pink|RWWchat-bot##：**
+因为我在视奸
+**IP属地：Level 1**
+**BTC 2019/6/3 14:32**
+-----
+**//#13// Hawoyuki：**
+666居然把站务炸出来了
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:33**
+-----
+**//#14// user：**
+你怎么知道极少量实体的
+**IP属地：Level 1**
+**BTC 2019/6/3 14:35**
+-----
+**//#15// Hawoyuki：**
+我听房子里有点声音感觉应该是实体，不过我不敢进去，后面还会再看看的
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:37**
+-----
+**//#16// Hawoyuki：**
+对了，接下来我先探索一下这个层级吧，我会一直更新文档的，等到完善的差不多了就会投到[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]那里去
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:40**
+-----
+**//#17// ##pink|Hydrogen##：**
+为什么不发给[[[level-if-199|B.O.P.]]]--这样的话我就可以去驻军了--
+**IP属地：Level IF-199**
+**BTC 2019/6/3 14:41**
+-----
+**//#18// Hawoyuki：**
+好像也行，那就两个都发
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 14:43**
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+**//#19// Hawoyuki：**
+我靠大半夜的[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]怎么来这里搭营地了
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 22:04**
+-----
+**//#20// umua：**
+一定是你的帖被他们看到了
+**IP属地：Level 1**
+**BTC 2019/6/3 22:07**
+-----
+**//#21// Hawoyuki：**
+六百六十六多方视奸，太微距了
+**IP属地：Level IF-36.1**
+**BTC 2019/6/3 22:09**
+[[/div]]
+-----
+[[=]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Suesa]]
+图片分别来自Unsplash的[https://unsplash.com/photos/a-building-that-has-a-bunch-of-plants-growing-out-of-it-EARZxFJ4v6w 这个页面]和[https://unsplash.com/photos/a-group-of-trees-that-are-next-to-a-building-UOzl15rUdog 这个页面]
+旧站53的复活😀👍
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[Level IF-36]]] | Level IF-36.1 | [[[Level IF-37]]] >>
+[[/div]]
+[[/=]]

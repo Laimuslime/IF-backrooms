@@ -1,0 +1,143 @@
+[[module CSS]]
+#page-title{none!important}#breadcrumbs{margin:.5rem 0}.fa-solid{display:contents}.score-board{display:grid;grid-template-areas:"warn shield kick ban"}.score-board>div{text-align:center;padding:0}.bans:after,.kicks:after,.shield:after,.warns:after{content:"0";font-family:var(--mono-font);font-weight:800;font-size:4em;display:block;padding:0}.warns:after{content:"%%form_data{warn}%%"}.shield:after{content:"%%form_data{shield}%%"}.kicks:after{content:"%%form_data{kick}%%"}.bans:after{content:"%%form_data{ban}%%"}@media only screen and (max-width:768px){.bans:after,.kicks:after,.shield:after,.warns:after{font-size:3.2em}}.bans p,.kicks p,.shield p,.warns p{margin-bottom:0!important}.warns{grid-area:warn}.shield{grid-area:shield}.kicks{grid-area:kick}.bans{grid-area:ban}.score-board-preview,.user .error-inline,.user .printuser+.not-exist{display:none}.yui-navset{background:#212126}.value-0{display:block!important}
+[[/module]]
+
+
+[[div style="border:solid 0.15rem transparent;background:#ffebcd;padding:0 1em;margin-bottom:1em"]]
+本页面用于记录后室IF层群 [[span class="fab fa-%%form_raw{chatroom}%%"]]@<&nbsp;>@[[/span]]%%form_data{chatroom}%% 中的成员 %%title%% 的所有历史处分。
+[[>]]
+[[span class="fa-solid fa-%%form_raw{case}%%"]]@<&nbsp;>@[[/span]]%%form_data{case}%%
+[[button edit text="编辑" class="editor-button"]] | [[button history text="历史记录" class="editor-button"]] | [[button rename text="重命名" class="editor-button"]] | [[button delete text="删除" class="editor-button delete-button"]]
+[[/>]]
+[[/div]]
+
+[[div style="border:solid 0.15rem transparent;background:#ffebcd;padding:0 1em"]]
+[[div class="score-board"]]
+[[div class="warns"]]
+[[size 85%]]**累计警告次数**[[/size]]
+[[/div]]
+[[div class="shield"]]
+[[size 85%]]**累计禁言次数**[[/size]]
+[[/div]]
+[[div class="kicks"]]
+[[size 85%]]**累计踢出次数**[[/size]]
+[[/div]]
+[[div class="bans"]]
+[[size 85%]]**累计拉黑次数**[[/size]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+@@ @@
++ 具体记录
+[[tabview]]
+[[tab 警告]]
+[[span class="value-%%form_data{warn}%%" style="display:none"]]此用户的警告处分记录暂不存在，若需添加请编辑本页[[/span]]
+%%form_data{warn-record}%%
+[[/tab]]
+[[tab 禁言]]
+[[span class="value-%%form_data{shield}%%" style="display:none"]]此用户的禁言处分记录暂不存在，若需添加请编辑本页[[/span]]
+%%form_data{shield-record}%%
+[[/tab]]
+[[tab 踢出]]
+[[span class="value-%%form_data{kick}%%" style="display:none"]]此用户的踢出处分记录暂不存在，若需添加请编辑本页[[/span]]
+%%form_data{kick-record}%%
+[[/tab]]
+[[tab 拉黑]]
+[[span class="value-%%form_data{ban}%%" style="display:none"]]此用户的拉黑处分记录暂不存在，若需添加请编辑本页[[/span]]
+%%form_data{ban-record}%%
+[[/tab]]
+[[/tabview]]
+
+@@ @@
++ 证据存档
+[[div style="border:solid 0.15rem transparent;background:#ffebcd;padding:0 1em"]]
+[[module Files]]
+[[/div]]
+
+@@ @@
++ 内容补充
+[[div style="border:solid 0.15rem transparent;background:#ffebcd;padding:0 1em"]]
+[[module Comments order="reverse"]]
+[[/div]]
+
+
+====
+
+[[form]]
+fields:
+  titleInfo:
+    type: static
+    value: |
+      [[size 75%]]标题内容请设置为受处分者的账号专用ID/号码/唯一标识符，如果该用户修改了账号专用ID/号码/唯一标识符，请同步修改标题和页面名称。同使用者不同平台账号需给各账号分别建立页面，同使用者相同平台的分身账号仅记录最先加入聊天室的账号。[[/size]]
+  chatroom:
+    label: 聊天位置
+    type: select
+    values:
+      qq: QQ群聊
+      hashtag: QQ频道
+      discord: Discord服务器
+    default: qq
+  case:
+    label: 目前情况
+    type: select
+    values:
+      file: 仅记录
+      ban: 处分中
+      unlock:  已解除
+    default: file
+  bigStaticTitle1:
+    type: static
+    label: 累计次数
+  warn:
+    label: 警告
+    type: text
+    default: 0
+    match: /^[0-9]{1}$/
+    match-error: 仅可填写 0~9 之间的整数。
+  shield:
+    label: 禁言
+    type: text
+    default: 0
+    match: /^[0-9]{1}$/
+    match-error: 仅可填写 0~9 之间的整数。
+  kick:
+    label: 踢出
+    type: text
+    default: 0
+    match: /^[0-9]{1}$/
+    match-error: 仅可填写 0~9 之间的整数。
+  ban:
+    label: 拉黑
+    type: text
+    default: 0
+    match: /^[0-9]{1}$/
+    match-error: 仅可填写 0~9 之间的整数。
+  Info1:
+    type: static
+    value: |
+      [[size 75%]]在此处请填写其受到相应的处分的累计次数，仅可填写 0~9 之间的整数。[[/size]]
+  bigStaticTitle2:
+    type: static
+    label: 具体信息
+  warn-record:
+    label: 警告
+    type: wiki
+    height: 10
+  shield-record:
+    label: 禁言
+    type: wiki
+    height: 10
+  kick-record:
+    label: 踢出
+    type: wiki
+    height: 10
+  ban-record:
+    label: 拉黑
+    type: wiki
+    height: 10
+  Info2:
+    type: static
+    value: |
+      [[size 75%]]在此处请填写其受到相应的处分的详细情况，请以{{@@**XXXX年XX月XX日：**计时器生成的内容/移除/警告信息+补充信息@@}}为格式填写此处的内容，证据附件请在本页上传。[[/size]]
+[[/form]]

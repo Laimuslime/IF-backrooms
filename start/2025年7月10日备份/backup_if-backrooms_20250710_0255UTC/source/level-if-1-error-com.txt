@@ -1,0 +1,386 @@
+[[include :backroom-wiki-cn:theme:cjcjz]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=NEWSTART
+|2=新起点
+|logo=
+|3=
+]]
+
+[[module CSS]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本文由两部分构成，第一部分为层级意识所写，第二部分为M.E.G.在采访诸多自Level IF-1切出的流浪者后整理而成";
+    font-weight: bold;
+    background: #424242;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+
+.blur {color: transparent; text-shadow: 0 0 6px rgba(128,0,128,.3); }
+
+.bokashi {
+    color: transparent;
+    transition: 1s;
+    text-shadow: 0 0 6px #b7ecff;
+
+}
+.bokashi a{
+    text-shadow: 0 0 6px #800000;
+    color: transparent;
+    transition: 1s;
+}
+.bokashi:hover {
+    text-shadow: none;
+    color: #b7ecff;
+}
+.bokashi:hover a{
+    color: #b01;
+    text-shadow: none;
+}
+[[/module]]
+
+[[module css]]
+/* Altered from Fade-In component */
+:root {
+  --fade-out-delay: 0.5s;
+  --fade-in-delay: 0.6s;
+  --fade-in-delay2: 18s;
+}
+
+.bt-after {
+    position: absolute;
+    left: -9999rem;
+}
+#u-back:target ~ .bt-after {
+    position: unset;
+    left: unset;
+}
+
+#u-back:target ~ .bt-before > * {
+  animation-name: fadeOut;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
+}
+#u-back:target ~ .bt-before {
+  animation-name: fadeOutDelay;
+  animation-duration: 3s;
+  animation-delay: var(--fade-in-delay2);
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
+}
+#u-back:target ~ .bt-after > * {
+  animation-name: fadeIn;
+  animation-duration: 2s;
+  animation-delay: calc(0.1s + var(--fade-in-delay2));
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-fill-mode: backwards;
+}
+#u-back:target ~ .bt-after {
+  animation-name: fadeInDelay;
+  animation-duration: 3s;
+  animation-delay: var(--fade-in-delay2);
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-fill-mode: backwards;
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: translate(0,0);
+  }
+  to {
+    opacity: 0;
+    transform: translate(0,-30px);
+  }
+}
+@keyframes fadeOutDelay {
+  to {
+    position: absolute;
+    left: -9999rem;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translate(0,30px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+@keyframes fadeInDelay {
+  to {
+    position: unset;
+    left: unset;
+  }
+}
+
+#u-back:target ~ .bt-before > :nth-child(1) { animation-delay: calc(1 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(2) { animation-delay: calc(2 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(3) { animation-delay: calc(3 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(4) { animation-delay: calc(4 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(5) { animation-delay: calc(5 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(6) { animation-delay: calc(6 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(7) { animation-delay: calc(7 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(8) { animation-delay: calc(8 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(9) { animation-delay: calc(9 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(10) { animation-delay: calc(10 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(11) { animation-delay: calc(11 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(12) { animation-delay: calc(12 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(13) { animation-delay: calc(13 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(14) { animation-delay: calc(14 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(15) { animation-delay: calc(15 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(16) { animation-delay: calc(16 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(17) { animation-delay: calc(17 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(18) { animation-delay: calc(18 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(19) { animation-delay: calc(19 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(20) { animation-delay: calc(20 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(21) { animation-delay: calc(21 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(22) { animation-delay: calc(22 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(23) { animation-delay: calc(23 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(24) { animation-delay: calc(24 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(25) { animation-delay: calc(25 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(26) { animation-delay: calc(26 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(27) { animation-delay: calc(27 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(28) { animation-delay: calc(28 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(29) { animation-delay: calc(29 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(30) { animation-delay: calc(30 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(31) { animation-delay: calc(31 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(32) { animation-delay: calc(32 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(33) { animation-delay: calc(33 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(34) { animation-delay: calc(34 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(35) { animation-delay: calc(35 * var(--fade-out-delay)); }
+#u-back:target ~ .bt-before > :nth-child(n+35) { animation-delay: calc(36 * var(--fade-out-delay)); }
+
+#u-back:target ~ .bt-after > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(16) { animation-delay: calc(16 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(17) { animation-delay: calc(17 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(18) { animation-delay: calc(18 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(19) { animation-delay: calc(19 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(20) { animation-delay: calc(20 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(21) { animation-delay: calc(21 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(22) { animation-delay: calc(22 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(23) { animation-delay: calc(23 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(24) { animation-delay: calc(24 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(25) { animation-delay: calc(25 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(26) { animation-delay: calc(26 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(27) { animation-delay: calc(27 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(28) { animation-delay: calc(28 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(29) { animation-delay: calc(29 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(30) { animation-delay: calc(30 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(31) { animation-delay: calc(31 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(32) { animation-delay: calc(32 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(33) { animation-delay: calc(33 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(34) { animation-delay: calc(34 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(35) { animation-delay: calc(35 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+#u-back:target ~ .bt-after > :nth-child(n+35) { animation-delay: calc(36 * var(--fade-in-delay) + var(--fade-in-delay2)); }
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div id="u-back"]]
+[[/div]]
+[[div class="bt-before"]]
+
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|title=欢迎到来！
+|class=宜居
+|display=所在：起点
+|color=FFA500
+|border=FFE4C4
+|list-color=FFA500
+|image=http://natedagreat563.wdfiles.com/local--files/storage-unit/BlankSDclass
+|one=历经长路漫
+|two=重新再辗转
+|three=此谓新起点
+]]
+
+
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-1-error-com/8e186c4d05476aefcfaf63e82da4ab2fa2ed602cc03c3bc15a23205730c1bcfe.png]]
+
+##FFA500|**Level-IF-1**##是你在IF层群的__起点层级__，也是你旅途的__新起点__！[[footnote]] 第一部分，层级留。 [[/footnote]]
+
+##20B2AA|欢迎来到后室的IF层群，希望你能在这里成就你后室之旅的又一篇章。##
+
++ ##FF0000|**描述**##
+
+##FFA500|**Level-IF-1**##是你在IF层群旅途的起点。放轻松，你在这里时这里的一切都属于你。此刻，你便是这个层级的主人。
+
++ ##FF0000|**实体**##
+
+##FFA500|**Level-IF-1**##中的实体？不用担心，它们是你的同伴，会鼓励你走向前方。
+
+听：它们说：“这里是起点，从这里出发走向远方吧！”
+
++ ##FF0000|**物资**##
+
+我说过，这里的一切都属于你，那么，这里怎么可以什么都没有呢？你想要的，这里都有哦。
+
++ ##FF0000|**基地，哨站与社区**##
+
+##FFA500|**Level-IF-1**##就是为你重新启程准备的社区，向前启程吧，勇敢探索吧。
+
++ ##FF0000|**入口**##
+
+你既已来此，就无需回头，向前走吧，勇敢启航！
+
++ ##FF0000|**出口**##
+
+跟我来，站在起点，听着发号枪的声音，##red|**启程！！！**##
+
+------
+
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者：[[*user error-com]]
+图片为ai生成
+这是我的[[[https://backroom-wiki-cn.wikidot.com/error-com|作者页]]]
+本站管理员，商量个事，要不我分到-4直接删掉让我去发X站上？
+[[/collapsible]]
+[[/>]]
+
+[[=]]
+> [#u-back M.E.G.版本]
+[[/=]]
+[[/div]]
+[[div class="bt-after"]]
+
+[[include component:level-class
+|class=宜居
+|lang=cn
+|display=宜居
+|one=安全
+|two=稳定
+|three=无危害实体
+]]
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-1-error-com/6097953da0d1fbb1a3f553e340a7735c046b7b9cf018bb46ccd4929d6aeb1eb9.png]]
+
+##FFA500|**Level-IF-1**##是IF层群的第1层。[[footnote]] 第二部分，M.E.G.留。 [[/footnote]]
+
+对从该层级切出的流浪者进行访问后，[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G.]]]整理出了如下资料
+
++ ##FF0000|**描述**##
+
+
+##FFA500|**Level-IF-1**## 表现为一场马拉松的起点区域。
+
+**外观**：该层级的表现为一个标准的马拉松比赛起点区域，包括清晰的起跑线和参赛者的准备区域。起点区之外的环境通常呈现为模糊不清或非实质性的状态，细节难以辨认，也无法到达（见面积）。
+**面积**： 除马拉松赛道本身外，可明确探索的起点区域面积约为 1 平方公里。值得注意的是，任何试图沿赛道步行离开起点区的尝试都会导致流浪者被立即传送回该层级的入口点。因此，马拉松赛道在计算层级面积时不计入面积计算，其紧邻区域视为假象。马拉松赛道表现出无限延伸的性质。
+**环境特性**：
+* **温度**：层级内的环境温度会根据流浪者的生理需求自动调节至最舒适的状态。
+* **时间流逝**：层级内一日的时间与前厅一日的时间均为24小时，且层级内的昼夜等分。
+* **层级意志**：##FFA500|**Level-IF-1**##被认为拥有一个活跃的层级意志。该意志没有已知的物理形态，其主要行为为维持层级的完整性、影响流浪者的状态（见“效应”部分），并有能力对记录其信息的文档进行修改或补充，然而[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G.]]]暂时无法与其建立联系。
+    
+* **Wi-Fi**：层级内提供极佳的Wi-Fi信号。
+
++ ##FF0000|**实体**##
+
+该层级所有实体均为友善实体。
+
+
+无面灵：##FFA500|**Level-IF-1**##的无面灵具有不同身份。
+
+
+[[tabview]]
+[[tab 医生]]
+对该实体的存在具有争议。现认为倘若进入该层级的流浪者存在身体方面的任何问题时，该种无面灵会出现并帮助流浪者。
+[[/tab]]
+[[tab 厨师]]
+对该实体的存在说法各有不同。普遍观点是本层级一共有三位该种无面灵，分别处于三个烘焙点，为流浪者提供食物和水源。
+[[/tab]]
+[[tab 教练]]
+对该实体的存在具有争议。现认为倘若进入该层级的流浪者存在心理方面的任何问题时，该种无面灵会出现并激励流浪者。
+[[/tab]]
+[[tab 同伴]]
+该实体的存在已被公认。该层级中大多数实体为该种无面灵，与该种无面灵交谈可获得其他层级信息。
+[[/tab]]
+[[/tabview]]
+
+猎犬：##FFA500|**Level-IF-1**##中的猎犬表现出前厅家养狗的特点，且有一定的其他独特性：
+* 层级内存在行为异常温顺的猎犬实体。
+* 它们通常会主动接近并跟随流浪者。
+* 与这些猎犬互动（如抚摸、陪伴）会产生显著的积极心理效果，被描述为“身心都被治愈”，能带来深层的平静、安慰和情感支持。
+
++ ##FF0000|**物资**##
+
+##FFA500|**Level-IF-1**##中物资充足，且便于获得。
+
+本层级物资不会腐烂变质，且不会受到其他层级效应影响。
+
++ ##FF0000|**效应**##
+
++++ **活力效应**
+
+进入该层级的流浪者会立即感受到强烈的活力与精神焕发。这种效应表现为：
+* 显著提升的身体能量水平。
+* 强烈的积极情绪和乐观心态。
+* 克服困难的决心和挑战一切的勇气。
+* 一种对“重新出发”、“踏上旅程”或“完成目标”的强烈渴望和向往。
+
++++ （可能存在）**不共存效应**
+
+基于所有离开该层级的流浪者报告，他们在##FFA500|**Level-IF-1**##期间均未遭遇其他流浪者。M.E.G. 推测层级意志可能具有一种机制，确保同一时间内层级内仅存在一名流浪者。
+
++ ##FF0000|**基地，哨站与社区**##
+
+##FFA500|**Level-IF-1**##的层级意识似乎有意将层级本身制造为为一个巨大的基地，在本层级任何地方都可获得物资及其他层级信息。
+
++ ##FF0000|**入口**##
+
+在除IF层群外任意一个层群探索超过30%层级后每次进行切入时有小概率切入##FFA500|**Level-IF-1**##。对切出本层级的流浪者寻访可知，大多流浪者认为每名流浪者一生只可切入一次##FFA500|**Level-IF-1**##。
+
++ ##FF0000|**出口**##
+
+离开 ##FFA500|**Level-IF-1**## 的唯一方法是参与马拉松：
+1.  在起点线处开始奔跑。
+2.  保持奔跑姿态持续前进。
+3.  在奔跑达到一个未知但特定的距离后，跑者将切出 Level IF-1，并到达如下层级（附有概率）：
+10%概率到达[[[Level IF-15]]]
+5%概率到达[[[Level IF-19]]]
+11%概率到达[[[Level IF-46]]]
+4%概率到达[[[Level IF-55]]]
+18%概率到达[[[Level IF-96]]]
+12%概率到达[[[Level IF-99]]]
+13%概率到达[[[Level IF-136]]]
+17%概率到达[[[Level IF-177]]]
+10%概率到达[[[Level IF-190]]]
+离开本层级的流浪者都表示，自己永远回不到也不会回到这个层级了。
+他们说，[[[https://if-backrooms.wikidot.com/level-if-1-error-com|起点]]]，即唯一。
+一经前行，再不复回。
+[[/div]]
+
+
+------
+
+
+[[=]]
+Level IF-1|[[[Level IF-2]]]>>
+[[/=]]

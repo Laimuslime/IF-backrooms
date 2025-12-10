@@ -1,0 +1,100 @@
+[!--  
+    featureLevelO - 精品原创层级                       - 左上
+    featureTaleO   - 精品原创故事（或其它）     - 右上
+    featureLevelT - 精品翻译层级                        - 左下
+    featureTaleT   - 精品翻译故事（或其它）      - 右下
+--]
+[!-- Feature Start --]
+[[div_ class="pageContainer featureLevelO"]]
+[[div_ class="title"]]
+精品层级
+[[/div]]
+[[div class="page"]]
+
+[[[level-if-10|Level IF-10]]]
+
+by [[user DielsAlder]]和[[user Hinc_itur_ad_astra]]
+
+[[module ListUsers users="."]]
+//所以，%%title%%，**Level IF-10**内只有一条河吗？//
+[[/module]]
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureTaleO"]]
+[[div_ class="title"]]
+精品层级
+[[/div]]
+[[div class="page"]]
+
+[[[url|页面标题]]]
+
+by [[user user]]
+
+//节选节选节选节选节选节选//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureLevelT"]]
+[[div_ class="title"]]
+精品层级
+[[/div]]
+[[div class="page"]]
+
+[[[url|页面标题]]]
+
+by [[user user]]
+
+//节选节选节选节选节选节选//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[[div_ class="pageContainer featureTaleT"]]
+[[div_ class="title"]]
+精品层级
+[[/div]]
+[[div class="page"]]
+
+[[[url|页面标题]]]
+
+by [[user user]]
+
+//节选节选节选节选节选节选//
+
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive|往期精品归档]]]
+[[/div]]
+[[/div]]
+
+[!-- 精品模板
+[[div_ class="pageContainer feature"]]
+[[div_ class="title"]]
+精品XXX
+[[/div]]
+[[div class="page"]]
+[[[url|页面标题]]]
+
+[[user user]] 著/译
+
+//节选节选节选节选节选节选//
+[[/div]]
+[[div_ class="recently"]]
+[[[featured-archive-dv|往期精品归档]]]
+[[/div]]
+[[/div]]
+--]
+
+[!-- Feature End --]

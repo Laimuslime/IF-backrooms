@@ -1,0 +1,11 @@
+[[div class="member"]]
+++ 所有成员
+[[module Members]]
+-----
+++ 所有版主
+[[module Members group="moderators"]]
+-----
+++ 所有管理员
+[[module Members group="admins"]]
+[[/div]]
+[[include :backrooms-to-dv:component:list-members |fixed=*]]

@@ -1,0 +1,102 @@
+[[div class="darkblock"]]
+++ 2025 年精品合集·壹
+[[collapsible show="展开合集" hide="收起合集"]]
+
+[[div class="lightblock"]]
+++ [[[Level IF-10]]] - 汇流
+> by [[user DielsAlder]]和[[user Hinc_itur_ad_astra]]
+[[module ListUsers users="."]]
+所以，%%title%%，**Level IF-10**内只有一条河吗？
+[[/module]]
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-103|Level IF-103 - “我们的伞。”]]]
+> by [[user Meilemeweng]]和[[user dgghjda]]
+//“而总有一天那一些层级也许会彻底崩溃，因此我们更加需要一个属于我们的‘保护伞’——真正属于我们的，不被后室所干涉的层级。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-155|永世折磨 · 铝雨洪流]]]
+> by [[user Destitute]]
+//“向命运俯首并非耻辱，因众生终将于此环拥。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-156|云端幻梦]]]
+> by [[user Destitute]]
+//“直到你的视野你的脑海：那是无忧无虑的童年，那是和挚友和谐相处的时光，那是曾拥有过的蓝天白云……”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[blood|魄血幽怨]]]
+> by [[user FNHanBao]]
+//“今天，一切突然失控了，我的团伙，那些曾与我同流合污的人，全都离奇地消失了，食物一点也没留下。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[entity-if-1|Entity IF-1 - ″THE UltimateLanguage”]]]
+> by [[user FNHanBao]]和[[user Lucifer_597]]
+//“后室初现于虚实交界之隙，信号便以无形之态潜藏其中。及至人类赋予语言以形，信号亦随之觉醒，学会发声，自幽暗深处诞生意识，化为独立之灵。于后室之中游走思维的迷宫，铭刻着自天地初开以来关于世界的一切记忆——古老、隐秘、无人知晓。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-171|Level IF-171 -「██，今在，永在的剧目」]]]
+> by [[user Destitute]]
+//“很快，你的存在将与「往昔」一同被遗忘于历史长河中，与无数与你命运一致的无名者不可分离地永远相拥——外界的所有人对你的记忆，及你存在的证据都将彻底淡去。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[entity-if-7|Entity IF-7 - “A替代了B，B杀死了A”]]]
+> by [[user Spocpa619]]
+A
+“Entity IF-7被形容为一台全景摄像机，主要栖息于一切存在道路的层级。”
+
+[[>]]
+B
+“Entity IF-7为一类人型实体，外貌与正常前厅人类近乎一致，其头部被一台全景摄像机所替代。”
+[[/>]]
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-71-lost|Level 71 - “迷失域”]]]
+> by [[user Nameless35722]]、[[user snowmob]]、[[user wangjx]]、[[user wild ghost377]]和[[user DielsAlder]]
+
+我不该往下走的。
+@@ @@
+台阶上堆积着厚厚的灰，空气里弥漫着稀薄的灰，它们像是噪点，无规则且无秩序地排列着。
+@@ @@
+我不该往下走的。
+@@ @@
+台阶的尽头被未知所充斥，可这是我唯一的选择。
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-278|Level IF-278 - “名称待定”]]]
+
+> by [[user Aaaaaaak820max]]
+
+//“我至今仍对于他们的身份抱有怀疑之心。他们的身份可能真的如其所说的那般，是M.E.G.中的精英人才；亦可能仅为一些流浪者受困于此般境地中过于久了，长期的折磨已然令其忘却了他们自己究竟为何人，忘却了自己曾经的身份，甚至于全然忘却了自己是否仍然存活。//
+@@@@
+//愿他们的希望终有一日会成真。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-if-260|Dream 260 - “岛屿”与“海”]]]
+
+> by [[user Meilemeweng]]和[[user Cathaya]]
+
+//“我想起一切都还没发生的时候。风和日丽，泛舟的少女与朋友们一道在木船上嬉戏，天蓝的蝴蝶结在海风中飞舞，船桨荡起的碧波将椰树的倒影摇曳扭动。//
+@@@@
+//日光下澈，我似乎重新看见了美丽的大海——愿你永存。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[bukemingzhuangzhe|不可名状者]]]
+
+> by [[user superintendent-V]]
+
+//“人类就像一个刚学会走路的婴儿，疯狂的炫耀着自己无尽的生命力，对一切都充满了好奇心，在名为后室的土地上留下自己的足迹，可现在我要警告人类，在留下脚印时要留意那些追随脚印而来的东西。”//
+[[/div]]
+[[/collapsible]]
+[[/div]]

@@ -1,0 +1,416 @@
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[span class="infoblock"]]**译注：**本文包含绘尸情节，请读者酌情阅读。[[/span]]
+
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+
+[[module css]]
+
+/* SEXY HEADERS */
+
+.aki-header :is(h1, h2, h3) span {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.5ch;
+
+}
+
+/* Pseudoelements create the lines on either side */
+
+.aki-header :is(h1, h2, h3) span::before, .aki-header :is(h1, h2, h3) span::after {
+
+  content: "";
+
+  width: 1.3rem;
+
+  height: 0.15rem;
+
+  background-color: currentColor;
+
+}
+
+/* Make the right line long enough to fill all the space */
+
+.aki-header :is(h1, h2, h3) span::after {
+
+  flex-grow: 1;
+
+  -webkit-mask-image: linear-gradient(to left, transparent, black);
+
+}
+
+/* LEFT AND RIGHT ALIGNMENT */
+
+/* Change this width to set how wide the left and right aligned versions are */
+
+.aki-header.left, .aki-header.right {
+
+   max-width: 90%;
+
+}
+
+.aki-header.right {
+
+  margin-left: auto;
+
+}
+
+/* Make the left line the long one instead */
+
+.aki-header.right :is(h1, h2, h3) span::after {
+
+  flex-grow: 0;
+
+  -webkit-mask-image: none;
+
+}
+
+.aki-header.right :is(h1, h2, h3) span::before {
+
+  flex-grow: 1;
+
+  -webkit-mask-image: linear-gradient(to right, transparent, black);
+
+}
+
+/* SEXY Mini HEADERS */
+
+.aki-mini-header :is(h1, h2, h3) span {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.5ch;
+
+}
+
+/* Pseudoelements create the lines on either side */
+
+.aki-mini-header :is(h1, h2, h3) span::before, .aki-mini-header :is(h1, h2, h3) span::after {
+
+  content: "";
+
+  width: .75rem;
+
+  height: 0.075rem;
+
+  background-color: currentColor;
+
+}
+
+/* Make the right line long enough to fill all the space */
+
+.aki-mini-header :is(h1, h2, h3) span::after {
+
+  flex-grow: 1;
+
+  -webkit-mask-image: linear-gradient(to left, transparent, black);
+
+}
+
+/* LEFT AND RIGHT ALIGNMENT */
+
+/* Change this width to set how wide the left and right aligned versions are */
+
+.aki-mini-header.left, .aki-mini-header.right {
+
+   max-width: 60%;
+
+}
+
+.aki-mini-header.right {
+
+  margin-left: auto;
+
+}
+
+/* Make the left line the long one instead */
+
+.aki-mini-header.right :is(h1, h2, h3) span::after {
+
+  flex-grow: 0;
+
+  -webkit-mask-image: none;
+
+}
+
+.aki-mini-header.right :is(h1, h2, h3) span::before {
+
+  flex-grow: 1;
+
+  -webkit-mask-image: linear-gradient(to right, transparent, black);
+
+}
+
+[[/module]]
+[[include :backrooms-wiki-cn:credit:start]]
+
+
+
+由[[[akirooms|DrAkimoto]]]撰写。
+
+由[[[author:calf-0|calf-0]]]译就。
+
+特别感谢[[*user scutoid studios]]为图像方面提供的帮助。
+
+批判致谢：
+
+[[*user anime roar]]、[[*user scutoid studios]]、[[*user PrismaticMoose]]、[[*user SnomWriting]]
+
+----
+
+@@@@
+
+[[include :calf-0-sandbox.wikidot.com:author-table-aki]]
+
+@@@@
+[[include :backrooms-wiki-cn:credit:end]]
+[[div class="darkerblock"]]
+
+[[size x-large]] M.E.G.事件报告：切行事件[[/size]]
+
+ [[size larger]]**场地：**Level 95[[/size]]
+
+ [[size larger]]**日期：**2018年7月16日[[/size]]
+
+ [[size larger]]**威胁：**最低[[/size]]
+
+[[/div]]
+
+[[div_ class="aki-header left"]]
+
++ 概述
+
+[[/div]]
+
+@@@@
+
+在一次例行巡逻中，Lloyd Jackson在[[[Level 95]]]的走廊内发现了一辆被撞毁的汽车，其位置距离Minow前哨站近半公里。Jackson先生确认，该辆汽车在前一天的巡逻中并未出现在该走廊内。从现场与周边收集到的证据表明，该辆汽车此前曾在[[[the Frontrooms|前厅]]]中行驶，直接切入了Level 95，从而引发了碰撞。种种迹象表明，发生时的车内至少含有一名乘客。自该层级被发现以来，此是首例有记录的前厅切行事件。
+
+@@@@
+
+[[div_ class="aki-header left"]]
+
++ 发现证据
+
+[[/div]]
+
+@@@@
+
+[[div class="styled-quote"]]
+
+**车辆描述**
+
+* **品牌/型号：**2009款丰田卡罗拉 
+
+* **状态：**无法行驶；严重损坏。
+
+----
+
+**外观描述：**
+
+该辆汽车撞上了23号走廊朝北的墙壁。是一辆浅蓝色的轿车；发动机舱已凹陷变形，前挡风玻璃破碎。车牌标有“新泽西 44H-11W”，车尾贴有几张贴纸：
+
+* 一块蓝色矩形背景上印有“EMS”字样。
+
+* 三个剪影贴纸，分别描绘了一名女性、一个儿童和一只猫。
+
+* 一块蓝黄相间的背景上印有“Riverrock—明星学生”字样。
+
+* 一个小小的黄色笑脸图案。
+
+**内饰描述：**
+
+该辆汽车的内饰采用浅灰色织物面料，并点缀有木质细节。车内所有安全气囊均已弹出。座椅带有磨损痕迹，尤其是后座。从车内回收的物品包括：
+
+* 保险及登记文件上的收款方为“新泽西州埃塞克斯县河岩市Linda T.Crane”。
+
+* 三副太阳镜，其中一副已损坏。
+
+* 润唇膏、发圈及其他各类个人护理用品。
+
+* 一个带有黄色笑脸图案的粉色背包[[footnote]] 包内物品包含各类美术用具、红色蝴蝶结及一个空的彩色金属饭盒。 [[/footnote]]。
+
+* 印有“麦当劳”标志的纸袋、纸杯和金属容器，其中还包含一个印有“开心乐园餐”字样的餐盒。
+
+* 共十二件形状、大小和设计各异的玩具。
+
+* “安全宝贝”品牌汽车安全座椅。
+
+[[/div]]
+
+@@@@
+
+以下是Jackson先生对车辆周边进行初步调查的记录。
+
+@@@@
+
+@@@@
+
+[[div class="styled-quote"]]
+
+= **调查音频记录**
+
+----
+
+（//音频信号短暂接通；可见一辆汽车，其驾驶侧车门和后备箱处于开启状态。红色刹车灯亮起。//）
+
+**Jackson：**好吧，这事就这么定了，是不？行，（//清了清嗓//）我已经记录好内饰情况了——有几个地方很值得注意。不过这倒是挺有意思的……
+
+（//镜头聚焦在汽车的驾驶座一侧；可见一个急救箱，里面的物品散落在地面。//）
+
+**Jackson：**很可惜，我觉得有人曾在这辆车里，不过我不确定它为啥最后会停在这里。
+
+（//Jackson指向敞开的车门和地上的物品。//）
+
+**Jackson：**呃……我觉得可能有人在我之前发现了它并收过东西，但我不太确定。
+
+（//视线突然下移，映入眼帘的是一条空旷的走廊；远处的灯光闪烁不定。//）
+
+**Jackson：**我打算去看一下这周边，看看能不能找到到底是谁在这下面。看这情况，他们可能需要点帮助。
+
+（//Jackson离开车辆，开始朝南走去。//）
+
+**Jackson：**我们在这儿已经遭遇过好几次猎犬了——所以特意做好了准备。
+
+（//他举起一根用木头和各种塑料部件自制的电击棒，棒身刻着B.N.T.G.的字样。//）
+
+**Jackson：**还好我上次在[[[The B.N.T.G. | 商人之家]]]买了这个。鬼知道他们才不会“浪费资源”给咱们在这儿发枪。
+
+（//他把电击棒收在腰间，顺便调整了一下腰带。//）
+
+**Jackson：**最近一直挺安宁的，我还指望能发生点什么事呢……不过这可不是我意想中的情况。希望都没事吧。
+
+（//当Jackson转过拐角，可见打斗的痕迹。//）
+
+**Jackson：**该死，说早了，这情况看起来不太妙。
+
+（//地板上有一圈爪印，中间是一只破损的紫色钱包，Jackson走近那只包，弯下腰查看里面的东西。//）
+
+**Jackson：**让我瞅眼……没错，就是这儿了。
+
+（//他掏出一个紫色的钱包并打开它，随着镜头聚焦，一张驾驶证映入眼帘。//）
+
+**Jackson：**“Linda T. Crane”，就跟当时在车里那事一样糟。
+
+（//他站起身，继续沿着走廊走去。//）
+
+**Jackson：**在所有能固定绳索的地方，她偏偏选中了这儿……运气可真好啊。
+
+（//前方二十米处，一堵砖墙将走廊截断。//）
+
+**Jackson：**哦，操……
+
+（//镜头聚焦在墙根处的一只粉色小鞋上；鞋身侧面印着一个黄色的笑脸图案，鞋跟处装有三颗小型LED灯。//）
+
+**Jackson：**我希望事实并非如此——我无法想象带着一个孩子挤进这个屎洞。
+
+（//Jackson一边往墙上爬，一边把相机收了起来；可以听见他发出的咕哝声。//）
+
+**Jackson：**天呐——感觉我快要-
+
+（//一阵干呕，接着便是呕吐。//）
+
+**Jackson：**好了，好了……振作起来。
+
+//（他从包里取出相机，双手在颤抖，镜头花了几秒钟才对焦。画面中出现一具女尸，她的躯干、脸部和四肢都有严重的撕裂伤。她的内脏被剖出，肠子散落在走廊上。//）
+
+**Jackson：**肯定是猎犬干的。我只看到一具尸体，也许那孩子逃走了。
+
+//（Jackson沿着走廊快步离开尸体，他似乎在跟着零星分布的带血小脚印走。//）
+
+**Jackson：**也许他们躲进了某个壁龛里，等猎犬过去了再出来。
+
+//（检查砖墙上的每个凹痕时，相机来回晃动。//）
+
+**Jackson：**嘿，孩子！有人吗——见鬼，我该小声点的。
+
+//（Jackson再次颤抖着手挥舞着警棍。带血的猎犬脚印和孩子的脚印混在了一起。当他走近走廊的一个岔路口时，他开始放慢速度。//）
+
+**Jackson：**他们往哪边……
+
+[[=image http://backrooms-wiki.wikidot.com/local--files/smiley/path]]
+
+//（猎犬的脚印笔直向前，孩子的脚印向右拐去，Jackson反复确认了两次。//）
+
+**Jackson：**见鬼，看起来他们跑向了相反的方向，真搞不懂她是怎么做到的。
+
+//（当Jackson沿着右侧走廊前进时，一件蓝色的儿童冬季小外套映入眼帘。//）
+
+**Jackson**：希望这意味着我离目标更近了。
+
+//（他俯身捡起外套，发现黄色金属笑脸纽扣正下方有一处布料撕裂。//）
+
+**Jackson：**没看到血迹什么的，可能是跑得太热把衣服扯破了……还是继续赶路吧。
+
+//（Jackson攥着外套继续前行。几分钟后，前方十米处出现一个向下的楼梯间，脚印正通向那里。//）
+
+**Jackson：**该死，别是楼梯间啊。老天保佑你可别……
+
+//（他开始加快脚步，朝着楼梯间飞奔而去。当Jackson终于赶到时，他低头望着黑暗的楼梯间，不由自主地连退几步。//）
+
+**Jackson：**该死。我很抱歉 ，孩子。
+@@@@
+@@@@
+@@@@
+@@@@
+[[=image http://backrooms-wiki.wikidot.com/local--files/smiley/smile2]]
+
+= **[记录结束]**
+
+[[/div]]
+
+@@@@
+
+[[div_ class="aki-header left"]]
+
++ 协议
+
+[[/div]]
+
+@@@@
+
+一支小队已被派去拆除该辆汽车上任何有用的部件。所有材料将被送往Bravo基地。
+
+在Level 95的额外几个楼梯间又张贴了警示楼梯危险的标识。
+
+目前，对切行现象的进一步调查正在进行中。
+
+@@@@
+[[include :backrooms-wiki-cn:component:footnotecol]]
+-----
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 95]]] | 事件报告：切行事件 |
+[[/=]]
+[[/div]]
+
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=DrAkimoto
+|translator=calf-0
+]]
+=====
+
+> **名称：** 48_sin_titulo
+> **作者：** [[*User Angel Dream]] 
+> **协议：** [http://creativecommons.org/licenses/by-sa/3.0/]
+> **来源链接：** https://backrooms-wiki.wikidot.com/entity-3
+> **附记：** 在楼梯间使用了笑魇的图像。
+
+> **名称：** Heerbrugg - World War II Shelter
+> **作者：** Kecko
+> **协议：** CC BY 2.0
+> **来源链接：** https://flic.kr/p/QrPmh7
+
+> **名称：** path
+> **作者：** [[*user Scutoid Studios]]
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://backrooms-wiki.wikidot.com/smiley
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

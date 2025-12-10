@@ -1,0 +1,28 @@
+[[include :if-backrooms:theme:black-and-white-world]]
+[[>]]
+[[module Rate]]
+[[/>]]
+----
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1448301858776-07f780e9c9da?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8JUU1JTlGJThFJUU1JUI4JTgyJTIwJUU5JTk4JTg4JUU5JTk5JTkwfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=漠视
+]]
+不慎切入此层级的流浪者们，顷刻间仅有消亡的命运。于此无垠都市仅存黑白二色，堆叠的建筑景象通常是流浪者于死前可见最后一景，街道路口的纹理复制着充斥着整个视野。
+
+绝对静默将悬于空中的流浪者吞噬，一切噪音被环境所抹除，自身的听力系统于霎时跌入紊乱，旋即解析出一条刺耳的高声轰鸣。
+
+自身的感知加快了衰败，衣物的每一粒纤维如同尖锐钢铁般摩擦角质层，血红细胞裹挟着的血浆似要冲破整条血管，骨骼的每一次微颤都仿若巨大震荡，而后，身体将如尘烬般，在此绝望市景化为乌有。
+
+感知随着其扩散至整个层级，如同悬浮于空中的匿藏亡灵，不断回味着衰变期内的种种感知，也包括那于层级未定式中的强烈自我暗示，走马灯中的极端情结，直至钟表时针停止转动，时间失去意义，而后，连存在、空间本身也变得未定。
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+参考Level 405写的短文，私了没事
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-267]]] | Level IF-268 | [[[Level IF-268]]] >>
+[[/=]]
+[[/div]]

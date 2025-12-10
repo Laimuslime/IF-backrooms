@@ -1,0 +1,57 @@
+[[include :backrooms-wiki-cn:theme:dead-frontrooms-theme]]
+
+[[include component:level-class
+|class=5
+|lang=cn
+]]
+
+**Level IF-53.1**是后室IF层群中的一个子层级。
+
++++ 描述：
+**Level IF-53.1**为一片光线较为昏暗的平原空间，其时间经测量始终在23：00至次日3：00左右循环。**Level IF-53.1**分布着极为茂密的草坪，在光线下呈现枯黄色，草深在45~300cm左右，使流浪者难以在层级中自由移动，且草丛中的草两侧因未知原因被描述为“锋利而柔韧的”，流浪者一旦在层级中行动，层级内的草丛便能够轻松将流浪者的衣物及身体划破，并在短时间内出现感染现象。草丛内隐藏着数量庞大的实体，其中包含有[[[https://backrooms-wiki-cn.wikidot.com/entity-3|笑魇]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-15|悲尸]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-6|钝人]]]、被异常置于地面的[[[https://backrooms-wiki-cn.wikidot.com/entity-2|窗户]]]、因未知原因不受层级内草丛影响的[[[https://backrooms-wiki-cn.wikidot.com/entity-5|肢团]]]。
+
+**Level IF-53.1**中除分布茂密的草丛结构外，流浪者能够在该层级中发现大小不一的类似沼泽的池塘，其中的物质并非为水等液体，而是与血液类似的血红色液体，且极为浓稠，流浪者一旦沾染将难以在短期内摆脱该液体。据观察与勘测员的报告推断所言，该液体内疑似存在某种挥发性物质，该物质在挥发于空气中后将出现极度刺鼻的汽油味，并散播在以该池塘为圆心半径超5m的范围内。此外，该物质能够吸引层级内的实体大量。池塘的深度未知，但M.E.G.推测每个池塘的深度至少在4m以上，流浪者一旦落入塘中，将难以从中摆脱，并缓慢下降，如同陷入沼泽与泥潭一般，而最终，流浪者将在短时间内完全被淹没。
+
+**Level IF-53.1**的第二危险源便是存在一类危险效应，该效应也是层级的主要致死原因之一，该效应表现为：
+流浪者在吸入**Level IF-53.1**的空气后，肺部将开始逐渐积攒起类似血液，且血液积攒速度与流浪者在肺部开始积水后的呼吸速度有关，呼吸速度越快积攒速度越快，且无法再减缓，流浪者在出现该效应时，一般的死亡时间在1分钟~5分钟不等，以下为流浪者肺部积血不同程度时出现的症状：
+|| 肺部积水量|| 身体症状 ||
+|| 100~500ml ||  流浪者感受到肺部出现压迫感 ||
+|| 500~1300ml || 流浪者出现严重不适感，且开始咳嗽 ||
+|| 1500~3000ml ||  流浪者因肺内积水出现类似呛水症状，症状发作时呼吸困难 ||
+|| 3000~3500ml || 流浪者不断呛出血液 ||
+|| 3500~5000ml || 流浪者七窍流血，且浑身的骨头出现断裂，皮肤开始破裂流出血液，最后在无尽的痛苦中死去 ||
+与**Level IF-53**不同的是，**Level IF-53.1**中的效应并不存在传染性，且流浪者可通过饮用杏仁水，食用药物等方式进行缓解与痊愈，而因为该效应与**Level IF-53**中流浪者吸入雾气所产生症状极度相似甚至在一定程度上一致，因此，M.E.G.将其划入**Level IF-53**的子层级。
+
++++ 实体：
+该层级存在较高密度的实体，包括但不限于其中包含有[[[https://backrooms-wiki-cn.wikidot.com/entity-3|笑魇]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-15|悲尸]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-6|钝人]]]、被异常置于地面的[[[https://backrooms-wiki-cn.wikidot.com/entity-2|窗户]]]、因未知原因不受层级内草丛影响的[[[https://backrooms-wiki-cn.wikidot.com/entity-5|肢团]]]。
+
++++ 基地、前哨与社区：
+由于该层级存在孤立效应，因此，层级内未设立任何基地、前哨与社区。
+
++++ 入口与出口：
+
+++++ 入口：
+* 于[[[Level IF-53]]]中使用彩色树叶将有几率切入**Level IF-53.1**。
+
+* 于[[[Level IF-238]]]中受伤将有几率切入**Level IF-53.1**。
+
+* 于[[[Level IF-31]]]中触碰被泼上红色液体的木材将进入**Level IF-53.1**。
+
+++++ 出口：
+* 进入层级中可能出现的废弃车辆将进入[[[Level IF-28]]]。
+
+* 尝试切入实体将有几率进入[[[Level IF-34]]]。
+
+* 切入草丛有小概率进入[[[Level IF-136]]]。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者：[[*user kadjwxs]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-53]]] | Level IF-53.1>>
+[[/=]]
+[[/div]]

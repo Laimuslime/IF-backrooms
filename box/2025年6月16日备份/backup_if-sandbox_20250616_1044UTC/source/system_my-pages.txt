@@ -1,0 +1,86 @@
+= [[size 85%]]所有分类依据最新编辑排序，其他分页依据创建先后排序。[[/size]]
+
+[[tabview]]
+
+[[tab 所有分类]]
+[[module Listpages order="updated_at desc" perPage="50" created_by="@URL" category="*"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+分类：%%category%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab 默认]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="_default"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab secret:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="secret"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab collab:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="collab"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab closed:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="closed"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab fragment:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="fragment"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab theme:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="theme"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab component:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="component"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab cc0:]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="cc0"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+
+[[tab 其他]]
+[[module Listpages order="created_at" perPage="50" created_by="@URL" category="-theme -_default -collab -component -secret -fragment -closed"]]
+**%%title_linked%%**
+创建于：%%created_at%%
+分类：%%category%%
+页面版本：%%revisions%%，最后编辑于%%updated_at%%
+[[/module]]
+[[/tab]]
+[[/tabview]]

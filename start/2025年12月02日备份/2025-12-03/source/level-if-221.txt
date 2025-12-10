@@ -1,0 +1,120 @@
+[[>]]
+[[include :backrooms-wiki-cn:theme:bahari]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+]]
+
+[[module css]]
+
+:root {
+       --header-title: "The Backrooms IF";
+       --header-subtitle: "闲适...";
+
+[[/module]]
+
+**Level IF-221**是后室IF层群的第221层。
+
++ **描述**
+
+**Level IF-221**表现为一个面积无限大的海滩，其昼夜循环与[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]相同。温度保持在19至35摄氏度。
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/uh-32-1
+ |caption=**Level IF-221**的第一幅照片。
+]]
+流浪者无法前往沙滩以南400米的区域，因为流浪者们一旦接近那边，就会莫名的晕眩，随即回到层级中央。不过流浪者可以观察到到无法前往的沙滩南边是一个类似于[https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]的城市
+
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/uh-32-2
+ |caption=**Level IF-221**的另一张照片。
+]]
+
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/%E6%A4%B0%E5%AD%90
+ |caption=**杏仁椰**的照片。
+]]
+**Level IF-221**的海滩上随机出现一种名叫**“杏仁椰树”**的树木，该树木与前厅中的椰树十分相似。树上生长着一种名叫**“杏仁椰”**其因内部的椰汁是一种类似于杏仁水的液体而因此得名。“杏仁椰树”高约5~6米,每12天[[footnote]]与前厅中一样，**Level IF-221**每24小时为一天[[/footnote]]～21天会生长9~12个杏仁椰。该树木对流浪者在**Level IF-221**中生存有着很大的帮助，目前，**The M.E.G.**正在试着培育这种椰树。
+
+**Level IF-221**的海滩上会随机出现一些躺椅，遮阳伞，塑料桌椅和游泳圈等海滩用品。遮阳伞和躺椅的材质大多选用红白相间的布料，塑料桌上会随机出现一些前厅的零食，如:薯条、汉堡、可乐等
+
+**Level IF-221**的海洋是无限大的，流浪者可以深入**Level IF-221**的海洋，海面上会随机出现一些游艇，游艇可以正常使用。**Level IF-221**的海里存活着一些不同品种的热带鱼，且存在可以发光的珊瑚。因此，**Level IF-221**成为了IF层群著名的旅游层级，每年有许多流浪者慕名来到这里生活。当流浪者一直深入海洋，最终将来到[https://backrooms-wiki-cn.wikidot.com/level-7 Level 7]。目前，**The M.E.G.**封锁了部分可前往[https://backrooms-wiki-cn.wikidot.com/level-7 Level 7]的海域。
+
++ **实体**
+**Level IF-221**中仅存在一些无敌意的[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]。这些[https://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]类似于[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]中旅游的人们。他们穿着泳衣，有些躺在躺椅上，有些在海中游泳。
+
+**Level IF-221**中还存在一些甲壳类动物，如:寄居蟹，贝壳等。海里还有着不同品种的热带鱼，这些鱼似乎并不是前厅中的热带鱼，而是后室中新品种的鱼。
+
++ **基地、前哨与社区**
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/m.e.g
+ |caption=**The M.E.G.**基地图片
+]]
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]闲适海滩基地
+* 大约1000~2000人。
+* 对流浪者友好，会给新来的流浪者提供住所。
+* 邀请各位流浪者们加入[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]
+* 开放交易
+* 为**Level IF-221**的主要管理基地，武力强大，在必要时刻会击杀闹事或破坏环境的流浪者
+
+++ [https://if-backrooms.wikidot.com/the-b-n-t-g The B.N.T.G.]“杏仁椰开采者”基地
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/bntg
+ |caption=**The B.N.T.G.**基地图片
+]]
+* 约400~500人。
+* 对流浪者友好。
+* 邀请流浪者加入[https://if-backrooms.wikidot.com/the-b-n-t-g The B.N.T.G.]
+* 开放交易。
+* 定期采集**Level IF-221**内的**杏仁椰**
+
+++ 海滨旅馆
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/level-uh-32/meg%E5%9F%BA%E5%9C%B0
+ |caption=**海滨旅馆**的一张图片
+]]
+* 由**Level IF-221**的居民建造。
+* 由约100人管理，目前居住约1000人。
+* 旅馆有20层，每层拥有50个房间。每个房间内拥有两张大床，一个干湿分离卫生间，一张茶几，四个椅子，一个沙发，一个电视，拥有空调。并且每个房间标配一个大阳台。
+* 欢迎流浪者加入并居住。
+* 武力较强，可抵御想要破坏**海滨旅馆**的流浪者
+* 
++ **入口与出口**
+++++++ 入口
+* 当流浪者感到压力大时，睡着后有概率来到该层级
+* 在任意层级中找到一个小帆船模型，触摸即可来到该层级
+* 进入[https://if-backrooms.wikidot.com/level-if-80 Level IF-80]湖面上的一艘小船，即可来到该层级
+* 在那[https://if-backrooms.wikidot.com/level-if-95 回忆的深处]中触摸一个与周围环境格格不入的崭新的海滩图片可以来到该层级
+* 更多入口正在探查，如果您发现有新的入口，请立刻上报[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]
+++++++ 出口
+* 如果流浪者有想离开该层级的意向，在该层级中睡着后，流浪者会前往一个任意安全层级
+* 切入一个烟花可以到达[https://if-backrooms.wikidot.com/level-if-80 Level IF-80]
+* 如果流浪者试图强制前往海滩南边，在晕倒五次后，会来到[https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]
+* 在**海滨旅馆**中找到一扇老旧的门会来到[https://backrooms-wiki-cn.wikidot.com/level-5 Level 5]
+* 更多出口正在探查，如果您发现有新的出口，请立刻上报[https://backrooms-wiki-cn.wikidot.com/the-m-e-g The M.E.G.]
+
+
+##99FF33|//流浪者，我知道你为了度过一个个危险的层级，很久没有休息好了。//##
+
+##99FF33|//**那么，欢迎来到Level IF-221，来享受这片刻的闲适与安宁吧**//##
+------
+[[>]]
+[[collapsible show="一个杏仁椰滚到了你的脚边" hide="于是你把它捡了起来"]]
+原来是作者!
+[[*user 116jsy]]
+由[[*user xie5]]重写和搬运
+搬运已经过原作者允许
+[https://backrooms-un.wikidot.com/level-uh-32 原文]
+[https://pixabay.com/photos/beach-paradise-island-palm-trees-1761410/ 图一]
+[https://pixabay.com/photos/beach-island-ocean-sea-seascape-1836335/ 图二]
+[https://pixabay.com/photos/coconut-flesh-food-coconut-shell-1123738/ 图三]
+[https://pixabay.com/photos/restaurant-food-table-sea-plant-5521372/ 图四]
+[https://pixabay.com/photos/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB-%E6%B5%B7%E6%BB%A9-%E5%BA%A6%E5%81%87-%E4%B8%80%E6%9C%9B%E6%97%A0%E9%99%85-maldives-beach-4727110/ 图五]
+[https://pixabay.com/photos/beach-resort-jetty-pier-boardwalk-666122/ 图六]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-220]]] | Level IF-221 | [[[Level IF-222]]] >>
+[[/=]]
+[[/div]]

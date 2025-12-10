@@ -1,0 +1,330 @@
+[[include :backrooms-wiki:component:css-revert]]
+[[include :calf-0-sandbox:theme:commandments]]
+
+=====
+[[include :scp-wiki-cn:component:preview
+text=“……因为心灵会因忏悔而变得柔软，而赎罪也必须通过忏悔完成。”
+]]
+=====
+
+[[module css]]
+:root {
+--admo-backdrop: url("http://exotichive.wikidot.com/local--files/sarangdraf-002/purgatorio2");
+
+--logo: url("https://id-backrooms-wiki.wdfiles.com/local--files/start/Logo%20TBID");
+
+--header-title: '后室';
+--header-subtitle: '赎罪之渊';
+
+--admo-color-bright: 60, 70, 190;
+--admo-color-dim: 15, 10, 40;
+--admo-color-dark: 3, 3, 15;
+--admo-color-alt: 60, 50, 170;
+
+--general-border-color: 30, 25, 60;
+--basalt-tertiary-color: 15, 20, 50;
+--darkdocument-background-color: 5, 10, 25;
+
+--body-font: 'InterVariable';
+}
+
+
+@supports not (-webkit-touch-callout: none) {
+    @media only screen and (min-width: 0px) {
+
+    body {
+    background-color: black !important;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(var(--basalt-primary-color), 0.5) 10%, rgba(var(--basalt-primary-color), 0.999) 30%, rgba(var(--basalt-primary-color), 0.999) 70%, rgba(var(--basalt-primary-color), 0.5) 90%, rgba(0, 0, 0, 0) 100%), var(--admo-backdrop);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    }
+
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    .sigmatable {
+        display: none;
+    }
+    .sigmanormie {
+        display: block;
+    }
+}
+@media only screen and (min-width: 500px) {
+    .sigmatable {
+        display: block;
+    }
+    .sigmanormie {
+        display: none;
+    }
+}
+
+
+.widebox {
+   width: 100vw;
+   max-width: 100vw !important;
+   position: relative;
+   left: calc(-50vw + 47.5%);
+}
+
+@media screen and (max-width: 640px) {
+  .widebox {
+    width: 100vw;
+    max-width: 100vw !important;
+    left: calc(-50vw + 45%);
+  }
+#header > h1 > a::after {
+  margin-left: 0.5em;
+  content: var(--header-subtitle);
+  size: 50%;
+  font-size: 50%;
+  text-shadow: 0px 0px 6px rgba(var(--admo-color-bright), 0.5);
+  z-index: 500;
+}
+}
+
+@media screen and (max-width: 1000px) {
+  #container {
+    overflow-x: hidden;
+}
+}
+[[/module]]
+
+[[=]]
+[[module rate]]
+[[include :scp-wiki-cn:component:author-label-source start=--
+|name=exotichive
+|center=*]]
+
+[[div style="margin-top: 10px;"]]
+++++++ LEVEL 50-ID
+[[/div]]
+[[div style="margin-top: -10px; text-shadow: 0px 0px 8px rgba(var(--admo-color-bright), 0.5);"]]
++ 赎罪之渊
+[[/div]]
+
+----
+
+此是我为**Level 50-ID**竞赛投稿的作品，读得开心！
+可别忘了up-vote <3。
+
+*由[[*user InspectingCritters]]译英
+*由[[*user calf-0]]译中
+原页面 [http://id-backrooms-wiki.wikidot.com/level-50-id 此处]。
+
+
+[[include :scp-wiki-cn:component:author-label-source end=--]]
+[[/=]]
+
+[[div style="height: 2rem"]]
+[[/div]]
+
+[[div class="widebox modal" style="background: url(http://exotichive.wikidot.com/local--files/sarangdraf-002/maut) rgba(var(--admo-color-dim), 0.4);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    border: none; text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.1); box-shadow: 0px 0px 32px rgba(var(--admo-color-bright),0.2); text-align: center"]]
++++ 生存难度
+[[div style="text-shadow: 0px 0px 8px rgba(var(--admo-color-bright), 0.5); color: rgb(var(--admo-color-bright)); margin-bottom: -4px"]]
++ 死区
+[[/div]]
+[[/div]]
+
+[[div style="height: 2rem"]]
+[[/div]]
+
+[[div class="sigmatable"]]
+[[table]]
+[[row]]
+[[cell style="background: none; border: none"]]
+
+[[div style="display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center; text-indent: 3rem; text-align: justify"]]
+你睁开双眼。周遭的世界被硫磺味的浓雾笼罩，那雾气像蜘蛛织就的窒息蛛网般挤压着空气。头顶的天空已然消失，被浓烟吞噬，遮蔽了将此地永恒禁锢的峭壁。风声低语，却非抚慰之音，倒像是远方迷失灵魂的呜咽哭喊。你踩上龟裂的地表，每踏出一步就像踏在灼伤的世间肌肤上。脚下的碎石不再沉默，发出细碎的咔嗒声，仿佛在抗议你的到来。这里听不见鸟鸣，不见枯叶的脆响——唯有你自己的呼吸声，被比你的罪孽更沉重的空气挤压着，比火葬场的骨灰更浓烈刺鼻。
+[[/div]]
+
+[[/cell]]
+
+[[cell style="background: none; border: none;"]]
+
+[[include component:image-block
+|name=http://exotichive.wikidot.com/local--files/sarangdraf-002/purgatorio2
+|caption=**赎罪之渊**。
+|align=right
+|width=18rem
+]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[table]]
+[[row]]
+[[cell style="background: none; border: none;"]]
+
+[[include component:image-block
+|name=http://exotichive.wdfiles.com/local--files/sarangdraf-002/lake
+|caption=赎罪之水。
+|align=left
+|width=18rem
+]]
+
+[[/cell]]
+[[cell style="background: none; border: none"]]
+
+[[div style="display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center; text-indent: 3rem; text-align: justify"]]
+然而，雾气缓缓散开，仿佛故意为你揭开它恐怖的面纱。就在你眼前，其中央，静卧着一汪湖泊——它像一面破碎的镜子泛着幽光，但那绝非寻常湖水，而是一片毒海。那抹靛蓝色摄人心魄得近乎虚幻，仿佛在描绘某种能吞噬一切的深渊。酸雾从湖面蒸腾而起，以幽灵般的姿态诡谲舞动，每次深呼吸像是要灼穿你的肺腑。无人胆敢触碰它，也无人能够触碰；那湖水从不安分，却始终在赎罪。
+[[/div]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[table]]
+[[row]]
+[[cell style="background: none; border: none"]]
+
+[[div style="display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center; text-indent: 3rem; text-align: justify"]]
+站在悬崖边缘的人，总要面对残酷的抉择——是留在原地等待未知的厄运，还是冒险寻找一条从未被承诺过的出路。环绕四周的峭壁如同沉默的守卫，陡峭得难以攀爬，却又脆弱得无法借力。每向石壁靠近一步，便离希望更远一步；那些看似稳固的裂缝，会在你脚下碎裂，让脚趾鲜血淋漓，也让希望支离破碎。如今唯一的出路，就是留在原地等待，听着呼啸的风声传来先行者的传闻——他们如今已沦为亡魂。
+[[/div]]
+
+[[/cell]]
+
+[[cell style="background: none; border: none;"]]
+
+[[include component:image-block
+|name=http://exotichive.wdfiles.com/local--files/sarangdraf-002/cliffsigma
+|caption=赎罪之崖。
+|align=right
+|width=18rem
+]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[table]]
+[[row]]
+[[cell style="background: none; border: none;"]]
+
+[[include component:image-block
+|name=https://upload.wikimedia.org/wikipedia/commons/3/37/Blue_fire_of_Ijen%2C_Kawah_Ijen%2C_Java%2C_Indonesia%2C_20220821_0432_9581.jpg
+|caption=**赎罪之焰**。
+|align=left
+|width=18rem
+]]
+
+[[/cell]]
+[[cell style="background: none; border: none"]]
+
+[[div style="display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center; text-indent: 3rem; text-align: justify"]]
+若你静立得足够长久——闭上双眼让寂静渗入骨髓，便会开始听见那些并非来自周遭，而是发自灵魂深处的隐秘声响。有低语怂恿你向悬崖边缘再靠近一步，诱你凝视那陨石般的深渊，感受毁灭带来的令人战栗的诱惑。或许正是此地的宿命——不是被征服，不是被探索，而是考验人性欲望的极限。直至最终，受困于此的人们只剩三条路可走：成为峭壁上永不消散的尘埃，溺亡于那片冷酷无情的毒海，或是将自我彻底献祭给赎罪之焰——通往[[[Level 51-ID]]]的唯一途径。
+[[/div]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="sigmanormie"]]
+
+[[include component:image-block
+|name=http://exotichive.wikidot.com/local--files/sarangdraf-002/purgatorio2
+|caption=**赎罪之渊**。
+|align=right
+|width=18rem
+]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[div style="text-indent: 1rem; text-align: justify"]]
+你睁开双眼。周遭的世界被硫磺味的浓雾笼罩，那雾气像蜘蛛织就的窒息蛛网般挤压着空气。头顶的天空已然消失，被浓烟吞噬，遮蔽了将此地永恒禁锢的峭壁。风声低语，却非抚慰之音，倒像是远方迷失灵魂的呜咽哭喊。你踩上龟裂的地表，每踏出一步就像踏在灼伤的世间肌肤上。脚下的碎石不再沉默，发出细碎的咔嗒声，仿佛在抗议你的到来。这里听不见鸟鸣，不见枯叶的脆响——唯有你自己的呼吸声，被比你的罪孽更沉重的空气挤压着，比火葬场的骨灰更浓烈刺鼻。
+[[/div]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[include component:image-block
+|name=http://exotichive.wdfiles.com/local--files/sarangdraf-002/lake
+|caption=赎罪之水。
+|align=left
+|width=18rem
+]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[div style="text-indent: 1rem; text-align: justify"]]
+然而，雾气缓缓散开，仿佛故意为你揭开它恐怖的面纱。就在你眼前，其中央，静卧着一汪湖泊——它像一面破碎的镜子泛着幽光，但那绝非寻常湖水，而是一片毒海。那抹靛蓝色摄人心魄得近乎虚幻，仿佛在描绘某种能吞噬一切的深渊。酸雾从湖面蒸腾而起，以幽灵般的姿态诡谲舞动，每次深呼吸像是要灼穿你的肺腑。无人胆敢触碰它，也无人能够触碰。那湖水从不安分，却始终在赎罪。
+[[/div]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[include component:image-block
+|name=http://exotichive.wdfiles.com/local--files/sarangdraf-002/cliffsigma
+|caption=赎罪之崖。
+|align=right
+|width=18rem
+]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[div style="text-indent: 1rem; text-align: justify"]]
+站在悬崖边缘的人，总要面对残酷的抉择——是留在原地等待未知的厄运，还是冒险寻找一条从未被承诺过的出路。环绕四周的峭壁如同沉默的守卫，陡峭得难以攀爬，却又脆弱得无法借力。每向石壁靠近一步，便离希望更远一步；那些看似稳固的裂缝，会在你脚下碎裂，让脚趾鲜血淋漓，也让希望支离破碎。如今唯一的出路，就是留在原地等待，听着呼啸的风声传来先行者的传闻——他们如今已沦为亡魂。
+[[/div]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[include component:image-block
+|name=https://upload.wikimedia.org/wikipedia/commons/3/37/Blue_fire_of_Ijen%2C_Kawah_Ijen%2C_Java%2C_Indonesia%2C_20220821_0432_9581.jpg
+|caption=**赎罪之焰**。
+|align=left
+|width=18rem
+]]
+
+[[div style="height: 1rem"]]
+[[/div]]
+
+[[div style="text-indent: 1rem; text-align: justify"]]
+若你静立得足够长久——暝上双眼，让寂静渗入骨髓，便会开始听见那些并非来自周遭，而是发自灵魂深处的神秘声响。有低语怂恿你向悬崖边缘再靠近一步，诱你凝视那陨石般的深渊，感受毁灭带来的令人战栗的诱惑。或许正是此地的宿命——不是被征服，不是被探索，而是考验人性欲望的极限。直至最终，受困于此的人们只剩三条路可走：成为峭壁上永不消散的尘埃，溺亡于那片冷酷无情的毒海，或是将自我彻底献祭给赎罪之焰——通往[[[Level 51-ID]]]的唯一途径。
+[[/div]]
+
+[[/div]]
+
+[[div style="height: 4rem"]]
+[[/div]]
+
+[[div class="widebox modal" style="background-color: rgba(var(--admo-color-dim), 0.4); border: none; text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.1); box-shadow: 0px 0px 32px rgba(var(--admo-color-bright),0.2);"]]
+
+[[div class="footer-wikiwalk-nav" style="margin-top: 17px"]]
+[[=]]
+<< [[[LEVEL 49-ID]]] | [[span class="st" style="text-shadow: 0px 0px 8px rgba(var(--admo-color-bright), 0.5); color: rgb(var(--admo-color-bright)); font-family: 'Poppins'; font-size: 105%"]]赎罪之渊[[/span]] | [[[LEVEL 51-ID]]] >>
+[[/=]]
+[[/div]]
+[[/div]]

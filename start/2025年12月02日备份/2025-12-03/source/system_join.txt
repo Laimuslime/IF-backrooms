@@ -1,0 +1,126 @@
+[[module css]]
+.textchange div.sitemember:nth-child(2) {
+display:none;
+}
+[[/module]]
+[[tabview]]
+[[tab 说明]]
++++ 申请书的撰写有一定要求，不要发送根本没按要求来的申请书。
+在你申请加入本站前，请先仔细阅读[[[site-rules|站规]]]，遵守其中提及的规则。[[[guide-hub|指导中心]]]也是你的重要参考。
+
+另外，我们希望成员具有成人或接近成人应有的谈吐和行为举止（这也会在申请书中考察），因此进入本站的最低年龄是10周岁。注意这里的10周岁指的是根据你身份证号上的出生日期推算而得的实岁，而不是各地计算方式不同的虚岁。**10周岁是我们的年龄底线，我们不会为此开任何特例。也不要谎报年龄，[[[ybnlebfjdr|看看有多少人因此被封禁了]]]，别抱有侥幸心理。**
+
+提交措辞明显低龄的申请书，例如包含角色扮演等，将导致你的申请书被拒绝。若今后你更改申请并成功加入本站，行为举止也将会受到管理团队的密切关注。
+
+阅读完上述文章并确定自己符合入站条件后，请点击“提交申请书”分页提交你的申请书。
+[[/tab]]
+[[tab 提交申请书]]
+= **填写申请书之前，请再三确认你清楚这是一个含有严肃的题材和讨论内容的网站，并且确保你将遵守[[[site-rules|本站站规]]]，且你清楚地了解必读页面中所指出的各项信息。**
+
+你需要在你的申请书中包含以下内容：
+
+* 你的年龄。不必注明你的出生日期。任何谎报年龄的行为一旦被站务发现，涉事人员将被立即解除成员资格并封禁到其年龄达到入站要求为止。特别注意，在你进入站点之后，若你在讨论区或个人资料等处明显暴露出你的年龄不符合要求，我们会解除你的成员资格并封禁。
+* 在本站[[[site-rules|站规]]]中存在的暗号。请花一点时间认真阅读它，熟悉它并自觉遵守将很大程度上降低你入站后在本站被提醒/警告/移除资格的风险。我们明确指出了哪句话是暗号，因此请不要主观地推测某句话是暗号。另外的，如果在有明文规定的情况下依然违规，将可能怀疑入站的有效性。
+* 你加入网站的理由（可选）。无需过于详细，简单地告诉我们你入站之后想要做什么就可以了。你可以不在申请书中附上自己的理由，但我们很建议你这么做。
+
+----
+
+不按照格式或不符合入站条件而提交的申请书会被直接拒绝。
+
+特别注意，在你发送申请书之前，一定要注意以下几点：
+
+* 请给出完整的暗号，它不一定只有一段，也不一定会有多段，但我们明确地写出了暗号有多少段，请通读给定的文章全文来给出你的答复；另外，暗号会时常更新——躺在你记事本里的那段完美申请书被拒绝了？看看是不是暗号没更新。
+* 请不要给我们发送“求给过”“我喜欢后室”“我是XX写手，我想为后室创作文章”“我已经申请了十几次了为什么还不给我过”这种申请书，你知道这没用的，那何苦发呢？
+我们期待你的申请书尽可能地采取以下格式，或与其同等清楚：
+
+> [年龄]；暗号是：[暗号]；[入站理由（可选）]。
+**注：老站成员可以直接发申请书，不需要再寻找暗号。**
++++ 申请书正文
+请于此处填写申请书
+
+[[ul class="confirm-wrapper"]]
+[[li class="folded"]]
+
+[[div_ class="foldable-list-container confirm"]]
+[# 是]
+[[div class="disclaimer"]]
+我已阅读指导并将遵守站规
+[[/div]]
+[[/div]]
+
+[[div class="applybox"]]
+[[module MembershipApply]]
+[[/div]]
+
+[[/li]]
+[[/ul]]
+++ 备注
+我们尽可能在48小时内通过或驳回你的申请书，如果你想看看你的申请书的状态的话，就请点击[https://www.wikidot.com/account/messages#/applications 这里]。如果超过72小时你的申请书还是待定（pending）的话，那么请联系[[*user Laimu_slime]]（站长）、[[*user lanbaoshi1145]]和[[*user qwmike1145]]。
+[[/tab]]
+[[/tabview]]
+[[module css]]
+/* Confirm box by OptimisticLucio
+Original code from https://scp-wiki.wikidot.com/system:join */
+.confirm-wrapper,
+.confirm-wrapper > li {
+    list-style: none;
+    display: contents;
+}
+
+.confirm-wrapper > li.folded .applybox { display: none; }
+.confirm-wrapper > li.unfolded .applybox { display: block; }
+
+.confirm-wrapper > li > .foldable-list-container.confirm {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.25em;
+    cursor: pointer;
+}
+
+.confirm-wrapper > li > .foldable-list-container.confirm a {
+    display: block;
+    position: relative;
+    width: 1.25rem;
+    min-width: 1.25rem;
+    height: 1.25rem;
+    border: solid 0.1rem grey;
+    font-size: 0;
+    margin-right: 1.25rem;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a {
+    border-color: currentColor;
+    box-shadow: 0 0 0 0.1rem currentColor;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::before,
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 25%;
+    transform-origin: left top;
+    background: currentColor;
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::before {
+    top: 85%;
+    left: 36%;
+    height: 145%;
+    transform: rotate(-135deg);
+}
+.confirm-wrapper > li.unfolded > .foldable-list-container.confirm a::after {
+    top: 50%;
+    left: 0%;
+    height: 40%;
+    transform: rotate(-45deg);
+}
+
+#membership-apply-box .error-block {
+    display: flex;
+    flex-direction: column;
+}
+
+#membership-apply-box .error-block::after {
+    content: "\A如果你看到了这行提示，且仍未加入站点，你可能遭遇到了以下情况：\A　1. 你的申请书未经查验；\A　2. 你的申请书已被拒绝。\A请在确认你被拒绝的情况下，点击页面右上角“我的账户”->“消息”->“申请书”，并将其内被拒绝的申请书删除，随后重新申请。";
+    white-space: pre-wrap;
+}
+[[/module]]

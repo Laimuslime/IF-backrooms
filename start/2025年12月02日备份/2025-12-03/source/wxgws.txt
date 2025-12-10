@@ -1,0 +1,312 @@
+[[module css]]
+body, #page-content {
+    background: linear-gradient(to bottom, #000000, #0a0a0a, #1a1a1a) fixed !important;
+    color: #e0e0e0 !important;
+    font-family: 'Times New Roman', serif !important;
+    line-height: 1.6;
+}
+#page-title {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 3.5em !important;
+    font-weight: bold !important;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5) !important;
+    margin-bottom: 0 !important;
+    padding: 20px 0 !important;
+    position: relative;
+}
+
+#page-title:after {
+    content: "†";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    opacity: 0.1;
+    z-index: -1;
+}
+#page-title + p {
+    color: #cccccc !important;
+    text-align: center !important;
+    font-style: italic !important;
+    margin-top: 0 !important;
+    margin-bottom: 40px !important;
+    font-size: 1.2em !important;
+}
+#page-content a:not(.broken) {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+    transition: all 0.3s ease !important;
+}
+
+#page-content a:not(.broken):hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+#page-content a.broken {
+    color: #000000 !important;
+    text-decoration: line-through !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    padding: 0 3px;
+}
+#page-content strong {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #cccccc, #ffffff) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7) !important;
+    font-weight: bold !important;
+}
+#page-content h1, #page-content h2, #page-content h3,
+#page-content h4, #page-content h5, #page-content h6 {
+    color: #ffffff !important;
+    border-bottom: 2px solid #444444 !important;
+    padding-bottom: 10px !important;
+    margin-top: 2em !important;
+    position: relative;
+    padding-left: 30px !important;
+}
+
+#page-content h1:before, #page-content h2:before, #page-content h3:before,
+#page-content h4:before, #page-content h5:before, #page-content h6:before {
+    content: "†";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888888;
+    font-size: 0.8em;
+}
+.darkblock {
+    background: linear-gradient(to bottom, #111111, #000000) !important;
+    border: 2px solid #333333 !important;
+    border-left: 10px solid #333333 !important;
+    border-right: 10px solid #333333 !important;
+    position: relative;
+    padding: 20px !important;
+    margin: 25px 0 !important;
+    color: #cccccc !important;
+}
+
+.darkblock:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    height: 2px;
+    background-color: #333333;
+    transform: translateY(-50%);
+}
+.lightblock {
+    background: linear-gradient(to bottom, #f5f5f5, #e6e6e6) !important;
+    border: 1px solid #aaaaaa !important;
+    padding: 25px !important;
+    margin: 25px 0 !important;
+    color: #222222 !important;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2) !important;
+    position: relative;
+    font-style: italic !important;
+}
+
+.lightblock:before, .lightblock:after {
+    content: """;
+    font-size: 3em;
+    color: #cccccc;
+    position: absolute;
+    line-height: 1;
+}
+
+.lightblock:before {
+    top: 10px;
+    left: 10px;
+}
+
+.lightblock:after {
+    content: """;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* 折叠 - 黑白渐变 */
+.fold-block {
+    background: linear-gradient(to right, #000000, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    margin: 15px 0 !important;
+    border-radius: 3px !important;
+}
+
+.fold-block .fold-title {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    color: #dddddd !important;
+    padding: 12px 15px !important;
+    border-bottom: 1px solid #444444 !important;
+    cursor: pointer !important;
+    font-weight: bold !important;
+}
+
+.fold-block .fold-content {
+    padding: 15px !important;
+    background: #0a0a0a !important;
+    color: #cccccc !important;
+}
+.yui-navset .yui-nav {
+    border-bottom: 2px solid #444444 !important;
+}
+
+.yui-navset .yui-nav li {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    border-bottom: none !important;
+    margin-right: 5px !important;
+    border-radius: 4px 4px 0 0 !important;
+}
+
+.yui-navset .yui-nav li a {
+    color: #999999 !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    padding: 8px 15px !important;
+}
+
+.yui-navset .yui-nav .selected {
+    background: linear-gradient(to bottom, #333333, #111111) !important;
+    border-color: #666666 #666666 transparent #666666 !important;
+}
+
+.yui-navset .yui-nav .selected a {
+    color: #ffffff !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+}
+
+.yui-content {
+    background: #111111 !important;
+    border: 1px solid #444444 !important;
+    border-top: none !important;
+    padding: 20px !important;
+    color: #cccccc !important;
+}
+sup, sub {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #888888) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    font-size: 0.8em !important;
+}
+#page-content pre, #page-content code {
+    background: #111111 !important;
+    border: 1px solid #333333 !important;
+    color: #cccccc !important;
+    font-family: 'Courier New', monospace !important;
+}
+
+#page-content pre {
+    padding: 15px !important;
+    overflow: auto !important;
+}
+
+#page-content code {
+    padding: 2px 5px !important;
+}
+#skrollr-body {
+    background-image: none;
+}
+[[/module]]
+米迦勒离开了[[[https://if-backrooms.wikidot.com/level-if-111|那片曾回荡着颂歌与战火的天地]]]，那片浸染着他荣耀与伤痛的故土。他振开羽翼，无声地飞向远方，心中却浮起一丝迟疑：“这离去，真是主的旨意吗？”他曾是光之长子，秩序的执剑者，如今却失去了方向，像一片落叶飘入无风的虚空。
+
+他飞越云层，期待看见人间的灯火，却只迎上一片昏黄的地界——地毯潮湿，灯光晦暗，仿佛世界被遗忘在时间之外。他沉默地前行，双翼划过死寂的空气。这里没有救赎的低语，只有人类彼此撕咬的残响，有扭曲的生灵在阴影中蠕动，更有那些披着神性外衣的怪物，在废墟中低语着僭越的真理。
+
+“我的上帝啊……”他喃喃，却再听不到回应。他的羽翼开始褪色，从纯白渐成灰暗，最终如烧焦的纸片般漆黑；头顶的光环也黯然失色，直至彻底熄灭。他坠落，不再能飞翔，只能用双脚踏在这片不属于任何经典的土地上，一步一步，走向未知的尽头。
+
+“这就是结局？”他低声问。力量在消散，不是因为背叛，而是因为信仰的源头似乎已然干涸。加百列登上了宝座，[[[https://if-backrooms.wikidot.com/level-if-111|天堂]]]依旧运转，众天使安然无恙，唯有他，仿佛成了被世界遗弃的残影。“我的力量来自天堂……可若天堂已变，我又是谁？”
+
+眩晕袭来，仿佛这片大地在吞噬他的存在。他知道，这不是实体的侵蚀，而是信念的崩塌。终于，他在荒原尽头倒下，意识沉入虚无。
+
+醒来时，他置身于一片灰蒙的领域，没有光，也没有影。他反复问自己：“这就是终点？”可他的心无法平静。他目睹的一切在脑中翻腾：神权更迭，秩序重构，而众生依旧活着，甚至未曾察觉。耶和华未曾显现，加百列的篡位也未引发末日——这世界，似乎并不需要他所信奉的那位神。
+
+“或许……我从来就不是米迦勒。”  
+“或许我的存在，本就是一场误会。”  
+“或许从一开始，结局就注定是消亡。”  
+“又或许，神本就不唯一，而我只是执迷于一个幻象……”
+
+他哽咽，泪水滑过脸颊。他曾坚信的铁律，此刻如沙堡般在潮水中瓦解——不是被暴力摧毁，而是被一种更冷酷的方式消解：被无视，被绕过，被自然地取代。那秩序并非破碎，而是被重新书写，仿佛它本就该如此。
+
+就在这时，脚步声响起。
+
+一个身影走近。他面容平凡，发须微褐，双眼深邃而悲悯，披着粗布长袍，手掌布满劳作的痕迹。是耶稣。
+
+米迦勒本能地跪下，可那人却弯下腰，向他回礼。
+
+“天父何在？”米迦勒颤抖着问。
+
+“祂从未存在。”那人答。
+
+米迦勒震惊，几乎无法呼吸。“可祂行过神迹，显过荣光！”
+
+“我与天父原为一，三位一体[[footnote]]基督教里的三位一体，通常指唯一真神以圣父（耶和华）、圣子（耶稣）、圣灵（神的灵，住在教徒心里，引导和力量，也是教徒信仰本身）三种位格存在，本质相同但角色不同。[[/footnote]]
+“如今却只感两位。三位一体，已失其一。”
+米迦勒僵住。“即便如此，加百列逆天篡位，天地失序，您为何不继位掌权？”
+
+“抱歉，我不能。”
+
+米迦勒沉默。他一生信奉规则，视其为世界的脊梁。可此刻，他亲眼看见那脊梁弯曲，不是断裂，而是被悄然重塑——如同热铁冷却，无声无息，却不可逆转。寒意从骨髓升起，不是因混乱，而是因觉醒：他所捍卫的“真理”，或许只是一场被默许的幻梦。
+
+他终于崩溃，蹲下身，抱膝痛哭。
+
+那人却笑了，扶起他：“我懂。”
+
+“什么？”
+
+“天父赐人自由意志，并非为让他们跪拜，而是为让他们思考，怀疑，选择自己的道路。”
+
+“可……叩拜基督，难道不是善的标志？”
+
+“不。真正的善，是在黑暗中仍愿点燃一盏灯，不是因为神命，而是因为心之所向。”
+
+米迦勒怔住。他忽然发现，眼前的耶稣嘴角含笑，不像壁画中那般威严，他为自己笑了？
+
+“我甚至……也不是真正的耶稣。”那人轻声说，“我们都是某种意识的投影，是现实碎片在此的显化。”
+
+“那……我们都是假的？”
+
+“或许。但假中亦可有真。重要的是，你是否愿意相信，是否愿意前行。”
+
+“可我已无名无姓，连‘米迦勒’都成了虚妄……”
+
+“但我信，故我是。”
+
+米迦勒一震。
+
+“**我相信我是耶稣，所以我就是。我不因血统或名号去拯救，只因这是我选择的道路。**”
+
+“可我即将消散……离开主，我将不复存在……”
+
+耶稣张开双臂，将他拥入怀中：“那……就让我再救世人一次。”
+
+“您会消失的！”米迦勒惊呼。
+
+“我知道。我累了，米迦勒。我拯救了很多人了，拜托你把信念传递下去，我相信你可以，拜托了，活下去吧。”
+
+他轻声说：“记住，信仰基督，不是善的尺度。在黑暗中仍选择照亮他人，那才是真正的善。”
+
+米迦勒不再言语，将脸埋进那件粗布长袍，感受着最后的温暖，他不再坚持，他紧紧抱住耶稣，然后把头埋在他的怀里，像一个孩子一样抽泣起来，而耶稣只是静静的抱着他。
+
+渐渐的，耶稣化作一片萤火虫一样的光点消散了，只留下一件粗布长袍，除此之外什么也没有留下…
+米迦勒起身举起那件长袍，捂在胸前，静静的在原地感受剩余的温度…
+迷茫的他找到希望了…
+++ “**我信，故我是**”
+
+[[footnoteblock]]
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user jiliangjiyin]]
+非常抱歉各位，这篇文章质量可能较差，毕竟最近我们这里天气冷，所以有点感冒，希望谅解啦~
+然后bro运用了AI排除错别字和漏洞的可能性，但主体由本人书写，AI仅为辅助啦~
+[[/collapsible]]
+[[/>]]

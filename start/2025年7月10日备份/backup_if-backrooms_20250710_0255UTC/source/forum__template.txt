@@ -1,0 +1,33 @@
+%%content%%
+[[module css]]
+.printuser a[href*="http://www.wikidot.com/user:info/laimu-slime"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/laimu-slime"]:nth-of-type(2)::after {
+    content: "一坨莱姆";
+    font-size: initial;
+}
+.printuser a[href*="http://www.wikidot.com/user:info/suesa"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/suesa"]:nth-of-type(2)::after {
+    content: "蛋白质";
+    font-size: initial;
+}
+.printuser a[href*="http://www.wikidot.com/user:info/laimu42"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/laimu42"]:nth-of-type(2)::after {
+    content: "莱姆一坨";
+    font-size: initial;
+}
+.printuser a[href*="http://www.wikidot.com/user:info/qwmike1145"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/qwmike1145"]:nth-of-type(2)::after {
+    content: "宇哥";
+    font-size: initial;
+}
+.printuser a[href*="http://www.wikidot.com/user:info/lanbaoshi1145"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/lanbaoshi1145"]:nth-of-type(2)::after {
+    content: "蓝宝石";
+    font-size: initial;
+}
+.printuser a[href*="http://www.wikidot.com/user:info/if-bot"]:nth-of-type(2) { font-size: 0; }
+.printuser a[href*="http://www.wikidot.com/user:info/if-bot"]:nth-of-type(2)::after {
+    content: "代发机器人兼删除宣告机器人";
+    font-size: initial;
+}
+[[/module]]

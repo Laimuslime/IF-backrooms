@@ -1,0 +1,642 @@
+[[module CSS]]
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.screen-dark {
+        pointer-events: none;
+        opacity: 0;
+        background: rgb(0, 0, 0);
+        width: 100%;
+        height: 100%;
+        left: 0;
+        bottom: 0;
+        position: fixed;
+      }
+.line {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+@keyframes floatUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+@keyframes floatUp-fadeOut {
+    0% {
+      opacity: 0;
+    }
+    1% {
+      opacity: 1;
+    }
+    99% {
+      opacity: 1;
+    }
+  }
+    0% {
+      opacity: 0;
+    }
+@keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+@keyframes fadeOut-1 {
+    0% {
+      opacity: 1;
+    }
+    99% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+@keyframes fadeOut-2 {
+    0% {
+      opacity: 1;
+    }
+    90% {
+      opacity: 1;
+    }
+    99% {
+      opacity: 0.6;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+@keyframes fadeOut-3 {
+    0% {
+      opacity: 0.6;
+    }
+    10% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+@keyframes fadeOut-floatUp {
+    0% {
+      opacity: 1;
+    }
+    1% {
+      opacity: 0;
+    }
+    99% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+@keyframes shake-horizontal-2 {
+  0% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(8px);
+  }
+  40% {
+    transform: translateX(-7px);
+    filter: blur(0.7px);
+  }
+  60% {
+    transform: translateX(9px);
+  }
+  80% {
+    transform: translateX(-7px);
+  }
+  100% {
+    transform: translateX(10px);
+  }
+}
+@keyframes shake-horizontal {
+  0% {
+    transform: translateX(0);
+    filter: blur(0.5px);
+  }
+  20% {
+    transform: translateX(3px);
+  }
+  40% {
+    transform: translateX(-2px);
+  }
+  60% {
+    transform: translateX(1px);
+  }
+  80% {
+    transform: translateX(-3px );
+  }
+  100% {
+    transform: translateX(1px);
+  }
+}
+
+@keyframes shake-horizontal-1 {
+  0% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(7px);
+  }
+  40% {
+    transform: translateX(-5px);
+  }
+  60% {
+    transform: translateX(6px);
+    filter: blur(0.7px);
+  }
+  80% {
+    transform: translateX(-5px);
+  }
+  100% {
+    transform: translateX(7px);
+  }
+}
+[[/module]]
+
+
+[[>]]
+[[module rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:component:cocs
+|primary-color=
+|secondary-color=
+|accent-color=
+|number=IF-1
+|location=全后室
+|safety=痛苦
+|instance=极度危险
+|rect-color=
+|purpose=痛苦
+|status=永久有效
+]]
+
+Object IF-15被命名为“实态痛苦”，其被简称为“痛苦”。是所有流浪者摆脱不了的**{{//“噩梦”//}}**
+
++ 描述
+
+Object IF-15泛指所有意识感受到的强烈不适感，可以形容词的形式出现修饰事件。在IF层群，其还有一种作用：作为抽象的可衡量概念，类似于使用生产力衡量社会生产的强弱，“实态痛苦”也被人们用于衡量人所感受到的不适感的多少。
+
+Object IF-15的主要来源分为两种：肉体与精神，且常常会因为其中一者引起另一者，这两点将在后面分别详细说明。
+
+++ 肉体上的“实态痛苦”
+
+来自于肉体上的“实态痛苦”大多被称为：疼痛，是肉身对受伤，疾病所做出的反应，机体对危险情况做出的警告。
+
+虽然疼痛有预警危险的作用，但疼痛并不能完全准确的反应肉体面临的危险。例如截肢后的幻肢痛；或如癌症之类的疾病，若等出现疼痛时已为时已晚。当高强度的疼痛持续时间过长时，将会导致疼痛休克等症状。
+
+当流浪者长期遭受某种疼痛无法摆脱时，除少部分意志极端强大的个例，其余流浪者都会开始出现精神上的痛苦。这是由于疼痛本身对生活状态的干扰与毁坏，或是疼痛所代表的危险过大难以解决。
+
+++ 精神上的“实态痛苦”
+
+来自于精神上的“实态痛苦”没有相应的特殊称呼，不过可以被简称为“精神痛苦”。是来自于流浪者对现实状况的恐慌，焦虑，悲观等负面情绪所组成的。部分疾病或女性生理期也会分泌导致负面情绪的激素。
+
+若精神上的痛苦长期存在，会使流浪者患上各种精神类或心理类疾病，这类疾病的具体表现为无征兆突发的大量负面情绪，无法控制行动，观念扭曲，严重的干扰正常生活和生理活动。进一步让受害者被更多的精神痛苦折磨。
+
+长期的精神痛苦也会引起疼痛，这说明无论是疼痛还是精神痛苦，两者中的其中一者超过流浪者对痛苦的忍耐范围就会使另一者开始出现，并且两种痛苦之间会互相促进产生另一方，不断蔓延，不断摧残受害者的状态，直到彻底把受害者引向彻底自我了结的结局。这个过程极其漫长且很少能被解决，多数受害者只能眼睁睁的被痛苦迫害到精神状态与身体健康双双崩溃的状态下，主动选择死亡。
+
+不过令人意外的是，在精神极度痛苦的情况下，流浪者主动创造的疼痛会减缓流浪者所受的精神痛苦，这也是许多受难的流浪者会选择自我攻击行为的原因。**请谨记，他们不是疯子，只是渴望缓解痛苦。**
+[[=]]
+[[collapsible show="关于Object IF-15的近期状况" hide="收起"]]
+[[<]]
+[[=]]
+[[div class="line" style="animation:floatUp 1s 83s forwards;"]]
+**“……”**
+[[/div]]
+[[/=]]
+[[div class="fadeOut-floatUp" style="animation:fadeOut-floatUp 57s 26s forwards;"]]
+[[div class="line" style="animation:floatUp 1s 2s forwards;"]]
+由于近期“混乱归零”事件的发生，无数流浪者死于灾难中。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 4.5s forwards;"]]
+我们被迫来到了一个“新世界”。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 7s forwards;"]]
+我们在“旧世界”所做的一切荡然无存。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 10.5s forwards;"]]
+活下来的人受尽了折磨，万分不堪。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 13s forwards;"]]
+眼睁睁的看着自己失去了一切，我们曾为了活下去做的一切努力。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 15.5s forwards;"]]
+那些层级报告，层级建设；还有自己的亲人，挚友，**所有人**。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 18s forwards;"]]
+因为上述的状况，“实态痛苦”在流浪者人群中广泛传播，蔓延，已经致许多人死亡。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 20.5s forwards;"]]
+但无论如何，灾难已经发生，无论多么感伤悲观都已经没用了。
+[[/div]]
+
+[[div class="line" style="animation:floatUp 1s 23s forwards;"]]
+**请大家都一定要活下来，振作起来。**
+[[/div]]
+[[/div]]
+
+
+[[=]]
+[[div class="line" style="animation:floatUp 1s 80s forwards;"]]
+**呼……**
+[[/div]]
+
+[[div style="animation:fadeOut 1s 79s forwards;"]]
+[[div class="line" style="animation:floatUp 1s 25.5s forwards;"]]
+**##red|活下来，振作起来？##**
+[[/div]]
+[[/div]]
+[[/=]]
+
+[[div style="animation:fadeOut 1s 78s forwards;"]]
+[[div class="line" style="animation:floatUp 0.5s 34s forwards;"]]
+**##red|在灾难过后，我几乎所有朋友都死在那里了。##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 77s forwards;"]]
+[[div class="line" style="animation:floatUp 0.5s 35s forwards;"]]
+**##red|他们，我们所做的一切努力全都消失了！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 76s forwards;"]]
+[[div class="line" style="animation:floatUp 0.5s 36s forwards;"]]
+**##red|我们明明曾经做了这么多努力！我们记录下了几乎整个幸存者层群的档案，都是，都是我们做的！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 75s forwards;"]]
+[[div class="line" style="animation:floatUp 0.4s 36.8s forwards;"]]
+**##red|全是我们的努力，我们的心血，我们浪费在上面的生命，到头来全毁了，全毁了！连人都毁了！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 74s forwards;"]]
+[[div class="line" style="animation:floatUp 0.4s 37.6s forwards;"]]
+**##red|那怎么办？消失的都不止是我们的努力，还有他们，他们！每个活生生的人！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 73s forwards;"]]
+[[div class="line" style="animation:floatUp 0.4s 38.4s forwards;"]]
+**##red|每个死去都不会再醒过来的人！每个都没有任何可能的未来！都这样，全被这天杀的命运，毁了！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 72s forwards;"]]
+[[div class="line" style="animation:floatUp 0.3s 39s forwards;"]]
+**##red|为什么，到底为什么？是因为我们的努力不值得珍惜，活该像被踩蚂蚁一样踩死吗？那又为什么活该这样？为什么？为什么？！凭什么我们的努力，我们的牺牲都可以这样随意的被画上句号？！究竟凭什么？！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 71s forwards;"]]
+[[div class="line" style="animation:floatUp 0.3s 39.6s forwards;"]]
+**##red|活在后室里哪一个人不是坚强的努力抗争的？每天都有生命危险要和实体搏斗最后不还是咬咬牙坚持下来了吗？为什么？为什么我们这样做，难道不是为了我们周围的人，不是为了所有人都能好好的活着吗？这难道不是随意的否定我们的意义吗？！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 70s forwards;"]]
+[[div class="line" style="animation:floatUp 0.3s 40.2s forwards;"]]
+**##red|活在后室里哪一个人不是坚强的努力抗争的？每天都有生命危险要和实体搏斗最后不还是咬咬牙坚持下来了吗？为什么？为什么我们这样做，难道不是为了我们周围的人，不是为了所有人都能好好的活着吗？这难道不是随意的否定我们的意义吗？！都尝试过努力活着也不是可以被随便死掉的原因啊！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 69s forwards;"]]
+[[div class="line" style="animation:floatUp 0.2s 40.6s forwards;"]]
+**##red|还有我的丈夫，我的孩子，也全都死在那场灾难里了，明明我们曾经是那么幸福，我每次看到他们的笑容的时候都会感觉自己付出的努力是值得的。那现在呢？那现在呢？现在呢？！我的家庭全都被毁了，他们注定不会再醒来了！我再也见不到他们了！那么多美好的时光，亲密的关系，都不会再出现了！我注定不会走出来了！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 68s forwards;"]]
+[[div class="line" style="animation:floatUp 0.2s 41.2s forwards;"]]
+**##red|我的儿子明明那么可爱，灾难发生的前一天他还在学校里问我有没有想他，我的丈夫在旁边笑着答了笑。就这样，家人间，特有的美好，充满爱的场景，不会再有了！明明这也是我的努力，也是他们的努力，为什么就要这样被毁掉，为什么！为什么美好的事物就能这样被随意毁掉！到底是为什么？！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 67s forwards;"]]
+[[div class="line" style="animation:floatUp 0.2s 41.6s forwards;"]]
+**##red|一切都没有了一切都没有了！就这样毁掉我吧！他们的死的时候我其实也跟着死了，人是社会的生物，他们死的时候把我也连带着死了，那我为什么现在还活着？究竟为什么？我是不是现在应该上顶楼上天台去把我自己了解了？反正也不会有人在意担心我了，会担心我的人全都死了！以后也不会有人在意我的！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 66s forwards;"]]
+[[div class="line" style="animation:floatUp 0.1s 41.8s forwards;"]]
+**##red|所以为什么要留我们这些生者痛苦，难道一死了之不是更好吗？只有我们这些幸存下来的人才要承受死者给我们带来的痛苦，只有我们！难道我们死了不是更好吗？干脆全死了吧！反正死了之后连意识都不会有，连思考都不会有。活着却还要无数的时间让我们去无尽的反思痛苦，活着活着活着，反正我是受够了。所有意义努力那么容易消失，所有我也有轻易结束自己生命的权利对吧！？##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 65s forwards;"]]
+[[div class="line" style="animation:floatUp 0.1s 42s forwards;"]]
+**##red|有吧？有吧？有的话……明明为什么我就是下不了手？可以来个人结束我的生命吗？求求了！我不想在这么痛苦的活下去了！明明努力却没有任何回报的活下去！明明收获了美好却全被埋葬的活下去！明明有意义却也被当做无意义的活下去！来个人结束我的生命吧！任何人都行！或者我下一刻在这里死掉，无论怎么样去死都行！我已经痛的很了！我不想在思考了！我什么都不想做了！只要结束我的痛苦就好了！我明明也想乐观点活着，可就是没办法做到！##**
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 1s 64s forwards;"]]
+[[div class="line" style="animation:floatUp 0.1s 42.2s forwards;"]]
+**##red|为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！为什么不让我如愿一回！？为什么不让我如愿一回？！为什么不让我如愿一回？！##**
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 1.5s 25.5s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##white|……##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 1.5s 28s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|我是为什么有勇气说出这种话的？##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 1.5s 30.5s forwards;"]]
+[[div style="animation: shake-horizontal 0.2s infinite ease-in-out;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|我自己做到哪怕一分一毫了吗？##
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 1.5s 32s forwards;"]]
+[[div style="animation: shake-horizontal-1 0.2s infinite ease-in-out;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|如果没有，那我有什么资格劝别人去做呢？##
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 1s 33.5s forwards;"]]
+[[div style="animation: shake-horizontal-1 0.2s infinite ease-in-out;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|明明知道这很痛苦很困难，那我究竟是抱着什么心态去写下这句话的？##
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.4s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|意义##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.5s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|存在##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.6s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|亲情##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.7s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|一切##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.8s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|流浪##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 42.9s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|天空##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|飞翔##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.1s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|信仰##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.2s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|爱情##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.3s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|探索##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.4s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|家人##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.5s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|记录##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.6s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|自由##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.7s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|声明##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.8s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|绘画##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 43.9s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|太阳##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 44s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|稻田##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 44.1s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|脸庞##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 44.2s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|天体##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.11s 44.3s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|月亮##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 0.1s 44.4s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|温度##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-2 5.1s 44.6s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|我究竟为什么而活##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 0s 61s forwards;"]]
+[[div class="screen-dark" style="animation:fadeOut-3 2.1s 48.5s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|我什么时候才能摆脱这种痛苦##
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div style="animation:fadeOut 0s 61s forwards;"]]
+[[div class="screen-dark" style="animation:floatUp-fadeOut 3.1s 51.5s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##red|我什么时候才能摆脱这种痛苦##
+[[/=]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut-1 6.1s 54.4s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##white|……##
+[[/=]]
+[[/div]]
+[[/div]]
+
+
+[[div class="screen-dark" style="animation:fadeOut-1 2.6s 60.4s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##white|难道，我们活着是为了##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[div class="screen-dark" style="animation:fadeOut 5s 62.9s forwards;"]]
+[[div class="middle"]]
+[[=]]
++ ##white|反抗……痛苦，吗？##
+[[/=]]
+[[/div]]
+[[/div]]
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[div class="line" style="animation:floatUp 1s 84s forwards;"]]
+----
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者：[[*user triangle sandwich]]
+代发：[[*user Mercury_zahwi]]
+代码文系列第三作。
+虽然题不对竞赛，但是个好结局已经不容易了。
+[[/collapsible]]
+[[/>]]
+[[/div]]

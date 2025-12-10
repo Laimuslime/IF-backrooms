@@ -1,0 +1,105 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a, 
+#header h1 a::before, 
+#header h2 span, 
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+#main-content {
+  width: 100%;
+  max-width: unset;
+}
+#page-content { max-width: unset !important; }
+[[/module]]
+
+[[div class="folder"]]
+[[div class="document" style="grid-column-start: 3; grid-row-start: 3;"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+To do.txt
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/2" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 2; grid-row-start: 1;"]]
+[[image 
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:notanaprilfoolspage-0/folder.png]]
+[[=]]
+我在“远洋航行时发现的高科技”
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/6" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 2; grid-row-start: 2;"]]
+[[image 
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:notanaprilfoolspage-0/folder.png]]
+[[=]]
+我的照片
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/5" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 16; grid-row-start: 20;"]]
+[[image
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:notanaprilfoolspage-0/trash_bin.svg]]
+[[=]]
+回收站
+[[/=]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 2; grid-row-start: 3;"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+距离上次的崩溃天数：15
+[[/=]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 15; grid-row-start: 1;"]]
+[[image http://zaskou.wdfiles.com/local--files/what-if-blackout/door_white.png]]
+[[=]]
+后门
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/12" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 3; grid-row-start: 1;"]]
+[[image 
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:notanaprilfoolspage-0/folder.png]]
+[[=]]
+研究记录
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/1" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 3; grid-row-start: 2;"]]
+[[image 
+http://backrooms-sandbox-2.wikidot.com/local--files/fragment:notanaprilfoolspage-0/folder.png]]
+[[=]]
+演员的相关资料（？？？我打不开这个)
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/7" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 3; grid-row-start: 4;"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+记得给Alexis打电话
+[[/=]]
+[[/div]]
+
+[[div class="document" style="grid-column-start: 14; grid-row-start: 0;"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+Important.txt
+[[/=]]
+[[a href="https://if-backrooms.wikidot.com/spec/offset/9" class="doc-link"]][[/a]]
+[[/div]]
+
+[[/div]]

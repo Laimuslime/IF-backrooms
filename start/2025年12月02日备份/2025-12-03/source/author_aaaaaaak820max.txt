@@ -1,0 +1,22 @@
+[[include :backrooms-wiki-cn:theme:ethereality]]
+[[=]]
+[[div class="styled-quote"]]
+你好，我是[[*user Aaaaaaak820max]][[footnote]] 7个a，1大写A+6小写a。[[/footnote]]，一开始没名字，后来突发奇想将[[[https://backrooms.fandom.com/zh/wiki/User:Aaaaaaak820max |我的fandom账号]]]名字拿来用了，然后我的称呼就不知道怎么变成820了--明眼人都看出来你这名字有多难打了--。哦对了感谢[[*user DielsAlder]]在猫塑我时搞得“键盘猫猫”这个奇怪名字，我很喜欢。（
+哦对了你要是想给我起什么外号就可以起什么外号，不搞那些涉及到我真人信息或带有侮辱意味的外号即可。
+
+本人写文技术不好，若伤害到你的眼睛了我在这里向你致歉hhhh
+
+一些奇奇怪怪的特征
+* --男--一把键盘，初中生，平时没啥时间写文或者说搞一些杂七杂八的什么东西的。
+* 平时除了玩暗访就是玩键盘，哦对了这家伙稍微懂点电脑硬件知识，但由于有一段时间没玩导致基本忘完了。
+* 最早混的是fd。
+* 菜鸡一个。
+* 学习很差。
+++ 过往
+----
+--等会再写--
+[[/div]]
+[[/=]]
+-------
+
+[[include :backrooms-wiki-cn:component:author-page order=created_at]]

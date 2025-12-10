@@ -1,0 +1,162 @@
+[[module CSS]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "foj-theme-modified";
+    --theme-name: "后室观测极点主题";
+ 
+    /* Header */
+    --header-title: "后室观测极点";
+    --header-subtitle: "建造与发展";
+ 
+    /* 浅蓝白色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 245, 249, 252;
+    --light-pale-gray-monochrome: 220, 238, 255;
+    --very-light-gray-monochrome: 235, 245, 255;
+    --light-gray-monochrome: 200, 220, 240;
+    --gray-monochrome: 180, 200, 220;
+    --dark-gray-monochrome: 150, 180, 210;
+    --black-monochrome: 50, 100, 150;
+    
+    /* 蓝色系配色 */
+    --pale-accent: 200, 230, 255;
+    --bright-accent: 100, 180, 255;
+    --medium-accent: 70, 150, 230;
+    --dark-accent: 40, 120, 200;
+    --alt-accent: 120, 190, 255;
+ 
+    /* 背景和头部颜色 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+ 
+    /* 主要主题颜色 */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 保持其余CSS规则不变，颜色会自动应用新的配色方案 */
+#page-title {
+    border-color: rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2.2rem;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+#header h2, #header h2 span {
+    font-size: 1.4rem;
+    color: rgb(var(--medium-accent));
+}
+
+/* 调整背景渐变使其更柔和 */
+body, #skrollr-body {
+    background-image:
+     linear-gradient(to top,
+       rgba(var(--header-gradient-color-bottom), 0.8) 0%,
+       rgba(var(--header-gradient-color-middle), 0.6) 50%,
+       rgba(var(--header-gradient-color-top), 0.4) 100%
+     ),
+     var(--gradient-background)!important;
+}
+
+/* 使块引用看起来像蓝色便签纸 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--bright-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+    text-decoration: none;
+    border-radius: 3px;
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=1
+]]
+
+**Level IF-31**是后室IF层群的第31层。
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-31/%E4%B8%80%E8%A7%92
+ |caption=房间之一角
+]]
++ **描述：**
+Level IF-31层级表现为一处废弃已久但未造成损坏的木质结构房屋，此房屋无法测算其面积与高度，当流浪者向此层级任意方向移动时，层级都会表现出无限延伸的模样。
+
+Level IF-31最为典型的结构是“大厅”，大厅结构特点为宽阔的空间以及玻璃门与铁扶手，此区域地面积灰出现极少，仅有3次报告中提到地板积灰，木头地板呈现出反光的材质，上面的花纹有时会在流浪者未注视的情况下变幻，但其并不明显，木头地板的材质未知。墙壁多为木质，少数情况也为石质，墙壁的光滑强度为两个极端，仅有极度光滑和极度粗糙这两种状态，墙面极度整洁，但未有人为清理的痕迹。天花板处常有被损坏的区域，但这些区域的分布点为角落较多。
+
+第二类常见的结构为“微型迷宫”，微型迷宫结构特点为狭窄的空间、全封闭的房间和幽暗的环境，此结构内的所有物品均为木头制成，最为典型的特征是地面上的木板，这些木板通常相距0.3～0.7m，以迷宫的样式排列，一个木板长0.5m，高0.3m。此区域的墙壁已渗水严重，当流浪者触摸时墙壁会变得十分易碎。此区域仅有一个入口和一个出口。
+
+第三类结构为“镜房”，此区域的显著特征是镜面组成的墙壁，此镜面墙壁含有磨砂质感，反射着不同颜色的光，最为常见是绿色，此区域中光源来源未知，且颜色会随着时间推移变化，循环规律为：绿→红→蓝→紫→白→黄→橙→青→绿，当青色光芒转换为绿色光芒时，此循环将会从头开始，此区域的玻璃极易碎裂，且碎裂的玻璃极易锋利，建议非特殊情况下不接触所有此区域的玻璃制品。
+
+将所有区域连接于一起的是“走廊”区域，此区域的显著特征是空间狭长，长度可无限延伸，宽度约为0.9～3m不等，最为显著特征为地上潮湿的地毯，地毯中物质包含杏仁水和少量的浑浊液体，这一部分的浑浊液体成分未知，不断地散发出甜腥味。走廊的墙壁由混凝土浇灌，墙纸上画着循环的“卍”字图案，每个图案首尾相连进行排布，墙纸颜色一般为棕褐色或白灰色，图案一般为黑或白色，连接每个不同区域的门廊由木头制成，常见的颜色为深红色，天花板上的灯内含液体，在照耀下显现着不明的黑色沉淀物。
++ **基地，前哨和社区**
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]] 木质基地
+* 人员稀少
+* 后室观测极点成立的地区
+* 基地中包含大量物资
+* 入口众多
+
+++ 镜之房
+* 人员未知
+* 难以发现
+* 区域分散
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]改造试验区
+* 人员数量中等
+* 后室观测极点建立的新基地
+* 包含大量食物与建筑材料
+* 正尝试着改变部分区域的环境
+
++ **入口和出口**
+
+++++++ 入口
+* 在[[[Level IF-4]]]中接触木质物品后三秒立刻切出
+* 在[[[Level IF-5]]]中在活板门切出会来到此层级
+* [[[Level IF-7]]]极少出现的木门可能将你带到此层级
+* 在[[[Level IF-11]]]中吃下木屑即可来到此层
+++++++ 出口
+* 通常走廊中标有“3”数字的门会让你来到[[[Level IF-3]]]
+* 在此层级漫无目的的游荡最终会将你带到[[[Level IF-43]]]
+* 当流浪者在此层级突然发现地板变成瓷砖时切出会来到[[[Level IF-97]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]一篇平淡的氛围文，很无聊
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-30]]] | Level IF-31 | [[[Level IF-32]]] >>
+[[/=]]
+[[/div]]

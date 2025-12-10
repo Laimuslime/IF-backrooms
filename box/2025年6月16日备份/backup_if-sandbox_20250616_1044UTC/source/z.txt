@@ -1,0 +1,2 @@
+[[include :backrooms-wiki-cn:theme:|rainy=true]]
+[[include :backrooms-wiki-cn:theme:trauma]]

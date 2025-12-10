@@ -1,0 +1,13 @@
+[[module CSS]]
+#u-adult-warning #u-adult-link.c-wanderers>a:nth-child(1),#u-adult-warning #u-adult-link.c-wanderers>a:nth-child(2),#u-adult-warning #u-adult-link:not(.c-wanderers)>a:nth-child(3),#u-adult-warning #u-adult-link:not(.c-wanderers)>a:nth-child(4),#u-adult-warning #u-adult-link.s-\{\$slug\}>a:nth-child(even),#u-adult-warning #u-adult-link:not(.s-\{\$slug\})>a:nth-child(odd){display:none}
+[[/module]]
+
+[[div id="adult-warning"]]
+[[div id="adult-header"]]
+成人内容
+[[/div]]
+本文包含成人内容，可能并不适合所有读者。
+[[module ListPages range="." limit="1"]]
+如果你已年满 18 周岁并愿意阅读相关内容，点击[[span id="adult-link" class="c-%%category%% s-{$slug}"]][/adult:%%name%%/noredirect/true 这里][/adult:{$slug}/noredirect/true 这里][/wanderers-adult:%%name%%/noredirect/true 这里][/wanderers-adult:{$slug}/noredirect/true 这里][[/span]]继续。
+[[/module]]
+[[/div]]

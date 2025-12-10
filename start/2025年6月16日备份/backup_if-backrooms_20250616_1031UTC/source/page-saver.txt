@@ -1,0 +1,78 @@
+[[div class="styled-quote" style="margin-top: -0.5rem; border-bottom: 0.2rem solid rgba(var(--gray-monochrome));"]]
+如果你某个页面的代码让你无法正常查看、评分、评论或者做其他操作，可以使用本工具安全浏览。
+如果你的沙盒被你玩代码玩坏了，一点进去就卡死，或者任何页面因代码原因无法直接操作，可以使用本工具安全编辑。
+也可以用于浏览会自动跳转的页面。
+提示：若页面无法打开，复制链接地址来获得它的URL
+[[/div]]
+
+[[html]]
+
+<body>
+    <div style="text-align:center">
+        <div id="url-type">
+            
+            <input type="radio" name="url-sel" value="wiki-if" onclick="document.getElementById('url-pre').innerHTML = 'http://if-backrooms.wikidot.com/'; document.getElementById('url').size ='25';" checked>后室IF
+           <input type="radio" name="url-sel" value="wiki-cn" onclick="document.getElementById('url-pre').innerHTML = 'http://backrooms-wiki-cn.wikidot.com/'; document.getElementById('url').size ='25';">中站
+           <input type="radio" name="url-sel" value="sandbox-mini" onclick="document.getElementById('url-pre').innerHTML = 'http://brsandbox-mini.wikidot.com/'; document.getElementById('url').size ='25';">后室沙盒Mini
+            <input type="radio" name="url-sel" value="sandbox-pro" onclick="document.getElementById('url-pre').innerHTML = 'http://if-sandbox.wikidot.com/'; document.getElementById('url').size ='25';">后室IF沙盒
+            <input type="radio" name="url-sel" value="no-pre" onclick="document.getElementById('url-pre').innerHTML = ''; document.getElementById('url').size ='50';">纯链接
+        </div>
+        <p><span id="url-pre" style="font-family:Consolas;font-size: 12.8px;color: #333;">http://if-backrooms.wikidot.com/</span>
+        <input type="text" id="url" name="url" placeholder="URL" size="25" ></p>
+        <p>
+            <button onclick="Go0()">安全打开页面</button>
+            <button onclick="Go1()">安全编辑页面</button>
+            <button onclick="Go2()">免跳转浏览</button>
+        </p>
+    </div>
+</body>
+
+<script language="javascript">
+
+    var keyWord;
+
+function expand() {
+    var urltype = document.getElementsByName('url-sel');
+   if (urltype[0].checked) {
+       keyWord = 'http://if-backrooms.wikidot.com/' + keyWord;
+   }
+   if (urltype[1].checked) {
+       keyWord = 'http://backrooms-wiki-cn.wikidot.com/' + keyWord;
+   }
+   if (urltype[2].checked) {
+       keyWord = 'http://brsandbox-mini.wikidot.com/' + keyWord;
+   }
+   if (urltype[3].checked) {
+       keyWord = 'http://if-sandbox.wikidot.com/' + keyWord;
+   }
+}
+
+function Go0(){
+keyWord=document.getElementById("url").value;
+if (keyWord != "") {
+    expand();
+  var result=keyWord + '/norender/true';
+  window.open(result);
+}
+}
+
+function Go1(){
+keyWord=document.getElementById("url").value;
+if (keyWord != "") {
+    expand();
+  var result=keyWord + '/edit/true/norender/true';
+  window.open(result);
+}
+}
+
+function Go2(){
+keyWord=document.getElementById("url").value;
+if (keyWord != "") {
+    expand();
+  var result=keyWord + '/noredirect/true';
+  window.open(result);
+}
+}
+</script>
+
+[[/html]]

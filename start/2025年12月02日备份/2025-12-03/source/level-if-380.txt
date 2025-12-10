@@ -1,0 +1,290 @@
+[[include :backrooms-wiki-cn:theme:dull-blade]]
+
+[[module css]]
+:root {
+--header-title: "黑暗无比的家";
+--header-subtitle: "没什么值得冒险";
+--black-monochrome: 5, 5, 5;
+   --gray-monochrome: 5, 5, 5;
+   --dark-accent: 5, 5, 5;
+   --platinium-monochrome: 240, 240, 240;
+   --white-monochrome: 240, 243, 243;
+   --gray-accent: 150, 152, 156;
+   --grey-accent: 10, 10, 16;
+}
+
+html {
+  -webkit-filter: grayscale(60%);
+  filter: grayscale(70%);
+}
+
+.weekblock{
+   color: white;
+   background-color: rgb(var(--dark-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: 2px solid rgb(var(--medium-accent));
+   border-left: 8px solid rgb(var(--medium-accent));
+   position: relative;
+}
+
+.weekblock:hover {
+   cursor: hand;
+   cursor: pointer;
+   opacity: .7;
+   transform: translateX(30px);
+   transition: all 0.5s ease;
+}
+
+.weekblock .real a{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   text-decoration: none;
+   z-index: 10;
+   opacity: 0;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'Serif', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'IM Fell English', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+@media only screen and (max-width:768px){
+.texty:hover{
+  font-size: 1.8rem;
+}
+}
+.texty {
+  font-size: 1.8rem;
+  padding: 2rem 1.4rem;
+}
+ .background {
+    background: url("https://live.staticflickr.com/4428/36469549312_9d99c76f11_b.jpg") center;
+    margin: auto;
+    margin-top: 0px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+    border: solid 0.325rem rgb(var(--dark-accent));
+}
+
+.sd-container {
+--sd-bullets:255,255,255 !important;
+}
+[[/module]]
+
+[[div class="whiteblock"]]
+[[div class="blackblock"]]
+-----
+[[div class="background" style="background: url("http://kyrenzane10.wdfiles.com/local--files/level-950/header.jpg");"]]
+[[span class="texty"]]没有什么值得冒险[[/span]]
+[[/div]]
+-----
+[[/div]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=等待
+|lang=cn
+|image=https://backrooms-wiki-cn.wdfiles.com/local--files/component%3Alevel-class/na.png
+|one=等待你的终点
+|two=规训自身存在
+|three=无事值得冒险
+|color=#000000
+]]
+
+ Level IF-380，你的自由，你的最黑暗的家，你不应缩居的地方。
+
+Level IF-380是你的家，万物已然泯于黑暗，你栖居于此，这个黑暗而万丈的房屋中，坐在单调卧室的床脚，不安的用你干枯的手指轻点溃黑的墙皮，发出滴答的轻声，如同那伟大圣洁的大天使加百列对你所唱响的丧曲，你的床很大，大到能容纳下你的所有躯体部分，无论是缩到几只的亦或是舒张至疯狂的，至少在现在是没有任何意义了。卧室里除了床空无一物，这是你为了让那令你终身难忘的绝望不再出现在你眼前所做的最后挣扎，即使祂现在或许就在距离你直线8米，隔着两堵墙与一扇门的院子里轻轻地敲着门，你确信祂真的存在，祂也的确真切地存在，但你的理智地那么疯狂，以至于你难以相信你应该相信的亦或是已经相信的。
+
+在你的头顶，隔着一个天花板，是你已经许久未敢再前往的二楼，你深知躲在那里只会更加加剧你的绝望与痛苦，至少在这里，你不用听见祂和缓地一步步走上楼梯，敲响你的房门，这是你幼年时地亲身所见，但你的母亲已经无法保护你了，你的父亲已经投入了牧羊人的行列，登上了最终的方舟，而你的母亲，已经成为了加百列身后的一位虔诚的随者，即使已经不是那个圣洁，伟大的“加百列”。你用尽杂物将房间的二楼堵得彻底，甚至可以确信连你自己都没有再上去的机会，毕竟你上去了也没有意义了，你的命运其实早就画上了句点，只是你正在尽力将其打开一个空缺而已，很快这也要成为最后的无用功了，因为你迟早会亲自把它补全。
+
+在这最后的15分钟里，你听见了两堵墙外传来了轻轻的开锁声，这很好，标志着你现在能躲藏的地方已经从你的整个家逐渐缩小，去除了客厅，厨房，房间，楼梯间与餐厅，只剩下楼梯下这个只能容下一张床的小房间，你不禁发起了寒颤，即使知道自己的命运是什么，但在看到祂正真正地，真切地向自己走来时还是不可避免地自内心最深处感到恐惧与绝望，你的眼睛不再四处乱看，而是如同被焊接一般死死地盯着那由2层钢铁构成的铁门，那紧紧锁死的希望，你已经无处可逃了，或者说你早就无处可逃了，你的身体不由得感到一阵恶寒，这使得你不得不紧缩着你瘦弱干枯的肉体，上面裹着绵薄的毛毯。
+
+朋友走路的声音很轻，在美好的深夜，透过一堵墙，清晰地在你的耳郭中回荡，啪嗒，啪嗒，那不是皮鞋的声音，更不是赤脚的声音，但却是真切的脚步声，你的冷静被这和缓而平静的脚步如同一个有无数细小缝隙紧密连接而现在被一根一根插入极度细密的针一般一点点凌迟着，最终，从冷静，到紧张，到慌乱，最后到失措，直到脚步声消失，你已经确信了，但是你的声带似乎被切除了，你连张嘴喊出声的力气都失去了，你能做的只有无力的颤抖，颤抖着用你的右手套在那黑色的，装填有6发0.45英寸ACP手枪弹的Glock37式手枪的扳机，时刻做足着和祂拼死一搏的打算。
+
+祂轻轻地敲了敲门。“让我进来吧，mark。”祂的声音是那么熟悉，你从小到大都听着这样的声音与你一起，一起打棒球，一起上学，一起飙车，一起兜风，一起喝酒，一起高歌，然后现在，一起把你的手握住，交到“加百列”的手上去。“我有一个礼物要送给你…你…你。”他的声音，亦或是祂的声音蛊惑异常，你不知道祂曾用这样的声音握到了并握住了多少人的手并交到了“加百列”的手上，但现在，祂或许快要握到你的手了，这或许对于“祂”来说是给你最好的礼物。“快开开开…开开开门。”你已经坚持了多久了？大概有3天了吧，半食未入，滴水未进，你似乎已经坚持不下去了，从他跟着你回到这里以来。然后这一切快要结束了，是吗？结果究竟会是什么？是杀死祂，逃出生天，亦或是被祂杀死，取而代之，让自己的“朋友”成为下一个“自己”？“开门！mark!我有很重要的事！”门外的声音突然急促了，似乎是在催促你，你不由得吓了一跳，“门外真的还是他吗？我想大抵已经不是了，我大概死的和他的母亲一样悲惨，但我并不想这样，我不可能如此迎来终点。”你似乎做足了最后的打算。
+
+在最后的时刻，你的身体反而没有再颤抖了，取而代之的是坚决的勇气，大抵是最后的挣扎了吧，毕竟成功的机会即使渺茫，但也不可能是没有，你放弃了蜷缩，而是站起了身，手中紧握着你最后的希望，“哈哈哈哈哈哈哈哈哈哈……”门外的祂突然大笑起来，是在笑什么呢？笑你的无能，亦或是人类的无能，亦或是即将成功的愉悦，但这一切的一切都快要结束了，你的手扣上了手枪的扳机，深吸了一口气。“没有人会帮我了，也没有人能够帮我了。”其实你早该发现自己已经是一个被政府所丢弃的弃子的，政府只会保佑自己的安全，或许他们连自身都难保，又怎么怎么可能来帮助你和“他”呢？你又猛地摇了摇头，想这些已经没有意义了，一切的一切在这之前和在这之后都将没有意义了。
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+……
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+……
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+……
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+“我操你妈的吧！”，“砰！”
+[录像信息丢失]
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=]]
+
++ 你终究还是失败了，没有人会帮助你。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
++ {{//##red|NO THING IS WORTH THE RISK##//}}
+
+[[*user kadjwxs]]
+
+[[/=]]
+
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-379]]] | Level IF-380 | [[[Level F-381]]] >>
+[[/=]]
+[[/div]]
+[[=]]
+[[module Rate]]
+[[/=]]

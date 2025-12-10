@@ -1,0 +1,147 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+   --logo-image: url("http://backrooms-sandbox.wdfiles.com/local--files/cutthebirch/coollogo2.png");
+}
+#container {
+   background-image: url("http://brsandbox-mini.wikidot.com/local--files/cc0:1026/1");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+opacity: 1;
+}
+        #page-content {
+            width: 800px;
+            margin: 0 auto;
+            position: relative;
+        }
+        .iframe-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .iframe-container iframe {
+            width: 100%;
+            height: 100% !important;
+            border: none;
+            outline: none !important;
+        }
+        #toc .title {
+            color: #5f5f5f !important;
+        }
+/* Page background and wideblocks */
+:root {
+
+--swatch-text-general: var(--black-monochrome);
+--brown-monochrome: 60, 49, 37;
+
+}
+
+#extra-div-1 {
+   z-index: -1;
+   background-image: url(http://brsandbox-mini.wikidot.com/local--files/1020/IMG_20250724_173440.jpg);
+   position: fixed;
+   top: 0; left: 0;
+   width: 100vw;
+   height: 100vh;
+   filter: blur(4px);
+   background-size: cover;
+}
+
+.styledquote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.5rem solid rgba(var(--light-gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0.05rem 0.1rem 0.3rem rgba(0,0,0,.25);
+}
+
+@media screen and (min-width: 796px) {
+.darker-block {
+    color: rgb(var(--white-monochrome));
+    background: rgb(var(--black-monochrome));
+    padding: 0.01rem 2rem;
+    margin: 0.5rem -3rem 0.5rem -3rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+
+.dark-block {
+    color: rgb(var(--white-monochrome));
+    background: rgb(var(--brown-monochrome));
+    padding: 0.01rem 2rem;
+    margin: 0.5rem -3rem 0.5rem -3rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+}
+
+@media screen and (max-width: 795px) {
+.darker-block {
+    color: rgb(var(--white-monochrome));
+    background: rgb(var(--black-monochrome));
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+
+.dark-block {
+    color: rgb(var(--white-monochrome));
+    background: rgb(var(--brown-monochrome));
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+}
+[[/module]]
+[[div class="styled-quote"]]
+“后室，绝非只是无尽的简单空间。有的层级之布局杂乱无章，有的层级存在着某些特殊规则，还有的拥有着美丽的外表，其内在却凶残无比；而这里，因其空间的错综复杂与危险性被冠以**´蜿蜒死廊´**之名。”
+[[/div]]
+[[div class="darkerblock"]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=3
+|two=较稳定
+|three=极少量实体
+]]
+**Level IF-244**是IF层群的第244层，于2012年9月14日被首次发现。
+----
++ **描述**
+[[include component:image-block
+    |name=levelif-244.jpg
+    |caption=[唯一已知有关该层级的图像，拍摄者不明。]
+]]
+**Level IF-244**，或被称为´蜿蜒死廊´，常被描述为一处蜿蜒曲折的走廊。层级地板由瓷砖铺成，一尘不染，光洁如新。当流浪者破坏地板后，在短时间内新瓷砖将代替原有瓷砖，目前对于瓷砖究竟以何种方式替换仍然未知。层级内光照充足，且其两侧挂有各种图画与展品。图画大多数是描绘各品种的花束或风景，而展品则仅仅只有些许瓷器珠宝。若有流浪者试图打破展品的外层玻璃，则会以某种未知的力量将玻璃恢复如初。
+@@@@
+流浪者在本层行走一段路程后，均可发现右侧墙壁嵌有一列铁门。铁门可正常开启，其内部景象通常为一片黑暗。然而，据少数流浪者报告称，在凝视一段时间后后均感到一阵强烈的被监视感。值得注意的是，若流浪者望向走廊尽头处，常可隐约发现类似于流浪者影子的实体，但该实体会随着流浪者探索的路程而渐渐消散。
+@@@@
+值得注意的是，待以上实体完全消散过后，流浪者便会被本层异常现象所影响，此现象常被称为**´具象化´**。当此现象发生时，流浪者会感到一阵乏力感，并会随时间推移而加重。约莫1～2分钟后，黑色人形生物将开始追杀流浪者。值得注意的是，该实体虽听力极佳但视力极差，由于层级内蜿蜒复杂，流浪者可以凭借地形优势以暂时躲避追杀，寻找出口。与此同时，层级内部分廊道将陷入黑暗，当该实体目标消失后，其往往会隐匿于黑暗廊道中，以突袭流浪者。因此，流浪者在脱离该实体捕猎范围后寻找出口时需极其小心，且声响尽量保持在40分贝及以下。
++ **实体**
+除以上所述外，部分流浪者称观察到了邻里守望的踪迹，但并未表现出敌意，不过并未被证实。
++ **基地、前哨与社区**
+时至今日，还无任何团体组织在该层级设立基地、前哨或社区，但[http://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]曾计划在此设立一处约5~6人的小型前哨，不过该计划很快就被废除。
++ **入口与出口**
+++++ 入口
+* [https://if-backrooms.wikidot.com/level-if-3| Level IF-3]内有一栋挂有“DEAD”招牌的建筑物，进入后即可切入至本层
+* 探索[http://backrooms-wiki-cn.wikidot.com/level-4 Level 4]的流浪者在过程中可能会注意到，若四周突然出现各种图画，随后便会进入该层级
+++++ 出口
+* 该层级唯一已知的出口即是切入一幅描绘夕阳下的沙滩图画，随后则会进入[https://if-backrooms.wikidot.com/level-if-116| Level IF-116]
+* 更多出口仍在调查中
+[[/div]]
+-----
+[[=]]
+[[module rate]]
+[[collapsible show="原作者/重写人" hide="隐藏原作者/重写人"]]
+**原作者：** [[*user calf-0]]，灵感源于Atlas的[http://backrooms-wiki-cn.wikidot.com/level-853 Level 853]。
+**重写人：** [[*user xiaozi666]]
+**图像：** 版头logo取自[[*user CutTheBirch]]的[http://backrooms-wiki-cn.wikidot.com/level-14 Level 14]、图二由[[*user superintendent-V]]拍摄。
+[[div class="darkblock"]]
+**附记：** 没啥好写的......随便之作吧。
+[[/div]]
+[[/=]]
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-243]]] | Level IF-244 | [[[Level IF-245]]] >>
+[[/=]]
+[[/div]]

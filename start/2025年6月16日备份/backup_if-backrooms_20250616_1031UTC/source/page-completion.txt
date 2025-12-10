@@ -1,0 +1,55 @@
+[[=]]
+[[module CountPages category="*"]]
++ 全站页面数
++ %%count%%
+[[/module]]
+[[/=]]
+----
+++ 列表完成度追踪
+[[module CountPages tags="+层级 +原创 -待删除"]]
++++++ 层级：%%total%%/199
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 199) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+
+[[module CountPages tags="+实体 +原创 -隐秘 -搞笑 -待删除"]]
++++++ 实体：%%total%%/99
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 99) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+
+[[module CountPages tags="+物品 +原创 -隐秘 -搞笑 -待删除"]]
++++++ 物品：%%total%%/30
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 30) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+
+[[module CountPages tags="+现象 +原创 -隐秘 -搞笑 -待删除"]]
++++++ 现象：%%total%%/30
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 30) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+
+[[module CountPages tags="+故事 +原创 -搞笑 -待删除 -已归档"]]
++++++ 故事：%%total%%/99
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 99) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+
+[[module CountPages tags="+待删除 "]]
++++++ 待删除：%%total%%/10
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 10) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]
+[[module CountPages tags="+翻译 "]]
++++++ 翻译：%%total%%/10
+[[div style="display: flex; background: rgb(var(--pale-gray-monochrome)); height: 0.5rem;"]]
+[[div style="width: calc((%%total%% / 10) * 100%); background: rgb(var(--swatch-primary));"]]
+[[/div]][[/div]]
+[[/module]]

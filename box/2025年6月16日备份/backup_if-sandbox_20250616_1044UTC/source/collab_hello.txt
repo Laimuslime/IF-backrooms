@@ -1,0 +1,169 @@
+/* [[=]] 启明组织全局主题 [[=]] */
+[[module CSS]]
+/* 核心颜色变量 */
+:root {
+    --dawn-gold: #FFD700;
+    --twilight-purple: #4B0082;
+    --cosmic-blue: #00008B;
+    --parchment: #F5F5DC;
+    --void-black: #0A0A0A;
+}
+
+/* 全局基础样式 */
+body, #container-wrap, #main-container, #page-content {
+    background-color: var(--void-black) !important;
+    color: var(--parchment) !important;
+    font-family: Georgia, "宋体", serif !important;
+    line-height: 1.6 !important;
+    min-height: 100vh !important;
+    background-image: 
+        radial-gradient(circle at 20% 30%, 
+            rgba(255, 215, 0, 0.1) 0%, 
+            transparent 20%),
+        radial-gradient(circle at 80% 70%, 
+            rgba(75, 0, 130, 0.1) 0%, 
+            transparent 20%) !important;
+}
+
+/* 主容器样式 */
+#container-wrap, 
+#main-container, 
+#page-content, 
+.container, 
+.wiki-content {
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 2rem !important;
+    border: none !important;
+    background-color: rgba(10, 10, 10, 0.85) !important;
+}
+
+/* 内容区域特殊样式 */
+.wiki-content {
+    border: 1px solid var(--dawn-gold) !important;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3) !important;
+    margin: 2rem auto !important;
+    max-width: 900px !important;
+    position: relative !important;
+}
+
+/* 标题装饰 */
+.page-title, #page-title h1 {
+    font-family: "Palatino Linotype", "华文楷体", serif !important;
+    color: var(--dawn-gold) !important;
+    text-align: center !important;
+    font-size: 2.5rem !important;
+    margin: 1.5rem 0 !important;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5) !important;
+    position: relative !important;
+    border-bottom: none !important;
+    width: 100% !important;
+}
+
+.page-title:after, #page-title h1:after {
+    content: "✧" !important;
+    display: block !important;
+    color: var(--twilight-purple) !important;
+    font-size: 1.5rem !important;
+    margin-top: 0.5rem !important;
+}
+
+/* 所有标题样式 */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--twilight-purple) !important;
+    border-bottom: 1px dashed var(--dawn-gold) !important;
+    padding-bottom: 0.5rem !important;
+    margin-top: 2rem !important;
+}
+
+/* 全局段落文本 */
+p {
+    text-indent: 2em !important;
+    margin: 1rem 0 !important;
+}
+
+/* 全局引用块 */
+.blockquote, .quote {
+    border-left: 3px solid var(--dawn-gold) !important;
+    padding-left: 1.5rem !important;
+    margin: 1.5rem 0 !important;
+    font-style: italic !important;
+    color: var(--dawn-gold) !important;
+    background: rgba(0, 0, 139, 0.1) !important;
+}
+
+/* 全局列表样式 */
+ul, ol {
+    list-style-type: none !important;
+    padding-left: 1.5rem !important;
+    margin: 1rem 0 !important;
+}
+
+li {
+    position: relative !important;
+    margin-bottom: 0.8rem !important;
+}
+
+li:before {
+    content: "✦" !important;
+    position: absolute !important;
+    left: -1.5rem !important;
+    color: var(--twilight-purple) !important;
+}
+
+/* 页眉页脚样式 */
+#header, #footer {
+    background-color: rgba(10, 10, 10, 0.9) !important;
+    border: none !important;
+    padding: 1rem !important;
+    text-align: center !important;
+    color: var(--twilight-purple) !important;
+}
+
+#footer {
+    border-top: 1px dotted var(--dawn-gold) !important;
+    margin-top: 3rem !important;
+    font-size: 0.9rem !important;
+}
+
+/* 导航栏样式 */
+.yui-navset, 
+.yui-navset .yui-nav, 
+.yui-navset .yui-content {
+    background: transparent !important;
+    border-color: var(--dawn-gold) !important;
+}
+
+.yui-navset .yui-nav .selected a, 
+.yui-navset .yui-nav a:hover {
+    background-color: var(--twilight-purple) !important;
+    color: var(--dawn-gold) !important;
+}
+
+/* 链接样式 */
+a, a:visited {
+    color: var(--dawn-gold) !important;
+    text-decoration: none !important;
+    border-bottom: 1px dotted var(--twilight-purple) !important;
+}
+
+a:hover {
+    color: var(--parchment) !important;
+    text-shadow: 0 0 5px rgba(255, 215, 0, 0.5) !important;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    #container-wrap, 
+    #main-container, 
+    #page-content, 
+    .container, 
+    .wiki-content {
+        padding: 1rem !important;
+    }
+    
+    .page-title, #page-title h1 {
+        font-size: 2rem !important;
+    }
+}
+[[/module]]

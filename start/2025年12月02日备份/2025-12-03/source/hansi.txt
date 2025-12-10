@@ -1,0 +1,282 @@
+[[module css]]
+body, #page-content {
+    background: linear-gradient(to bottom, #000000, #0a0a0a, #1a1a1a) fixed !important;
+    color: #e0e0e0 !important;
+    font-family: 'Times New Roman', serif !important;
+    line-height: 1.6;
+}
+#page-title {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 3.5em !important;
+    font-weight: bold !important;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.5) !important;
+    margin-bottom: 0 !important;
+    padding: 20px 0 !important;
+    position: relative;
+}
+
+#page-title:after {
+    content: "†";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    opacity: 0.1;
+    z-index: -1;
+}
+#page-title + p {
+    color: #cccccc !important;
+    text-align: center !important;
+    font-style: italic !important;
+    margin-top: 0 !important;
+    margin-bottom: 40px !important;
+    font-size: 1.2em !important;
+}
+#page-content a:not(.broken) {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+    transition: all 0.3s ease !important;
+}
+
+#page-content a:not(.broken):hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+#page-content a.broken {
+    color: #000000 !important;
+    text-decoration: line-through !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    padding: 0 3px;
+}
+#page-content strong {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #cccccc, #ffffff) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7) !important;
+    font-weight: bold !important;
+}
+#page-content h1, #page-content h2, #page-content h3,
+#page-content h4, #page-content h5, #page-content h6 {
+    color: #ffffff !important;
+    border-bottom: 2px solid #444444 !important;
+    padding-bottom: 10px !important;
+    margin-top: 2em !important;
+    position: relative;
+    padding-left: 30px !important;
+}
+
+#page-content h1:before, #page-content h2:before, #page-content h3:before,
+#page-content h4:before, #page-content h5:before, #page-content h6:before {
+    content: "†";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888888;
+    font-size: 0.8em;
+}
+.darkblock {
+    background: linear-gradient(to bottom, #111111, #000000) !important;
+    border: 2px solid #333333 !important;
+    border-left: 10px solid #333333 !important;
+    border-right: 10px solid #333333 !important;
+    position: relative;
+    padding: 20px !important;
+    margin: 25px 0 !important;
+    color: #cccccc !important;
+}
+
+.darkblock:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    height: 2px;
+    background-color: #333333;
+    transform: translateY(-50%);
+}
+.lightblock {
+    background: linear-gradient(to bottom, #f5f5f5, #e6e6e6) !important;
+    border: 1px solid #aaaaaa !important;
+    padding: 25px !important;
+    margin: 25px 0 !important;
+    color: #222222 !important;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2) !important;
+    position: relative;
+    font-style: italic !important;
+}
+
+.lightblock:before, .lightblock:after {
+    content: """;
+    font-size: 3em;
+    color: #cccccc;
+    position: absolute;
+    line-height: 1;
+}
+
+.lightblock:before {
+    top: 10px;
+    left: 10px;
+}
+
+.lightblock:after {
+    content: """;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* 折叠 - 黑白渐变 */
+.fold-block {
+    background: linear-gradient(to right, #000000, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    margin: 15px 0 !important;
+    border-radius: 3px !important;
+}
+
+.fold-block .fold-title {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    color: #dddddd !important;
+    padding: 12px 15px !important;
+    border-bottom: 1px solid #444444 !important;
+    cursor: pointer !important;
+    font-weight: bold !important;
+}
+
+.fold-block .fold-content {
+    padding: 15px !important;
+    background: #0a0a0a !important;
+    color: #cccccc !important;
+}
+.yui-navset .yui-nav {
+    border-bottom: 2px solid #444444 !important;
+}
+
+.yui-navset .yui-nav li {
+    background: linear-gradient(to bottom, #222222, #000000) !important;
+    border: 1px solid #444444 !important;
+    border-bottom: none !important;
+    margin-right: 5px !important;
+    border-radius: 4px 4px 0 0 !important;
+}
+
+.yui-navset .yui-nav li a {
+    color: #999999 !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    padding: 8px 15px !important;
+}
+
+.yui-navset .yui-nav .selected {
+    background: linear-gradient(to bottom, #333333, #111111) !important;
+    border-color: #666666 #666666 transparent #666666 !important;
+}
+
+.yui-navset .yui-nav .selected a {
+    color: #ffffff !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5) !important;
+}
+
+.yui-content {
+    background: #111111 !important;
+    border: 1px solid #444444 !important;
+    border-top: none !important;
+    padding: 20px !important;
+    color: #cccccc !important;
+}
+sup, sub {
+    color: transparent !important;
+    background: linear-gradient(to bottom, #ffffff, #888888) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    font-size: 0.8em !important;
+}
+#page-content pre, #page-content code {
+    background: #111111 !important;
+    border: 1px solid #333333 !important;
+    color: #cccccc !important;
+    font-family: 'Courier New', monospace !important;
+}
+
+#page-content pre {
+    padding: 15px !important;
+    overflow: auto !important;
+}
+
+#page-content code {
+    padding: 2px 5px !important;
+}
+#skrollr-body {
+    background-image: none;
+}
+[[/module]]
+“其实我一直觉得，我们像是被写在小说里一样，你们懂吗？”  
+汉斯又一次说出这句话。  
+在**Level 4**的MEG基地，这种会议每三天就会召开一次。  
+一切的起因，是IF层群的探索接连受阻。奇怪的基督教实体已导致多起探员失踪，而那些出现的**“骑士”**，似乎早已知晓他们悲惨的归宿。  
+
+“汉斯先生，我必须反对，”菲利普打断道，“我们是**IF-111特别研究小组**，不是什么**‘世界存在主义讨论会’**！”  
+汉斯是英国人，出生在基督教家庭，坠入后室后加入了**MEG**。因熟悉宗教背景，他被派来协助调查**IF层群**中频繁出现的宗教现象。然而，随着事件越来越诡异，他反而成了组织里的异类，甚至有高层暗中派人监视他的一举一动。  
+
+“我明白，菲利普，”汉斯平静地说，“但这些事太巧合了，让我很不安。”  
+
+“不安就去医务室领镇定剂！别在这浪费时间！”菲利普不耐烦地回击。  
+
+汉斯没理会，转身从桌上拿起一叠文件：“听我说，每次文档被**模因污染**，内容都恰好贴合层级主题，且总与**‘假宜居’**层级共生。这绝非偶然。”  
+
+“确实有点诡异……你有证据吗？”马克插话。他是小组组长，也是汉斯唯一的朋友。  
+
+“简单——”汉斯语气坚定，“你们没发现吗？出事的总是那几个**‘有名有姓’**的站点，而**无名站点**却相安无事。这很可能是**‘叙事选择’**的结果——被写到的地方才会发生事故。”  
+
+“够了！”菲利普猛地拍桌，“这完全偏离研究方向！要是让部长知道我们在这讨论**‘写不写’**的问题，经费肯定立刻被砍！”  
+
+汉斯沉默了。他无法否认自己的感受，却也拿不出确凿证据。  
+
+“还有！”菲利普继续抱怨，“你每天晚上就知道背**圣经**！就不怕这玩意本身就是**模因污染源**？你整天讲模因，怎么不研究研究你自己？”  
+
+汉斯没回应。宗教仪式早已刻进他的骨子里——那是他价值观的根基，是他在后室中仅存的秩序感。  
+
+“……我去图书馆了。”他低声说，收起文件，转身离开。  
+
+“等等，汉斯！”马克想挽留，却又止住。他张了张嘴，最终什么也没说。
+**连他自己也开始怀疑：汉斯，是不是真的有点问题？**
+
+汉斯走出办公室，马克低头整理文件，沉默良久。  
+
+图书馆是汉斯的避难所。不是因为他爱看书，而是这里足够安静，能让他暂时逃离流言蜚语。  
+他习惯性地翻开圣经。
+他读到：
+**《彼得前书》：“万物的结局近了。所以你们要谨慎自守，儆醒祷告。”**
+
+突然，这句话在他脑海中响起，清晰得如同有人低语。  
+
+汉斯一惊。在后室，声音从不该出现在脑海里。他安慰自己：大概是太累了吧，待会儿去拿点药和杏仁水，就好了……  
+
+可那声音却越来越响，时而呼唤他的名字，时而如雷贯耳。他忍无可忍，抓起圣经狠狠敲向自己的头。  
+那一瞬，声音仿佛被击溃，骤然消失。  
+
+他喘着气，环顾四周——除了MEG的常规监控，没人注意到他的异常。他松了口气。  
+
+“注意，图书馆将于美国时间23:40准时关闭。”广播响起。  
+汉斯合上书，将圣经塞进背包，默默离开。  
+
+对他而言，图书馆是这地狱中唯一一片绿洲。在这里，他可以翻阅经文，做些研究，哪怕其他人都避他如瘟神。
+**毕竟没人知道，他对基督教的研究，是否正在把他们推向更深的危险。**
+
+回到宿舍，他放下背包，上床，关灯，在胸前画了个十字，对着窗外低声祷告。  
+然后拉上被子，闭上眼。  
+
+**这一天，就这样过去了。**
++ //**但他并不知道，他正向高山奔跑**//
+
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user jiliangjiyin]]连载中~
+（弱弱问一句，真的没有人想写“维新”设定的文吗？）
+[[/collapsible]]

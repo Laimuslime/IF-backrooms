@@ -1,0 +1,333 @@
+[[iftags +组件 +管理]]
+本组件设置了站点文章列表的样式。
+[[/iftags]]
+
+[[module CSS]]
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/all.css');
+
+/* Intro 和 Style Block */
+.intro {
+    display: grid;
+    grid-template: {$grid};
+    grid-template-columns: .62fr .38fr;
+    grid-template-rows: auto min-content auto;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.intro-in { grid-area: in; }
+.intro-out { grid-area: out; }
+.intro-others { grid-area: others; }
+.intro-toc { grid-area: toc; }
+
+.intro-block, .style-block {
+    padding: 0;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: rgb(var(--gray-monochrome)) solid 0.2rem;
+    border-top: none;
+    position: relative;
+}
+
+.intro-block p {
+    margin: 1rem;
+}
+
+.style-block {
+    margin-bottom: 1rem;
+}
+
+.intro-block h1,
+.intro-block h2,
+.intro-block h3,
+.intro-block h4,
+.intro-block h5,
+.intro-block h6,
+.style-block h1,
+.style-block h2,
+.style-block h3,
+.style-block h4,
+.style-block h5,
+.style-block h6 {
+    background-color: rgb(var(--gray-monochrome));
+    color: rgb(var(--pale-gray-monochrome));
+    padding: 0.3em 1rem 0.3em 0.5em;
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.intro-toc {
+    background-color: rgb(var(--gray-monochrome));
+    border-right: rgb(var(--gray-monochrome)) solid 0.1rem;
+    border-left: rgb(var(--gray-monochrome)) solid 0.1rem;
+    border-bottom: rgb(var(--gray-monochrome)) solid 0.1rem;
+}
+
+.intro-toc h1,
+.intro-toc h2,
+.intro-toc h3,
+.intro-toc h4,
+.intro-toc h5,
+.intro-toc h6 {
+    padding-bottom: calc(0.3em - 0.1rem);
+}
+
+.intro-toc p,
+.intro-toc p a {
+    display: flex;
+}
+
+.intro-toc p {
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.intro-toc p a {
+    width: 20%;
+    color: rgb(var(--black-monochrome));
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: rgb(var(--gray-monochrome)) solid 0.1rem;
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    text-decoration: none !important;
+    justify-content: center;
+    align-content: center;
+    transition: 300ms;
+    font-family: var(--mono-font);
+}
+
+.intro-toc p a:hover {
+    color: rgb(var(--link-color));
+    background-color: rgb(var(--white-monochrome));
+}
+
+.style-block ul,
+.intro-others ul {
+    padding: 1px 1em;
+}
+
+.style-block ul > li,
+.intro-others ul > li {
+    padding: 0.1rem 0.2rem;
+}
+
+.style-block ul > li:nth-child(even),
+.intro-others ul > li:nth-child(odd) {
+    background: rgba(var(--white-monochrome), 0.3);
+}
+
+
+.style-block h2 {
+    display: flex;
+}
+
+.style-block h2 span {
+    padding-left: 0.5em;
+}
+
+.style-block h2::before {
+    margin-top: -0.9rem;
+    content: ' ';
+    width: 1.3rem;
+    background: rgb(var(--pale-gray-monochrome));
+    display: block;
+    clip-path: polygon(-100% -100%,100% 0%,100% 100%,50% 80%,0% 100%);
+    border: rgb(var(--gray-monochrome)) solid 0.2rem;
+    border-bottom: none;
+}
+
+/* Icons */
+.infomark::before {
+    content: "\f05a";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+.penmark::before {
+    content: "\f304";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+.moremark::after {
+    content: "\f2f6";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+.import::after {
+    content: "\f1d8";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+.rew {
+    float: right;
+}
+
+.rew::before {
+    content: "\0020\f071";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    color: rgb(var(--dark-accent));
+}
+
+.rew::after {
+    content: "该文章正在重写中";
+    font-family: 'Noto Sans SC';
+    color: rgb(var(--dark-accent));
+}
+
+/* Other */
+#page-title {
+    padding-bottom: 0.1rem;
+    border-bottom: rgb(var(--gray-monochrome)) solid 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
+li::marker {
+    content: ' ';
+    font-size: 0px;
+}
+
+.back-to-toc {
+    position: absolute;
+    right: 1rem;
+    top: 0.43125rem;
+}
+
+.back-to-toc p {
+    margin: 0;
+}
+
+.back-to-toc p a {
+    color: rgb(var(--white-monochrome));
+    text-decoration: none !important;
+}
+
+.back-to-toc p a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+
+.back-to-toc p a::after {
+    content: '回到顶部';
+    padding-left: 0.5em;
+}
+
+#breadcrumbs, .pseudocrumbs {
+    margin: 0 0 1em;
+}
+
+/* Mobile */
+@media only screen and (max-width: 768px) {
+    .intro {
+        grid-template: {$mgrid};
+        grid-template-columns: 1fr;
+    }
+
+    .rew::after {
+        content: "重写中";
+    }
+
+    .style-block h1,
+    .style-block h2,
+    .style-block h3,
+    .style-block h4,
+    .style-block h5,
+    .style-block h6 {
+        padding: 0.5rem 0.5rem;
+    }
+
+    .style-block h2::before {
+        width: 1rem;
+    }
+
+    .back-to-toc {
+        top: 0.584375rem;
+    }
+
+    .back-to-toc p a::after {
+        content: '返回';
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .intro-toc p a {
+        width: 50%;
+    }
+}
+[[/module]]
+
+[!-- 子区集 --]
+>[[ift{$sub}gs -版式]]
+>[[iftags]]
+[[module CSS]]
+.sub-block > ul > li {
+    font-weight: bold;
+    background: transparent !important;
+    padding: 0rem 0.2rem;
+}
+
+.sub-block > ul > li > a {
+    padding: 0.3em 0.5em;
+    background-color: rgba(var(--dark-accent), 0.7);
+    color: rgb(var(--pale-gray-monochrome));
+    text-decoration: none !important;
+    font-weight: bold;
+    display: block;
+}
+
+.sub-block > ul > li > ul  {
+    padding: 0;
+}
+
+.sub-block > ul > li > ul > li {
+    padding: 0.3em 0 0.3em 1em;
+}
+
+.sub-block > ul > li > ul > li:nth-child(even) {
+    background: rgba(var(--white-monochrome), 0.3);
+}
+
+.intro-toc p a {
+    width: 25%;
+    font-family: var(--title-font);
+}
+
+@media only screen and (max-width: 900px) {
+    .intro-toc p a {
+        width: 50%;
+    }
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$sub}gs]]
+
+[!-- 目录字号减小 --]
+>[[ift{$toc-font}gs -版式]]
+>[[iftags]]
+[[module CSS]]
+.intro-toc p a {
+    font-size: 90%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .intro-toc p a {
+        font-size: 100%;
+    }
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$toc-font}gs]]
+
+[!-- 现象专攻 --]
+>[[ift{$phe}gs -版式]]
+>[[iftags]]
+[[module CSS]]
+@media only screen and (max-width: 768px) {
+    .back-to-toc {
+        right: 0.3rem;
+    }
+}
+[[/module]]
+>[[/iftags]]
+>[[/ift{$phe}gs]]

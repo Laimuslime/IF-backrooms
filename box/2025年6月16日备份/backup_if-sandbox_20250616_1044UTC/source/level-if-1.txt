@@ -1,0 +1,112 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[module css]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "你如今再临此处";
+}
+[[/module]]
+[[=]]
+[[module Rate]]
+[[=image https://cdn.pixabay.com/photo/2017/08/07/16/50/the-post-apocalyptic-theme-2605634_1280.jpg]]
+[[div class="blockquote"]]
+//……//
+
+//这是又哪里？//
+
+//你已经穿过了[https://backrooms-wiki-cn.wikidot.com/level-0 许多个][https://backrooms-wiki-cn.wikidot.com/level-1 这样的][https://backrooms-wiki-cn.wikidot.com/level-19 地方]。//
+
+//你停留在“[https://backrooms-wiki-cn.wikidot.com/level-1 宜居地带]”时在居民口中了解了许多这个名为“后室”的空间的信息。//
+
+//然而，在如此之多叫做“层级”的空间中，你从未知道过这么一个地方。//
+
+//……//
+
+//你现在别无他路了。//
+
+//向前走是唯一的选择。//
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+> **提醒：**该文档在[[[Level IF-1]]]的叠加态性质被发现前编写。需注意，此文档所述已确认不是一个独立层级，而是一个if1报告。同时，此为IF层群首个有记录的层级，因此格式在一定程度上仿照了[https://backrooms-wiki-cn.wikidot.com/level-1 Level 1]。
+[[div class="darkerblock"]]
+**[[size xx-large]]Level IF-1[[/size]]**
+-----
+[[include :backrooms-wiki-cn:component:level-class
+|class=2
+|lang=cn
+]]
+[[div class="styled-quote"]]
++ **概要**
+[[/div]]
+**Level IF-1**是后室IF层群的第1层。
+> [[collapsible show="[+]研究报告：关于“层群”" hide="[-]收起"]]
+> [https://backrooms-wiki-cn.wikidot.com/the-e-p-b 正电子科技公司]的研究报告表明，后室可被粗分为多个大于“层级”的部分，这些部分被称为“层群”，最主要的被称为“主层群”，其次为“支层群”，最不重要的为“次层群”。[https://backrooms-wiki-cn.wikidot.com/translations-hub A层群]是最早被发现的支层群，而IF层群则是众多低级的次层群之一。每个层群都包含了巨量的层级。“隐秘层级”不被认为是任何层群的部分，而是单独的个体，但有时，为了方便区分，它们也会被分入别的有关联的层群。
+> [[/collapsible]]
+流浪者，如果你正在阅读这篇文档的话，那么你大概率已经来到了这里，也就是被称之为“**后室矿场**”的地方。
+[[include component:image-block
+ |name=https://cdn.pixabay.com/photo/2016/11/21/12/26/tunnel-1845046_1280.jpg
+ |caption=Level IF-1内部的照片之一。
+]]
+**Level IF-1**与矿场有许多的相似处，然而，在更多时候，它总是表现为一个巨大的隧道结构。相比于拥有近似结构的[https://backrooms-wiki-cn.wikidot.com/level-1 宜居地带]，这里要更为危险。不过，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g 探险者总署]长期驻扎于此地，你可以去寻求他们的帮助。
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+[[div class="styled-quote"]]
++ **隧道**
+[[/div]]
+在**Level IF-1**中，隧道随处可见，并且是层级最重要的组成部分。这些隧道一般呈拱廊状，内部拥有少量的白色灯光。这些灯光的电源来源未知，并且每隔一段时间会断电，因此在探索隧道时，携带光源是有必要的。
+
+在隧道中，可以发现一些破损的矿车窄轨，有时也会找到少量的矿车。这些矿车有些位于轨道上，有的则处于侧翻状态，矿车内部会存放有一些物资，如[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、金属块等。这些物资在后续的探索中可能拥有重要的作用，因此收集尽可能多的物资是被推荐的。
+
+隧道区域内并没有太多的实体，目前已知实体主要聚集在其它区域，详见下文。
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+//你看了看周围阴暗的拱廊。//
+
+//有点黑，但起码比[https://backrooms-wiki-cn.wikidot.com/level-9 那个地方]好。//
+
+//那些被称为实体的神秘怪物也不知所踪。//
+
+//也许你可以好好休息下了。//
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+[[div class="styled-quote"]]
++ **维修区**
+[[/div]]
+
+[[/div]]
+-----
+[[=]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Suesa]]
+图片均来源于pixabay的公开图片。
+[https://cdn.pixabay.com/photo/2017/08/07/16/50/the-post-apocalyptic-theme-2605634_1280.jpg 图1]
+[https://cdn.pixabay.com/photo/2016/11/21/12/26/tunnel-1845046_1280.jpg 图2]
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+<< [https://backrooms-wiki-cn.wikidot.com/normal-levels-i 主层群] | Level IF-1 | [[[Level IF-2]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,48 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal-legacy]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600&display=swap');
+
+#page-title {
+ display: none;
+}
+
+* {
+ font-family: 'Noto Serif SC' !important;
+ font-weight: 300;
+}
+
+strong {
+ font-weight: 600 !important;
+}
+
+#header::before {
+    content: "";
+    position: absolute;
+    height: 90%;
+    background-image: var(--logo-image);
+    background-size: auto 240px;
+}
+
+:root {
+ --header-title: "我们正热烈地活着";
+ --header-subtitle: "行思坐忆";
+ --title-font: 'Noto Sans SC', sans-serif;
+ --logo-image: url(https://backroomssandboxcn.wdfiles.com/local--files/collab%3Amad-lad/red-sun);
+ --visited-link-color: 255, 185, 97;
+}
+
+* {
+ font-family: 'Noto Serif SC' !important;
+}
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]

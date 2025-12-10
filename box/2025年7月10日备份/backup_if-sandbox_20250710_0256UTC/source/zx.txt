@@ -1,0 +1,160 @@
+[[module css]]
+:root {
+   --link-color: 136, 8, 8;
+   --hover-link-color: 136, 8, 8;
+   --visited-link-color: 136, 8, 8;
+   --newpage-color: 136, 8, 8;
+}
+#page-title{
+   display: none;
+}
+#header,
+.top-box,
+.bottom-box,
+.scp-image-block,
+.print-user,
+.avatar-hover {
+  -webkit-filter: grayscale(0%);
+  filter: red(75%);
+
+}
+
+#extrac-div-1{
+    display: block;
+   height: calc(100% - 150px);
+   width: 100%;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    background: linear-gradient(to bottom, transparent 0, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0.8) 40%,  rgba(0,0,0,0.9) 45%,  black 50% );;
+    background-color: ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: -9999;
+}
+[[/module]]
+[[div class="meta-title"]]
+Level IF-28.1
+[[/div]]
+[[include component:level-class
+|lang=cn
+|class=0
+]]
+
+
+
+**Level IF-28**是后室IF层群的第28层
+
++ **描述**  
+
+[[span style="color: rgba(0, 0, 0, 0.75);"]]**Level IF-28**[[/span]] [[span style="color: rgba(0, 0, 0, 0.5);"]]Level IF-28是一个无限扩展的现代化宜居社区，[[/span]] [[span style="color: rgba(0, 0, 0, 0.4);"]]其环境表现为规划整齐的住宅区。[[/span]] [[span style="color: rgba(0, 0, 0, 0.3);"]]层级内气候恒定为温和的春秋季18°C～25°C，[[/span]] [[span style="color: rgba(0, 0, 0, 0.2);"]]昼夜循环规律12小时日照/12小时日照，[[/span]] [[span style="color: rgba(0, 0, 0, 0.1);"]]且降雨仅会在凌晨以无害的细雨形式出现，[[/span]] [[span style="color: rgba(0, 0, 0, 0.05);"]]报告称**Level IF-28**层级内的实体全是友善实体，[[/span]] [[span style="color: rgba(0, 0, 0, 0.04);"]]报告称东部地区[[[Entity IF-24]]][[/span]] [[span style="color: rgba(0, 0, 0, 0.03);"]]游荡但无敌意，[[/span]] [[span style="color: rgba(0, 0, 0, 0.02);"]]但这往往会使流浪者们进入一种很深的情感状态，即使他们对这些实体并没有记忆。这可以通过未知方法来抑制。[[/span]]
+[[div class="funnytext"]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++ **.@@ @@.@@ @@.**
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
+                   **你无法摆脱那个//回忆//。**
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+                   **在回忆中//痛苦//不会让你忘却。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+                   **一派荒凉。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+                   **无法躲避的可能，**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+                   **你觉得得自己快死了。**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[module ListUsers users="."]]
+                   **而后你现在来到了这里，%%title%%，被困在自己的回忆中，无法逃出
+[[[http://backrooms-wiki-cn.wikidot.com/level-18-1/offset/1|那个回忆中]]]逃离的可能。**
+[[/module]]
+
+
+[[/=]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@

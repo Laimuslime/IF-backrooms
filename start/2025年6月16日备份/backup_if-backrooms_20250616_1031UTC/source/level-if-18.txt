@@ -1,0 +1,117 @@
+[[include :backrooms-wiki-cn:theme:better-blank]]
+
+
+[[include :backrooms-wiki-cn:theme:better-blank]]
+[[include :scp-jp-sandbox2:inc:ayu18]]
+[[module css]]
+:root {
+    /*深色*/--bb-black:255,255,255;
+    /*浅色*/--bb-white: 25,25,25;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=Backrooms
+|2=林下
+]]
+> 沉默的森林将所有流浪的人们归合一体，使其聆听森林的教诲。
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:level-class
+|class=死区
+|lang=cn
+|color=black
+|one=极端环境危害
+|two=区域性灾难实体
+|three=大雾弥漫
+]]
+**Level IF-18**是后室IF层群的第18层。
++ **描述**
+[[include component:image-block
+    name=http://u-backrooms.wikidot.com/local--files/level-u-18/mmexport1738314455763.jpeg|
+    caption=一处森林
+]]
+**Level IF-18**又名“林下”，表现为巨大且无边际的松树林，地上铺满干枯的树叶，大雾笼罩着树林，使其能见度很低，仅200米~150米。温度为1℃至-9℃
+
+
+该层级存在昼夜循环，白天时的雾气将会更加浓郁，阳光昏暗，故该层级内的白天也是昏暗的。
+
+
+流浪者感到疲倦时蹲下或坐下，干枯的树叶将会长满倒刺，刺穿流浪者；当依靠在树上时，大树将会倾倒，从而引起“迷雾”的注意。
+
+
+[[include component:image-block
+    name=http://u-backrooms.wikidot.com/local--files/level-u-18/eh|
+    caption=另一处森林
+]]
+大树上生长着藤蔓，藤蔓对流浪者有着极大的敌意，靠近藤蔓，它将会缠住流浪者的身体释放毒液。
+
+
+层级内存在着河流，河流周围50米是没有雾气的，但不宜流浪者停留此处过久，河流中的鱼类长有尖锐的牙齿与坚固的鱼鳞，难以杀死。当停留过久时，河流将会慢慢升温、涨潮，与此同时鱼类也将跳出水面，咬向流浪者，只有流浪者退至森林迷雾区域，河流才会慢慢恢复。
+
+
+层级内存在酸雨，周期不定，时间在20分钟至2小时，躲避酸雨只能寻找到石洞；酸雨来临之际，雷暴将会持续30秒至1分钟，在此时间内流浪者应快速寻找石洞躲避，不应逗留于迷雾森林中。该层级内存在少量的杏仁水，但因为酸雨的侵蚀，大部分时候都无法直接饮用。
+
+
+[[collapsible show="+ 查看迷雾相关信息" hide="- 关闭"]]
+[[include :backroomssandboxcn:kai4c:concord
+|number=REDE IF-1
+|habitat=Level IF-18
+|goi-specification=[http://backrooms-wiki-cn.wikidot.com/iets IETS]
+|danger=5
+|intel=？
+|sin=X
+|other-spec=X
+|properties=DMN UNQ AGR
+|class=Legions
+]]
+**灾害等级**：[[span style="color: red"]]●[[/span]]
+**事件名称**：雾间风吟
+
+
++ 描述
+**REDE U-1**是IF层群目前最早被发现的REDE实体，又称**迷雾**，其外观表现为巨大的迷雾团，仅存在于**Level IF-18**其中。
+
+
+**迷雾**可以在层级内四处游荡，**迷雾**在附近时，将会有风声，当**迷雾**发现了流浪者，其引发的灾难性事件**雾间风吟**将开启。
+
+
+**迷雾**发现流浪者时会将流浪者拉入一个异空间，**雾间风吟**事件即刻开启，此处表现为一个大雾更浓，更宽广，无任何物品的区域，能见度仅仅为50米左右，在此期间无任何方式离开此异空间。
+
+
+流浪者进入后，将会有台风刮过，此台风无可避免，常常一级比一级高，此期间无任何流浪者生还的报告，流浪者死亡后，尸体被返回至**Level IF-18**中。
+
+
++ 行为准则：
+
+
+++ 应当：
+·当风声传开时寻找掩体躲避
+·不发出巨大声响
+
+
+++ 不应：
+·心存侥幸
+·坐以待毙
+[[/collapsible]]
++ **基地、前哨与社区**
+M.E.G.曾尝试建立基地，但均被“迷雾”所破坏
++ **入口与出口**
+
++++ 入口
+* 极少数的情况下，在[[[Level IF-2]]]中太阳会升起，那时将会来到**Level IF-18**
++++ 出口
+* 在**Level IF-18**游荡一定时间，眼睛将会越来越模糊，最后将会来到[[[https://backrooms-wiki-cn.wikidot.com/level-c-1245|障目]]]
+------
+
+[[>]]
+[[collapsible show="愿上帝保佑你" hide="与这森林中"]]
+[[*user qwertyuiop1000]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-17]]] | Level IF-18 | [[[Level IF-19]]] >>
+[[/=]]
+[[/div]]

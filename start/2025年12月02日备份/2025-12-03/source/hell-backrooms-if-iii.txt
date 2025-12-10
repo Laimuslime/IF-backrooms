@@ -1,0 +1,66 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+回到电梯，[[*user qwertyuiop1000]]早已筋疲力尽，躺在床上，很快便入睡。醒来时，存放的10瓶杏仁水数量并无变化，但其中一瓶多了差不多10ml的量，不算多，但是能明显的看出来。醒来后，[[*user qwertyuiop1000]]先是摄入了半杯杏仁水，体力很快便恢复，似乎也没那么没劲了。
+
+层级开始随机了，没有任务，[[*user qwertyuiop1000]]感到轻松了许多，怀揣着对下一刻的无尽期待，电梯门缓缓打开……今天的层级，似乎显得格外阴森，不管怎么说，看样子似乎还挺安全的，[[*user qwertyuiop1000]]是这么想的，她打开认知滤网，信息顷刻便出现在她的面前：
+
+[[=]]
++ 后室IF层群楼层信息
+++ [[[Level IF-8]]]漫步湖滨
+[[/=]]
+[[include component:level-class
+|class=4
+|color=#008B45
+|one=不安全
+|two=不稳定
+|three=特殊效应影响
+|lang=cn
+]]
+
+**Level IF-8**是后室IF层群的第8层。
+
++ **描述**
+
+**Level IF-8**表现为一片湖区，主要由连绵不断的湖泊以及覆盖着淤泥的浅滩组成。在浅滩之上分布着广袤的树林，其地理特征类似于亚热带常绿阔叶林。**Level IF-8**层级内部的环境基本表现为正常的，但是不存在昼夜和四季循环，气候潮湿而又闷热，气温在28℃左右浮动且湿度一直维持在一个极高的水平。对于这一点，我们推测是因为构成**Level IF-8**内部湖泊的水体受到了某种影响，保持着较高的蒸发速率。
+
+[[include component:image-block |name=http://if-backrooms.wikidot.com/local--files/level-if-8/IMG_5536.jpeg
+ |caption=**Level IF-8** 里所摄下的第一幅照片。
+]]
+
+除去层级内部的自然景观，**Level IF-8**内部的人造物痕迹显著。大量的人造物体大到高压输电塔，小到废弃的四处散落的衣物，经常在层级的内部被发现。但是这些人造物品大多已经无法使用，例如输电塔的电线没有接上任何电源而只是单纯的以一种复杂而具有视觉欺骗性的方式缠绕在输电塔上面。其余的一些人造物体同样难以使用，但更像是因为已经许久没有使用过而导致破坏。
+
+**Level IF-8**内部的流浪者常常在探索了一段较远的距离之后因为某种未知的原因失联且尸体从来没有被发现过，而我们所说的这种未知的原因目前正在研究中。由于所了解的信息甚少，我们建议流浪者避免自主探索的行为。
+
+666还是个4级，但不管怎么说，层级内应该是有物资的，上文不是已提及了层级中有人造物品吗，那应该很丰富了。[[*user qwertyuiop1000]]拉高期待，走了出来。树林里常阴，闷热的天气使得人很不舒服。
+
+走了一会，[[*user qwertyuiop1000]]便发现自己身上早已湿透了，那是汗水和层级之中潮湿的水蒸气相混合所产生的。无论怎么说，物资总是要紧的，杏仁水大抵算那琳琅人造物之中的之一物品，因此在层级中还是可找到的。10瓶杏仁水，甚至找到了一些解忧罐头。解忧罐头可是好东西，哪都有，还能解压，更重要的是，刚刚[[*user qwertyuiop1000]]问过了[[*user superintendent-V]]，发现这玩意在[[*user superintendent-V]]那里能卖750信用点，那可得狠狠的收集了。
+
+不知不觉就走回去了，路上有一座混凝土桥，桥上面有着遗留的衣物什么的，[[*user qwertyuiop1000]]刚走到一半，就感到不明觉厉。似乎有什么东西在往前袭来。没错，那正是层级之中的特殊实体。[[*user meilemeweng]]看到了[[*user qwertyuiop1000]]，并大声地呼喊，称有实体在往这边来。[[*user qwertyuiop1000]]打算直接跑路，但前后都被围堵，堵桥还是成本太低了。再这样下去，别说物资，[[*user qwertyuiop1000]]也得死在这里。
+
+正在此时，[[*user user CCB]]走到了桥梁中央，直接拉住了[[*user qwertyuiop1000]]，然后从桥上掉了下去[[footnote]]成掉落物了[[/footnote]]。被浸透之后，[[*user qwertyuiop1000]]游到了层级的陆地之上，但转换效应在此时已不可避免[[footnote]]meilemeweng被自己的设定给祸害了[[/footnote]]，此时应做的就是离开此层级，三人在最后时刻回到了各自的电梯。
+
+生死之差，[[*user qwertyuiop1000]]最终回到基地，将解忧罐头卖了[[*user superintendent-V]]，获得1500信用点。[[*user superintendent-V]]确认了长期合作的消息，[[*user qwertyuiop1000]]这下能爽吃了。
+
+未完待续[[footnote]]写得比较匆忙，抱歉[[/footnote]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+神人导演
+[[*user MCMK-1234]]
+参演
+[[*user qwertyuiop1000]]
+[[*user calf-0]]
+[[*user xie5]]
+[[*user xuziqi]]
+[[*user Velian Hazi]]
+[[*user kadjwxs]]
+[[*user superintendent-V]]
+[[*user meilemeweng]]
+[[*user user CCB]]
+层级设定来自
+[[*user meilemeweng]]
+参考了康斯坦丁要戒烟的小说《全民求生：backrooms后室》
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]

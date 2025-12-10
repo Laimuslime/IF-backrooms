@@ -1,0 +1,5 @@
+[[include :backrooms-wiki:component:preview
+text=Don't cry because it's over.
+
+Smile because it happened.
+]]

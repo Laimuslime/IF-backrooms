@@ -1,0 +1,4 @@
+[[html]]
+<iframe src="//scpwiki.github.io/timer/timer-selector.html?lang=cn" allowfullscreen="allowfullscreen" width="
+100%" height="10000" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+[[/html]]

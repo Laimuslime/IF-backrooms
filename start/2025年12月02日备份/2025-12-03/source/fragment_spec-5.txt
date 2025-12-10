@@ -1,0 +1,26 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a, #header h1 a::before { color: transparent; }
+#header h2 span, #header h2 span::before { color: transparent; }
+body { background-image: var(--gradient-background); }
+[[/module]]
+
+[[div class="lightblock"]]
+[https://if-backrooms.wikidot.com/spec/offset/4 ←]
+
+------
+
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/thingfortale2.png]]
+
+------
+
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/Halloween%202.png]]
+
+------
+
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:specrewrite-5/party1.png]]
+
+------
+
+[[/div]]

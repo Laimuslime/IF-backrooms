@@ -1,0 +1,328 @@
+[[=]]
+[[module Rate]]
+[[/=]]
+
+[[include :fnhanbaofn:star]]
+[[include :fnhanbaofn:tag]]
+[[module css]]
+@import url("https://fnhanbao.wdfiles.com/local--files/start/FNHanBaoTheme.css");
+
+#page-title, .meta-title {
+    display: none;
+}
+
+.darkblock {
+   background-color:rgb(var(--2024_dark));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: none;
+    border-radius: 10px;
+}
+
+.yui-navset .yui-content {
+    background: linear-gradient(to bottom, rgb(0 0 0 / 50%), rgb(0 0 0 / 30%));
+    border-radius: 0 0 6px 6px;
+    box-shadow: 0 6px 12px rgba(255, 107, 0, 0.1);
+    transform: translateZ(0);
+}
+
+.admonition {
+margin: 0 auto 0 auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-content: center;
+justify-content: center;
+align-items: center;
+}
+
+.video a{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   text-decoration: none;
+   z-index: 10;
+   opacity: 0;
+}
+ 
+.video {
+background: transparent;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;
+margin: 1rem 1rem 1rem 1rem;
+width: 45%;
+height: 14rem;
+cursor: default;
+transition-duration: 0.4s;
+z-index: 5;
+    border-radius: 5px;
+   border-bottom: solid 2px #F27405;
+   position: relative;
+}
+ 
+.hq {
+width: 100%;
+height: 10rem;
+    border-radius: 5px 5px 0 0;
+}
+ 
+.video:hover {
+    background-color: #252525;
+transition-duration: 0.4s;
+    opacity: 0.7;
+}
+ 
+.video.bg {
+        height: 29rem;
+        width: 100%;
+    }
+    .video.bg .hq {
+        height: 25rem;
+    }
+ 
+@media (max-width: 1000px) {
+    .video, .hq {
+        width: 100%;
+    }
+    .video.bg {
+        height: 14rem;
+    }
+    .video.bg .hq {
+        height: 10rem;
+    }
+ 
+@supports (display: grid){
+#login-status {
+visibility: hidden;
+}
+}
+ 
+}
+
+body div#page-options-bottom a#history-button, body div#page-options-bottom-2 a#view-source-button, body div#action-area form#history-form-1, body div#page-edit-bottom a#history-button, body div#action-area div.page-source {
+    display: none !important;
+}
+
+/* Rate */
+.page-rate-widget-box .ratedown { display: none!important }
+
+.page-rate-widget-box .cancel { display: none!important }
+
+#prw54355, .prw54354 {font-size: 0!important;height: 0;}
+#prw54355:after {font-size: .9rem;}
+.prw54354:after {font-size: 1.05rem;}
+#prw54355:after, .prw54354:after {content: "-114514";}
+
+.printuser a[href="http://www.wikidot.com/user:info/fnhanbao"] img.small {
+    vertical-align: -0.3em;
+    margin: 0;
+    width: 16px;
+    height: 16px;
+    z-index: 0;
+    padding: 1px 9px 1px 8px;
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-image: url(https://www.wikidot.com/userkarma.php?u=1396679) !important;
+}
+
+[[/module]]
+
+[[div class="darkblock"]]
+你好啊，我是[[*user FNHanBao]][[footnote]] 别人称呼我，也喜欢别人称呼我为汉堡、堡姐、--汉堡姐姐-- [[/footnote]]，是一名什么都不会的萌新[https://backrooms-wiki-cn.wikidot.com 后室写手]。欢迎来到我的作者页！
+
+[[/div]]
+[[=]]
+---------
++ 我的作品
+-----------
+[[/=]]
+[[tabview]]
+[[tab 本站作品]]
+[[div class="admonition"]]
+
+[[div class="video" style="border-color:                    #e3dfd5;"]]
+[[div class="hq" style="background: url(https://s21.ax1x.com/2025/05/11/pEOqwCT.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Level IF-1** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**深渊之途:自我重塑之所**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao & yx3 & lucifer597**
+https://if-backrooms.wikidot.com/level-if-1
+[[/div]]
+
+[[div class="video" style="border-color:#B22222;"]]
+[[div class="hq" style="background: url(https://s21.ax1x.com/2025/07/23/pVGRIMt.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**隐秘系列** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**魄血幽怨**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao**
+https://if-backrooms.wikidot.com/blood
+[[/div]]
+
+
+[[div class="video" style="border-color:                    #FFD700;"]]
+[[div class="hq" style="background: url(https://if-backrooms.wdfiles.com/local--files/entity-if-1/Entity%20IF-1); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Entity IF-1** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**终极语言（The Ultimate Language）**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao & lucifer597**
+https://if-backrooms.wikidot.com/entity-if-1
+[[/div]]
+[[/div]]
+[[/tab]]
+
+[[tab 竞赛作品]]
+[[=]]
++ [/2025-level-if-1 Level IF-1竞赛]与[https://syndication.wikidot.com/2025joint-contest 十站联合竞赛]
+[[/=]]
+
+[[div class="admonition"]]
+[[div class="video" style="border-color:#e3dfd5;"]]
+[[div class="hq" style="background: url(https://s21.ax1x.com/2025/05/11/pEOqwCT.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Level IF-1** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**深渊之途:自我重塑之所**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao & yx3 & lucifer597**
+https://if-backrooms.wikidot.com/level-if-1
+[[/div]]
+
+[[div class="video" style="border-color:#e3dfd5;"]]
+[[div class="hq" style="background: url( ); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Entity ZD-10** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**！！您搜索的页面:Entity Zd-10不存在！！**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao&yx3&jiliangjiyin&LYH0818**
+https://backrooms-survivor-governor.wikidot.com/entity-zd-10
+[[/div]]
+
+[[=]]
++ [https://backroomss.wikidot.com/2024-medium-sized-article-competition 2024 S分站中等规模文章竞赛]
+[[/=]]
+
+[[div class="video" style="border-color:#B0E0E6;"]]
+[[div class="hq" style="background: url(https://0.z.wiki/autoupload/20240719/0EcD/1080X762/Screenshot_20240719_131323.jpg?type=ha); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Level S-1** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**核电站**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao & aircraft beeeee**
+https://backroomss.wikidot.com/level-s-1
+[[/div]]
+
+[[div class="video" style="border-color:#B0E0E6;"]]
+[[div class="hq" style="background: url(https://s1.ax1x.com/2023/07/30/pPp5WSf.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Level S-888** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**门外时常传来嘶吼声......**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao**
+https://backroomss.wikidot.com/level-s-888
+[[/div]]
+
+[[/div]]
+[[/tab]]
+[[tab 中文维基作品]]
+
+[[div class="admonition"]]
+[[div class="video" style="border-color:#F0E68C;"]]
+[[div class="hq" style="background: url(https://imgurl.diadi.cn/imgs/2024/08/8ce5d004c1b9b297.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**Level C-1056** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**朽城**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao**
+https://backrooms-wiki-cn.wikidot.com/level-c-1056
+[[/div]]
+
+[[div class="video" style="border-color:#B22222;"]]
+[[div class="hq" style="background: url(https://s21.ax1x.com/2025/07/23/pVGRIMt.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[/div]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell style="text-align: left;"]]
+[[size 85%]]**隐秘系列** [[span class="vid"]]@@ @@[[/span]][[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 85%]]**魄血幽怨**[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+by **FNHanBao**
+https://backrooms-wiki-cn.wikidot.com/blood
+[[/div]]
+
+[[/div]]
+[[/tab]]
+[[/tabview]]
+
+[[=]]
+-------
++ 芝士留言处
+---------
+[[/=]]
+
+[[module comments]]

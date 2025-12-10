@@ -1,0 +1,74 @@
+[[include :backrooms-wiki-cn:theme:nuterminal]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+|three=无威胁实体
+]]
+**Level IF-182**是后室IF层群的第182层。
++ **描述**
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_982.jpg
+|caption=**--Level 982-- Level IF-182**的唯一一张已知图像。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1737224319158-570f67b1f038?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCVFNiVCNCVCRSVFNSVBRiVCOSUyMCVFOSU5OSVBMiVFNSVBRCU5MHxlbnwwfHwwfHx8MA%3D%3D
+|caption=从该层级带回基地的装饰。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1685968064527-a352c0137176?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCVFNiVCNCVCRSVFNSVBRiVCOSUyMCVFOSU5OSVBMiVFNSVBRCU5MHxlbnwwfHwwfHx8MA%3D%3D
+|caption=被某个收藏家所收藏的层级霓虹灯。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2014/12/26/11/56/lamp-580378_1280.jpg
+|caption=台灯者。
+]]
+**Level IF-182**为一个大小似乎接近于前厅中国家美利坚合众国的怀俄明州的院子，其内部堆满各种不同的物品。层级被装饰成派对风格，随处可见散落的彩带和霓虹灯装饰。白色的圆桌与木椅摆放在层级空地中，每个圆桌周围都摆放着四个木椅。
+
+桌子上有时摆放着一些食物，或是与食物相关的物品，例如餐盘、餐叉、瓶子、水壶或餐刀。流浪者不应食用桌面上有时会出现的蛋糕或是纸杯蛋糕，这些食物隐含着麻醉药的气味，食用会导致流浪者进入昏厥状态。
+
+层级中唯一的食物来源是层级中可能出现的烧烤炉上的烤肉，这些烤肉疑似为窃皮者的肉，烤肉加以未知香料腌制，每块肉都为全熟。圆桌上有时会生成一些完全安全的杏仁水或奶油。所有食物完全可以正常食用。
+
+**Level IF-182**的照明来自于层级顶部悬挂的迷你灯泡，每条将灯泡串联在一起的电线都相聚6dm，所有电线从北至南贯穿整个层级。这些电线连接一个统一的区域，推测为[[[Level IF-335]]]。
+
+层级的地面由人造草坪组成，表面较为粗糙，不建议直接触碰。少数情况下，流浪者可在层级中发现一些充满纯净水的游泳池，这些游泳池不断散发着氯的气味。游泳池的深度似乎是无限的，不建议无安全措施的情况下强行深入游泳池。
+
+层级中似乎有一些来自于[https://backrooms-wiki-cn.wikidot.com/level-26 Level 26]的实体，例如派对客，但这些派对客本身是毫无恶意的，它们甚至只是想开一个很酷的派对。[[footnote]]这句话来自于已归档 Level 0 版本“新年关卡”[[/footnote]]然而，派对客的转化特性仍然存在，因此并不建议流浪者接近这些派对客。
+
+不建议流浪者前往此层级的边缘，一旦到达层级边界，一些异常的事件将开始频繁发生。例如，一些无害实体的出现频率会大大增高，同时层级中的灯光也开始闪烁，草地板材质开始变得异常。
+
+若流浪者在边界待了8小时以上，流浪者将被传送回层级的原点。层级的边界为一堵无限延伸的墙壁，由一种尚未发现的、未知的金属所构成。墙壁几乎不可越过，墙壁总是会在视觉上变得更高。墙后似乎是一片无尽的森林或是郊区，有传言内部游荡者浮空的发光眼镜，这些眼睛总是注视着墙后的流浪者并施以精神压力。
+
+离层级中心30㎞以外为一片大小未知的郊区，郊区整体成T形，大部分房屋的装饰与内部存有的物品种类都是完全一致的。郊区被分为4个区域，每个区域有60个不可进入的装饰性房屋和120个可进入的房屋，可进入的房屋通常放置着一些有用的物资。郊区中间为一个巨大的市政厅，市政厅较为宽敞，内部人员较多。
+
+层级内存在一个特有实体，名为“台灯者”，这些实体表现为巨大的台灯，且源源不断发出辐射，移动速度极慢。当它们感到威胁时，它们的灯部会突然亮起。大部分“台灯者”都是极其温顺的，甚至可以用盖革计数器驯服。[[footnote]]尽管我们不知道他们是怎么想到用盖革计数器猛揉“台灯者”的头的 ——B.O.P.某前哨人员[[/footnote]]台灯者似乎需要寄生其他实体才得以生存，大部分被寄生的对象为窃皮者，这些窃皮者的表皮被完全剥离，剩下的血肉被包在“台灯者”的身体里以提供养分。
++ **基地、前哨与社区**
+++ M.E.G. 第三之墙 前哨
+* 位于层级中心
+* 人员居多
+* 可用于交易与社交
+* 直至最近被挖掘出来
+++ B.O.P. 九八乂之眼 前哨
+* 重建该层级
+* 减少“大清洗”破坏
+* 寻找幸存者
+* 寻找旧Level 980至旧Level 994的最速切出口
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-241]]]中切入一旁的白色墙壁即可来到此层级
+++++++ 出口
+* 当流浪者切入层级边缘之时，流浪者将进入[[[Level IF-183]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+原文当然是Level 982了喵
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-181]]] | Level IF-182 | [[[Level IF-183]]] >>
+[[/=]]
+[[/div]]

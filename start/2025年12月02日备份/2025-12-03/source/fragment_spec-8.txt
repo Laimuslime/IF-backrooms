@@ -1,0 +1,44 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+.textblock {
+  color: rgb(255, 255, 255);
+  background: rgb(35,35,35);
+  padding: 0.01rem 1rem;
+  margin: 0.5rem 0;
+  border: solid 5px rgb(55, 55, 55);
+}
+.textblock a { color: red; }
+.textblock a:hover { color: red; }
+.textblock a:visited { color: red; }
+.textblock .arrow a { color: #52bde2; }
+.textblock .arrow a:hover { color: #52bde2; }
+.textblock .arrow a:visited { color: #52bde2; }
+[[/module]]
+
+[[div class="textblock"]]
+[[=]]
+[[span class="arrow"]][https://if-backrooms.wikidot.com/spec/offset/7 ←][[/span]] **README.TXT**@@                                                                                                                                                         @@[https://if-backrooms.wikidot.com/spec/offset/4 X]
+[[/=]]
+
+------
+
+{{README.TXT}}
+
+{{嘿Spec。我不知道你是否能看到这条消息……但我觉得还是有必要发给你。有位主管在我旁边掉了几张纸。我看见了上面的内容，根据2030年之前的那些文件的准确性，我相信这些情报是真的。}}
+
+{{就当我们扯平了。}}
+
+{{——演员}}
+[[/div]]

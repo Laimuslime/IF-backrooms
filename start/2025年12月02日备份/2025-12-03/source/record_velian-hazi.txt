@@ -1,0 +1,5 @@
+warn: '0'
+kick: '0'
+ban: '1'
+record: '**2025-10-1：**自爆其使用AI，处以一个月封禁。'
+case: unlock

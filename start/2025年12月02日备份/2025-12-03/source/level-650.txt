@@ -1,0 +1,5 @@
+[[include :backrooms-wiki:component:rate]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]

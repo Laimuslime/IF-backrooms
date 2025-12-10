@@ -1,0 +1,54 @@
+[[include component:list grid='in others' 'in out' 'toc toc'|mgrid='in' 'out' 'others' 'toc']]
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是“现象”？
+//“现象”//（Phenomenon）一词用来描述那些奇怪的、无法解释的事件，这些事件不能简单地被区分有生命和无生命、人和非人、存活和死亡等特征的其他类别概括。现象这个术语涵盖了通常没被人们完全理解的任何无法解释的、不自然的超常。现象以蔑视物理定律，推动时间和欧式几何等概念的边际而闻名，在这些现象中，不可能可成为现实。或许可以说，这些现象就是使得这个空间这么令人又爱又恨的根本原因，以及将这个世界同前厅分割开来的界限。
+
+从穿墙术、神秘仪式、给定空间里突然出现的致命区域、将无生命变为有生命的异常法术到眨眼之间位移至其他房间，现象可以涵盖从各种各样有用却无法解释的技能，到不可避免的由人类可能永远无法完全理解的势力或神力造成的死亡。建议在探索未经发掘或未被完全理解的层级时要特别小心，因为理性无法解释它其中含有什么样的未知。
+[[/div]]
+
+[[div class="intro-others intro-block"]]
+++* 更多文章[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:normal-levels|普通层级]]]**
+* **[[[overview:entities|普通实体]]]**
+* **[[[overview:objects|物品]]]**
+* **[[[random:random-phenomenon|随机现象]]]**
+[[/div]]
+[[div class="intro-out intro-block"]]
+++++* [[span class="penmark"]]@@ @@[[/span]]屏幕之外……
+世界观之外，现象可以定义为任何奇怪的，不自然的在后室中发生的事件。现象可以是某个层级的墙壁突然在一日之间变换颜色又恢复如初，某个层级内的空间/效应导致时间的加速和减缓，某个可以用来召唤超常生物的奇怪仪式，某个层级的形式突然彻底改头换面，当然，任何能写成一篇文章的其他无规律、难以解释的事件也可以算是现象。这个类别涵盖的范围非常广泛，请尽情释放你的创作力吧！
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 Phenomenon IF-1-15]
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
+++ Phenomenon IF-1-15[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+* [[[Phenomenon IF-1]]] - “无数据”
+* [[[Phenomenon IF-2]]] - “倾圮雨幕声”
+* [[[Phenomenon IF-3]]] - “无数据”
+* [[[Phenomenon IF-4]]] - “无数据”
+* [[[https://if-backrooms.wikidot.com/phenomenon-if-5|Winter IF-5]]] - ##33aacc|[[span class="ruby"]]「凛冬雪穹」[[span class="rt"]]“落雪”##[[/span]][[/span]]
+* [[[Phenomenon IF-6]]] - “鬼哭狼嚎”
+* [[[Phenomenon IF-7]]] - ##orange|--日下陵墓--## ##grey|苦痛解脱##
+* [[[Phenomenon IF-8]]] - “无数据”
+* [[[Phenomenon IF-9]]] - “无数据”
+* [[[Phenomenon IF-10]]] -  [[span style="text-shadow:0px 0px 0px, 0px 0px 15px;color:grey;"]] “暴雨性心脏标记”[[/span]]
+* [[[Phenomenon IF-11]]] - “无数据”
+* [[[Phenomenon IF-12]]] - “无数据”
+* [[[Phenomenon IF-13]]] - “无数据”
+* [[[Phenomenon IF-14]]] - “无数据”
+* [[[Phenomenon IF-15]]] - “无数据”
+[[/div]]
+
+
+[[module CSS]]
+.intro-toc p a {
+    width: 100%;
+}
+[[/module]]

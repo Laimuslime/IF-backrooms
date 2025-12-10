@@ -1,0 +1,560 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "earthy-brown-theme";
+   --theme-name: "Earthy Brown Theme";
+ 
+   --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "The Backrooms";
+   --header-subtitle: "你曾经来过这里";
+ 
+    --body-font: Inter, Noto Sans SC, Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, Noto Sans SC, Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, 幼圆, Noto Serif SC, Consolas, monaco, monospace;
+ 
+   /* 棕色系调色板 */
+   --white-monochrome: 30, 25, 20;            /* 深咖啡 */
+   --pale-gray-monochrome: 20, 15, 10;        /* 近乎黑的深棕 */
+   --light-gray-monochrome: 95, 80, 70;       /* 灰褐 */
+   --gray-monochrome: 175, 150, 140;          /* 淡驼色 */
+   --black-monochrome: 245, 235, 230;         /* 米白 */
+   --bright-accent: 140, 90, 80;              /* 陶土红 */
+   --medium-accent: 110, 70, 50;              /* 深棕 */
+   --dark-accent: 80, 45, 30;                 /* 巧克力棕 */
+   --pale-accent: 160, 120, 120;              /* 灰粉 */
+   --dark-gray-monochrome: 120, 100, 100;     /* 棕灰 */
+   --light-pale-gray-monochrome: 25, 18, 15;  /* 幽暗棕 */
+   --very-light-gray-monochrome: 60, 45, 40;  /* 深岩棕 */
+   --visited-link-color: 160, 100, 60;        /* 黄铜色 */
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--pale-gray-monochrome)) 0%,
+      rgba(20, 12, 8, 0.20) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--black-monochrome);
+   --swatch-headerh2-color: var(--black-monochrome);
+   --swatch-topmenu-border-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-bg-color: var(--pale-gray-monochrome);
+ 
+   --link-color: 200, 150, 100;               /* 沙金色 */
+   --hover-link-color: 180, 120, 80;          /* 铜棕色 */
+ 
+   --background-gradient-distance: 0rem;
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#skrollr-body {
+   background-image:
+    radial-gradient(circle, rgb(var(--pale-gray-monochrome)) 50%, transparent 0);
+   background-repeat: repeat;
+   background-size: 0.25em 0.25em;
+   width: 100%;
+   height: 7.5rem;
+}
+ 
+#container {
+   background-image: radial-gradient(circle, rgba(20, 12, 8, 0.40) 50%, transparent 0);
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+ 
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #0c0c0c;
+}
+ 
+#footer{
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .25);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--black-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(80, 45, 30, 0.9) !important;
+   color: rgb(var(--black-monochrome));
+   border-color: rgb(var(--bright-accent));
+}
+ 
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(20, 12, 8, 0.8);
+   border-left: 0.5rem solid rgba(var(--bright-accent));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--light-gray-monochrome));
+   border-left: 0.5rem solid rgba(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(76,35,0,.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(76,35,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(225,161,27,1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(12,11,0,1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+
+/* 已访问链接样式 */
+#page-content a:visited {
+    color: rgb(var(--visited-link-color));
+    opacity: 0.9;
+    text-shadow: 0 0 2px rgba(var(--bright-accent), 0.2);
+}
+
+#page-content a:visited:hover {
+    color: rgb(var(--hover-link-color));
+    opacity: 1;
+    text-shadow: 0 0 3px rgba(var(--bright-accent), 0.3);
+}
+[[/module]]
+
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div class="blockquote"]]
++ **文件A**
+近日来，[[[Level IF-3]]]内出现了大量报告流浪者失踪的案例。一名居住于[已编辑]的流浪者报告称，自己的朋友在前往商场收集物资的过程中失联，近三周以来，这一名失踪的流浪者再没有被观测到过。
+
+根据那一名流浪者的叙述，失踪者事实上并不是在商场内部失踪的，而是在穿越绿化带的过程中“在没有同伴注意的情况下突然消失了”。我们推测在某一些绿化带中存在着一个可以进入某个未知层级的切入口，并且已经派遣人员进行调查。对于探索这一个未知的层级，我们正在做出努力。
+@@@@
+@@@@
++ **文件B**
+近日以来，[[[Level IF-3]]]内部出现了大量失踪人口异常回归的案例。这一些人员重新出现的时间距离他们被报告失联的时间已经相隔了4年。一名流浪者对我们报告称，他们切入了一个从未被发现过的层级，这与我们最初所推测的相符。
+
+值得注意的另一个现象是，每一个重新出现的流浪者似乎都染上了一种恶性疾病。这种疾病并无传染性，但是仍需要我们保持警惕，并且加以研究。
+
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+**Armand**：“看见了吗？注意这一个部分。这两个文件充分说明了这个新层级的存在。”
+
+**Eulalie**：“呃，纠正一下。我认为这并不算是真正的新层级，因为如果按照那些流浪者的说法来看的话，这个层级实际上在4年以前就应该被发现了。”
+
+**Eulalie**：“但是由于这些流浪者的切出，这个层级才真正地展现在众人们的面前。”
+
+**Armand**：“你分析的很对，毕竟如果这个层级在没有WiFi的情况下，如果流浪者不能从这个层级切出那么实际上这个层级就是完全封闭的。”
+
+**Eulalie**：“对，这样的话我们就不能了解它了。”
+@@@@
+@@@@
+
+两人陷入了一阵沉默。**Armand**轻轻吹了一口马克杯里的咖啡沫，长舒了一口气。他们都很清楚，即使“流浪者回归”之类的报告并不算稀缺，但是这一点报告根本不足以使人们了解到这个层级的本质。从这个角度来看，这是一个很棘手的问题——因为，他们缺乏足够的信息。
+@@@@
+@@@@
+
+**Eulalie**：“那么，我们现在应该怎么办呢？”
+
+**Armand**：“我认为如果让我们自己切入这个层级进行调查，明显是不现实的。这样太贸然了。”
+
+**Eulalie**：“呃，我们可能忽略了一个很重要的信息获取渠道。”
+
+**Armand**：“什么？”
+
+**Eulalie**：“既然那些流浪者都已经回来了，那么我们为什么不能直接去问他们呢？他们一定对于层级内部的各种方面很了解吧。至少，比我们所了解的要多得多。”
+
+**Armand**：“啊，是的！我们应该让那些流浪者现身说法。”
+
+**Eulalie**：“事不宜迟。我认为我们现在还是赶紧开始吧。如果这个层级真的存在潜在不安全性的话，那么我们就更不能耽误时间了。”
+
+**Armand**：“嗯，我们该走了。”
+
+
+[[div class="blockquote"]]
+
+[[=]]
++ 访谈记录IF-35-1
+[[/=]]
+------
+
+我们在晚上8:00到达那一名流浪者的家中。这是一名女性流浪者，她瘦骨嶙峋，一头棕色的波浪头发像干稻草一样黏在一起，随意披散在肩上。她眼睛显得更大更黑了，却没有任何神采。她皮肤苍白，活像一个被弄坏的木偶，四肢扭曲着，表现出根本就不像是人类所能做出的姿态。现在，她正疲惫地坐在摇椅上。她很年轻，现在却如同一个老妇人，稍不注意就会散架似的。她声音嘶哑，已经不能说话了。
+
+**Eulalie**：“亲爱的女士，您好。请问，您还记得你所去过的那一个层级吗？”
+
+她缄默着，似乎反应很迟钝，听到我们所说的话之后，她忧伤地点了点头。“我不能说话，”她这样写着，“所以我把我所看到的一切，以我的方法——包含着我最痛苦，最绝望的情感——写下来给你们看。”
+
+{{“这里简直像个地狱，但是相比于那一片火海来说，倒是温柔了许多。如果说这里实在是有什么很大的缺点的话，那就是这里的确太黑了。空气中似乎漂浮着泥沙，无时无刻不在警告着你，你似乎失去了一些生来为人最为基本的权利。”}}
+
+她一边思索，一边写下这样的文字。
+
+**Armand**：“那么，就像您所写的，那里的环境似乎并不很好。‘空气中漂浮着泥沙’，可能这里与土地有关。我的推测并不完全错误，对吧？”
+
+她再一次点了点头，双眼似乎有那么一瞬变得清亮了。但是很快，那一抹色彩再一次浑浊下去。她埋下头，拿起铅笔，继续很艰难地书写着：
+
+{{“爱丽丝追逐兔子而掉入树下的洞穴，从而经历了一场奇妙的冒险。可是你要知道，爱丽丝为什么能那样子？那是因为，在树下的土穴之中，有着这样一个小小的美丽天地。然而掉入这一座黑暗之塔最底部的我们，却只能看到这样的场景：一条条连接起来的走廊，两边堆满了许久没有使用过的杂物。我们看不见太阳，我们只能看得见那微弱到近乎可笑的灯光。”}}
+
+“我正在尝试着用更富于美感的文字来表达我的想法，”她缓缓地抬起头，“我感到我的思想正在逐渐变得清晰起来，我沉睡已久的大脑似乎已经开始复苏了。”她向我们展示她所写的文字。“我的心灵再一次变得缤纷多彩，而在过去的四年里，我除了生存，什么也不去想。”
+
+{{“这里很脏，很旧。如果说烂尾楼也有一个典范之作的话，这里可以说是当之无愧。每一面墙由于泥土的挤压，形成了不同程度的突起与凹陷；而那些靠近泥墙边缘的墙壁则看起来像是膨胀到极端的气球，以一种令人难以置信的方式扭曲。在这些土里面还有这各种各样的东西，时不时伸出的白色触手像是故意将人绊倒的地精。如果使用更有美感一些的说法，我可以把它叫做“仙女”，但我实在没有理由这样做。”}}
+
+{{“那一天，我在经过走廊的时候不经意间发现，在覆盖地面上的那一层污秽之物中，有什么东西正在闪闪发光。灯光依然十分昏暗，但是照耀在那东西上面，看起来就像珍宝一样。
+于是我走了过去。于是我走了过去，把那东西拿了起来。那是一面镜子，我已经很久，很久没有见过它了。”}}
+
+写完这一行字之后，她再一次抬起头，向我们笑了一下。我们苦笑着，目光却聚集到她的纸笔上……还有她的手上。
+
+与纤细的四肢形成了鲜明的对比，她的双手显得异常粗大，呈现出一种病态的形态。她低头去凝视自己的双手，发出了一声叹息，然后继续写了起来。
+
+{{“我跪在柔软的污泥之上，静静地捡起那一块晶莹剔透的东西。啊，它真亮，真美。虽然它已经破碎不堪，虽然它已经覆盖了灰尘。我的眼泪滚落在上面，我轻轻的将那一些黑色的东西拂去，仔细地端详着我的脸。”}}
+
+{{“可是当我看向自己的脸时，我被吓了一跳。那绝对不是人类的脸。它太过苍白，前端突出。这个时候我再一次发现一个可怕的真相，我的双手早已没有原先的灵巧。”}}
+
+{{“所以，我还是人类吗？我刚才所见到的那个东西，让我不敢相信那竟然是我。回想过去几个月的生活——也许应该是几年，我早已记不清了。我也许不应该那样贪婪，把白色的章鱼触手似的东西当成沙漠里的一汪清泉。”}}
+
+{{“我现在疲惫不堪，也许我即将死去。
+但是我在我的双眼之前，我看见了古老的光。”}}
+
+写完最后一句话，她扔下了纸笔。她似乎不决定再写了，她的双眼里闪烁着奇异的色彩，然后她静静地坐着，似乎与我们并不在同一个世界。
+
+也许就像她所说的，她看见了古老的光。
+[[/div]]
+
+**Eulalie**：“这次的访谈让我们知道了不少东西。比如我们已经了解了这个层级的基本情况。”
+
+**Eulalie**：“但是更多的细节，我认为我们需要了解其彵流浪者的经历。”
+
+**Armand**：“关于这一个部分，我们暂时还不清楚。”
+
+**Armand**：“不过值得庆幸的是，我们总算开了个好头。所以我们先把我们所知道的写下来吧——附带上目前已知的唯一一张图像资料。”
+
+------
+**Level IF-35**是后室IF层群的第35层。
+
++ **描述**
+
+Level IF-35类似于一座巨大的地下建筑。这一座建筑有着类似于楼体的层状结构，并且每一层的面积相对有限。不过尽管如此，每一层的面积也相当大。在每一层内部，绝大部分区域都是单调的走廊和房间。在这一些走廊和房间内部可能存在着一些家具，但是这些家具构造简单，年久失修，因此通常认为不具备任何利用价值。层级内部也是非常黑暗的，大部分区域内没有任何照明设施，少部分存在照明设施的区域也经常发生断电现象。仅有的光源由于接触不良所散发出来的光线也不足以照亮5米之外的范围。
+
+[[include component:image-block
+ |name=https://file.ahelpers.com/convert/outputs/image/2025-05-17/8eq1akjdfh5_1747509866105.jpg
+ |caption=**Level IF-35**里所摄下的第一幅照片。
+]]
+
+**Level IF-35**中许多墙壁已经开裂，混有沙砾的粘土从墙壁的裂缝中不断的扩展延伸，并且覆盖地面甚至是完全堵塞一整条走廊。这一些粘土和正常的土壤并没有区别，触摸起来十分松软并且较为潮湿。任何挖掘楼体外土壤以扩展活动范围的尝试都是十分困难的，并且难以成功。流浪者能够经常发现土壤中伸出一些白色的触须，富含汁液并且触感柔软，类似于植物的根部。但由于挖掘土壤难以进行，无法得知沿着根部能否发现更大的植物根系群。
+
+**Level IF-35**内部环境闷热而潮湿，温度高达37-38℃，墙壁上的灰尘由于接触到了蒸汽而形成了一层黏糊糊的物质。随着流浪者不断的向上探索，即到达这个一层的上方一层，每一层内部的被泥土覆盖的面积将会逐渐变多，以至于寸步难行。
+@@@@
+@@@@
+------
+**Eulalie**：“好了，我们现在又卡住了。我们只知道这个层级对于流浪者会有生理结构的影响，但是究其原因，我们并不清楚。”
+
+**Armand**：“确实，我们所知道的还不够多。我们需要普遍性的结论。”
+
+**Eulalie**：“那么让我看一看……我们需要知道我们要了解的下一个流浪者的基本信息。”
+
+**Eulalie**：“现在，我们需要定下目标——明确我们的下一名被调查者了。〞
+
+**Eulalie**：“因为我们现在只是了解了这个层级的基本环境，对于这个层级本身的其他的一些特性我们可以说是一无所知。〞
+
+**Armand**：“正是因为如此，所以我们需要其他的证人是吗？我们要寻找这些流浪者的共同特征，然后了解这个层级的本质。”
+@@@@
+@@@@
+@@@@
+**Eulalie**凝视着汽车的挡风玻璃，外面是城市绚烂的夜景。她将汽车停下，打开车门走了出去。夏日的热风吹面而来，周围的虫鸣声此起彼伏，听起来很聒噪，却又在漫漫的长夜里给人一种安心的感觉。“走吧。”她这样说着，晚风吹过她的长发，**Eulalie**的视线在远方游移着。
+
+[[div class="blockquote"]]
+
+[[=]]
++ 访谈记录IF-35-2
+[[/=]]
+------
+
+这一次的调查相对于上一次非常短。和我们进行访谈的是一个男人，和那一个女子一样瘦弱苍白。他也是那样呆滞地坐着，看起来有说不出的劳累。他的脊背深深地陷下去，衣服像是旗帜一样挂在他的身上。根据资料，他不过30多岁，但看起来完完全全像个老人了。
+
+**Eulalie**：“您好吗，先生？”
+
+听到我们的话，他缓缓抬起头，与之前那一名访谈者的反应如出一辙。他像是很费劲地将我们所说的话认真的理解了一番，然后抖动着，颤颤巍巍地伸出食指指向我们。他似乎很努力的想要看清楚我们长什么样，看清楚我们到底是谁，但是最终却失败了。
+
+**Armand**：“怎么了？”
+
+他发出一阵嘶哑的声音，听起来就像是蜂鸣器。他似乎很急切地想要表达着什么，可是因为自己说不出话来，而不得不瞪着眼睛，手脚划动着。看到他这样，我们把笔和纸递给了他。
+
+他平静了下来，静静的看着手上的那一支铅笔。然后他痴痴地笑了笑，又瞪大眼睛看着那一张纸。紧接着，他开始在纸上写着：
+
+{{“我忘记了很多事情，但是有些事情是忘不掉的。那里有很多人，他们也许死了，也许没有。我们会在两个月内死掉。只要我们从那里出来。我的脑袋里面有一个闹钟，现在所剩的日子不多了。我像是做了个梦，梦见我的嘴巴变尖了。我在一根白色的管子上喝着液体，也许是很苦涩的液体，但是只能喝，喝下去。然后我在向上爬着，不断的爬着，挖土。我的手像一个沙锤，把土刨开。最终我终于看见了光，我倒在了草地上面。有人把我抬走了，这个时候我睡着了。别再问我了，我什么都记不清楚，我现在正生长着翅膀，我会飞走的。”}}
+
+看到这里，我们摇了摇头。我们似乎无法再从他这里获得更多的信息了，因为他已经睡着。他似乎正在做着夏日的梦。
+
+窗外热浪翻滚，现在已经是盛夏了。我们听见树林里传来虫鸣的声音，静谧却又显得诡谲。
+
+最终我们走出了那一个小屋。
+[[/div]]
+
+**Armand**：“那两个人他们的病症出奇相似。这难道是一种巧合吗？”
+
+**Eulalie**：“其实我并不那么认为。我很确信的是，这是这个层级的一种异常特性。”
+
+**Eulalie**：“而且他们都提到了一点，他们认为自己会死亡。而且他们还坚信这一点。”
+
+**Armand**：“嗯。最近还有一点，有一些从那个层级回来的流浪者现在已经去世了。”
+
+**Armand**：“而且在他们的现场有一些相似的地方。例如，他们的尸体都非常干枯，表面覆盖了一层泥土，并且迅速地表现出腐败现象。”
+
+**Eulalie**：“那么这个说明了什么呢？”
+
+**Armand**：“这个层级……我想它似乎正在模拟着什么。只不过我们还未能找到其规律。”
+
+**Eulalie**：“呃….…”
+
+**Eulalie**：“说实话，其实这一切的一切，都让我想到一种昆虫。”
+
+**Armand**：“什么昆虫？”
+
+**Eulalie**：“cigale.”[[footnote]]**Eulalie**与**Armand**都是法国人。这里的“cigale”是法语中的“蝉”。[[/footnote]]
+
+**Eulalie**：{{“四年黑暗中的苦工，一个月阳光下的享乐，这就是蝉的生活。我们不应该责怪它的叫声太过刺耳，因为它掘土四年，才能够穿起漂亮的衣服，长出与飞鸟相匹敌的翅膀，尽情的沐浴在阳光之下。什么样的钹声才能表达它现在的片刻欢愉呢？”}}
+
+**Eulalie**：“这一段是《昆虫记》中对于蝉的生长过程的描述。正如法布尔所说的，蝉要在地底下掘土整整4年，才能来到地面发育成成虫。”
+
+**Eulalie**：“但是来到地面之后，蝉的成虫只能生活两个月。这难道不和那些流浪者的遭遇很像吗？”
+
+**Armand**：“啊，你这么一说确实解释的通！可是为什么会这样呢？”
+
+**Eulalie**：“我想，这也许就是所谓的‘后室意志’吧。”
+
+**Armand**：“不管怎么说，我们已经把这一部分弄清楚了。现在，我们把后半部分写完吧。”
+------
+@@@@
+@@@@
+长期生活在**Level IF-35**的流浪者生理形态将会逐渐发生变化。由于缺乏光照，流浪者们的皮肤将会变得苍白并且出现严重的水肿。受这种异常效应影响的流浪者前肢将会变得肥大并且表皮组织不断硬化，当流浪者前肢表皮组织坚硬到一定的程度后将会形成特殊的结构，类似于若虫时期蝉的开掘前足，这种结构有利于流浪者挖掘层级内的土壤以便于继续向上探索。
+
+**Level IF-35**内部没有任何可以利用的常规资源，因此上面所提到过的混杂在泥土中的类似于植物根部的白色触须成为了本层级唯一的食物来源。而在流浪者生理结构变化的过程中将会在口部形成刺吸式口器，便于吸收营养，从而维持流浪者的生命。整个生理结构转化的过程将会在5~8个月内完成。
+
+**Level IF-35**有着让流浪者强制停留的特性，所有切入这个层级的流浪者都会受到一定的精神影响，并且执着的向上探索。当流浪者在这里停留了4年之后，将会在当前所处的这一层内发现一个通向天花板的阀门。打开这一扇阀门会让流浪者切入自己原先所在的层级。值得注意的是，当流浪者离开**Level IF-35**的时候，一部分生理结构的转换将会恢复正常，另一部分则不会。
+
+当流浪者回到自己原先所在的层级的时候，将会出现一个最明显的现象，流浪者的肩胛骨将会呈现出不自然的突出并且形成翼状肩胛。流浪者的声带因为严重受损并且只能发出规则的鸣声。在五周之内，流浪者将会因为某种未知的原因死亡，并且这个过程似乎难以避免。目前，我们正在研究这些流浪者的死因并积极寻找对策。
+
+由于以上所述的原因，我们将该层级的生存难度定为：
+
+
+[[include component:level-class
+|class=5
+|color=#d78900
+|one=不安全且不稳定
+|two=重度生理结构影响
+|three=周期性死亡
+|lang=cn
+]]
+
++ **基地、前哨与社区**
+**Level IF-35**存在使流浪者相互隔离的特性，并且由于其相当长的切入与切出的周期，故在层级的内部不存在任何基地，前哨与社区。
+
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]的一些泥土绿化带中，存在着可以切入**Level IF-35**的区域。
+
+[[div class="blockquote"]]
+**Eulalie**：“嗯，前面的部分总算完成了。终于可以给我们的工作收一个尾了。你觉得我们对于这个层级的生存难度评价是否足够合理？”
+
+**Armand**：“我是这么想的，这个层级虽然不会直接让流浪者在这个层级死亡，但是它所施加的影响的确是很可怕的。我认为我们的评级已经足够严谨。”
+
+**Armand**：“但是话又说回来，终于到了出口的部分。我已经迫不及待地想要知道这个人间地狱究竟应该如何逃离了。
+
+**Eulalie**：“呃，我想你可能失望了。根据我整理的资料，如果不在这个层级待上四年似乎是没有办法出去的。”
+
+**Armand**：“这样的话……我似乎明白为什么那些流浪者感到如此绝望了。”
+
+**Armand**：“我们只能祈求自己不要切入这一个层级吧……让我们面对这个无情的事实吧。”
+[[/div]]
+
+++++++ 出口
+* 离开这个层级，只有唯一一种方法，在**Level IF-35**内部停留4年之后自行切出。任何特殊的切出手段已经被证实无效。
+
+
+[[div class="blockquote"]]
+
+
+
+
+
+[[/div]]
+====
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-34]]] | Level IF-35 | [[[Level IF-36]]] >>
+[[/=]]
+[[/div]]

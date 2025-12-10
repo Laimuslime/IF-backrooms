@@ -1,0 +1,67 @@
+[[include :backrooms-wiki-cn:theme:e-p-b-base]]
+[[include :scp-wiki:info:start]]
+作者：[[*user caikunzitaimei]]。
+他站同投：[[[https://backroom-wiki-cn.wikidot.com/entity-cloud-70|Creature Cloud-70]]]。
+[[include :scp-wiki:info:end]]
+[[include :backroomssandboxcn.wikidot.com:concord
+|number={{IF-15}}
+|habitat=城市层级
+|danger=1
+|intel=E
+|class=Algae
+|properties=UNQ NRO
+]]
+[[include :backrooms-wiki-cn:component:animation
+|cecs=*
+]]
+
+------
+
++ 描述：
+
+**黄藻门**是存在于城市层级的藻类实体，通常并不以单个形式出现。
+
+**黄藻门**通常出现在腐败严重的建筑上，并吸附在墙壁上。这个时候，**黄藻门**会分泌一种未知的无机质，这些无机质具有极强的黏附性，流动性不强。
+
+**黄藻门**分泌出该物质后，便开始蠕动，直至墙壁腐败区域被该无机质完全覆盖为止。被无机质覆盖的墙壁腐败区域会逐渐进行修复，一小时过后，腐败区域将会修复完毕。
+
+另外，**黄藻门**的体内含有有毒物质，通常流浪者伤害**黄藻门**的瞬间，**黄藻门**的孔位会在一毫秒内射出针刺，扎伤流浪者并将有毒物质注射进流浪者的体内，随后流浪者会在半小时内感染[[[https://Backrooms-wiki-cn.wikidot.com/entity-19|DIC]]]。
+
++ 行为：
+
+**黄藻门**修复过程均在上文提及，在此不过多赘述。
+
+**黄藻门**修复完毕之后，便会离开被修复的墙壁。离开被修复的墙壁之后，该实体会蠕动至附近的任意一处地面上，随后，该实体会以某种未知的方式潜入地面。
+
+该实体的巢穴信息我们不得而知。
+
++ 生物学特征：
+
+**黄藻门**呈黄色长条状，通常长一厘米，宽五毫米。外部存在多个孔位，用于吸收空气中的氮气，以分泌未知的无机质。
+
+另外，该实体拥有繁殖功能，当无机质分泌到一定程度时，身体则会分裂出另一个**黄藻门**，目前原理尚且未知。
+
++ 发现：
+
+该实体发现于2023年2月28日，由一名流浪者在[[[https://Backrooms-wiki-cn.wikidot.com/level-c-11|Level C-11]]]发现并上传至E.P.B.，之后类似报告的增加，E.P.B.正式展开调查，经确认后正式将其命名为**“Creature Cloud-70 -'黄藻门'”**。
+
++ 行为准则：
+
+++ 应当：
+
+* 不靠近**黄藻门**存在的墙壁上。
+
+* 不伤害**黄藻门**。
+
+++ 不应：
+
+* 靠近**黄藻门**存在的墙壁上。
+
+* 伤害**黄藻门**。
+
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Entity IF-14|Creature IF-14]]] | Creature IF-15 | [[[Entity IF-16|Creature IF-16]]] >>
+[[/=]]
+[[/div]]

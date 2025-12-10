@@ -1,0 +1,70 @@
+[[include :backrooms-wiki-cn:theme:nuterminal]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=5
+|lang=cn
+]]
+**Level IF-76**是后室IF层群的第76层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1553105344-a905919678ab?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU4JUJEJUFFJUU4JTg4JUI5JTIwJUU5JUEzJThFJUU2JTlBJUI0fGVufDB8fDB8fHww
+|caption=**Level IF-76**的一张可确信照片。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1707242450648-a0ec11fb6338?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFOCVCRCVBRSVFOCU4OCVCOSUyMCVFOSVBMyU4RSVFNiU5QSVCNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-76**的另一张图像。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1589199722956-1b2b012e894c?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFOCVCRCVBRSVFOCU4OCVCOSUyMCVFOSVBMyU4RSVFNiU5QSVCNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=毫无希望。
+]]
+**Level IF-76**为一艘航行于无尽且风急浪高的黑色海洋之上的巨型工业捕捞船，这艘船被命名为“都城捕域号”，其规模极其巨大，保守估计长度约超过两公里。该船只船体总是由锈迹斑斑的废旧钢铁与未知的强化类型材料构成。
+
+**Level IF-76**的天空总是被铅灰色的阴暗低垂乌云所笼罩，日月星辰无不缺失。层级中唯一的照明来自那船只上正摇曳着的探照灯和在层级中偶尔会突然滑坡阴暗天际的苍白色闪电。
+
+**Level IF-76**中总是弥漫着一股气味，类似于极其浓烈且扑鼻的海腥味、来自船只结构的铁锈味以及类似于大型城市之中的下水道中漫出的陈腐气息。
+
+“都城捕域号”上有着一些相对安全的区域，例如船只上的一些封闭性存储仓库或是层级上层的驾驶室。封闭性存储仓库主要由混凝土构成，板条箱、救生圈、船只零件胡乱摆放于空间之中。上层驾驶室中摆放着多个工具箱，工具箱内部可能放置着一些常见的物资，例如杏仁水或是火盐，该区域中总是充斥着血腥味，区域地面上粘黏着一些带血的笔记。
+
+船只部分区域完全被鱼堆积的尸骸所挤占，这些尸骸包括被分离的鱼肉、鱼皮、鱼鳞、鱼内脏以及鱼血，尸骸与层级海水、损坏的刀片混合，源源不断产生血腥味与腐烂味。
+
+海洋本身并非普通的水，而是一种粘稠且不反光的黑色液体，该液体成分未知，具有一些轻微的腐蚀性及致幻性。大部分流浪者在长期接触层级的海洋后都出现了皮肤溃难和精神恍惚的症状。
+
+该层级内的显著特征为层级中定期从黑色海洋之中浮现的“鲸鱼”，这些鲸鱼个体极其庞大，构成这些生物的物质并非普通生物物质，其表皮似乎由混凝土、沥青、玻璃以及钢筋组成。这些巨鲸的身体上生长着一些等比例缩小且无人居住的城市景观，透过船舱，可见扭曲的摩天大楼、似乎已被废弃已久的寂静街道、熄灭且被破坏过的霓虹灯、朦胧的、正在缓慢转动的风力发电机轮廓。这些城市在巨鲸浮出水面时清晰可见。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+{{我已经不知道被困在这个鬼地方多少天了，说实话，这地方真得比得上地狱。}}
+
+{{虽然勉强有些能吃的东西，比如说那些存放于驾驶室中的糖果，亦或是一些还没有完全损坏的鱼肉，但日子终究不是人过的。}}
+
+{{层级没有具有威胁的实体，但处处都是危险，前几天船只就差点被风浪给打翻了…海水的味道真腥。那些人说要去找点物资什么的，于是便登上了鲸。}}
+
+{{随着日子过去，鲸身上的物品一个个减少，那个找物资的队伍人员也愈发减少，直到最后，所有人都死了，仅剩下鲸与轮船，于后室海洋中游弋。}}
++ **基地、前哨与社区**
+该层级内不存在已知的基地、前哨与社区。
++ **入口与出口**
+++++++ 入口
+* 于[https://backrooms-wiki-cn.wikidot.com/level-215 Level 215]中跳入任意的水域即可来到此层级
+++++++ 出口
+* 未知
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-75]]] | Level IF-76 | [[[Level IF-77]]] >>
+[[/=]]
+[[/div]]

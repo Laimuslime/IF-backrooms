@@ -1,0 +1,132 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=1
+]]
+**Level IF-34**是后室IF层群的第24层。
++ 描述
+[[include component:image-block
+|name=http://backroom-yt.wikidot.com/local--files/old:level-yt-8/1N
+|caption=Level IF-34中某条街道拍摄的公寓图片。
+]]
+[[include component:image-block
+|name=http://backroom-yt.wikidot.com/local--files/old:level-yt-8/2
+|caption=Level IF-34公寓图片。
+]]
+
+**Level IF-34**，由一被石砖墙包围的小型城镇与矗立在中心的大型公寓组成。城镇类似于[[[Level IF-83]]]的东部岛屿，但其显露出更为整洁的样貌，The M.E.G.推测本层级具有自我清洁能力，即层级会在城镇出现垃圾的五分钟内迅速清理掉垃圾。
+
+城镇区域的特定区域会散发出一阵浓烈的香水味，这种气味在层级干净的环境中显得格格不入，但正因如此，香水味通常会勾起流浪者的好奇心，从而使流浪者走向那未探明的区域，The M.E.G.建议在此探索的流浪者不要被好奇心所控制。
+
+**Level IF-34**的街道上大多会随机出现车辆，这些车辆通常会将流浪者带往[[[Level IF-1]]]，然而，也有特例的存在，如一扇类似于美式校车样式的黄色大巴会将流浪者带向[[[Level IF-83]]]。在The M.E.G.对本层级的不断考察中，他们发现了本层级的昼夜更替时间是固定的，即白天固定为14小时、晚上固定为10小时且不受季节变化等外界因素干扰。
+
+公寓是本层级的重要组成部分，也是The M.E.G.基地建立的地点。公寓由两侧高约三层的建筑与中间高约七层的豪华公寓构成。其前方具有一座喷泉，其中的液体多呈现为杏仁水形态，但这些液体通常含有汞（Hg）毒素，因而严禁饮用。值得注意的是，若流浪者持续观察该喷泉超过10分钟，将会被传送至[[[Level IF-2]]]。
+
+流浪者可选择进入公寓。公寓内部呈现出前厅内的豪华酒店样貌，酒店内的设施物品无法被破坏，然而，流浪者往往能在某些隐蔽角落发现破损之处。这些破损之处通常放置着一只白色外观的杯子，其位置多处于黑色地板上。一旦流浪者取用或拿起该杯子，其持有的某件物品便会消失不见。
+
+++ 走廊
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/woshiikun/yt8-zl
+|caption=一层中豪华的走廊。
+]]
+[[include component:image-block
+name=https://s2.loli.net/2022/03/10/zEMJBLKUYygTFw7.png|
+caption=越往上走，走廊的样貌越破败不堪。
+]]
+低层[[footnote]]约公寓的1-3层。[[/footnote]]的公寓走廊同样也拥有着豪华的装修，其由顶部的豪华吊灯照明，几乎不存在黑暗的地带。走廊两侧整齐排列着通往房间的大门，房门上悬挂的门牌号大多由类似于金的物质镶边，然而，这些房门大多需要从一楼的前台领取钥匙打开。需要注意的是，若钥匙与房门对应不上，房门将迅速转变为活体门并吞食流浪者。
+
+然而，到第4层之后，走廊的装修将变得与众不同，与大厅和四层以下的走廊形成鲜明对比，其呈现出未完成装修的状态：地面上积满灰尘，散落着碎玻璃。走廊两侧多为无门的空房间，仅有少数房间设有房门，若进入这些带门的房间，便可免去领取钥匙这一步骤，直接抵达客房区域。
+
+四层及以上的天花板偶尔会出现渗水现象。渗出的水体具有极高的危险性，严禁饮用。若流浪者无视警告执意饮用，水中所含的汞（Hg）将缓慢侵蚀其身体机能，最终导致中毒身亡。走廊地板上，时而会出现一块颜色不定的布。一旦流浪者触碰此布，便会产生自己身为大侠的错觉。
+
+++++ 客房
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1518019671582-55004f1bc9ab
+|caption=客房内部的被子。
+]]
+
+客房与大厅均呈现出豪华酒店的外观形态。客房内部家具配备齐全，其中还设有冰箱。打开冰箱，通常可见10瓶饮用水，但值得警惕的是，这些水中往往有9瓶含有汞（Hg）毒素。鉴于此，强烈不建议饮用冰箱内的水源，以免引发中毒风险。
+
+客房内的被子质地极为柔软，然而，当流浪者躺卧其中，便会滋生强烈的慵懒倦怠之感，这种状态会在其离开该层级时自动消散。值得注意的是，若在此期间有实体闯入房间，流浪者将被被褥瞬间禁锢，形成一种特殊的封印状态——既无法自行挣脱，闯入的实体也无法突破这层束缚。
+
+++ 南楼与北楼
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/woshiikun/yt8-nl
+|caption=南楼的内景。
+]]
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/woshiikun/yt8-bl
+|caption=北楼的内景。
+]]
+南楼与北楼呈现出类似阶梯式的房屋构造，其内部与主体的公寓区域有着显著差异。南楼内部大多呈现出三层图书馆的样貌，图书馆被描述为流浪者在前厅中去过的普通图书馆，然而，其内饰同样被豪华的物品所装饰。图书馆由与走廊一致的吊灯照明，凸显出其豪华的样貌。然而，货架上所出现的书籍大多并非流浪者能看懂的书籍。
+
+而与其对称的北楼则呈现出一座超市的样貌，超市内部物资几乎齐全，但流浪者仍旧需要通过杏仁水在此交易物品。超市内部存在着部分由[[[https://backrooms-wiki-cn.wikidot.com/Entity 9|无面灵]]]扮演的保安，他们守卫着北楼的秩序，倘若他们发现有流浪者偷取东西，他们将迅速对其发动攻击，直到该流浪者将物品放回原位。与[[[Level IF-250]]]相同，北楼同样拥有着收银台区域，由无面灵扮演的收银员会负责为流浪者结账，它们并不需要钱财，它们主要通过杏仁水进行交易活动。
+
++ 实体
+城镇区域内拥有大量受11效应影响的[[[https://backrooms-wiki-cn.wikidot.com/Entity 9|无面灵]]]。走廊内偶尔会出现[[[https://backrooms-wiki-cn.wikidot.com/Entity 2|死亡飞蛾]]]和少量不受11效应影响的[[[https://backrooms-wiki-cn.wikidot.com/Entity 9|无面灵]]]。
+
++ 基地，前哨与社区
+++ [[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|The M.E.G.]]] - “旅馆基地”
+* 这是M.E.G.在IF层群的第十主要基地
+* 友好，开放交易
+* 愿意容纳流浪者加入
+
+++ “杰瑞之家”
+* 本社区有120名杰瑞的信徒组成
+* 试图将该层级的流浪者同化为杰瑞信徒
+* 该社区已被[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|The M.E.G.]]]严格监视
+
++ 入口与出口
++++ 入口
+[[include component:image-block
+|name=http://liurdrooms.wikidot.com/local--files/br:1k/01
+ |caption=Level IF-83中被石墙包围的城镇，拍摄者是倒着拍的。
+]]
+* 在[[[Level IF-20]]]找到一处爬梯并向下爬。
+* 在[[[Level IF-83]]]找到一处被石砖墙包围的城镇。
+* 在[[[Level IF-109]]]切入水底的瓷砖有概率来到本层级。
+* [[[Level IF-124]]]中的任何一扇门都有概率通往本层级的房间区域。
+* [[[Level IF-173]]]中，若流浪者离开公园，该流浪者将迅速进入本层级的外围区域。
+* [[[Level IF-160]]]中的一扇大门有概率直接到达酒店区域。
+* [[[Level IF-199]]]中，若流浪者昏倒，该流浪者将会在本层级的外围区域醒来。
+* 在[[[Level IF-110]]]中找到一张桌子，流浪者会出现在一个客房内。
+* 在任何有长途阶梯的层级对着阶梯切出都有一定概率到达该层级的最底层。
+* 极少见的情况下，[[[Level IF-121]]]内会出现描绘着城市景象的窗户，切入其中可以到达该层级。
+
++++ 出口
+
+* 在本层级中乘坐车辆将会到达[[[Level IF-1]]]。
+* 沿着一条逐渐腐败的道路走，最终会到达[[[Level IF-148]]]。
+* 在公寓内往上走，直到走到那所谓的“第九层”将会到达[[[Level IF-2]]]或[[[Level IF-22]]]。
+* 登上大巴会到达[[[Level IF-83]]]。
+* 找到一艘船会到达[[[https://backrooms-wiki-cn.wikidot.com/level-495|Level 495]]]。
+* 观察喷泉10分钟会到达[[[Level IF-2]]]。
+* 说███████████会到达[[[Level IF-142]]]
+* 找到一个里面有鸭子的杯子会到达[[[Level IF-91]]]。
+* 进入一家刻有“Shopping！”的商店即可到达[[[Level IF-250]]]。
+
+------
+
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+本条目的作者为B站用户“YT层群探险家”
+重写者为[[*user woshiikun]]
+二次重写者为[[*user haodemingzi]]，由[[*user woshiikun]]进行部分改写
+[https://www.sheencity.com/resdetail/de09e2ba-f59c-478e-8700-8b4d96eeb9c2/1 外景图片来源]
+[https://m.zcool.com.cn/work/ZMjQ0ODgwODg=.html 内景图片来源]
+[https://m.nipic.com/index.html#/detail/14514675 豪华走廊图片来源]
+[https://unsplash.dogedoge.com/photos/sav8zEvczyU 破损走廊图片来源]
+[https://unsplash.com/photos/grey-linen-FseXc3OsIic 客房内的杯子图片来源]
+[https://post.smzdm.com/p/a6dnxdkn/ 南楼内部图片]
+[http://zhhchj.com/m/list.php?tid=44 北楼内部图片]
+[https://flic.kr/p/Qs9n5y 石墙内的城镇]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-33]]] | Level IF-34 | [[[Level IF-35]]] >>
+[[/=]]
+[[/div]]

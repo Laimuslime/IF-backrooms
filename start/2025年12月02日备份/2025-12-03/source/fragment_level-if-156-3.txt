@@ -1,0 +1,173 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|del=a
+|font=a
+]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 5.50s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+}
+[[/module]]
+
+[[module css]]
+:root {
+    --bb-black: 255, 255, 255;
+    --bb-white: 0, 0, 0;
+}
+#page-title {
+    display: none;
+}
+
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 90%;
+    margin:auto;
+   text-align: center;
+    text-shadow: 1.25px 1.25px 1.25px rgb(255,255,255);
+}
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 0.8) 85%, rgba(0, 0, 0, 0.8) 100%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+[[/module]]
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2025/02/74ed333b38507665.jpg width="400px"]]
+@@ @@
+[[div class="invisibox"]]
+意识与感官逐一重归躯体，一同浮出洋面。
+@@@@
+肢体破碎支离，疮痍满目。玻璃残片和污秽之气浸满全身，令人作呕。
+@@@@
+被垃圾千刀万剐之痛蔓延全身，温热从七窍四散逃逸，玷污整座囚笼。
+@@@@
+而那无缘受叛之苦却刻骨铭心，无法摆脱，无法遗忘。
+@@@@
+疑虑蜂拥而至，逼着你剖析大脑，翻寻过往经历，却一无所获。
+@@@@
+十指徒手解剖开喉咙，发出足以撕裂声带的呐喊，虽高亢而尖锐，却瞬归于寂灭。
+@@@@
+你转头，窗外的光仍旧光辉灿烂，嘲笑着自身这惨绝人寰之境。
+@@@@
+葬于内心的马里亚纳中的情绪，突破万里深海的镇压，将眼球从眼眶中挤出，奔涌着。
+@@@@
+你撑起支离破碎的身躯，跌跌撞撞的走向窗户，用头盖骨猛烈撞击窗户玻璃，直至其爆裂开来。
+@@@@
+不顾无数玻璃残片的千刀万剐，翻过窗框，跨过光与暗的界限，直直坠下。
+[[size 350%]].
+[[div class="fader"]]
+.
+.
+.
+[[/div]]
+[[/size]]
+
+与意料中摔得粉身碎骨的结局并未来临——不知沉寂多少年的清风将身躯抬起，载着你飞向天空。
+@@@@
+生下那整齐划一的城市沙盘越来越小，越来越小，直至被灰白色的天空咽没。
+@@@@
+你抬起沾满脑浆的头颅，用不存在的视野望向远方的灰天白云。
+@@@@
+温热……自由……解脱……的这就像当初一样，那找回归属的感觉……
+@@@@
+你飞啊……飞啊……飞向那世界尽头……
+@@@@
+百里，十里，一里……早已凋亡的神经感受到，那股似曾相识的感觉越来越近……仿佛近在眼前……
+@@@@
+全身上下挤出仅有的一丝力气，你伸出手指，渴望碰到那片曙光……
+@@@@
+可惜，这又不过是一个千疮百孔的谎言。
+@@@@
+震耳欲聋的枪声抹去了本应存在的，因喜悦至极而发出的笑声——弹丸如雨，却不知枪械藏于何处。
+@@@@
+只面目全非、千疮百孔的肉体自万丈高空坠落，砰然砸地，将附着于柏油路上的尘埃掀起。
+@@@@
+四周行人面色如铁，目不斜视，践踏着尸体，朝着自己的归宿处前进。鞋底与血肉相碾，尸体在万亿人脚下嵌入柏油路之中，却无人驻足。
+@@@@
+众人皆循着既定的轨迹，执行着那些自牢笼诞生以来便刻在基因里的规章制度。在对的时间内，做着正确的事情。
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2025/02/faeefe6ab7e68d33.jpg width="400px"]]
+@@ @@
+直到你的视野消失之际前，走马灯淹没了你的脑海：那是无忧无虑的童年，那是和挚友和谐相处的时光，那是曾拥有过的蓝天白云……
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[div class="invisibox"]]
+//嗯？你醒了？//
+@@@@
+//起床了起床了，小瞌睡虫，看你这副样子，你是做了什么噩梦吗？//
+@@@@
+//不怕不怕，梦中的事物都是假的，给个抱抱，它们就飞走了~//
+@@@@
+//好了，太阳晒屁股了，起床吧！让我们开启新的一天吧~//
+@@@@
+//**[https://if-backrooms.wikidot.com/level-if-156/offset/1 一如既往 .）]**//
+[[/div]]
+@@ @@
+[[div class="lightblock"]]
+[[=]]
+[[module rate]]
+[[collapsible show="或许还有更多变量在等待着，" hide="只可惜这些铁律早已将其扼杀。"]]
+
+**__[[*user Destitute]]__**
+
+[https://unsplash.com/photos/greyscale-photography-of-window-fUjbTb4liT0 囚笼]，[https://unsplash.com/photos/a-person-drowns-underwater-rX12B5uX7QM 溺亡]。
+
+[https://unsplash.com/photos/white-clouds-during-daytime-0juC5JIhPks 见光]，[https://unsplash.com/photos/white-clouds-and-blue-sky-uEqNTo_DEJQ 翱翔]，[https://unsplash.com/photos/blue-and-white-cloudy-sky-taken-at-daytime-Uvaz8IGJ_7w 抛弃]。
+
+[https://unsplash.com/photos/right-human-hand-NmPpz1jA_JE 结局]。
+
+未给出链接的图片均为本人自摄。
+
+[[/collapsible]]
+[[/=]]
+[[/div]]
+------------

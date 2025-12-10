@@ -1,0 +1,55 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-141**是后室IF层群的第141层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU5JTlCJUE4fGVufDB8fDB8fHww
+|caption=**Level IF-141**的其中一张图像
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1527766833261-b09c3163a791?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU5JTlCJUE4fGVufDB8fDB8fHww
+|caption=雨
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1501691223387-dd0500403074?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+|caption=滴落的雨水
+]]
+**Level IF-141**为一处于林边的高速公路，向前后两个方向不断延伸，长度似乎近似于无限，目前暂无流浪者来到道路的尽头。公路上混杂着汽油与雨水相互混合的气味，但并不会使流浪者产生恶心感。
+
+**Level IF-141**的高速公路之上满是无人的废弃车辆，这些车辆大部分还可正常启动，但其内部通常空无一物，这些车辆的种类大部分为前厅之中最为常见的种类之一。废弃车辆一般位于公路的侧边，部分车辆有着些许撞击所造成的损坏，但不影响正常使用。
+
+**Level IF-141**内部总是不断下着小雨，雨水聚集在马路之上，形成了大大小小的水洼。雨水给层级之内带来了些许清新，使得层级内其他的气味减淡了许多。雨水似乎使得层级之内的温度变得极低，有时甚至可见因温度过低而死亡的小型植物，不过流浪者并不会被极低的温度所冻死，流浪者甚至会在进入层级之后升高体温且不影响身体健康。
+
+**Level IF-141**内的时间似乎停留在了临近夜晚之时，天空变得极其暗淡，乌云笼罩着整个层级，但其中偶尔透过些许光线。层级内有时会刮起一阵剧烈的冷风，冷风将会使层级内的温度进一步地降低，同时也会使层级内的能见度降低。
+
+**Level IF-141**一旁的森林内满是肆意生长的植物，这些植物缺乏基本的生物行为，但仍在存活中。森林似乎有着某种特质，进入森林之中的流浪者无一例外全部失踪，但层级之中的其他区域似乎还有着他们新留下的痕迹。目前无法确认进入森林的流浪者的存活情况。
+
+**Level IF-141**似乎会勾起流浪者曾经的记忆切片，祂会慢慢将流浪者的记忆片段融入流浪者眼前看到的景象，直到那篇过去的图景完全覆盖在流浪者的眼前。流浪者在被记忆覆盖之后将会相信眼前的发生的一切皆为真实，即使其漏洞百出流浪者也不会注意到。
++ **基地、前哨与社区**
+++ 回归社区
+* 试图唤醒那些陷入回忆之人
+* 不断地向前前行
+* 不间断地寻找出口
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-25]]]或[[[Level IF-40]]]中发现一把倒悬的雨伞并拾起即可到达此层级
+++++++ 出口
+* **暂无**
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+我的更多作品：
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-140]]] | Level IF-141 | [[[Level IF-142]]] >>
+[[/=]]
+[[/div]]

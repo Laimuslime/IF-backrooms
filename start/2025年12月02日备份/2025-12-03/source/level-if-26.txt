@@ -1,0 +1,98 @@
+[[include :backrooms-wiki-cn:theme:aesthetic]]
+[[include :backrooms-wiki-cn:credit:start]]
+**Level IF-26：**蒸汽波岛屿
+**原作者：**[[*user Legendary1145]]
+重写者：[[*user haodemingzi]]
+已经过原作者同意重写
+批评与建议：[[*user Aaaaaaak820max]]、[[*user ShallowCloud]]
+**图像岛**https://pixabay.com/zh/photos/fish-underwater-corals-sea-ocean-378286/
+**图像雕像**https://pixabay.com/zh/vectors/ai-generated-greek-statue-vaporwave-8201621/
+
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=宜居
+|one=少量蒸汽波
+]]
+[[html]]
+
+<audio autoplay>
+  <source src="https://brsandbox-pro.wikidot.com/local--files/level-c-1988/%E8%92%B8%E6%B1%BD%E6%B3%A2%EF%BC%881%EF%BC%89.mp3" type="audio/mp3">
+</audio>
+
+[[/html]]
+
+**Planum IF-26**是后室IF层群的第二十六层。
+
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/06/2b85837ce04428b7.jpg
+|caption=Planum IF-26的一张岛屿的图片。
+]]
+
++ 描述
+
+**Planum IF-26**通常被描述为一片面积约为410.4万平方公里的群岛。层级内所有事物，包括流浪者在内，均会转化为蒸汽波风格。岛屿的数量尚不可知，且每个岛屿的面积均维持在3至3.6万平方米之间。该层级内部不存在昼夜交替现象，时间仿佛定格于清晨，天空却呈现出一片黑暗。温度则稳定维持在20摄氏度至29摄氏度的区间内。岛屿主体呈现出亮蓝、紫色等饱和色调，海水与岛屿颜色一致，致使流浪者时常不慎坠入海中。为此，The M.E.G.建议流浪者停留在岛屿中心区域。层级内的太阳，其亮度似乎不及前厅的太阳那般耀眼。它的光芒时常与前厅中月亮的亮度相当，有时则全然黯淡无光。岛屿的地表仿佛全然由沙子构成，而这些沙子的色泽似乎呈蓝紫色。
+
+层级内岛屿的分布随机且不均，时常出现多岛重叠、悬空或沉底的现象。岛屿上生长着高5至7米的棕榈树，其分布范围较广且密度较高[[footnote]] 下文的**旧梦石语**会出现在里面，同样它们也无法离开这里。 [[/footnote]]。当流浪者对棕榈树造成破坏时，树汁便会从中渗出。
+
+流浪者在层级内所见画面常呈现模糊与故障之感，此效果对其并无任何影响，一旦离开该层级，这类感觉便会消失。
+
+当处于该层级环境中时，若观察者保持静默并集中注意力进行听觉感知，将会捕捉到持续存在的环境背景音乐。这些音乐声源具有明显的非定位性特征，其声场分布呈现出均匀的空间弥散状态，无法通过常规方式确定具体的发声位置。这些背景音乐具有典型的平滑爵士乐、R&B等，这类音乐通常会经过降速处理，并融入重复循环、低保真效果及合成器音效。
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/06/e8492cd94e0a5bc9.jpg
+|caption=Planum IF-26的像素图片。
+|align=left
+]]
+棕榈树的种子可在海洋中发现，海洋中四处漂浮着棕榈树的种子，只需将它种入该层级的土壤中即可开始生长，棕榈树的种子也可以用来食用，在失落一族的记录中此层级的棕榈树果实可以**“止鼻洪，破癌，止崩中带下，肠风，赤白痴。入药烧灰用，不可绝过。”**因此棕榈树种子有着很高的价值。
+
+海洋最深只有 190 米，平均深度 75 米，但即使是这样，海洋中依旧存在着一套已经成型的生态系统，如果流浪者潜入海洋中就可以看见巨大的珊瑚礁群系，珊瑚礁的颜色普遍偏暗紫色，表面较为光滑，且颜色较为单一。珊瑚礁中有着大量的鱼类，这些品种均不存在于前厅中。
+
+岛屿的沙质呈现出拼贴感与不完美感，例如存在明显的拼接痕迹或刻意做旧的质感，这些均为蒸汽波风格的显著特征，故此层级被命名为“蒸汽波岛屿”。
+
++ **实体：**
+
+++++ {{> 旧梦石语}}
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/06/e1f0c78122b4ea74.png
+|caption=Planum IF-26中实体的照片。
+]]
+**旧梦石语**是该层级唯一，也是特有的实体，该实体外观形似古早的大理石雕像，当流浪者触摸时则像是触摸光滑大理石，与[[[https://backrooms-wiki-cn.wikidot.com/level-841|Planum 841]]]有所不同的是——这种实体风格类似于**蒸汽波**，全身则会发出耀眼的光，使得该实体十分有辨识度。
+
+该实体在移动时就像是游戏中游戏人物卡顿导致平移类似，不过他们依旧会模仿人类走路那样摆手臂、摆动腿，但这会给流浪者带来一种诡异的感觉。此实体有意识、有思维，且它们精通后室所有的语言，因此流浪者与他们交流起来时会十分轻松，//至少不会像其他实体那样//，他们与人类一样看得见、摸得着，不过他们的视力比正常流浪者要更高。
+
+该实体与Planum 841中的雕像有着最大的不同是，复古未来式大理石雕像是少数对人类保持善意的怀旧式实体，且会在必要时刻帮助流浪者。此外，他们早在人类进入后室之前就已经学会了切行，且到目前为止有许多真实案例证明了他们：曾经有一名流浪者在Planum 841.1身受重伤即将被同化时，一尊复古未来式大理石雕像将流浪者救出并将该流浪者带往了Planum IF-26。而这是许多实体都做不到的一点。
+----
++ 基地、社区与前哨站
+
++++ [*https://backrooms-wiki-cn.wikidot.com/backrooms-entertainment-hub 后室娱乐]“ IF-26 蒸汽波”基地
+* 一个专门供流浪者娱乐的组织。
+* 建设的基地具有浓浓的复古感
+* 一个大约76人的团体。
+* 定期与其他流浪者交易。
+----
++ **入口与出口：**
+++++ 入口
+所有 N 层群的层级（列如Planum 841）都可以通过一幅画来到该层级。
+
+++++ 出口
+* 在海水中切入一块珊瑚礁会使流浪者来到[[[https://backrooms-wiki-cn.wikidot.com/level-48|Planum 48]]]。
+* 在层级中触摸一件自己小时候最喜欢的玩具将流浪者送至[[[https://backrooms-wiki-cn.wikidot.com/level-18|Planum 18]]]。
+* 在该层级内切入任意一颗树将流浪者送入相邻层级。
+* 在该层级内伤害任意一尊**旧梦石语**将被送入[[[https://backrooms-wiki-cn.wikidot.com/level-c-1995|Planum C-1995]]]。
+ * 如果流浪者故意伤害该实体在切出该层级后将无法再次进入该层级。
+* 在该层级内说出“自然繁生于万物之中，你只是需要一对看见它的眼眸”会使流浪者来到[[[https://backrooms-wiki-cn.wikidot.com/level-369|Planum 369]]]。
+----
+
+**原作者：**[[*user doctor Legendary]]
+重写者：[[*user haodemingzi]]
+已经过原作者同意重写
+批评与建议：[[*user Aaaaaaak820max]]、[[*user ShallowCloud]]
+**图像岛**https://pixabay.com/zh/photos/fish-underwater-corals-sea-ocean-378286/
+**图像雕像**https://pixabay.com/zh/vectors/ai-generated-greek-statue-vaporwave-8201621/
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-25|Planum IF-25]]] | Planum IF-26 | [[[Level IF-27|Planum IF-27]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,78 @@
+[[include component:list grid='in others' 'in out' 'toc toc'|mgrid='in' 'out' 'others' 'toc'|sub=a]]
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是子区集？
+//子区集//（Sub-Layers）通常是那些可以为一个现有层级增添更多细节的地点。它包含这两种场所——//“子层级”//（Sub-Levels）和//“房间”//（Rooms）。子层级是与其父层级存在关联的层级地区，但同时，它们也仍然属于与父层级不同的独立层级分类。房间则是那些太小而不能被视为独立层级的地点。通常，它们的位置处于对应的现有层级之中，但也并非总是如此。
+
+子层级旨在为已编写的层级增添相关背景知识或“深度”。可以将它们视为“在其对应层级中所找到的衍生产物”，或“层级中的层级”，或“两个层级之间的层级”。子层级通常更小，却拥有更详细的描述（当然，并非总是如此）。一个层级可以拥有任意多的子层级，只要它们保持与其父层级松散的主题关联即可。
+
+房间是出现在特定层级中的特殊地点。房间通常遵循着它们所出现在的层级的主题风格。房间既不是无限的，也不会很大，这就是为什么它们被标记为“房间”。
+[[/div]]
+[[div class="intro-others intro-block"]]
+++* 更多层级[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:normal-levels|普通层级]]]**
+* **[[[overview:enigmatic-series|隐秘层级]]]**
+* **[[[random:random-level|随机层级]]]**
+[[/div]]
+[[div class="intro-block intro-out"]]
+++* [[span class="infomark"]]@@ @@[[/span]]特例：特殊房间
+特殊房间不与任何特定层级或层级组相连，它们与整个后室中的其他层级没有任何特殊联系。 因此，它们的属性不依赖于人们可以访问它们的区域，并且完全独立，甚至与阈限空间格格不入，这与环境因素或者一些无法解释的因素有关。
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 普通子层级][#1 隐秘子层级][#2 普通房间][#3 特殊房间]
+[[/div]]
+[[/div]]
+
+[[div class="style-block sub-block"]]
+++ 普通子层级[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+* [[[Level IF-36]]]
+ * [[[Level IF-36.1]]]  - “雾山废城”
+
+* [[[Level IF-41]]]
+ * [[[level-if-41-anti|Level IF-41.Anti]]] - “反命题”
+
+* [[[level IF-97]]]
+ * [[[level IF-97.1]]] - “梦核幻想”
+
+* [[[Level IF-125]]]
+ * [[[Level IF-125.2]]] - “深处”
+[[/div]]
+
+[[div class="style-block sub-block"]]
+++ 隐秘子层级[[# 1]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+[[div class="style-block sub-block"]]
+++ 普通房间[[# 2]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+[[div class="style-block"]]
+++ 特殊房间[[# 3]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+
+
+
+
+[!-- ↓↓↓ --]
+[!-- 以下为用户自定义区，请译者标注不同字体 / 样式所对应的层级。 --]
+[[module CSS]]
+/* 字体 */
+@import url('http://scpsandboxcn.wikidot.com/local--files/typeface/Typeface-zcoolwenyiti.css');
+[[/module]]

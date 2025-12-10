@@ -1,0 +1,243 @@
+[[module css]]
+@import url("data:text/css;charset=UTF-8;base64,Ym9keSBkaXYjcGFnZS1vcHRpb25zLWJvdHRvbSBhI2hpc3RvcnktYnV0dG9uLApib2R5IGRpdiNwYWdlLW9wdGlvbnMtYm90dG9tLTIgYSN2aWV3LXNvdXJjZS1idXR0b24sCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGZvcm0jaGlzdG9yeS1mb3JtLTEsCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGRpdi5wYWdlLXNvdXJjZSB7CiAgICBkaXNwbGF5OiBub25lICFpbXBvcnRhbnQ7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0sCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gbGkgewogICAgZGlzcGxheTogaW5saW5lLWZsZXg7CiAgICBtYXJnaW46IDA7CiAgICBwYWRkaW5nOiAwOwogICAgbGluZS1oZWlnaHQ6IDEuNTsKfQoKdWxbc3R5bGU9Im1hcmdpbjogMDsiXSBsaSBhIHsKICAgIGNvbG9yOiBibGFjazsKICAgIGNvbG9yOiByZ2IodmFyKC0tc3dhdGNoLXRleHQtZ2VuZXJhbCkpOwogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lICFpbXBvcnRhbnQ7CiAgICBjdXJzb3I6IHRleHQ7Cn0KCnVsW3N0eWxlPSJtYXJnaW46IDA7Il0gLmZvbGRlZCBkaXZbc3R5bGU9Im1hcmdpbjogMDsiXSB7CiAgICBkaXNwbGF5OiBub25lOwp9Cgp1bFtzdHlsZT0ibWFyZ2luOiAwOyJdIC51bmZvbGRlZCBkaXZbc3R5bGU9Im1hcmdpbjogMDsiXSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsKfQoKdWxbc3R5bGU9Im1hcmdpbjogMDsiXSAudW5mb2xkZWQgZGl2OmZpcnN0LW9mLXR5cGUgewogICAgZGlzcGxheTogbm9uZTsKfQoKdWxbc3R5bGU9Im1hcmdpbjogMDsiXSAudW5mb2xkZWQgZGl2W3N0eWxlPSJtYXJnaW46IDA7Il06OmJlZm9yZSB7CiAgICBjb250ZW50OiAiXDhmZDlcOTFjY1w2Y2ExXDY3MDlcNjY5N1w1M2Y3XGZmMGNcOGJmN1w3ZWU3XDdlZWRcNjdlNVw3NzBiXDUxNzZcNGVkNlw2NTg3XDdhZTAiOwp9");
+[[/module]]
+[[div class="style-block warning"]]
++ 重要说明
+本政策基于后室中文维基的同名页面撰写而成，其在全站及其所有附属平台强制施行，加入后室IF层群维基或关注、参与互动及牵涉本维基的任何附属平台即视同你已通读本政策的所有内容，并自动受到该政策的管辖。否则，请立即停止同本维基的任何联系，例如退出站点、取消关注、移除互动信息和不再关联。
+
+以下规定的全部内容或其任意部分，均依照CC BY-SA 3.0协议释出。但以此进行的任何简化总结、字句摘录或演绎以至于足以使得本政策之原初含义受到曲解的，均不是本政策所想要表达的初衷，并且这些含义扭曲不受到本维基的承认，本维基仍将按照本政策的原文执行。
+
+所有规定由职员保留全部解释权。职员保留根据实际情况删减、扩充或修改本政策任意之部分的权利，且进行以上变更行为后，不再承认任何旧版本的有效性。
+[[/div]]
+
+[[div class="style-block"]]
++ 反骚扰政策
+这里是Wikidot后室IF层群维基，我们致力于营造无骚扰的和谐社区环境，不论性别、性别认同及表达、性取向、信仰、外表、地域等个人特征如何。
+
+在此声明，本站对骚扰行为采取零容忍的态度。
+
+任何违反本规则的成员都将依站规，受到最低为警告的处分，并明令其停止骚扰行为。
+
+必要情况下本站可协助骚扰行为的受害者寻求法律援助，或协助警方或权力机关的调查取证工作。
+[[/div]]
+
+
+[[div class="style-block"]]
+
+
++ 什么是“骚扰行为”？
+此处，骚扰行为包括但不限于以下两类所举的内容，“不限于”意味着你不可以钻规则的漏洞。
+
+++ 一般骚扰行为
+
+[[div class="quote-block"]]
+
+* 因成员的性别或性倾向、地域、信仰、政治倾向等对其采取贬低、讽刺、侮辱等冒犯性行为；
+
+* 鼓励或威胁他人进行自残或自杀等行为；
+
+* 在未经允许的情况下擅自对外发布他人的任何个人身份信息；
+
+* 在对方不情愿或不具有完全判断力的情况下，刻意和他人谈论性话题和其他类似的不适宜话题；
+
+* 私下恐吓、威胁，或对外刻意抹黑他人以博取其关注；
+
+* 持续控制、胁迫、操纵他人行为；
+
+* 反复批量向他人发布重复或无意义信息，以至于影响其正常活动；
+
+* //“开盒”“人肉搜索”及违规获取他人隐私讯息，并以此作为各类违规行为，尤其是本政策所述的骚扰行为的材料。//
+
+* 其他职员认定为构成一般骚扰行为的行为。
+[[/div]]
+
+
+++ 性骚扰行为
+
+[[div class="quote-block"]]
+* //在被要求停止后仍保持过分亲密关系、进行不当的社交接触或仍一对一地交流；//
+
+* //在不适宜地点或情境下对他人分发色情图片（或网站，文本等）、开有性暗示的玩笑；//
+
+* //不受欢迎的性关注，包括强行发送色情图片（或网站，文本等），令人不悦地调情。//
+
+* 其他职员认定为构成性骚扰行为的行为。
+
+[[/div]]
+如有任何人的行为让您感到不适，请及时提出，并可联系职员以对骚扰者给予处分。
+
+特别地，涉及上述斜体字部分的骚扰行为将**从重、从严、从快**处分，对此种骚扰的鼓励或拱火等行为的施行者将受到最低为移除成员资格的处分。
+
+[[/div]]
+
+[[div class="style-block"]]
+
++ 报告骚扰行为
+如您受到了来自本站成员（包括职员）的骚扰，或是注意到他人可能正在被某人骚扰等，可通过QQ、官方B站账号或Wikidot私信等方式向任一名或多名活跃职员取得联系，建议优先联系管理员。如骚扰者即为职员，其将被排除出有关问题的处置进程。
+
+无论是否是网站成员，都可向任一位或多位管理员举报和本维基无关，但确定有本维基成员参与的骚扰事件。
+
+应当留存骚扰者有关行为的凭证，如信息截图或记录、帖文或评论截图、个人信息备份等。职员将根据此类证据进行判断。
+
+职员会尽快就报告进行处置，并会给出处置结果。可随时就处置进度等信息询问负责职员。您也可以依据个人意愿对处置提出意见，在采取行动时职员将考虑您的意愿。
+
+出于尊重和保护受害人的原则，未经受害人允许的情况下我们不会公开其任何信息。如需展示相关证据等，也将隐去受害人信息。在受害人提出要求，且职员认为不妨碍站点事务处理的公开原则的前提下，可能会直接隐去某件骚扰事件的全部信息，而只通报给牵涉事件的人员。
+
+本准则适用于Wikidot后室IF层群维基，但若您受到来自其他网站（不限于Wikidot）成员的骚扰，也可向我们提出，我们可能可以协助您与该站点的职员交涉。
+
+如不信任非匿名举报，可使用临时创建的一次性账户向职员报告并提交相关证据。
+
+恶意利用报告骚扰行为对他人实施栽赃、污蔑或压制同属违规行为，同样将受到处分。特别注意：在确定系恶意诬告的情况下，诬告者所受处分至少等同于其诬告内容若实际发生，被陷害者将会受到的处分。
+
+[[/div]]
+
+[[div class="style-block"]]
++ 骚扰行为后果
+核实骚扰行为后将要求骚扰者即刻停止骚扰行为，并给予其最低为警告的处分。
+
+职员将依实际情况给予其处分，站内可给出的处分包括警告、撤销成员资格和封禁。同时，会以职员帖形式公开对骚扰者的处分。
+
+如骚扰者质疑处置结果，可于处置结果发布的3日内向职员提出申诉并给出合理证据。
+
+骚扰他人者发布的页面处置方式待定，职员保留归档或删除严重违规者的有关页面的权利。若其被封禁，被封禁者可联系职员以删除其发布的页面，或对页面进行小幅度（非实质，不至构成事实上新作品）的修改。具体措施参见站规。
+
+[[/div]]
+
+------
+
++ 联系职员
+
+可联系以下职员以处理骚扰问题，排序为首字母顺序：
+++ 站点管理员
+[[module Members group="admins"]]
+
+++ 站点版主
+[[module Members group="moderators"]]
+
+另请参考[[[meet-the-staff|会见职员]]]页面。
+
+
+
+
+
+
+[[module css]]
+.style-block tt {
+    --wght: 600;
+    --mono-wght: 600;
+    font-family: var(--body-font);
+    background: rgba(var(--medium-accent), 0.8);
+    color: rgba(var(--pale-gray-monochrome));
+    padding: 1px 0.25em;
+    border-radius: 0.2em;
+    margin: 0 0.2em;
+    white-space: nowrap;
+    font-size: 85%;
+    vertical-align: text-top;
+/*
+    background: rgba(var(--dark-accent), 0.2);
+    color: rgba(var(--black-monochrome));
+
+*/
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 2em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block p {
+    margin-top: 0.5em;
+}
+
+div.style-block h1 {
+    margin: var(--base-font-size) 0;
+    text-align: center;
+}
+
+div.style-block h2,
+div.style-block h3 {
+    display: flex;
+    margin: 1em 0 0;
+    align-items: flex-start;
+}
+
+div.style-block h2 span,
+div.style-block h3 span {
+    margin: 0;
+    --wght: 700;
+    font-size: var(--base-font-size);
+    font-family: Recursive, "Noto Sans SC";
+}
+
+div.style-block h2::after,
+div.style-block h3::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.75em;
+    border-bottom: 1.5px solid rgb(var(--white-monochrome));
+}
+
+div.style-block ul {
+    margin: 0.5em 0 2em;
+    padding-left: 0;
+}
+
+div.style-block > ul:last-of-type {
+    margin-bottom: 0;
+}
+
+div.style-block ul li {
+    margin-bottom: 1em;
+}
+
+div.style-block ul li.folded,
+div.style-block ul li.unfolded {
+    margin-bottom: 0 !important;
+}
+
+div.style-block ul li::marker {
+    font-size: 0;
+}
+
+div.style-block div.quote-block {
+    background: rgb(var(--white-monochrome));
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block div.quote-block p {
+    margin: 1em 0;
+}
+
+div.style-block div.quote-block ul {
+    margin: 1em 0 1em 1.5em;
+    list-style-type: disc;
+}
+
+div.style-block div.quote-block ul li::marker {
+    font-size: 1em;
+}
+
+div.footnotes-footer { display: none }
+
+div.style-block.warning {
+    background-color: #fddedd;
+    padding: 1px 1em;
+}
+
+div.style-block.warning h1 {
+    color: #ff2d2d;
+}
+
+@media only screen and (max-width: 768px) {
+    div.style-block h2 span,
+    div.style-block h3 span {
+        font-size: calc(0.9 * var(--base-font-size));
+    }
+}
+[[/module]]

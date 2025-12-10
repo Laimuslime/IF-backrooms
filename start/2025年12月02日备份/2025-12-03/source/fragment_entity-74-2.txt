@@ -1,0 +1,76 @@
+[[include :backrooms-wiki-cn:theme:basic-black-white]]
+
+[[module css]]
+    :root {
+        --accent-one: var(--white);
+        --accent-two: var(--black);
+--wallpaper-mask: none;
+--swatch-topmenu-border-color: var(—accent-two);
+--gradient-header: linear-gradient( to bottom, rgb(var(--accent-two)) 0%, rgb(var(--accent-two)) 100%);
+--background-gradient-color: var(--accent-two);
+}
+#footer, #license-area {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  --link-color: 255, 255, 255;
+  --visited-link-color: 255, 255, 255;
+  --hover-link-color: 0, 0, 0;
+  --license-link-hover-bg-color: 255, 255, 255;
+  --footer-link-hover-bg-color: 255, 255, 255;
+}
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+body { background-image: var(--gradient-background); }
+#header div[class*="top-bar"] > ul > li > a { color: transparent; }
+#page-title { display: none; }
+
+[[/module]]
+
+[!-- STUFF I ADDED STARTS HERE --]
+
+[[module css]]
+.fade-in {
+  animation: fadeIn 1s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-wrapper .collapsible-block-folded {
+  display: block !important;
+}
+
+.fade-wrapper .collapsible-block-unfolded-link {
+  display: none;
+}
+
+a.collapsible-block-link:focus {
+  text-decoration: underline transparent;
+}
+
+a.collapsible-block-link:hover {
+  text-decoration: underline;
+}
+
+
+[[/module]]
+
+[[div class="fade-wrapper"]]
+[[=]]
+[[size 200%]]
+[[collapsible show="[神 性]" hide=""]]
+[[div class="fade-in"]]
+[[image https://backrooms-sandbox-2.wdfiles.com/local--files/collab%3Aspectre48argos1/argospageuse.png]]
+天平必须保持平衡。
+[[/div]]
+[[/collapsible]]
+[[/size]]
+[[/=]]
+[[/div]]

@@ -1,0 +1,155 @@
++ 欢迎来到指导中心！
+
+本页面陈列了维基提供的官方性指导，包含基础的创作指南与维基运作的规则。**当你加入后室IF分站时，也默认你同意遵守指导中心列出的所有规则。**其中，标有“必读”的文章是所有成员必须阅读的内容。请特别注意阅读其中的细则，明显违反必读指导者将可能被怀疑伪造入站，而得到重点关注或处分。
+
+++ 指导中心都挂载哪些文章？
+
+* 拥有 [[span class="icon guide"]]@@ @@{{指导}}[[/span]]标签，具有强制性、规范性和（或）约束性的文章。特别地：
+ * 名称为{{[X]}}政策的文章，一般类似于某种流程的规范执行手册，它介绍在网站中一种特定的行为应按照何种给定的程序被适当执行。
+ * 名称为{{[X]}}守则的文章，一般类似于某种公约、条文或法规，它介绍在网站中某些行为在什么样的边界之内才能正常、不违规地被达成。
+ * 名称为{{[X]}}指导的文章，一般类似于某种“官方发布”的“白皮书”，它介绍在网站中一些特定的事项该通过何种合理的手段进行才能达成最好效果。
+* 拥有 [[span class="icon overview"]]@@ @@{{总览}}[[/span]]标签，系对某一方面内容的总结，被认为有必要贴在本页的文章。
+
+对了，还要特别提一下[http://scp-wiki-cn.wikidot.com/ SCP基金会]这个同为怪谈网站的前辈。本指导中心的一些文章和工具是参考自他们，或直接移植而来。这些相关性较强的内容将会用SCP基金会@@ @@[[span class="foundation"]]@@ @@[[/span]]标志注明，以示感谢。
+
+通常情况下，指导中心不接受投稿，{{指导}}也是职员专用标签。如您__确信__某篇{{议论}} / {{总览}} / {{功能}}应当转正为{{指导}}，请私信任一活跃职员，或在本中心的评论区处申请。
+
+++ 我怎么知道哪些内容是必读的？
+
+* 指导中心将在下面列出你必须读完的内容。
+* 我们还有一个专门的标签说明哪些东西是必读的！
+ * [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/必读 必读] - 无论以何为目的加入网站，凡成员都必须阅读的指导、文章等重要页面。
+ 
+这些必读内容中含有加入网站所需要的暗号。请特别注意，泄露这些暗号，或者通过各种方式使别人了解到暗号存在的位置等，将会招致严厉的纪律处分。
+
+----
+
+= [[size 90%]]**| 指导中心 | [[[resource-hub|资源中心]]] >>**[[/size]]
+
+-----
+
+[!--
+[[span class="icon guide"]]@@ @@指导[[/span]]
+[[span class="icon essay"]]@@ @@议论[[/span]]
+[[span class="icon component"]]@@ @@组件[[/span]]
+[[span class="icon function"]]@@ @@功能[[/span]]
+[[span class="icon overview"]]@@ @@总览[[/span]]
+[[span class="foundation"]]@@ @@基金会[[/span]]
+可叠加。例：
+[[span class="foundation"]][[span class="icon component"]]@@ @@基金会+组件[[/span]][[/span]]
+--]
+
+[[div class="styled-quote"]]
++++ 你必须知道的事情
+以下内容全都是{{必读}}的 [[span class="icon guide"]]@@ @@{{指导}}[[/span]]。认真阅读它们很重要，它们也是站点运行不可缺少的基石，千万别不把它们当回事。违反这些指导中给出的条目将招致通常更加严厉的处分。
+
+----
+
+* [[span class="icon guide"]]@@ @@[[[site-rules|站规]]][[/span]] - 基础中的基础，本维基有序运作的保障。
+
+* [[span class="icon guide"]]@@ @@[[[anti-harassment-policy|反骚扰政策]]][[/span]] - [[span class="foundation"]]@@ @@本维基严禁任何形式的骚扰，入站即表示你已经通读并理解本政策。[[/span]]
+
+* [[span class="icon guide"]]@@ @@[[[content-policy|内容政策]]][[/span]] - 解释站点中什么样的内容可接受，什么又该限制。
+
+* [[span class="icon guide"]]@@ @@[[[licensing-guide|授权指导]]][[/span]] - 想使用本维基内容或在本维基使用其他内容，看这就对啦。
+
+* [[span class="icon guide"]]@@ @@[[[criticism-policy|评价守则]]][[/span]] - 评价维基内外的内容是每个读者的权利，但也有些基本的守则要时刻牢记在心。
+
+* [[span class="icon guide"]]@@ @@[[[meet-the-staff|会见职员]]][[/span]] - 这些人在本维基拥有一定的权限或承担一定的工作。不必迷信权威，但最好认识一下。
+
+[[/div]]
+
+----
+
+[[div class="styled-quote"]]
++++ 站点运作的基本程序
+这些程序性的内容提供站点实际运作上的指导，它们自然也具有 [[span class="icon guide"]]@@ @@{{指导}}[[/span]]标签。什么样的文章会被删除？什么样的文章能被我重写？我该如何找人代投我的文章？不一而足。
+
+----
+
+* [[span class="icon guide"]]@@ @@[[[normative-contribution-guide|规范性发布与编辑指导]]][[/span]] - 解释在网站上发布和编辑页面的要求和操作规范
+
+* [[span class="icon guide"]]@@ @@[[[tag-guide|标签指导]]][[/span]] - [[span class="foundation"]]@@ @@解释站点里的各种标签该如何使用，这关系到站点的访问便捷度。[[/span]]
+
+* [[span class="icon guide"]]@@ @@[[[anti-plagiarism-policy|反抄袭政策]]][[/span]] - [[span class="foundation"]]@@ @@解释站点为维护原创性推出的规定。[[/span]]
+
+* [[span class="icon guide"]]@@ @@[[[deletions-policy|删除政策]]][[/span]] - 解释如何以及何时会在维基里删除页面。
+
+* [[span class="icon guide"]]@@ @@[[[rewrite-policy|重写政策]]][[/span]] - 解释重写程序是如何运作的。
+
+* [[span class="icon guide"]]@@ @@[[[mast-intro|MAST 职员工作守则与流程]]][[/span]] - 解释本维基 MAST 职员的工作程序。
+
+* [[span class="icon guide"]]@@ @@[[[featured-policy|精品政策]]][[/span]] - 解释网站精品文章的内涵和认定。
+
+* [[span class="icon guide"]]@@ @@[[[entrusted-post-policy|委托发布政策]]][[/span]] - 解释在本站匿名发布、代发和搬运文章的流程和必要规则。
+
+[[/div]]
+
+----
+
+[[div class="styled-quote"]]
++++ 创作文章的基础指导
+下面的文章有 [[span class="icon guide"]]@@ @@{{指导}}[[/span]]也有 [[span class="icon overview"]]@@ @@{{总览}}[[/span]]，它们旨在提供最基础的创作指导。
+
+----
+
+* [[span class="icon guide"]]@@ @@[[[templates|模版]]][[/span]] - 在你的创作之路开始前，你可能想要一些可参考但不强制的模板。
+
+* [[span class="icon guide"]]@@ @@[https://backrooms-wiki-cn.wikidot.com/how-to-write-a-level-cn 如何撰写一篇原创层级][[/span]] - 请先认真阅读这篇文章，再着手写你的层级——当然不是强制的，但是不听老人言，吃亏在眼前！
+
+* [[span class="icon guide"]]@@ @@[https://backrooms-wiki-cn.wikidot.com/how-to-write-an-entity 如何撰写一篇实体][[/span]] - 和上面那篇文章差不多，不过这篇更关注实体页面一些。
+
+* [[span class="icon guide"]]@@ @@[[[wikidot-syntax|Wikidot 语法指南]]][[/span]] - 学会基本的 Wikidot 代码能使你的写作看起来更有条理。
+
+* [[span class="icon guide"]]@@ @@[[[sd-class-guide|生存难度系统使用指导]]][[/span]] - 本维基中最常用的组件之一，SD 系统的使用方式。
+
+* [[span class="icon guide"]]@@ @@[https://backrooms-wiki-cn.wikidot.com/font-guide 中文字体陈列及使用指导][[/span]] - 讲解如何让 Wikidot 读取任何一个你能在互联网上找到的中文字体文件。
+
+* [[span class="icon overview"]]@@ @@[[[resource-hub|资源中心]]][[/span]] - 更多来自维基成员的写作资源分享，从创作心得到格式代码，你一定不愿错过。
+
+[[/div]]
+
+-----
+
+[[footnoteblock]]
+
+
+
+[[module css]]
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css');
+
+.icon::before {
+    font-family: "Font Awesome 5 Free";
+}
+.guide::before {
+    content: "\f24e";
+    font-weight: 900;
+}
+.essay::before {
+    content: "\f4ad";
+    font-weight: 400;
+}
+.component::before {
+    content: "\f7d9";
+    font-weight: 900;
+}
+.function::before {
+    content: "\f568";
+    font-weight: 900;
+}
+.overview::before {
+    content: "\f07c";
+    font-weight: 400;
+}
+.foundation::before {
+    display: inline-block;
+    content: url("https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg");
+    width: 1.25em;
+    transform: translateY(3px);
+    filter: invert(1);
+}
+h2, h3 {
+    margin: 0.5em 0;
+}
+[[/module]]

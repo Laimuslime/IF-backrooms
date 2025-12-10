@@ -1,0 +1,157 @@
+[[include :backrooms-wiki-cn:theme:super-liminal]]
+[[module CSS]]
+/*隐藏页面标题*/
+#page-title{
+display:none;
+}
+[[/module]]
+[[include :brsandbox-mini:131313]]
+
+
+
+[[=]]
++ 层级
+[[/=]]
+
+[[tabview]]
+
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 +层级 -子层级 -房间 -待删除" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+[[tab 机翻]]
+[[module listpages category="*" tags="+机翻 +层级 -子层级 -房间 -待删除" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+
+
+[[/tabview]]
+
+[[=]]
++ 子层级/房间
+[[/=]]
+[[tabview]]
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 子层级 房间 -待删除 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="子层级 房间 -待删除 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+[[/tabview]]
+
+[[=]]
++ 实体
+[[/=]]
+
+[[tabview]]
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 +实体 -待删除 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="+实体 -待删除 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+[[/tabview]]
+
+[[=]]
++ 物品
+[[/=]]
+
+[[tabview]]
+
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 +物品 -待删除 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="+物品 -待删除 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+
+[[/tabview]]
+
+[[=]]
++ 现象
+[[/=]]
+
+[[tabview]]
+
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 +现象 -待删除 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="+现象 -待删除 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+
+[[/tabview]]
+
+[[=]]
++ 故事
+[[/=]]
+
+[[tabview]]
+
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 +故事 -待删除 -已归档 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="+故事 -待删除 -已归档 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[/tabview]]
+
+[[=]]
++ 其他翻译
+[[/=]]
+[[tabview]]
+
+[[tab 翻译]]
+[[module listpages category="*" tags="+翻译 -房间 -子层级 -层级 -实体 -现象 -物品 -scp -故事 -待删除 -已归档 -机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+[[tab 机翻]]
+[[module listpages category="*" tags="-房间 -子层级 -层级 -实体 -现象 -物品 -scp -故事 -待删除 -已归档 +机翻" separate="no" order="title" perPage="250"]]
+* [%%link%% %%title%%]
+[[/module]]
+[[/tab]]
+
+
+[[/tabview]]

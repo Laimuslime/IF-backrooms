@@ -1,0 +1,220 @@
+[[module css]]
+@import url('https://backrooms-wiki.wdfiles.com/local--code/theme%3Adeep-sea');
+[[/module]]
+[[module css]]
+:root{
+--header-title:"The Backrooms";
+--header-subtitle:"你曾经来过这里";
+}
+[[/module]]
+[[iftags +版式]]
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+该版式由[[*user ReyDay]]制作（[[[reyday|我的作者页]]]）。
+
+特别感谢[[*user VivamusLudio]]帮我处理这个版式的编辑框，感谢[[*user PrinceBun]]协助制作气泡效果，还要感谢[[*user PrinceBun]]和[[*user cakelord114514]]帮我调试排查问题。
+
+还要特别特别感谢[[[theme:embers|余烬]]]版式提供动画代码。这是我在这个站点上最喜欢的版式之一，一定要去看看！
+
+由[[*user cakelord114514]]给出了技术绿灯
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[/>]]
+[[toc]]
+
+
+[[div class="palette" style="background:rgb(var(--dull-accent))"]]
+@@--dull-accent@@
+67, 85, 128
+[[/div]]
+[[div class="palette" style="background:rgb(var(--light-blue))"]]
+@@--light-blue@@
+185, 205, 255
+[[/div]]
+[[div class="palette" style="background:rgb(var(--vibrant-blue))"]]
+@@--vibrant-blue@@
+90, 130, 170
+[[/div]]
+[[div class="palette" style="background:rgb(var(--link-blue))"]]
+@@--link-blue@@
+150, 180, 200
+[[/div]]
+[[div class="palette" style="background:rgb(var(--dark-grey))"]]
+@@--dark-grey@@
+0, 10, 20
+[[/div]]
+[[div class="palette" style="background:rgb(var(--blue-accent))"]]
+@@--blue-accent@@
+50, 70, 90
+[[/div]]
+
+[[module css]]
+.palette {
+    display: inline-block;
+    color: rgb(var(--white-monochrome));
+    text-align: center;
+    padding: 1rem 0;
+    margin: 0.5rem;
+    width: calc(50% - 1rem - 3px);
+}
+.palette p {
+    margin: unset;
+}
+[[/module]]
+
+要使用本版式，用以下代码：
+> [[include :backroomss:theme:deep-sea]]
+@@@@
+@@@@
+@@@@
+[[include component:image-block
+|align= right
+|caption= DANGLE
+|name= http://backrooms-sandbox-2.wikidot.com/local--files/theme:reyday-deep-sea/Twix
+]]
+
+我制作这个版式就是因为一时兴起。而且傻乎乎的气泡超有趣的！
+
+使用的字体为：
+
+汉德利
+++++++ 太平洋
+{{奇幻无衬线等宽}}
+
+这是分割线的样子！
+----
+
++ 标题
+++ 标题
++++ 标题
+++++ 标题
++++++ 标题
+++++++ 标题
+[[collapsible show="折叠" hide="芜湖"]]
+:)))
+[[/collapsible]]
+脚注[[footnote]]啊吧啊吧[[/footnote]]
+**粗体**
+//斜体//
+__下划线__
+--删除线--
+上^^标^^
+下,,标,,
+{{打字体}}
+* 无序列表
+[[[不存在的链接]]]
+[[[https://backrooms-wiki-cn.wikidot.com/level-1|存在的链接！]]]
+
+> 这是一个引用块！你可以在一行前加上“>”来创建。
+> 这些
+>> 都是
+>>> 嵌套
+>>>> 引用块
+
+[[div class="lightblock"]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock"]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="frame"]]
+
+@@[[div class="frame"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="bubbleblock"]]
+
+@@[[div class="bubbleblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+@@@@
+@@@@
+@@@@
+||~ 这是一个表格 ||~ 表格的另一个部分 ||
+|| 你看这多酷啊！ || 我做出这个版式是不是很牛？:D ||
+@@@@
+[[tabview]]
+[[tab 分页1]]
+Wooo 分页看起来就是这样的！
+[[/tab]]
+[[tab 分页2]]
+这是另一个分页！
+[[/tab]]
+[[tab 这个分页好长啊，而且我也不知道为什么！]]
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+这是一个长分页。里面有很多文本。
+
+[[/tab]]
+[[/tabview]]
+@@@@
+@@@@
+[[collapsible show="+ 版式代码" hide="- 隐藏版式代码"]]
+[[code type="css"]]
+
+@import
+url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+ 
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+   animation-name: fadeIn;
+   animation-duration: 1s;
+   animation-iteration-count: 1;
+   animation-timing-function: ease-out;
+   animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }

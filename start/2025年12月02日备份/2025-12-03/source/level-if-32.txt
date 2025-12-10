@@ -1,0 +1,212 @@
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@500&display=swap');
+ 
+:root {
+  --theme-base: "black-highlighter";
+  --theme-id: "poolrooms-theme";
+  --theme-name: "Poolrooms Theme";
+ 
+  --logo-image: "";
+  --header-title: "The Backrooms";
+  --header-subtitle: "黑白色之界";
+ 
+  /* 字体 */
+  --body-font: 'Nunito', sans-serif;
+  --header-font: 'Anek Kannada', sans-serif;
+  --title-font: 'Anek Kannada', sans-serif;
+  --mono-font: 'IBM Plex Mono', monospace;
+ 
+  /* 颜色 */
+  --white-monochrome: 250, 250, 250;
+  /* 白色 */
+  --pale-accent: 120, 120, 120;
+  /* 已访问链接 */
+  --bright-accent: 200, 200, 200;
+  /* 亮银灰 */
+  --medium-accent: 160, 160, 160;
+  /* 中银灰 */
+  --dark-accent: 100, 100, 100;
+  /* 暗银灰 */
+  --alt-accent: 80, 80, 80;
+  /* 黑块 */
+  --gray-monochrome: 180, 180, 180;
+  /* 灰块 */
+  --pale-gray-monochrome: 240, 240, 240;
+  /* 表格 */
+  --light-gray-monochrome: 220, 220, 220;
+  /* 某些按钮 */
+  --dark-gray-monochrome: var(--gray-monochrome);
+  /* 深灰色 */
+  --dark-blue: 80, 80, 100;
+  --swatch-topmenu-border-color: var(--medium-accent);
+  --swatch-topmenu-bg-color: var(--bright-accent);
+  --swatch-border-color: var(--medium-accent);
+  --border-styling: outset 2px rgb(var(--swatch-border-color));
+  --darker-accent: 70, 70, 70;
+
+  --link-color: var(--dark-blue);
+  --link-color-bright: var(--dark-blue);
+  --hover-link-color: 120, 120, 140;
+  --newpage-color: 100, 100, 120;
+  --swatch-menubg-color: 210, 210, 210;
+ 
+  /* 文本块阴影 */
+  --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+ 
+  /* 评分模块 */
+  --rating-module-button-plus-color: var(--light-gray-monochrome);
+  --rating-module-button-negative-color: var(--light-gray-monochrome);
+  --rating-module-button-cancel-color: var(--light-gray-monochrome);
+  --rating-module-button-credit-color: var(--light-gray-monochrome);
+}
+ 
+#account-topbutton {
+  border-color: rgb(var(--swatch-text-light));
+}
+ 
+#header h1, #header h1 a {
+  top: 0.5rem;
+  font-size: 200%;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+  top: 1.7rem;
+  font-size: 110%;
+}
+ 
+#login-status {
+  color: rgb(var(--dark-blue));
+}
+ 
+#search-top-box {
+  display: none;
+}
+ 
+#skrollr-body {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("https://images.unsplash.com/photo-1717338358942-bfb1e399c7c0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU5JUJCJTkxJUU3JTk5JUJEJTIwJUU1JTlGJThFJUU1JUI4JTgyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+ 
+#page-title, h1, h2 {
+  color: rgb(var(--dark-blue));
+}
+ 
+h3,h4,h5,h6 {
+  color: rgb(var(--medium-accent));
+}
+ 
+.styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.dark-styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.darkblock h1,
+.darkblock h2,
+.dark-styled-quote h1,
+.dark-styled-quote h2 {
+  color: rgb(var(--medium-accent));
+}
+ 
+@media screen and (max-width: 600px) {
+  #header h1, #header h1 a {
+    font-size: 150%;
+  }
+}
+
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=2
+]]
+
+**Level IF-32**是后室IF层群的第32层。
+[[include component:image-block
+ |name=https://images.unsplash.com/photo-1644085612841-73f9d93b0746?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU5JUJCJTkxJUU3JTk5JUJEJUU1JTlGJThFJUU1JUI4JTgyfGVufDB8fDB8fHww
+ |caption=**Level IF-32** 的城市。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1717338358942-bfb1e399c7c0?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU5JUJCJTkxJUU3JTk5JUJEJUU1JTlGJThFJUU1JUI4JTgyfGVufDB8fDB8fHww
+|caption=**Level IF-32**的另一处区域。
+]]
++ **描述：**
+Level IF-32类似于一片充满雾霾的城市，城市内的任何建筑物都无法进入，即使此建筑物的入口敞开，在流浪者进入时也仍会被传送至街道之上。城市的街道积灰极其严重，掩盖了其原本的颜色，人行道的砖头已被磨损，磨损物未知，人行道上常常随机出现各种物品，这些物品大多为无用的垃圾，如食品包装袋、罐装饮料盒等，只有极少部分为各种物件，物件的列表如下：
+* 八音盒
+* 电风扇扇叶
+* 书本残卷
+* 充电头
+* 木质柜门
+
+这些物品大多未经过损坏，但已被丢至地面，表面造成了轻微损坏，对使用不造成影响。
+
+马路上散发着刺鼻且难以散去的沥青味，路面极其粗燥，包含浇灌时的痕迹与被车轮磨损的印迹，马路上会出现各类汽车，所有汽车都排放着大量废气，这些废气无法在短时间内散去，在排放后将会留在马路之中。城市的墙壁大多张贴着各种难以清洗的广告，墙壁已显得尤为老旧，裸露出了其中的砖头，墙壁上少数留有用粉笔涂鸦的图案，图案大多无意义或十分渗人，当注视过久时，流浪者将会来到[[[Level IF-25]]]，少数墙壁上生长出了植物，但大多植物早已死亡，留下剩下植物在此处苟延残喘。
+
+城市的整体布局极为混乱，且路面常常会结构重组，常常会出现各种死胡同公路排列于城市之中，而顷刻间又多出一道建筑中的裂缝，进入此层级后任何GPS、导航都无法开始运作。城市的路面上极少情况下会出现部分的机械组织，这些流水线或加工区大多都覆盖着一层污染物质，或是积满了焦油，大多组织可以运作但极其缓慢，部分已经被完全损坏。
++ **事件**
+在此层级中流浪者报告了部分已被证实发生在此层级的事件，如下：
+++ 黑白色调
+当此效应发生时，流浪者将会察觉耳边声音逐渐嘈杂，且眼前的一切颜色都将消失，只剩下黑白灰等颜色在做深浅变化，部分人员还报告了视力下降与短暂失明等特质。
+++ “沉醉”
+当流浪者步入此事件时，流浪者将会经历短暂的眩晕，还将产生一种特殊的情感，这种情感的成因尚不明确，但可以肯定的是，此情感十分强烈，且陷入的人员短时间内无法恢复，这种不明确的情感会让人极度的悲伤或极度兴奋，且如果此人员陷入此事件过深可能导致脑死亡。
+++ “徘徊”
+当流浪者陷入此事件时，流浪者将会失去一切有意义的意识，转而只剩下在此层级徘徊的念头，并将绕此层级的任意建筑物打转，目前这种现象的产生原因不明确，猜测可能是流浪者的精神崩溃导致的并发症。此事件的打断方式为让此流浪者受到巨大的打击，此流浪者将会立即醒来，据那些亲身体会者描述“那就像你做了一个永无止境的梦一般”。
++ **实体**
+此层级内存在少量实体，实体不会主动地攻击人类：
+++ “行人”
+行人是层级内最为常见的实体，该实体类似于人类，该实体面部特征模糊，总是喜欢插兜与沉思，当流浪者激怒此实体时，该实体会立刻一拥而上将流浪者活活打死。
+++ “观察者”
+观察者为此层级出现的无人机的统称，该无人机通体发黑，总是打开着摄像头记录着流浪者的一举一动，意图未知。
++ **基地，前哨和社区**
+--该层级不存在已知的基地、前哨和社区--
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]中转站
+* 人员稀少
+* 后室观测极点的重要基地其一
+* 对此层级展开深入研究
+* 人员覆盖大部分较稳定地区
+
+
++ **附加内容**
+--“这些都是你们的咎由自取，如果没有这一切，你们将不会被降下神罚，堕入后室，成为愚笨的实体。文明在这一阶段总是像狂放的狮子，但即使是再强盛的狮子也总会有倒下的那一刻，你说对不对呢？那些愚蠢至极的人们…”--
+
+该文字出处未知
++ **入口和出口**
+
+++++++ 入口
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]中切出会来到此层级
+* 于[[[https://backrooms-wiki-cn.wikidot.com/level-1|Level 1]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-145|Level 145]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-283|Level 283]]]陷入昏迷3小时以上可切入此层级
+++++++ 出口
+* 在此层级切出将会回到[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]或进入[[[Level IF-5]]]
+* 在此层级中陷入**黑白色调**效应时切出此层级即可来到[[[https://backrooms-wiki-cn.wikidot.com/level-122|Level 122]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-136|Level 136]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-137|Level 137]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-139|Level 139]]]中的任意层级
+* 当注视墙上的粉笔图案过久时，流浪者将会来到[[[Level IF-25]]]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]很平淡的水文，此层级的故事一下就猜出来了，也没想藏很深
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-31]]] | Level IF-32 | [[[Level IF-33]]] >>
+[[/=]]
+[[/div]]

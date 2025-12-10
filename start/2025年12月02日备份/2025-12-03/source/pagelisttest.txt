@@ -1,0 +1,25 @@
+[[module ListPages created_at order="desc" limit="20"]]
+[[head]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell]]页面名称[[/hcell]]
+[[hcell]]页面创建者[[/hcell]]
+[[hcell]]页面源链接[[/hcell]]
+[[hcell]]页面创建时间[[/hcell]]
+
+[[/row]]
+[[/head]]
+
+[[body]]
+%%title_linked%%
+%%created_by%%
+%%link%%
+%%created_at%%
+
+[[/body]]
+
+[[foot]]
+[[/table]]
+[[/foot]]
+
+[[/module]]

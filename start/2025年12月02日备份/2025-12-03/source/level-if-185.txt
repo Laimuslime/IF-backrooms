@@ -1,0 +1,64 @@
+[[include :backrooms-wiki-cn:theme:grayish-cyan]]
+[[include component:level-class
+|lang=cn
+|class=0
+]]
+Level IF-185是后室IF层群的第185层。
+
++ **描述**
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=http://if-backrooms.wikidot.com/local--files/level-if-185/IMG_5979.jpeg|
+    caption=**Level IF-185**的第一张照片。
+]]
+**Level IF-185**表现为一条沿河岸延伸的散步道，其两侧被绿化带与树木环绕。散步道地面由沥青和石头铺就，虽存在较为明显的磨损痕迹，但无显著破损。值得注意的是，道路上植被可能会出现断裂情况，被植被覆盖的部分路面结构较为脆弱，存在崩裂风险。一旦路面崩裂，下方将暴露出汹涌的地下河流。
+
+该层级内存在孤立效应，此效应不仅不会遇见其他人还会使流浪者携带的物品留存在切入点，无法被带入该层级。该层级内存在与[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]相似的[[[https://backrooms-wiki-cn.wikidot.com/manila-room|马尼拉房间]]]，但其与[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]的[[[https://backrooms-wiki-cn.wikidot.com/manila-room|马尼拉房间]]]存在差异：该层级的[[[https://backrooms-wiki-cn.wikidot.com/manila-room|马尼拉房间]]]墙面采用彩色墙纸装饰。
+
+该层级具有周期性的昼夜和天气变化，其周期为185小时，包括白天和黑夜。天气类型主要为多云和雨天，雨水偶尔会含有少量过氧化氢，因此不可饮用。该层级的温度范围始终保持在30~46℃之间，不受天气变化的影响。
+
+该层级内偶现若干座椅，其构造极为坚固，但仍存在被破坏的可能。若流浪者躺卧于座椅之上，环境天气将转变为降雨状态。
+
+该层级内时常出现航迹云，但此类航迹云均呈现虚假特征。若流浪者感知到航迹云具有高度真实感，则可能是受层级内特定效应影响，相关效应将在后文详述。该类航迹云与前厅航迹云的差异主要体现在以下方面：
+
+* 突然出现。
+* 同时出现多个航迹云。
+* 看到航迹云边缘的像素块。
+* 六边形航迹云。
+* 航迹云出现时突然发出震耳欲聋的噪音。
+* 盯着会感到眼睛疲劳。
+
+通过上述差异可推断，该层级内的航迹云大概率属于层级内部的投影现象。
+
++ **基地、前哨和社区**
+
+由于孤立效应的存在，该层级无法建立任何的基地、前哨与社区。
+
++ **入口和出口**
+
++++ 入口
+
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-1|Level 1]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-50|Level 50]]]观察到脚下的地面变成蓝色会来到该层级。
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]进入马尼拉房间有概率到达该层级。
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-77|Level 77]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-7|Level 7]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-777|Level 777]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-c-7|Level C-7]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-c-77|Level C-77]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-c-777|Level C-777]]]、[[[Level IF-7]]]、[[[Level IF-77]]]和[[[Level IF-777]]]中找到十个7会来到该层级。
+* 找到在[[[https://backrooms-wiki-cn.wikidot.com/level-c-1984|Level C-1984]]]找到一个虚假的航迹云会来到该层级。
+
++++ 出口
+
+* 前几个出口同[[[https://backrooms-wiki-cn.wikidot.com/level-0|Level 0]]]。
+* 找到一个真实的航迹云会来到[[[https://backrooms-wiki-cn.wikidot.com/level-c-1984|Level C-1984]]]。
+* 用纸记录看到的云直到记录到1000个云会来到[[[https://backrooms-wiki-cn.wikidot.com/level-c-1997|Level C-1997]]]。
+* 找到119个车并进入会来到[[[https://backrooms-wiki-cn.wikidot.com/level-c-822|Level C-822]]]。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user haodemingzi]]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-184]]] | Level IF-185 | [[[Level IF-186]]] >>
+[[/=]]
+[[/div]]

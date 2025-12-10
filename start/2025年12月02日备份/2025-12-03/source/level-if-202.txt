@@ -1,0 +1,66 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=3
+|lang=cn
+]]
+**Level IF-202**是后室IF层群的第202层。
++ **描述**
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/202-1
+|caption=**Level IF-202**的楼道。
+]]
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/202-2
+|caption=**Level IF-202**的走廊。
+]]
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/202-3
+|caption=**Level IF-202**的楼梯。
+]]
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/secret:pictures/202-4
+|caption=**Level IF-202**的俯视视角。
+]]
+**Level IF-202**呈现为一无限延伸且高耸入云的环形办公室内部，类似于20世纪末期建造的普通办公大楼，部分楼层可能包含二十一世纪上半叶早期时建立的居民楼特征。该层级之内的空间时刻发生着变换，这种变换永不停歇，可能会导致流浪者被封闭在层级之内的某一空间之中。
+
+**Level IF-202**的走廊铺有早已磨损的米色地板，墙壁为灰白色的隔音板。楼层上方装有标准的圆形荧光灯，荧光灯总是会发出低频的嗡鸣，其似乎在不断地无规律闪烁。层级有时会突然变得黑暗，在黑暗之中，隐约有着某种物体在快速地移动。
+
+**Level IF-202**最主要的特征是其每一楼层的结构，层级之中的每一楼层都为一首尾相连的环形走廊，且流浪者难以注意到楼层的结构。当流浪者在其内部向一个方向笔直地前行时，该流浪者最终会直接回到楼层的起点。
+
+**Level IF-202**中的流浪者在楼层中行进时，流浪者的感官会被层级本身难以察觉地缓慢扭曲，其方向感渐渐模糊。流浪者在层级中会失去“起点”与“终点”的概念，从而在层级中循环往复地行走直到死亡。
+
+**Level IF-202**的楼道还有其他特质，当流浪者将物品放在层级的某一位置并向反方向行走时，尽管该层级的结构时循环的，但流浪者并非一定会在楼层中发现自己摆放的物品留在原地。该物品可能会出现在逻辑上不合理的区域，例如悬浮于空中，出现于流浪者身后。
+
+**Level IF-202**无法作任何标记，曾有流浪者试图在墙壁上使用黑色记号笔作箭头标识，但该标识在接下来五分钟的时间之内自我溶解且并无痕迹。若流浪者尝试使用物品做标记，则该物品会瞬移至层级空间之中其他的区域，变为不可靠的标记。
+
+**Level IF-202**中的楼道由各类楼梯间与电梯井相连接，该区域极其不稳定，且不遵循基本的物理逻辑，流浪者可能会发现在楼梯间中向上前行时达到了一个更低的楼层。流浪者应避免进入层级的电梯，电梯有着极大概率将流浪者送往一个极度危险的层级，且电梯之内常常出现各种实体。
+
+**Level IF-202**的白天十分闷热，最低温度为35℃，最高则为40℃，夜晚则会降低至21℃至22℃。白天时，层级中时刻弥漫着臭氧与尘埃相互混合时所产生的怪异气味。而来到夜晚时，荧光灯会变得极其昏暗，但并不会完全地熄灭。
+
+**Level IF-202**的素数楼层直接似乎有着不稳定但可连接的WiFi信号，网络名为一串随机的13位数，末尾带有“202”数字标记。层级中有着大量实体，包括了常见的实体种类，它们大多分布于电梯之内，且在电梯门打开时窜出电梯。电梯外的实体们通常会躲起来，直到流浪者接近时再突然攻击，在黑暗之中，这些实体的出现频率将会大大增高。层级通常是难以切出的，大部分切出道具的成功几率都将下降在75％以下，有时切出甚至会将流浪者带到层级之中最为危险且致命的区域。
++ **基地、前哨与社区**
+暂无
++ **入口与出口**
+++++++ 入口
+* 在[https://backrooms-wiki-cn.wikidot.com/level-2 Level 2]中找到一扇少量木板腐烂的木门，如果门后为一个向下的楼梯，走下去可到达此层级
+* 在[https://backrooms-wiki-cn.wikidot.com/level-15 Level 15]找到一个消防门进入可来到此层
+++++++ 出口
+* 在第100～107层楼找到一个门，门内有几率是一个向上的楼梯，穿过楼梯，可到达[https://backrooms-wiki-cn.wikidot.com/level-1-4 Level √2]
+* 在最底层找到向下的楼梯可到达[https://backrooms-wiki-cn.wikidot.com/level-0 Level 0]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+重写者[[*user MCMK-1234]]
+原作者及图片提供者： 潼tong
+照片为潼tong拍摄，符合cc协议
+我的更多作品：
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-201]]] | Level IF-202 | [[[Level IF-203]]] >>
+[[/=]]
+[[/div]]

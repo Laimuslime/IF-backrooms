@@ -1,0 +1,135 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|del=a
+|font=a
+]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 5.50s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+}
+[[/module]]
+
+[[module css]]
+:root {
+    --bb-black: 255, 255, 255;
+    --bb-white: 0, 0, 0;
+}
+#page-title {
+    display: none;
+}
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 90%;
+    margin:auto;
+   text-align: center;
+    text-shadow: 1.25px 1.25px 1.25px rgb(255,255,255);
+}
+
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 0.8) 85%, rgba(0, 0, 0, 0.8) 100%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+[[/module]]
+@@ @@
+
+[[=image http://imgurl.diadi.cn/imgs/2025/02/7eccdca989edfa81.jpg]]
+@@ @@
+[[div class="invisibox"]]
+室外光辉灿烂，室内暗无天日。
+@@@@
+城市万千喧嚣，房屋寂静如墨。
+@@@@
+躯体跪坐在阴冷的房间地上，喘着粗气，手腕迸出的温热污染手掌下的成堆垃圾。
+@@@@
+闷热的空气中夹杂着腥臭气味灌入肺中，向外挤出溃烂到不成型的字词。
+@@@@
+颅内的炸药接连爆炸，怒吼与辱骂透过颅骨切碎耳蜗。
+@@@@
+所有的药物握在手中，仰头倒入喉中，只为从这喧嚣中获得一丝安宁。
+@@@@
+深吸一口气，躺在洋面上，浸于虚实并存的体验中。
+@@@@
+合眼。
+[[size 350%]]。
+[[div class="fader"]]
+。
+。
+。
+[[/div]]
+[[/size]]
+眼旁的事物，颅内的喧嚣渐融于空无。
+@@@@
+海水将无力的身躯缓慢咽没，无数拉圾残渣将肉体渐渐切割成一块块碎肉。
+@@@@
+心跳渐滞、意识涣散，空气薄如纸片，灼热熔岩于咽喉管内翻涌。
+@@@@
+尝试伸出手，试图抓住那最后一丝光，却遭海水摁下。
+@@@@
+身躯坠入深渊，再无抵抗之力。
+@@@@
+眼中的光芒被黑暗扼住咽喉，随着意识的剥离而逐渐熄灭，归于沉寂。
+@@@@
+[[/div]]
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2025/02/1a237fbc9dbdce77.jpg]]
+@@ @@
+[[div class="invisibox"]]
+时间似乎凝滞，仿佛亿万个世纪般漫长。
+@@@@
+于恍惚之间，一丝光线窥探而入。
+@@@@
+手撕开眼前黑幕，更多光明随之溢出。
+@@@@
+破碎肢体钻入缝隙，从中艰难挣出，面前便是期盼已久的[https://if-backrooms.wikidot.com/level-if-156/offset/1 光明]。
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@

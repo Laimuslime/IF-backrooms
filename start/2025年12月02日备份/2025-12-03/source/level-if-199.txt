@@ -1,0 +1,477 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "后室观测极点";
+   --header-subtitle: "建造与发展";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+
+|1=后室观测极点
+
+|2=建造与发展
+
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[div class="blockquote"]]
+“你不应如此执着。”
+
+Cole擦了擦身上积着的灰尘，向Lyn的方向看去。
+
+“但我意识到这可能是对的。”
+
+“你是认为这样一个没有明确认证的档案是完全正确的吗？”
+
+“我知道，但我已别无去处。”
+
+Lyn继续向前走去，无视了身后已经停下的Cole。
+
+“你果然没有一点实质的改变。”
+
+Cole准备回去了，但他突然发现，往后已无去路。
+
+“我们些许已经进入了此层级。”
+
+“该死的。”
+
+Cole咒骂一句。
+
+“到了，好好看看吧。”
+[[/div]]
+[[div class="blockquote"]]
+Level IF-199的消息于31日前被发送至三个随机层级当中，其中包括了Level IF-199的坐标与进入方式，最初于[[[Level IF-198]]]内发现此层级的消息，第一批进入此层级的特工带回了预言性质的数据，该数据中包含了[[[Level IF-10]]]、[[[Level IF-25]]]、[[[Level IF-32]]]等层级的讯息，均早于层级被发现的时间点。
+
+该层级的消息引起了部分调查，也同时促使后来调查此层级的一批天文学家建立了[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]，试图以此层级为起点[[footnote]]由于此层级的危险源极少[[/footnote]]，调查更多的未知层级。
+[[/div]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-199**是后室IF层群的第199层。
+[[f>toc]]
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1703160045918-8c697bae87de?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFNSVCMCU4MSVFOSU5NyVBRCUyMCVFNyU5OSVCRCUyMCVFNiU4OCVCRiVFOSU5NyVCNHxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-199**的走廊。
+]]
+Level IF-199结构如一座白色高塔，高塔外的场景为一片照着绿光的黑夜沙滩，但无法以任何方式进入高塔之外，假若你已切入此层级，牢记以下规则：
+* 不要拾取任何未经安全证明的物品
+* 不要尝试破坏建筑物
+* 不要相信任何看似安全的出口
+* 时刻检查你所处区域的稳定性
+
+Level IF-199的入口部分由未知白色材料制成，此材料极其平滑，坚硬度高，入口处地面放有白色地毯，地毯始终保持洁净如新，地毯上方放置有一张同样由白色材料制成的桌子，桌子上常摆植物或杯子。桌子上的物品为随机刷新，当过去一段时间后，物品就会在无人察觉的情况下被替换，在此区域，你无需担心结构的稳定性
+
+当通过入口，前方即为Level IF-199的主区域，主区域包含众多小区域，但主区域内的小区域均包含以下特点：洁净的环境，复杂的结构，众多的设施，无限刷新的物资，封闭的环境等。
+
+[[tabview]]
+[[tab 控制室]]
+控制室的主要特点为整体黑色的环境，墙壁及天花板皆为金属制成，房间为全封闭，仅有一扇前门和一扇后门，控制室内包含若干的椅子、桌子与显示屏，显示屏内为使用像素节点排列的规则图案，显示屏一般为黑色，少数报告中为白色，显示屏上的膜一般不会被取下。桌子为连体桌，通体呈白色，由木头制成，材质光滑无比。椅子的凳腿极高，一般为30～70cm，椅子的座位处为一圆形木板。
+
+这一区域大部分已被探索且标记，少部分未探索区域已被封闭，无法通过任何方式进入被封闭区域，被探索的区域显示屏大多已能显示，可以连接Wifi。
+[[/tab]]
+[[tab 居住区]]
+居住区的大致特征为风格迥异的房间，房间的大致特点为方正的结构，连接其的板直走廊，居住区内大致摆放有一些食品和家具，这些食品通常可以直接食用，部分请参照后文列表。此区域内的装饰将会逐步地改变，如某房间第一次进入墙壁为蓝色，在后期进入时墙壁渐变为粉色，诸如此类事件报告尤其地多，请不要将您身上的物品随意放置在此区域内，否则物品可能以极快的速度消失。
+[[/tab]]
+[[tab 办公区]]
+办公区内桌椅整齐，整体与控制室类似，但显示屏均可以正常使用，无任何错误，办公区天花板处安有圆灯，灯可以以极快的速度打开或关闭，但极易受损，区域内的墙纸一般为白色或灰色，部分地区的受潮较为严重，在探索此区域时极少碰到此情况的发生，无需过多在意。
+[[/tab]]
+[[tab 广场]]
+广场的空间较为宽大，地板使用大理石制成，上面刻有轴对称花纹，一般两旁配有旋转楼梯，连接除此广场外的其他区域，不过连接到另一个广场的可能性也不小。当从旋转楼梯到达另一处区域时，请千万不要跌倒或是晕厥，这将会将你来到一个随机层级。
+[[/tab]]
+[[tab 餐厅]]
+餐厅一般处于广场之旁，空间较大，配有餐桌和沙发，大部分情况下生成于一处。流浪者可以在未损坏的沙发上休息，这代表着部分沙发已被完全损坏，处于坏沙发上将会使你切出到[[[Level IF-73]]]，餐厅一旁的长桌上包含有各类食物，类似于居住区，部分食品可能无法轻易使用，请参照下文辨别。
+[[/tab]]
+[[tab 回收站]]
+回收站较为混乱与笼统，一般认为只要可以将层级内无用物品回收再投入到其他地方的层级区域都为回收站，回收站顾名思义，为一个中型房间，内部充满着由层级内部各个角落带回来的物品，稍等片刻后，此区域会将物品投放至层级的随机角落，以达到继续使用的目的。
+[[/tab]]
+[[tab 生态系统]]
+生态系统是Level IF-199不可缺少的一个重要部分，生态系统承担了Level IF-199内所有的生态循环，生态系统区域一般处于层级之外，内部充满各种种植农作物和产生氧气的部分，农作物在生长完全后便会投放至回收站，氧气会通过层级内密布的通道进行传播，通道无法被堵塞，堵塞物将会回到回收站区域回收或是直接消失。
+[[/tab]]
+[[/tabview]]
++ **层级须知**
+以下部分为层级内的各种注意事项，请进入此地的流浪者务必遵循。
+[[tabview]]
+[[tab 食品]]
+Level IF-199前文已知层级内会刷新各种食物，可食用的如下：
+* 面包
+* 蔬菜
+* 任何糖果
+* 巧克力
+* 能量饮料
+* 米饭
+* 鸡肉
+* 香肠
+
+不宜食用过多的：
+* 颜色鲜艳的果汁
+* 面筋
+* 披萨
+* 意大利面
+* 薯条
+
+不可食用的：
+* 稀酸奶
+* 不明的液体
+* 被锋利的刀切出整齐口子的食物[[footnote]]代表其已被传送至回收站一半，如果食用可能导致切出[[/footnote]]
+[[/tab]]
+[[tab 切出物资]]
+Level IF-199的物资部分会随机切出，因此容我告知您切出物资的显著特征：
+* 被横切一刀
+* 缺少大量部分
+* 无法正常地拾起
+* 散发奇怪的味道
+当您发现您手上的物品呈现上面所述的任意一种情况时，请立刻丢弃此物品。
+[[/tab]]
+[[tab 如何建立团体？]]
+在后文中表明此层级为[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]占据，若想建立独属于自己的小团体，请获得官方的认证，认证需要以下条件：
+* 对[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]有利关系[[footnote]]否则视为敌方给予消灭[[/footnote]]
+* 不造成任何大负面影响
+* 团体保证对层级有利
+若你达成上述几点，即可向[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]申请建立团体！
+[[/tab]]
+[[/tabview]]
++ **基地、前哨与社区**
+[[tabview]]
+[[tab 后室观测极点总基地]]
+此层级即Level IF-199几乎完全由[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]占据，并且由于此层级为建立地，所以此基地的人员尤其的多，约120000人，后文所有基地、前哨和社区都只是在此基地的许可下建立的小组织[[footnote]]部分未经许可[[/footnote]]。
+[[/tab]]
+[[tab 观测分部]]
+如其名，此分部主要负责观测层级的环境，包括层级内部与外部，目前观测分部观测了层级大约12％的部分，此区域的人员较为分散，但每个成员之间都配有两把对讲机[[footnote]]另一把为备用对讲机[[/footnote]]以供联络，人数未知。
+[[/tab]]
+[[tab 信号]]
+信号是一个寻找层级残存数据与Wifi的小团体，该团体人数极少，重要性不大，团体成立者获得了建立小团体的许可，为了赶紧用上这次机会，建立了此团体，此团体活跃人员也极少，较为无组织。
+[[/tab]]
+[[tab 阈限共和国（未获官方认证）]]
+阈限共和国是几千人自发组织成立的国家，该国家配有独立的货币、设施、政府，占据着层级的北部地区23％，重要设施包括一些管理局和警局，但没有一个明确的领导人，该国家也未经[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]的认证。
+[[/tab]]
+[[tab 逃生出口]]
+逃生出口为较小团体，但成员大部分为警卫，该团体获得许可的原因是因为承诺守护该层级的出口处，目前守卫的有以下出口：
+* [[[Level IF-3]]]东之路途出口
+* [[[Level IF-9]]]北之角落出口
+* [[[Level IF-11]]]西之汇流出口
+* [[[Level IF-38]]]南之艺术出口
+* [[[https://backrooms-wiki-cn.wikidot.com/level-404|Level404]]]中之破碎出口（已被封堵）
+[[/tab]]
+[[/tabview]]
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]中切入一个管道即可来到此层级。
+* 于[[[Level IF-4]]]、[[[Level IF-6]]]中包含部分此层级的入口，入口特征为使用特质白色材料包裹，切出即可来到此层级。
+* [[[Level IF-10]]]、[[[Level IF-11]]]、[[[Level IF-17]]]、[[[Level IF-29]]]、[[[Level IF-31]]]、[[[Level IF-34]]]中切入一道铁制门即可来到此层级。
+于[[[Level IF-111]]]中静止不动60s及以上即可来到此层级
+++++++ 出口
+* 部分出口请参照上文
+* 进入深色木质门后可达[[[Level IF-2]]]
+* 在深入后进入一条狭长的走廊可达[[[Level IF-3]]]
+* 在发现一处大玻璃门并进入后方时可达[[[Level IF-4]]]
+* 在生态系统处切入可进入[[[Level IF-5]]]
+* 走进一个较暗的空房间并切出可达[[[Level IF-6]]]
+* 切入地毯会进入[[[Level IF-7]]]
+* 在生态系统中切入一片苔藓会进入[[[Level IF-8]]]
+* 食用大量正在被传送的食物可能会使流浪者进入[[[Level IF-9]]]
+* 将杏仁水倒在回收站内部可达[[[Level IF-10]]]
+* 在回收站内部的物品带出可能会使流浪者切入[[[Level IF-11]]]
+* 在控制室内部摔碎一个显示屏会使流浪者进入[[[Level IF-12]]]
+* 在居住区中发现一朵铃兰并拾取可进入[[[Level IF-13]]]
+* 进入一个通风管道会使流浪者进入[[[Level IF-14]]]
+* 在层级中漫无目的的游荡直到发现一条小径并进入会来到[[[Level IF-15]]]
+* 在办公区中撕烂墙纸会进入[[[Level IF-20]]]
+* 在居住区中发现成群的彼岸花并切出会进入[[[Level IF-22]]]
+* 在办公室内把显示屏系统时间手动调整到20年之后会切入[[[Level IF-24]]]
+* 若流浪者在居住区发现了乐器并演奏可达[[[Level IF-27]]]
+* 在生态系统区域用任意手段改变温度会进入[[[Level IF-29]]]
+* 不断怀疑自我并切出会进入[[[Level IF-30]]]
+* 大量破坏家具会进入[[[Level IF-31]]]
+* 在层级中切入一面科技风格的墙面可能进入[[[Level IF-33]]]
+* 在层级中进入一个毫无光照的房间会进入[[[Level IF-39]]]
+* 在办公区区域中破坏显示屏会进入[[[Level IF-47]]]
+* 在层级中的回收站带走一把椅子会进入[[[Level IF-59]]]或[[[Level IF-91]]]
+* 处于坏沙发上将会使你切出到[[[Level IF-73]]]
+* --在错误的地方错误地切出会来到[[[Level IF-76]]]--
+* 在层级内发现一张写着“80”的纸条并撕碎会进入[[[Level IF-80]]]
+* 若流浪者试图在层级中尝试感官屏蔽可进入[[[Level IF-125]]]
+* 本层级与[[[Level IF-198]]]结构相连
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]，只是为了圆[[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]的设定而已（）模模又板板
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-198]]] | Level IF-199 | [[[Level IF-200]]] >>
+[[/=]]
+[[/div]]

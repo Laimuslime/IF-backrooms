@@ -1,0 +1,277 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+嘿……你在这儿干嘛呢？:3
+
+**作者（们）：**[[*user MrXac]]和[[*user Kitachi4Moon]]
+
+英译者[[*user MrXac]]
+
+中译者[[*user calf-0]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[/>]]
+@@@@
+[[table style="border: none; width: 100%; margin:0; box-shadow: none;"]]
+[[row]]
+[[cell]]
+[[span style="font-family: var(--title-font);"]][[size 120%]]**实体编号：TH-7**[[/size]][[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-family: var(--title-font); background-color: rgba(239, 149, 0, 0.5); padding: 0.3rem 0.4rem 0.1rem;    box-shadow: 0 0 0rem 0.075rem #da9700, 0.075rem 0.075rem 0rem 0.075rem rgba(239, 149, 0, 0.5);"]][[size 120%]]**威胁：4**[[/size]][[/span]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[span style="font-family: var(--title-font);"]][[size 120%]]**栖息地：户外层级**[[/size]][[/span]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[span style="font-family: var(--title-font); background-color: rgba(239, 149, 0, 0.5); padding: 0.3rem 0.4rem 0.1rem;    box-shadow: 0 0 0rem 0.075rem #da9700, 0.075rem 0.075rem 0rem 0.075rem rgba(239, 149, 0, 0.5);"]][[size 120%]]**智能：D+**[[/size]][[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+@@@@
+@@@@
+[[include component:image-block
+|name=https://th-backrooms-wiki.wdfiles.com/local--files/entity-th-7/BTS%20blir%20fix
+|caption=一张由不明流浪者拍摄的**信号草**照片。
+|align=center
+]]
+@@@@
+@@@@
++ 整体外观
+**Entity TH-7**，亦称**信号草**，是一种外观形似电信宏基塔的实体，常见于[[[http://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]之中。
+
++ 生物学
+**信号草**的外壳主要由几丁质所构成。此是一种广泛存在于昆虫和甲壳类外骨骼中的复杂多糖分子。其几丁质结构致密且排列特殊，使得外壳硬度堪比金属，却比混凝土或普通钢材更为轻盈。**信号草**的内部器官与昆虫高度相似。
+
+**信号草**能够于其周围约250米的半径范围内放射高频无线信号。此些信号与人类使用的[[[object-21|Wi-Fi波]]][[footnote]]频率约为2.4GHz和5GHz。[[/footnote]]极其相似，可被标准电子设备所检测。该能力主要用于诱引人类受害者靠近。若附近无人，该实体将会放射低频电磁波，可在500米范围内扭曲周围磁场，干扰强度足以破坏并瘫痪附近的Wi-Fi信号。
+
+**信号草**基部生长着形似铜线的器官[[footnote]]然而，此些器官并非由铜构成，而是某种与几丁质相似、导电效率堪比铜的特殊材料。[[/footnote]]，它们呈放射状向下延伸，于250米半径范围内形成覆盖网络。虽然此些器官尚未获得正式学名，但由于其扩散状态类似植物根系，大多数流浪者都习惯称其为“根”。此些根系具备极强的导电性，能产生足以致命的高压电势，可瞬间放倒人类或其他实体。据分析，其运作机制与电鳗等海洋生物的放电器官相似。
+
++++ 生物学繁殖
+当**信号草**获得充足养分过后，其基部将会开始发育一种被称为“生殖根”的特殊器官。此种根系相较普通根系明显更为粗壮硕大，具有多层强化的几丁质外壳，且能以缓慢的速度在土壤或其他地表材质。[[footnote]]由于其几丁质外壳的保护，该种子不具备导电性，无法传导电流。[[/footnote]]生殖根会以极其缓慢的速度从母体向特定方向延伸，持续寻找适宜播种的位置。当发现合适的位置过后[[footnote]]此些种子通常分布于距母体800至1千米范围内。[[/footnote]]，生殖根便会向土壤中释放单粒种子。随后生殖根会进入约24小时的分解状态。该种子呈球形，直径约25厘米，外覆几丁质外壳，内部由昆虫源蛋白质构成。种子需经历6~7月的土壤养分吸收期，才能完全发育为成熟的**信号草**个体。
+
++ 行为
+**信号草**最常见于低洼湿地、开阔平原或荒废农田等开阔平坦地带。它们利用无线信号放射能力引诱人类作为食物来源。通过对信号频率的研究发现，**信号草**具备以无线信号相互通讯的能力。此种通讯方式可能用于协调狩猎行为，同时也可能在调节繁殖周期或划定领地范围方面发挥作用。但目前此些信号的构造原理仍未被破解。
+
++++ 狩猎行为
+如前所述，当人类接近时，**信号草**将会放射无线信号。若流浪者携带开启状态的电子设备，设备便会自动检测并尝试连接该实体的信号源[[footnote]]此些信号的名称大多为无意义字符，但通常会带有表明信号类型的后缀。[[/footnote]]。导致毫无戒备的流浪者会在不知不觉中被信号源吸引，朝着**信号草**所在方向移动。当受害者进入特定范围内，植株根部将会突然窜出，以电击方式实施攻击。此些具有极强导电性的根系通常会导致受害者触电身亡，而非遭受物理创伤。待受害者死亡后，该实体会用根系卷起尸骸并拖入地下。虽然其后续处理方式尚未明确，但据推测该实体是以类似植物吸收养分的方式消化活体[[footnote]]此外，它们还会捕食特定的大型多肉实体。[[/footnote]]。研究表明，不同**信号草**个体会协同诱捕人类，从而提升狩猎成功率。
+
++ 控制方式
+[[include component:image-block
+|name=http://backrooms-sandbox-2.wikidot.com/local--files/collab:entity-th/beware
+|caption=一个常见于**信号草**密集分布地带的警示标识。此些标识由后室保护协会设立。
+|align=right
+]]
+
+当在聚居区或人口密集地带发现**信号草**时，共谋商人协会须负责对其进行围剿并根除。常规根除手段包括使用电锯或[[[object-15|火盐]]]。根除完成后，需将**信号草**的几丁质外骨骼结构与主体残骸分离并进行交易。如前所述，其几丁质材质硬度堪比金属却更为轻盈。正因采集过程艰险异常，此种材料被视为稀有资源，主要应用于：
+
+* 轻质耐久型护甲。
+
+* 刀剑、长矛等武装。
+
+* 于聚居地外围修筑防御壁垒。
+
+**信号草**的其余部分，如根系、内部组织及次级结构，责任其自然分解，进而滋养周边土壤。然而，在**信号草**泛滥成灾的地带，超出可控范围，当地会将其划为隔离区并设立警示标识以防止流浪者误入[[footnote]]据传言，共谋商人协会常出入于[[[level-th-12|Level TH-12]]]，且总能全身而退。但此说终究只是坊间传闻。[[/footnote]]。
+
++ 发现
+**Entity TH-7**于2005年左右被一位流浪者在通讯时发现。该流浪者在与其友人交谈过程中不幸遭遇该实体。受害者友人随后向位于[[[level-th-7|Level TH-7]]]的后室保护协会上报此事，该实体的存在故此得以确认。完整的对话记录已存档于数据库，点击此处即可查阅。
+[[collapsible show="[▲] 对话记录" hide="[▼] 对话记录"]]
+[[div style="background:#303036;color:#d9d9d9;padding:5px;"]]
+[[div style="margin:5px;"]]
++++++ @ Backtalk
+,,操作系统 v1.08 - 公开版,,
+
+------
+= **[@Dechai92]**
+= ,,//上午 9时12分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+哥们儿
+你啥时候到这儿啊？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+稍等，我还在赶路
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你带上那些东西了没？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+我带了
+但
+没有可制作帽子的材料。他们不愿意交易那些
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+啊，好吧
+
+= ,,//上午 9时13分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你现在在哪？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+th17
+正沿着路走
+你能等会儿吗？
+或者你可以直接返回我们的基地
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+我不着急
+没必要急忙慌，老兄
+我可以等
+就是别太磨蹭
+
+[[size 115%]]**@Dechai92：**[[/size]]
+明白，明白
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+到时候见
+你快要到的时候给我发消息
+
+[[size 115%]]**@Dechai92：**[[/size]]
+好
+
+= ,,//上午 10时48分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你现在在哪？
+
+= ,,//上午 10时59分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+嘿[[span style="background:#595959;color:#336dff;"]] @Dechai92 [[/span]]
+你还在吗？
+
+= ,,//上午 11时02分//。,,
+
+[[size 115%]]**@Dechai92：**[[/size]]
+[[span style="background:#595959;color:#336dff;"]] @Tevanoid [[/span]]
+抱歉
+我在半路没信号了
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+什么！？
+怎会！？
+你之前不是用的移动数据吗？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+我之前就是用的
+但是信号在半路上突然没了
+不知道为啥
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+那你现在用的什么？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+我不知道
+有个叫Aiopua 3G的Wi-Fi
+连接差的要命。加载这个聊天界面花了老半天时间
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+呃，至少你连上线了
+
+[[size 115%]]**@Dechai92：**[[/size]]
+我想我找到我用的Wi-Fi信号源了
+可能是个信号塔之类的玩意
+就搁太阳底下晒着
+但我不在乎
+现在信号好起来了
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你快要离开这个层级了吗？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+快了
+再等一会儿
+我休息一会
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+在空旷处要小心
+
+[[size 115%]]**@Dechai92：**[[/size]]
+我知道，老兄
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你没把东西弄丢，对吧？
+
+[[size 115%]]**@Dechai92：**[[/size]]
+没有
+我把所有东西都打包好了。别担心
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+行
+你休息好了赶紧过来
+
+[[size 115%]]**@Dechai92：**[[/size]]
+好好好
+就五分钟
+顺便问一下，基地那边什么情况？
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+没啥事
+就是等着你
+没什么要紧的
+赶快点
+
+= ,,//上午 11时50分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+你不是说就五分钟吗？
+嘿
+[[span style="background:#595959;color:#336dff;"]] @Dechai92 [[/span]]
+我等好久了
+你现在到底在哪儿？？？
+
+= ,,//下午 1时17分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+[[span style="background:#595959;color:#336dff;"]] @Dechai92 [[/span]]
+嘿，回我下
+你在吗？
+我可要告诉组织了
+这不好笑
+
+= ,,//下午 1时30分//。,,
+
+[[size 115%]]**@Tevanoid：**[[/size]]
+[[span style="background:#595959;color:#336dff;"]] @Dechai92 [[/span]]
+回我
+我现在开始担心了
+[[/div]]
+[[/div]]
+> [[/collapsible]]
+
++ 行为准则
++++ 应当
+* 若你遇到信号塔建筑，需与之保持距离。如果你所处地带的信号变得不稳定或莫名消失，可能由**信号草**导致。
+* 若你必须使用该实体的信号，需保持安全距离并通过远程方式连接。尽管信号强度可能会有所下降，但此是为了保障你的安全。
+* 若发现**信号草**，需向后室保护协会或其他相关组织报告（如共谋商人协会），以便进一步协调处理。
++++ 不应
+* 接近**信号草**。
+* 试图自行消灭它们。
+* 即使你并不身处**信号草**的攻击范围内，也不要让自己长时间逗留在其所在地带，因为可能会导致该实体向更广范围放射无线信号，日后可能会为你带来不必要的麻烦。[[footnote]]目前尚未明确该实体为何会出现此种表现，但据推测它们可能会被激怒。[[/footnote]]
+----
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Entity-TH-6|Entity TH-6]]] | Entity TH-7 | [[[Entity-TH-8|Entity TH-8]]] >>
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:license-box |author=MrXac和Kitachi4Moon，来自[http://th-backrooms-wiki.wikidot.com/ 后室泰文维基]。泰文链接：http://th-backrooms-wiki.wikidot.com/entity-th-7。英译者 MrXac
+|translator=calf-0]]
+=====
+> **名称：** BTS
+> **作者：** [[*user MrXac]]
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0]
+> **来源链接：** 没有，亦不会提供。(:<
+=====
+
+=====
+> **名称：** red and white arrow sign
+> **作者：** Jurgen Dekker
+> **协议：** [https://unsplash.com/license Unsplash License]
+> **来源链接：** https://unsplash.com/photos/red-and-white-arrow-sign-iX4BmQ15UCk
+> **附记：** 图像经[[*user MrXac]]编辑
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

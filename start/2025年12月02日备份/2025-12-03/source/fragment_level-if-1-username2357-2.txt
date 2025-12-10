@@ -1,0 +1,62 @@
+[[include :backrooms-wiki-cn:theme:to-wish-upon-a-dream]]
+
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+
+对此层级最早的记录来源于一篇童话故事。起初，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]并未关注该故事的真实性，直至2025年6月1日，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]收到了一份其成员的报告。
+[[collapsible show="+ 显示" hide="- 隐藏"]]
+[[div class="notepaper narrow with-tape"]]
+我在[https://if-backrooms.wikidot.com/level-if-17 Level IF-17]碰了一枚写有**Level IF-178**字样的火漆币后进入了那地方。起初那里一片漆黑，只能看见一个小光点。我以为我很快就会死在那，后来我往那个光点的方向走，看到了一片粉色海洋。我在那待了三个小时，随后看到了一名老妇人，她碰了碰我，我便回到了 [https://if-backrooms.wikidot.com/level-if-17 Level IF-17]。
+[[/div]]
+[[/collapsible]]
+在此之后，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]对此层级进行了成百上千次探索，整理出了以下档案。
+[[include component:level-class
+|class=0
+|lang=cn
+|three=无有害实体
+]]
+[[include :backrooms-wiki-cn:component:level-class-animation]]
+**Level IF-178**是后室IF层群的第178层。
+
++ **描述**
+
++++ **环境**
+流浪者可在此层级的水平面上方自由行走，原因未知。此层级的气温常年保持在26摄氏度，且根据其外观大致可分为两个区域，下文将逐一介绍。
+
++++++ **区域一**
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/06/b7f10e1eb7ab3136.jpg
+|caption=一张**Level IF-178**区域一的图像
+]]
+在一般情况下，流浪者在进入此层级时将直接进入此区域。此区域主要由某种黑色液体组成的海洋构成。此区域的天空被一层深蓝色浓雾覆盖。即使如此，流浪者仍可在距离其进入此层级时的位置发现一个小光点[[footnote]] 绝大多数情况下，此光点位于流浪者进入此层级时的位置的正北方向，距离流浪者进入此层级时的位置约500米。[[/footnote]] ，接近此光点将使流浪者进入区域二。若流浪者在此区域停留3分钟以上将产生令其不安的幻觉[[footnote]]如：认为自己的身边出现了大量敌意实体。[[/footnote]]。
+
++++++ **区域二**
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/06/bf7c0e319e228b9e.jpg
+|caption=一张**Level IF-178**区域二的图像
+]]
+此区域面积极大，因此，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]无法得知此区域的具体面积。此区域主要由某种粉色液体组成的海洋构成。流浪者可在此区域的天空中观赏到彩虹色的云朵。若流浪者在进入此区域时带有负面效果，则这些负面效果将在一小时内被完全消除。
+
++++ **实体**
+
++++++ **群鸟**
+* 外形类似于[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]中的海鸥
+* 颜色为纯黑色
+* 往往在区域一成群出现
+* 具有较高的智商
+* 使用近乎所有流浪者的母语引导流浪者前往区域二
+
++++ **资源**
+有时，流浪者可在区域二的海平面上方发现一套白色圆形桌椅，坐上椅子后触碰桌面将使桌面上出现少量食物。
+
++ **基地、前哨与社区**
+由于此层级的区域一不存在任何资源，且任何人在进入区域二3小时后均被送出此层级，因此，无法在此层级中建立基地、社区或前哨站。
+
++ **入口与出口**
+
+++++++ 入口
+* 若你在后室中发现一枚带有**“Level IF-178”**字样和彩虹色云朵图案的火漆币，触碰其上方文字将使你进入此层级。
+
+++++++ 出口
+* 如上文所述，在流浪者进入此层级的区域二约3小时后，其将被送回进入此层级前的位置;
+* 切入区域二中出现的桌子将使流浪者进入[https://backrooms-wiki-cn.wikidot.com/level-162 Level 162];
+* 切入区域二中出现的椅子将使流浪者进入[https://if-backrooms.wikidot.com/level-if-98 Level IF-98]。

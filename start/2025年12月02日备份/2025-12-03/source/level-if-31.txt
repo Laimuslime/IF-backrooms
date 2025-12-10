@@ -1,0 +1,342 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "后室观测极点";
+   --header-subtitle: "建造与发展";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=1
+]]
+
+**Level IF-31**是后室IF层群的第31层。
+[[include component:image-block
+ |name=https://images.unsplash.com/photo-1676387187782-f1ad64a9e790?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCVFNiU5QyVBOCVFOSU5NyVBOHxlbnwwfHwwfHx8MA%3D%3D
+ |caption=房间的顶部。
+]]
++ **描述：**
+Level IF-31层级表现为一处废弃已久但未造成损坏的木质结构房屋，此房屋无法测算其面积与高度，当流浪者向此层级任意方向移动时，层级都会表现出无限延伸的模样。
+
+Level IF-31最为典型的结构是“大厅”，大厅结构特点为宽阔的空间以及玻璃门与铁扶手，此区域地面积灰出现极少，仅有3次报告中提到地板积灰，木头地板呈现出反光的材质，上面的花纹有时会在流浪者未注视的情况下变幻，但其并不明显，木头地板的材质未知。墙壁多为木质，少数情况也为石质，墙壁的光滑强度为两个极端，仅有极度光滑和极度粗糙这两种状态，墙面极度整洁，但未有人为清理的痕迹。天花板处常有被损坏的区域，但这些区域的分布点为角落较多。
+
+第二类常见的结构为“微型迷宫”，微型迷宫结构特点为狭窄的空间、全封闭的房间和幽暗的环境，此结构内的所有物品均为木头制成，最为典型的特征是地面上的木板，这些木板通常相距0.3～0.7m，以迷宫的样式排列，一个木板长0.5m，高0.3m。此区域的墙壁已渗水严重，当流浪者触摸时墙壁会变得十分易碎。此区域仅有一个入口和一个出口。
+
+第三类结构为“镜房”，此区域的显著特征是镜面组成的墙壁，此镜面墙壁含有磨砂质感，反射着不同颜色的光，最为常见是绿色，此区域中光源来源未知，且颜色会随着时间推移变化，循环规律为：绿→红→蓝→紫→白→黄→橙→青→绿，当青色光芒转换为绿色光芒时，此循环将会从头开始，此区域的玻璃极易碎裂，且碎裂的玻璃极易锋利，建议非特殊情况下不接触所有此区域的玻璃制品。
+
+将所有区域连接于一起的是“走廊”区域，此区域的显著特征是空间狭长，长度可无限延伸，宽度约为0.9～3m不等，最为显著特征为地上潮湿的地毯，地毯中物质包含杏仁水和少量的浑浊液体，这一部分的浑浊液体成分未知，不断地散发出甜腥味。走廊的墙壁由混凝土浇灌，墙纸上画着循环的“卍”字图案，每个图案首尾相连进行排布，墙纸颜色一般为棕褐色或白灰色，图案一般为黑或白色，连接每个不同区域的门廊由木头制成，常见的颜色为深红色，天花板上的灯内含液体，在照耀下显现着不明的黑色沉淀物。
++ **基地，前哨和社区**
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]] 木质基地
+* 人员稀少
+* 后室观测极点成立的地区
+* 基地中包含大量物资
+* 入口众多
+
+++ 镜之房
+* 人员未知
+* 难以发现
+* 区域分散
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]改造试验区
+* 人员数量中等
+* 后室观测极点建立的新基地
+* 包含大量食物与建筑材料
+* 正尝试着改变部分区域的环境
+
++ **入口和出口**
+
+++++++ 入口
+* 在[[[Level IF-4]]]中接触木质物品后三秒立刻切出
+* 在[[[Level IF-5]]]中在活板门切出会来到此层级
+* [[[Level IF-7]]]极少出现的木门可能将你带到此层级
+* 在[[[Level IF-11]]]中吃下木屑即可来到此层
+++++++ 出口
+* 通常走廊中标有“3”数字的门会让你来到[[[Level IF-3]]]
+* 在此层级漫无目的的游荡最终会将你带到[[[Level IF-43]]]
+* 当流浪者在此层级突然发现地板变成瓷砖时切出会来到[[[Level IF-97]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]一篇平淡的氛围文，很无聊
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-30]]] | Level IF-31 | [[[Level IF-32]]] >>
+[[/=]]
+[[/div]]

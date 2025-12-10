@@ -1,0 +1,81 @@
+[[include component:list grid='in others' 'in others' 'toc toc' |mgrid='in' 'others' 'toc'|sub=a]]
+
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是隐秘系列？
+隐秘系列（Enigmatic Series）是后室中那些没有得到序数分配、极度神秘的层级、实体、物品与现象。由于这些事物具有相对更加怪异的属性，它们被赋予了独特的名称和 / 或编号。隐秘系列是在近期被提出的，根据理论，它们的数量还远不止于此。
+
+[[/div]]
+[[div class="intro-others intro-block"]]
+++* 更多文章[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:normal-levels|普通层级]]]**
+* **[[[overview:sub-levels|子区集]]]**
+* **[[[overview:entities|实体]]]**
+* **[[[overview:objects|物品]]]**
+* **[[[overview:phenomena|现象]]]**
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 隐秘层级][#1 隐秘子区集][#2 隐秘实体][#3 隐秘物品][#4 隐秘现象][#5 隐秘房间]
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
+++ 隐秘层级[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+[[module listpages category="*" tags="+原创 +隐秘系列 +层级 -子层级 -待删除" separate="no" order="title" perPage="250"]]
+* [%%link%% 隐秘层级] - “%%title%%”
+[[/module]]
+[[/div]]
+
+[[div class="style-block sub-block"]]
+++ 隐秘子区集[[# 1]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+[[div class="style-block"]]
+++ 隐秘实体[[# 2]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+[[module listpages category="*" tags="+原创 +隐秘系列 +实体 -待删除" separate="no" order="title" perPage="250"]]
+* [%%link%% 隐秘实体] - “%%title%%”
+[[/module]]
+[[/div]]
+
+[[div class="style-block"]]
+++ 隐秘物品[[# 3]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+[[div class="style-block"]]
+++ 隐秘现象[[# 4]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+[[/div]]
+
+[[div class="style-block"]]
+++ 隐秘房间[[# 5]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+[[module listpages category="*" tags="+原创 +隐秘系列 +房间 -待删除" separate="no" order="title" perPage="250"]]
+* [%%link%% 隐秘房间] - “%%title%%”
+[[/module]]
+[[/div]]
+
+[[module CSS]]
+.intro-toc p a:nth-child(5) {
+    width: 100%;
+}
+[[/module]]

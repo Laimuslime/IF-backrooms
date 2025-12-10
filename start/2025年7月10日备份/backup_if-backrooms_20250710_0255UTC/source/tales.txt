@@ -1,0 +1,86 @@
+[[module css]]
+table{
+    width:90%;
+}
+[[/module]]
+
+[[module css]]
+.section {
+    background: linear-gradient(to bottom, #eee 0%, #eee 50%, #fff 50%, #fff 100%);
+    border: 1px solid #888;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 15px;}
+.section > p {
+    display: none;}
+.section h3 {
+    display: inline-block;
+    float: left;
+    padding-left: 0.7em;
+    margin-top: none;
+    margin-bottom: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+    color: #901;}
+.section > a {
+    float: right;
+    font-size: 1.4em;
+    font-weight: bolder;
+    padding-right: 0.7em;
+    margin-top: 0.5em;}
+.section table {
+    width: 100%;}
+.section table * {
+    text-align: right;}
+.section table td, .section table th {
+    border: none;}
+.section table *:first-child {
+    text-align: left;
+    width: 100%;}
+.section table td:nth-child(2), .section table th:nth-child(2) {
+    min-width: 200px;}
+.section table td:nth-child(3), .section table th:nth-child(3) {
+    min-width: 80px;}
+.section table tr:nth-child(even) td:first-child {
+    font-weight: bold;}
+.section table tr{
+    background: #fff;}
+.section table tr:nth-child(odd){
+    border-bottom: 1px dashed #888;}
+.section table tr:first-child{
+    border-bottom: 1px solid #888;}
+.section table tr:last-child {
+    border-bottom: none;}
+.section .printuser img{
+    width: 16px !important;}
+
+.error-inline {
+    font-size: 0px;
+    visibility:collapse;
+    border: none;
+    color: #666;
+    text-align: right;
+}
+
+.error-inline em {
+    font-size: 0.8rem !important;
+    visibility:visible;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+}
+[[/module]]
+
+
+[[=]]
++ 欢迎来到后室！
+[[size 125%]]
++ 按日期排列的故事档案
+[[/size]]
+-----
+> **系统管理员的备忘：**此归档页旨在成为列出 Wiki 上所有后室原创故事的完整列表。如果你发现某个故事没有列出，请联系管理团队寻求帮助。
+-----
+[[module ListPages order="created_at desc" tags="故事" category="*" separate="no" perPage="250"]]
+|| %%title_linked%% || [[*user %%created_by%%]] || %%created_at%% ||
+[[/module]]
+[[/=]]

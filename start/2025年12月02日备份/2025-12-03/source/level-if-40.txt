@@ -1,0 +1,116 @@
+[[include :backrooms-wiki-cn:component:title
+|1=死亡
+|2=无人饶恕汝之灵魂，汝将永世苦难
+|logo=a
+|3=http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg
+]]
+[[include :backrooms-wiki-cn:theme:true-dark]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 3s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+ 
+:root {
+   --fade-in-delay: 0.1s; /* Change the speed here. */
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay));}
+[[/module]]
+[[module CSS]]
+
+> 行走于痛苦与死亡的深渊之中，无人聆听的黑暗死寂，囚禁着无数灵魂的黑暗之屋，汝之命运之归宿
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=死区
+|one=极度不安全
+|two=极度不稳定
+|three=极端环境
+]]
+
+**Level IF-40**是后室IF层群的第41层。
+
+**##red|注：以下信息均取自于死于**Level IF-40**的流浪者的尸检报告以及其中一名流浪者的笔记，与实际的**Level IF-40**可能有出入。##**
+
++ 描述：
+
+[[include component:image-block
+|name=2
+|caption=于幽蓝的绝望之地所摄下的充斥冰冷的映像
+]]
+**Level IF-40**是一个面积极小的房间。层级内设施简陋，仅存在一张仅剩框架的床、一对木质桌椅、一扇窗户以及一扇木质房门。层级内的房门呈现被外部上锁的状态，无法对其进行暴力破拆，层级内时刻黑暗，仅有窗户外诡异的蓝月所散发出的蓝光能够勉强充当光源，使流浪者能够看清整个层级。
+
+层级的木桌之上仅随意摆放有几个笔记本，其中无任何书写痕迹，而流浪者在笔记本上留下的痕迹将迅速消散。木桌上存在有3个抽屉，流浪者有概率在其中发现一把弹夹内装满子弹的左轮手枪。--##red|自杀无果。##--手枪难以进行射击，且存在炸膛风险，流浪者请勿在非必要情况下使用此枪械。此外，层级内再无其他事物。
+
+在**Level IF-40**中，流浪者无法听到任何外界与自身发出的声音，原因未知，而在流浪者进入**Level IF-40**7分钟后，将出现极为严重的耳鸣症状，并使其耳膜破损，使流浪者彻底丧失听力。
+
+**Level IF-40**的空气中存在一类颗粒极小的刺状冰晶，其底部半径约在20um~30um之间。流浪者在来到**Level IF-40**后，将无法抑制地出现类似哮喘的症状，促使流浪者进行急促且大量的呼吸，使其肺部吸入大量冰晶并附着在内壁上，将逐渐破坏流浪者的肺功能，最终使流浪者出现呼吸衰竭，与此同时，流浪者体内的血液将快速冷冻，其余身体器官的内部将出现冰晶附着或冰晶凝结，最终，流浪者的肉体将因冰晶附着导致的多器官衰竭而死。在流浪者死后，其所谓尸体均被传送至[[[Level IF-3]]]中。
+
+在流浪者尸体被传送后，其骨骼与肌肉将逐渐分解，转化为与**Level IF-40**中相似的冰晶颗粒，但更为粗大，在50um~100um之间。在流浪者的骨骼与肌肉被全部分解后，其皮肤将被撑破，将大量的冰晶喷出，并散发在空气之中，而吸入此冰晶的流浪者均仅发现肺部附着。值得一提的是，M.E.G.已在小部分层级发现有凭空出现**Level IF-40**冰晶的现象，且冰晶飘散速度极快，能够快速散布至整个层级，并已经造成较为严重的人员伤亡，M.E.G.正在试图将已出现冰晶散布的层级的入出口封锁，而死于这些冰晶的流浪者尸体将传送至IF层群的任意层级。
+
++ 实体：
+无
+
++ 基地、前哨与社区：
+由于**Level IF-40**的极端危险性，该层级不存在任何基地、前哨与社区。
+
++ 入口与出口：
+++ 入口：
+* 在部分层级内因吸入大剂量的冰晶而出现呼吸衰竭症状后昏厥，醒来将有几率进入**Level IF-40**
+
+* 在含雪层级中被埋没在雪堆中有较大几率切入**Level IF-40**
+
+* 在[[[Level IF-36]]]的森林中滑倒有几率切入**Level IF-40**
+
+* 在[[[Level IF-3]]]翻出窗户将有几率进入**Level IF-40**
+
+* 根据M.E.G.观察表明，实际上，流浪者在IF层群的任何一次切出行为都有较大几率使流浪者进入**Level IF-40**，包含使用切出工具。（如诺贴，布兰奇签名，彩虹叶等）
+
+++ 出口：
+> 该层级不存在任何出口，且通过特殊物品（彩虹叶、布兰奇签名）、方式（所言即咎）、层级（坟墓）、实体（生神）等方式同样均无作用。
+
+
+------
+[[>]]
+[[collapsible show="来吧" hide="观赏你的死亡"]]
+作者：[[*user kadjwxs]]
+图源：pixaday
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-39]]] | Level IF-40 | [[[Level IF-41]]] >>
+[[/=]]
+[[/div]]

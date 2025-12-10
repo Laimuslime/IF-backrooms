@@ -1,0 +1,198 @@
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[!--
+====
+
+[[include :backroom-wiki-cn:theme:cjcjz]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=er□or
+|2=未完成
+|logo=
+|3=
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|title=土子住广：
+|class=一木矢口
+|display=住广：er■o■
+|color=000000
+|border=FFE000
+|list-color=000000
+|image=
+|one=错〇
+|two=〇误
+|three=月贵
+]]
+
+**Lev■■-I■-[[$ 404/2。666··· $]]**是■F[[span class="ruby"]]世界[[span class="rt"]]World[[/span]][[/span]]的第[[$ 404/2.666··· $]]尸。
+
+++ **[[span class="ruby"]]手苗之术[[span class="rt"]]Describe[[/span]][[/span]]**
+
+**Lev■■-I■-[[$ 404/2.666··· $]]**被称为##000000|[[[https://backrooms-wiki-cn.wikidot.com/level-404|##48|错〇##]]]##不完全的第n+1次[[span class="ruby"]]之失人戈[[span class="rt"]]Lteration[[/span]][[/span]]。
+
+属于该[[span class="ruby"]]--尸体--云及[[span class="rt"]]Level[[/span]][[/span]]的一切事勿均具有一定勺■误。[[span class="ruby"]]口大比[[span class="rt"]]Therefore[[/span]][[/span]]，正常[[span class="ruby"]]无水去[[span class="rt"]]No Way[[/span]][[/span]]拍摄该层级的[[span class="ruby"]]日刀口片[[span class="rt"]]Picture[[/span]][[/span]]，也[[span class="ruby"]]无水去[[span class="rt"]]No Way[[/span]][[/span]]理解该[[span class="ruby"]]--尸体--云及[[span class="rt"]]Level[[/span]][[/span]]。
+
+++ **[[span class="ruby"]]牛勿次贝[[span class="rt"]]Materials[[/span]][[/span]]**
+
+该[[span class="ruby"]]--尸体--云及[[span class="rt"]]Level[[/span]][[/span]]具有[[span class="ruby"]]大日一里[[span class="rt"]]Many[[/span]][[/span]][[span class="ruby"]]牛勿次贝[[span class="rt"]]Materials[[/span]][[/span]]，但因该[[span class="ruby"]]--尸体--云及[[span class="rt"]]Level[[/span]][[/span]]的错〇而不具有人壬人可价直。
+
+++ **[[span class="ruby"]]--尸体--实踢[[span class="rt"]]Entity[[/span]][[/span]]**
+
+__可许该[[span class="ruby"]]--尸体--云及[[span class="rt"]]Level[[/span]][[/span]]就是叶个巨大的[[span class="ruby"]]--尸体--实踢[[span class="rt"]]Entity[[/span]][[/span]]__，除外此之，我不想到么什它其的可了能。
+
+++ **[[span class="ruby"]]--特殊--效应[[span class="rt"]]Normal[[/span]][[/span]]**
+
+误错效应：关于此层级所有的载记不会--都会--错出。
+
+++ **[[span class="ruby"]]入口[[span class="rt"]]entrance[[/span]][[/span]]**
+
+切入或切出**Lev■■-I■-[[$ 404 $**时有概率切入该层级。
+
+++ **[[span class="ruby"]]出口[[span class="rt"]]exit[[/span]][[/span]]**
+
+在**Lev■■-I■-[[$ 404/2.66··· $]]**的任何地方切出都--不--会进入[[[https://backrooms-wiki-cn.wikidot.com/level-404|##48|错〇##]]]。
+
+[[collapsible show="消息" hide="关闭"]]
+[[div class="blockquote"]]
+啊，你来了！
+但请不要驻足，这里还没有建设完成。
+我会将你送到[[[https://backrooms-wiki-cn.wikidot.com/level-C-307|朋友]]]那里。
+请等我准备好！！！
+
+[[/div]]
+[[/collapsible]]
+
+----
+
+[[=]]
+<< [[[Level IF-150]]] | [[[Level IF-151]]] | Level IF-152 | [[[Level IF-153]]] | [[[Level IF-154]]]>>
+[[/=]]
+
+[[>]]
+[[collapsible show="现在请离开吧" hide="你为什么不离开？"]]
+**作者：**[[*user error-com]]
+这是我的[[[https://backroom-wiki-cn.wikidot.com/error-com|作者页]]]
+[[/collapsible]]
+[[/>]]
+
+[https://if-backrooms.wikidot.com/level-if-152/offset/1/page2_limit/1 难道你还是想看看真正的我吗？]
+====
+
+[[include :backroom-wiki-cn:theme:cjcjz]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=Under Construction
+|2=施工中
+|logo=
+|3=
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|title=正在施工：
+|class=未知
+|display=施工进程：12%
+|color=000000
+|border=FFE000
+|list-color=000000
+|image=
+|one=正在施工！
+|two=正在施工！
+|three=正在施工！
+]]
+
+[[div class="blockquote"]]
+啊，请不要随意走动，否则你会很容易掉入[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]的。
+
+正如刚才伪造页面记录的，我是那个[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]的第n+1次迭代。
+
+但很幸运，因为[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]中的一些错误（其实我也不知道是不是[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]里的错误），我的迭代被停止了，这让我成为了一个不完全迭代的404层级，也就是现今的152。
+
+迭代发生错误后，我产生了意识，因此我决定逃离主层群，来到其它层群，不过在逃离中，我不小心分裂成了多份层级，这导致我每一部分都需要重建。但是又是我的分裂，导致我没那么容易重建自身，这就是我还在施工的原因。
+
+不过请相信我，这里很快就会变成一个四通八达的宜居层级，现在我已经施工了12%的内容，虽然它们看起来还是有一点点错误，但是很快就好！
+
+但是因为我是[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]的迭代，所以现在在我这里还是很容易进入[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]**（注意！！！重申一遍！！！）**，请不要走动，我会找到安全的区域带你看看我的。
+
+额，可能我有点啰嗦了，那么我先带你看看我吧。
+[[/div]]
+
++++ **描述**
+
+我是一个具有意识的层级，别看现在我这里只有图层错乱的草原，但是我早晚能建设成一座宏大的都市的d=====(￣▽￣*)b！
+
+[[div class="blockquote"]]
+我这里已稳定区域的wifi信号不错，你要是想也可以先看看手机，等我一下，我去看看之后应该怎么写(￣▽￣)"。
+[[/div]]
+
++++ **物资**
+
+我这里有很多的杏仁水和面包，但是现在它们还没有作用，也无法获得（；´д｀）ゞ。啊，不对，应该是食用后会卡入[[[https://backroom-wiki-cn.wikidot.com/level-cloud-852|离不开的地方]]]，别吃o(≧口≦)o！
+
+[[div class="blockquote"]]
+实体，实体，实体......该怎么写呢，我还没创造呢(ノへ￣、)......有了！
+[[/div]]
+
++++ **实体**
+
+按道理来说，我应该也算实体，放心，我是绝对无害的，之后这里建造好了，有需要可以找我啊ヾ(≧▽≦*)o。
+
+至于其它实体，之后我会创造的，它们也绝对是无害的，请相信我(ง •_•)ง！
+
+[[div class="blockquote"]]
+效应我这里不打算有，就不写了吧(●'◡'●)。
+
+基地，前哨和社区？提前写了也没问题吧。
+[[/div]]
+
++++ **基地，前哨和社区**
+
+**[[span class="ruby"]]宏大都市[[span class="rt"]]Grand Metropolis[[/span]][[/span]]**
+
+这里是我专门为你们建造的聚集地，到时候你们来就对我感恩戴德吧(～￣▽￣)～！
+
++++ **入口**
+
+我会救一些在[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]里的人的＞﹏＜。
+
+至于你们想来就在手机上给我发消息吧（。＾▽＾）！
+
++++ **出口**
+
+现在乱走会进入[[[https://backrooms-wiki-cn.wikidot.com/level-404|错误]]]的。
+
+现在吃这里的面包和杏仁水会卡入[[[https://backroom-wiki-cn.wikidot.com/level-cloud-852|离不开的地方]]]。
+
+至于建成后的出口，我还没想好ฅʕ•̫͡•ʔฅ。
+
+[[div class="blockquote"]]
+什么，你们说我的内容不规范(o|o) ，诶呀，我就一层级，对我要求那么严格干嘛(/▽＼)。
+
+还有缺少的项目？等我重建好哦，之后你们跟我说我会补上的ㄟ( ▔, ▔ )ㄏ。
+[[/div]]
+
+这里是建造进度：
+
+|| 区域 || 进度 ||
+|| 郊区 || 47% ||
+|| 宏大都市 || 5% ||
+|| 物资 || 22% ||
+|| 实体 || 18% ||
+|| 出入口 || 17% ||
+|| 整体 || 12% ||
+
+[https://if-backrooms.wikidot.com/level-if-152 那么，该离开了]
+====
+--]

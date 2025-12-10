@@ -1,0 +1,40 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:level-class
+|class=0
+|two=不稳定
+|lang=cn
+]]
+**Level IF-10**是后室IF层群的第10层。
++ **描述**
+该层级表现为一间卧室，其面积大约为16至17m²，房间内所有事物均无法以任何形式破坏。
+[[include component:image-block
+    name=https://if-sandbox.wikidot.com/local--files/lile/Woshi|
+    caption=一张此层级的照片。
+]]
++ **基地、前哨与社区**
+
+++ 社区A
+* 特点
+++ 基地B
+* 特点
++ **入口与出口**
+
+++++++ 入口
+* 进入方法
+++++++ 出口
+* 离开方法
+------
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+在此处添加作者信息和图像版权信息（如果有），使用[[*user 你的wikidot用户名]]来标注作者
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level C-XXX-1]]] | Level C-XXX | [[[Level C-XXX+1]]] >>
+[[/=]]
+[[/div]]

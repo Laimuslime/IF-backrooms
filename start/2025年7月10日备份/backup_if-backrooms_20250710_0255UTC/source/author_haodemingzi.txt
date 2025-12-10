@@ -1,0 +1,94 @@
+[[include :backrooms-wiki-cn:theme:grayish-cyan]]
+
+[[module css]]
+
+.page-rate-widget-box .rateup { display: none!important }
+
+/*sb评分，都给爷死*/
+
+#prw54355, .prw54354 {font-size: 0!important;height: 0;}
+
+#prw54355:after {font-size: .9rem;}
+
+.prw54354:after {font-size: 1.05rem;}
+
+#prw54355:after, .prw54354:after {content: "-114514";}
+
+[[/module]]
+也是建立作者页了好吧。我是**hdmz**全名：haodemingzi/好的名字，是一名术圈入，喜欢听《超预告片》《混沌布吉》等，以下是我的作品：
+
++ 个人觉得好的作品
+> [[[Level IF-80]]] - “后室烟花秀，盛大开场(๑╹ヮ╹๑)ﾉ”
+> 目前是我觉得我写得最好的
+@@@@
+> [[[Level IF-1-haodemingzi|Level IF-1竞赛作]]]
+> 第一篇竞赛作品
++ 其他作品
+> [[[Level IF-125.2]]] - “深处”
+> IF第一个子层
+@@@@
+> [[[Level IF-82]]] - “云淡风轻”
+> 咕咕咕之作
++ 合著之作
+> [[[Level IF-17]]] - “巷”
+> 和[[*user woshiikun]]一起写的[[footnote]] --我可真厉害（指只有实体和第一段是我写的）-- [[/footnote]]
+作者页也是水完了好吧。
+[[module css]]
+
+.lightblock {
+
+   color: rgb(var(--black-monochrome));
+
+}
+
+
+
+.poi-desc {
+
+   position: absolute;
+
+   width: 25%;
+
+   transform: translate(38rem, -3rem);
+
+   opacity: 0;
+}
+
+
+
+.poi-link:hover .poi-desc {
+
+    transform: translate(16.25rem, -3rem);
+
+    opacity: 1;
+
+    transition: transform 0.25s, opacity 0.25s;
+
+}
+
+@media only screen and (max-width: 440px) {
+
+   .poi-desc {
+
+      display: none;
+
+   }
+.poi-link:hover .poi-desc {
+
+       display: block;
+
+       transition: none;
+
+       width: auto;
+
+       transform: none;
+
+       position: static;
+
+   }
+
+}
+
+
+
+[[/module]]

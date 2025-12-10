@@ -1,0 +1,18 @@
+[[=]]
+
+[[module rate]]
+
+[[/=]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+------
+[[collapsible show="点此查看著作信息" hide="点此收起"]]
+[[div class="dark-styled-quote"]]
+**原作者：**[[*user kadjwxs]]
+**重写者：**[[*user xuziqi]]
+[[/div]]
+图源为自绘。
+[[/collapsible]]

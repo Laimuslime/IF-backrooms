@@ -1,0 +1,10 @@
+[[include :backrooms-to-dv:component:join
+|text=请点击此处加入网站
+|text-color=white
+|box-color=blue
+|font-size=155%
+|margin=7px
+|padding-ud=0.6em
+|padding-lr=1.2em
+|border-radius=7px
+]]

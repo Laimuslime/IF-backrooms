@@ -1,0 +1,87 @@
+[[include :backrooms-wiki-cn:theme:meg-edgy]]
+
+[[module css]]
+/* 基本文本颜色+背景颜色固定 */
+
+:root{
+    --swatch-text-dark: var(--white-monochrome);
+    --grayer-monochrome: 90, 90, 95;
+    --visited-link-color: var(--bright-accent);
+
+}
+
+[[/module]]
+
+[[module css]]
+
+/* 待审批文本突出显示 */
+.pa {
+ color:#0E0E0E;
+ background-color:#AAAAAA;
+ --link-color: 140, 136, 126;
+ --hover-link-color: 140, 136, 126;
+}
+
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:hinc]]
+
+[[include :backrooms-wiki-cn:component:ambiance
+audio=https://praetor.wdfiles.com/local--files/level-276/Level%208%20-%20M.E.G%20Cave%20Raiders.mp3|
+norate=1
+]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=deadzone
+|three=实体出没
+]]
+
++ 概述与结构
+Level 276，通常被后室居民及各派系称为**蜂巢**，是一个已知会产生各种实体的异常实质层级，直至最近才被M.E.G.探索[[span class="pa"]]你在这么多人里偏要把草稿发给我，真是相当自大。我要把这个发给Somalia，除非是道歉否则别跟我说话。——Kat[[/span]]
+
+[[include component:image-block
+name=https://praetor.wdfiles.com/local--files/level-276/55.PNG|
+caption=无图像可用，来自遥远时代的绘画是在不冒生命危险的情况下唯一能让该层级可视化的方法。
+]]
+
+蜂巢的地貌是一片生态炼狱，由骨骼、肌肉、血肉和组织全部毫无逻辑或意义混杂在一起构成的环境。[[span class="pa"]]我注意到你的风格从初稿开始就有所变化，但这不是太花哨了吗？——Somalia[[/span]]这些地区各不相同，从山脉到丘陵都有，有时甚至被血液或胆汁的河流所割裂。它们之间唯一的联系就是它们的腐烂状态，尽管所有的器官虽已完全腐烂，但似乎仍能完美地工作。
+
+蜂巢内的危害，正如其所提供的生物群落般多样。人们不必担心周围腐烂造成的感染，因为泄漏的腐蚀性酸、从墙壁突出的尖骨和脉动的环境会比任何细菌更快地战胜未经训练的流浪者。[[span class="pa"]]我看过空巢医院的报告。你们两个很幸运能活着出来，更别说状态还好了。——Somalia[[/span]]
+
++ 宇宙学与属性
+**蜂巢**的属性在各层级中是独一无二的，既存在于[https://backrooms-wiki-cn.wikidot.com/blue-channel 蓝色通道]，同时又与[https://backrooms-wiki-cn.wikidot.com/the-grave 精神世界]相连。
+
+因此，蜂巢作为两者之间的一个门槛，不仅能够以典型的[https://backrooms-wiki-cn.wikidot.com/phenomenon-7 阈界反响]的方式表达生者的思想，而且还能展现亡者的躯体。想法、情感、思想，有时甚至灵魂，都可远离非物质，受困于蜂巢的肉体中，通过卵被赋予物质形态。
+
+然而，蜂巢的腐烂状态在这些非物质概念中占优势。唯有依靠自身的腐烂才能塑形，从蜂巢诞生的每一个生灵，都不过是对其应有形态的畸形摹仿。同伴变成了[https://backrooms-wiki-cn.wikidot.com/entity-8 捕食者]，蠕虫变成了[https://backrooms-wiki-cn.wikidot.com/entity-4 巨物]，生命变成了亡灵。具象化的思想被蜂巢扭曲[[span class="pa"]]我知道你不是有意的，但我觉得她不会喜欢被形容为扭曲。——Somalia[[/span]]，不但加深了该层级本身的危险，还因其中存在的诸多切行点而威胁着整个后室。
+
+--尽管看似邪恶，蜂巢仍保留着一丝真实的可能性——让人们与逝去的挚爱重逢。事实上，后室与坟墓之间的界限依然存在，这意味着流浪者所传颂的复活过程仍可能成真。虽然这段旅程危机四伏，但与亡者对话甚至复活已故流浪者的可能性确实存在，目前正由M.E.G.积极研究中。--[[span class="pa"]]PTSD[[footnote]]**译注：**PTSD（创伤后应激障碍）是一种因经历或目睹极端创伤事件（如战争、自然灾害、暴力犯罪等）后引发的精神障碍，症状可能延迟出现并长期持续。[[/footnote]]本该阻止这类想法。这段必须删除——Olivia会强烈反对。——Somalia[[/span]]
+
++ 历史与文化影响
+蜂巢并非生来就是如今这般生物炼狱的模样。数个世纪前，在失落纪元时期，它曾被称为//天境//——一片葱郁祥和的净土，作为肉体与意识的交界之地，保有纯粹无瑕的特质，不见半分腐化。
+
+然而，在失落纪元终结后的某个时刻，当[https://backrooms-wiki-cn.wikidot.com/level-51 他们的都城]陷落之际，一个满怀恶意、永不安息的人类灵魂自坟墓潜入了这一层。其仇恨使之长存不灭，逐渐与//天境//的蜂巢意识融合，缓慢腐蚀着它[[span class="pa"]]Leo不是应该不清楚这些细节吗？他究竟还瞒着我们多少事？——Somalia[[/span]]。
+
+几百年来，一个恐怖的名字被深深烙印在后室的文化中——Zephyr。她是统御着邪恶之人间炼狱的蜂巢女皇，通过释放子嗣以折磨生灵。后来，当她的新名//哈夫瓦特//流传开来，从[https://backrooms-wiki-cn.wikidot.com/the-venosha 维诺沙]的部族到[https://backrooms-wiki-cn.wikidot.com/level-116 神顶镇]的乡镇，所有人都陷入了被阴影笼罩的噩梦。
+
+实体持续流动，许多故事由此催生——无论探险者是从[https://backrooms-wiki-cn.wikidot.com/level-8 Level 8]入口坠入，抑或其他方式[[span class="pa"]]您要求解封的申请已被拒绝。顺便提醒，身为监管者并不意味着您有权操控超出我们能力范围的力量。 ——Somalia[[/span]]或因不幸的切行。自后室联合体起，历代霸权派系均曾封锁并镇守Level 8中唯一已知的平滑阈界，而M.E.G.至今仍坚守着[https://backrooms-wiki-cn.wikidot.com/the-leaders the Leaders]设立的屏障，全天守候戒备。 
+
++ 生存建议
+
+[[span class="pa"]]看来你仍在尽力帮助他人，但我不确定仅凭一次探索是否足以验证这些建议。——Somalia[[/span]]
+尽管其本质如同一个实体巢穴，无论是古老的见证还是近期的--多次--探索[[span class="pa"]]你之后就不会有人去探了。——Somalia[[/span]]证实了蜂巢并不像传说和流言所说的那么拥挤。因此，对你来说最重要的提示就是时刻注意周围环境。地面上的裂缝和坑洞很常见，而天花板可能经常有骨刺掉落。任何存在的液体也都是致命危险，这进一步强调了你必须步步留神。
+
+尽管实体出现的频率比预期要低，但它们仍是需要警惕的威胁。遭遇时，唯一可行的脱身方式是通过切行离开当前层级——可切行的墙面通常带有不自然的色调或阴影。
+
+遇到蜂巢女皇本身时，整个蜂巢都会与你为敌。除非你能策反它的一个子嗣来对抗它，[[span class="pa"]]Justin，不是每个人肩上都扛着一具神圣的尸体到处游荡的。——Somalia[[/span]]只要你够快，切行是唯一可行的解决方案。[[span class="pa"]]顺便说一句，你为什么不说蜂巢女皇？——Somalia[[/span]]
+
+
++ 入口和出口
+
+唯一可靠的进入蜂巢的途径是通过靠近[https://backrooms-wiki-cn.wikidot.com/level-8 Level 8]的M.E.G.前哨站“空巢”中的一条狭窄而漫长的洞穴走廊。不过，该入口目前已被基地的特工封锁并严密把守。
+
+可切行墙面虽然不稳定，但仍可作为蜂巢的进出通道。这类入口常见于实体密集的层级，而出口在蜂巢中更为罕见——它们往往出现在实体群附近，供其离开当前层级。
+
+[[span class="pa"]]好吧，这和你的草案无关…但你还好吗，Justin？我知道这段经历对你来说一定很痛苦，也理解你和Olivia有些私事要解决。但我止不住地注意到，你回来后一直显得非常…疏离。上次会议你没出席，而据我所知，自监督者委员会成立以来，你从未缺席过[[/span]]
+
+[[span class="pa"]]虽然我无法强迫你谈论自己的感受……但请记住，如果你需要任何帮助，我都在这里，好吗？我们或许会因为你这样冒险而生气，但我们依然在乎你。——Somalia[[/span]]

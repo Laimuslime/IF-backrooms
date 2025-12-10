@@ -1,0 +1,309 @@
+[[include :backrooms-wiki-cn:theme:bntg-journal
+
+|custom = --]
+
+|ads-image = http://if-backrooms-oversight.wikidot.com/local--files/image-keep/headline
+
+|linked-place = http://if-backrooms-oversight.wikidot.com/news-archive
+
+|sub-title = 欢迎来到12月的后室IF层群维基月刊！
+
+|username = calf-0 与 Laimu_slime
+
+|month = 11 
+
+|day = 28 
+
+|year = 2025
+
+|time = from 
+
+|levels = the Staffrooms
+
+|info = 呃...
+
+]]
+
+[[module css]]
+:root {
+   --header-title: "后室IF层群维基月刊";
+   --header-subtitle: "";
+}
+[[/module]]
+
+[[include :brsandbox-pro:component:ambience:base |audio=http://backrooms-to-dv.wikidot.com/local--files/author:z-dn/The%20Caretaker%20-%20Libet%27s%20Delay.mp3
+|content=Libet's Delay
+|norate=1
+]]
+
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+我也不知道该在这里写些什么了，哈哈。
+[[include :backrooms-wiki-cn:credit:end]]
+[[/>]]
+
+[[div class="lightblock"]]
+
+[[=]]
+各位好！
+
+
+
+12月已然到来，也意味着愉快的2025年即将结束。那么好，就让[[*user calf-0]]与[[*user Laimu_slime]]带你们来回顾一下11月的IF层群吧！
+
+
+
+另外，若您对下次月刊有任何建议，尽管在下方的讨论区提出就可以啦  ^_^
+[[/=]]
+
+[[/div]]
+
+
+
+[[div class="styled-quote"]]
+
++ 2025经典速写
+
+
+----
+
+
+
+
+[[image http://scpsandboxcn.wdfiles.com/local--files/11142/new26.jpg]]
+
+
+
+还记得2023年以前后室的盛况吗… Wikidot有着一堆现在都不过时只是没用临床腔的经典老文，Fandom文章满天飞，阈限这一块没得说，只是质量… 但，在2025年之末的[[[jam2025|经典速写活动]]]，恰恰给了成员们三周的时间创作一篇字数不达1000的**阈限临床腔短文**[[footnote]]不过，本次的经典速写只是属于活动，并非竞赛，所以结束后无任何奖励，就当练练手吧。[[/footnote]]！更多详情请见[[[jam2025|中心页]]]。
+
+[[/div]]
+
+
+
+[[div class="styled-quote"]]
+
+[[>]]
+
++ “若枫”
+
+
+----
+
+
+
+
+[[collapsible show="■ 打开 | 站娘形象图 ■" hide="□ 关闭 | 站娘形象图 □"]]
+
+[[image http://if-backrooms-oversight.wikidot.com/local--files/image-keep/%E7%AB%99%E5%A8%98]]
+
+[[/collapsible]]
+
+
+头顶棕帽的可爱女孩子——“若枫” 站娘形象公开[[footnote]]实际上8月就有了（[[/footnote]]！在此也感谢[[*user Citrine1108]]花时间绘制的站娘形象图。
+
+关于其设定，我们以后可能会单开一个[[[art:ruofeng|页面]]]专门介绍站娘，敬请期待！
+
+[[/>]]
+
+[[/div]]
+
+
+
+[[div class="styled-quote"]]
+
++ 成员推荐文章
+
+----
+
+以下是由各位成员们推选出的文章！这些文章虽然不怎么有影响力，但依旧值得大家一读：
+
+
+
+**1** – [[*user haodemingzi]]
+
+[[[Level IF-284|Level IF-284 - “黄金街”]]] by  [[*user MCMK-1234]]
+
+
+
+**2** – [[*user Mercury_zahwi]]
+
+[[[Level IF-232 | Level IF-232 - “我们曾在此”]]] by [[*user iftimefly]]
+
+
+
+**3** – [[*user xuziqi]]
+
+[[[Level IF-335| Level IF-335 - “拨号中心”]]] by [[*user MCMK-1234]]、[[*user haodemingzi]]、[[*user xuziqi]]、[[*user xie5]]与[[*user Mercury_zahwi]]
+
+[[/div]]
+
+
+[[div class="styled-quote"]]
+
++ 职员变动
+
+
+----
+
+
+
+
+- [[*user Suesa]] 已辞去MAST职位
+
+
+
+- [[*user umou]] 已新增为管理员
+
+
+
+- [[*user Yale Max Rymingenu]] 已新增为版主
+
+
+
+- [[*user MCMK-1234]] 已新增为MAST
+
+
+
+- [[*user Mercury_zahwi]] 已新增为MAST
+
+
+
+- [[*user xuziqi]] 已新增为MAST
+
+
+- [[*user Suesa]]已退出职员团队，在此表示遗憾
+
+
+
+**其他变动**
+
+
+
+- [[*user calf-0]] 担任精品评选负责人
+
+
+
+
+
+以上就是11月的职员变动情况。
+
+
+[[/div]]
+
+
+
+[[div class="styled-quote"]]
+
++ 本月精品
+
+
+----
+
+
+
+以下是12月的精品页面！也祝贺各位作/译者上精，这些作品都很值得大家阅读：
+
+
+[[div class="lightblock"]]
++++ [[[Phenomenon IF-2|Phenomenon IF-2 - “倾圮雨幕声”]]]
+
+“当代表12点钟声想起，复将倾圮雨幕声
+和你有关无观后感
+我听见了你的声音
+也藏着颗不敢见你的心”
+
+by [[*user aircraft_flight]]
+[[/div]]
+
+[[div class="lightblock"]]
++++ [[[Level IF-225|Level IF-225 - “霓虹天际线”]]] 
+
+“流浪者，欢迎重新启航，通往未知的IF层群”
+
+
+[[image http://brsandbox-pro.wdfiles.com/local--files/secret%3Asc-ac-413/pexels-leofallflat-1089194.jpg]]
+
+by [[*user ShallowCloud]]
+[[/div]]
+
+[[div class="lightblock"]]
++++ [[[Entity IF-6|Entity IF-6 - “尘骸”]]] 
+
+“Level 71内的消逝现象平等而慷慨地加诸于徘徊其间的每个生命，不论是坚韧强壮的探险家还是羸弱无能的小虫，都只能眼睁睁地看着自己的某一部分在暗灰中消散。”
+
+
+[[image http://backrooms-cn-dielsalder.wdfiles.com/local--files/entity-2/%E8%9B%BE%E5%AD%901%281%29.png]]
+
+by [[*user Nameless35722]]、[[*user wangjx]]、[[*user wild ghost377]]、[[*user snowmob]]和[[*user DielsAlder]]
+[[/div]]
+
+[[div class="lightblock"]]
++++ 翻译精品 [[[Level 276|Level 276 - “蜂巢”]]] 
+
+“她最后所感到的，是压在胸膛上的千斤重担渐渐消散。成百上千年来的第一次，女皇感到了平静与宁寂……而后，在蜂巢辽阔无垠的血肉废壤之中，一株花朵得以绽放。
+
+那是株勿忘我。”
+
+另外，中站译者[[*user Deip*isoster]]对此的[https://backrooms-wiki-cn.wikidot.com/forum/t-17333141/level-276#post-7295458 评论]相当精彩。**强烈建议大家去看看！**
+
+[[image http://praetor.wdfiles.com/local--files/level-276/55.PNG]]
+
+by [[*user Praetor3005]]和[[*user Nikuchan]]
+
+[[*user calf-0]]、[[*user ThEndlessRain]]和[[*user owl4513]] 译
+[[/div]]
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
++ 站外文章推荐
+
+
+----
+
+
+
+[[div class="lightblock"]]
++++ [http://backrooms-wiki-cn.wikidot.com/desolation-canon-hub 荒芜后室 ]
+
+“铭记你是谁，你在哪，你来自何处。”
+
+[[image http://scutoidbox.wikidot.com/local--files/level-4/level4basic.png]]
+
+by [[*user scutoid studios]]
+
+[[*user Ambersight]] 译
+[[/div]]
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
++ 音乐鉴赏
+
+
+----
+
+
+
+[[div class="lightblock"]]
+[[html]]
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=518894020&auto=1&height=66"></iframe>
+[[/html]]
+
+[[=]]
+**音乐名：Are You Lost Mr. Park Bird**
+[[/=]]
+
+就像陷入在了迷茫之中，想要冲破迷雾，发现迷雾根本挥之不散。走到尽头发现还是那层层迷雾时，身心也早已力竭的无助。像梦魇一样，却又含着一丝希望。
+
+[[include :backrooms-to-dv:component:bilibili-pro
+|bv= BV1wCyZBLE51
+]]
+点击即可观看！
+
+**视频号：**BV1wCyZBLE51
+[[/div]]
+
+[[/div]]

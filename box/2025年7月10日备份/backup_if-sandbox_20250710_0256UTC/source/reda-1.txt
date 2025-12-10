@@ -1,0 +1,75 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |nightmare=a]]
+[[include :backrooms-wiki-cn:theme:phobia |megalo=true]]
+
+[[module css]]
+/* IETS 四个字母 */
+    color: black !important;
+}
+/* IETS 后面的冒号 */
+.iets-wrapper {
+    color: white;
+}
+/* 分级： */
+.class-label {
+    color: white;
+}
+/* Mega */
+.class-inner {
+    color: white;
+}
+[[/module]]
+
+[[div style="border:solid 3px #000000; background:#4f4c44; padding:5px; margin-bottom: 10px;"]]
+[[=]]
++ ## #fff8e4|警告##
+## #fff8e4|你正在访问#### #ff002a|[[span class="ruby"]]REDE[[span class="rt"]]区域性极端灾难实体[[/span]][[/span]]#### #fff8e4|实体文档。##
+## #fff8e4|请不要惊慌，应接受它们存在的事实。##
+[[/=]]
+[[/div]]
+
+----
+
+[[include :backrooms-wiki-cn:component:rede-hazard-rating-system
+|num=1
+|iets=5A+
+|location=多地
+|au-class=Mega
+|rede-name=风暴放射
+|rede-difficulty=4
+|class=4
+|properties=THR DMO MAL	MDI 
+]]
+
+@@ @@
+
++ **描述**
+
+[[include component:image-block name=http://if-sandbox.wikidot.com/local--files/reda-1/mmexport1746252133330.png |caption=一张REDE-1的影像资料，即风暴热带。|width=300px]]
+
+REDA-1是第一个被记录在案的REDA实体，外表为一个大型飓风，直径在50千米或100千米之间，风速为20级到30级之间，在它的中心区域似乎有着两个尖牙的大口，疑似为飓风的尽头，目前为止没有收到有一个以上同时存在的REDA-1的目击报告，分类到MEGA-巨物，它可以出现在层级开阔且有天空的开放层级时，预示着“风暴放射”，事件开始了......
+
+首先，层级内的云没有预兆的请况下，开始向中心处聚集，形成飓风，这时REDA-1便会出现在此层级，在“风暴放射”事件的开始的时候，REDA-1向北区域行走，移动的同时卷起飓风，吹倒沿途的建筑，移动的同时会劈下百米长的闪电，会随机劈死一个流浪者，巨高的电压会导致流浪者粉身碎骨，化为灰烬，若有一些流浪者被不幸的被吹到飓风的中心，将会被吹到飓风的中心嘴里；在“风暴放射”的中期阶段，REDA-1将会随机方向移动，风中将会有放射性物质，包含核辐射之类，此时还在层级内的流浪者将会患上癌症等致命病情，闪电的频率将会大幅上升，此时流浪者将不能切出此层级；在“风暴放射”的后期，幸存下来的人将陷入三个月的昏迷，且醒了之后将生活13天去世，且层级的建筑将全部被摧毁。
+
++ **生物学特征**
+REDA-1的云层内的云含有大量的放射性物质，中心处的大嘴由血液组成，但血液并不来自人类血液。
+
++ **事件记录**
+【记录一 2023年10月13日】
+此记录是REDA-1的首次记录，REDA-1土然出现在Level IF-3层级内，开始袭击层级内的建筑，在此事件中一共有15人死亡。
+
++ **行为准则:**
+
++ **应当**
+· 在REDA-1的出现的时候，快速切出此层级。
+
++ **不当**
+· 还停留在此层级。
+
+----
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user dgghjda]]网站的第一个reda实体
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]

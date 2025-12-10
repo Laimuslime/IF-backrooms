@@ -1,0 +1,62 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+厚实来袭，全人类被迫在各自的电梯求生，电梯会不定时传送到后室IF层群的随机层级，[[[Level IF-11|有的层级]]]物资拿到手软，[[[Level IF-9|有]]][[[Level IF-28|的]]][[[Level IF-40|层]]][[[Level IF-53|级]]]露头就秒，而正当别人还在为出不出电梯发愁时，我却直接把实体当棍木使。
+
+此时电梯内的显示屏突然亮起：“欢迎各位流浪者来到后室IF层群求生世界，IF层群是一个风靡世界的怪谈，欢迎各位的加入。所有人需进入层级搜寻物资，不用担心迷路，电梯带有回城机制，只要10秒以内不受到任何伤害即可意念回城。电梯将在三十分钟后抵达随机后室IF层群楼层。”
+
+听完[[*user qwertyuiop1000]]开始思考，突然一块半透明面板跳出，当前面板显示全球聊天频道[[footnote]]骗你的只有IF写手[[/footnote]]，右下角还有一个显眼的交易按钮。全球频道顿时炸开了锅，[[*user MCMK-1234]]庆幸自己写了一堆0级，[[*user calf-0]]由于翻译草稿没保存洪文了，[[*user xie5]]直接偷拍了层级实体，[[*user xuziqi]]准备找到桂并开启。
+
+看到这时，[[*user qwertyuiop1000]]的面前突然出现一个神秘的宝箱，打开后显示：恭喜宿主获得隐藏道具：认知滤网，[[footnote]]666月计也来了[[/footnote]]可用于过滤一切恐怖、血腥、暴力信息，并使宿主粗略地获得所有看见物品的大致信息。[[footnote]]谁家桂跑出来了[[/footnote]]
+
+[[*user qwertyuiop1000]]感觉这辈子运气都用完了，随后一声清脆响声，电梯门缓缓打开，刹那间一片杂草丛生的废弃城市出现在[[*user qwertyuiop1000]]面前。
+[[=]]
++ 后室IF层群楼层信息
+++ [[[Level IF-36]]]雾山废城
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+]]
+**Level IF-36**是后室IF层群的第36层。
+[[/=]]
+[[div class="styled-quote"]]
++ **描述**
+[[/div]]
+[[include component:image-block
+ |name=https://plus.unsplash.com/premium_photo-1715706866931-28572f1643f8?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ |caption=Level IF-36的一张照片。
+]]
+Level IF-36表现为一处废弃的城市，被大量蕨类植物覆盖，并被一座巨大的环形山脉环绕，粗略估计层级面积约为数平方公里。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[*user qwertyuiop1000]]发现该层级似乎没有什么危险源。
+
+“看来应该没有什么实体，稳辣这把。”
+
+由于目前[[*user qwertyuiop1000]]并没有食物与水，于是她决定去找。走出电梯，植物的香气扑面而来，看来层级还不错。路上有几个神秘肢团[[footnote]]太神秘了吓死一亿后视小孩[[/footnote]]，不过[[*user qwertyuiop1000]]使用神秘物理学圣剑干爆了几只[[footnote]]Hawoyuki：孩子们其实我是对的[[/footnote]]。向前跋涉一段距离后，很快就来到了建筑内部，毫无悬念，[[*user qwertyuiop1000]]拿了不少番茄罐头，然后准备回去。
+
+突然出现了很多神秘肢团，[[*user qwertyuiop1000]]找了一辆看起来还能用的废旧汽车，然后开始向肢团群的位置撞去。##red|血流成河##。实体的问题解决得差不多了，[[*user qwertyuiop1000]]把物资搜干净之后回到了神秘电梯。
+
+未完待续
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+神人导演
+[[*user MCMK-1234]]
+参演
+[[*user qwertyuiop1000]]
+[[*user calf-0]]
+[[*user xie5]]
+[[*user xuziqi]]
+层级设定来自
+[[*user MCMK-1234]]
+[[*user Suesa]]
+参考了康斯坦丁要戒烟的小说《全民求生：backrooms后室》
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]

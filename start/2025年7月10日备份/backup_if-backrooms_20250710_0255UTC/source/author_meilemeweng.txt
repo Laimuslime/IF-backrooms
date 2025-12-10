@@ -1,0 +1,216 @@
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "ocean-blue-theme";
+    --theme-name: "Ocean Blue Theme";
+
+    /* 字体设置保持不变 */
+    --header-font: 'SimSun', '宋体', serif;
+    --title-font: 'SimSun', '宋体', serif;
+    --body-font: 'SimSun', '宋体', serif;
+    --mono-font: 'SimSun', '宋体', monospace;
+
+    /* 海洋色系调色板 */
+    --white-monochrome: 240, 248, 255;        /* 蔚蓝白(AliceBlue) */
+    --pale-gray-monochrome: 225, 238, 250;    /* 浅海蓝 */
+    --light-gray-monochrome: 175, 210, 235;   /* 浪花蓝 */
+    --gray-monochrome: 70, 130, 180;          /* 钢蓝色(SteelBlue) */
+    --black-monochrome: 25, 55, 90;           /* 深海蓝 */
+    --bright-accent: 100, 180, 220;           /* 浅水蓝 */
+    --medium-accent: 65, 105, 225;            /* 皇家蓝(RoyalBlue) */
+    --dark-accent: 0, 71, 171;                /* 海军蓝(NavyBlue) */
+    --pale-accent: 200, 225, 255;             /* 泡沫蓝 */
+    --alt-accent: 0, 150, 200;                /* 热带蓝 */
+
+    /* 海洋渐变效果 */
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.7) 0%,
+        rgba(var(--dark-accent), 0.9) 100%
+    );
+}
+
+/* 基础文本样式 - 深海蓝文字 */
+#page-content {
+    color: rgb(var(--black-monochrome));
+    background-color: rgb(var(--white-monochrome));
+    /* 其他设置保持不变 */
+}
+
+/* 标题样式 - 海洋渐变 */
+#page-content h1 {
+    background: linear-gradient(90deg, 
+        rgba(var(--medium-accent), 0.8), 
+        rgba(var(--alt-accent), 0.8));
+    -webkit-background-clip: text;
+    background-clip: text;
+    border-bottom: 2px solid rgb(var(--bright-accent));
+}
+
+/* 链接样式 - 皇家蓝 */
+#page-content a {
+    color: rgb(var(--medium-accent));
+}
+#page-content a:hover {
+    color: rgb(var(--dark-accent));
+    text-shadow: 0 0 3px rgba(var(--bright-accent), 0.3);
+}
+
+/* 引用块 - 泡沫蓝背景 */
+#page-content blockquote {
+    background-color: rgba(var(--pale-accent), 0.8);
+    border-left: 4px solid rgb(var(--medium-accent));
+}
+
+/* 代码块 - 浅海波纹 */
+#page-content pre {
+    background-color: rgba(var(--light-gray-monochrome), 0.3);
+    border: 1px solid rgb(var(--bright-accent));
+}
+
+/* 表格样式 - 浪花表头 */
+#page-content table th {
+    background-color: rgba(var(--gray-monochrome), 0.7);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 图片样式 - 海洋边框 */
+#page-content img {
+    border: 3px solid rgb(var(--bright-accent));
+    background-color: rgb(var(--white-monochrome));
+    box-shadow: 0 3px 10px rgba(var(--gray-monochrome), 0.2);
+}
+
+/* 水平线 - 海浪效果 */
+#page-content hr {
+    background: linear-gradient(90deg, 
+        transparent, 
+        rgb(var(--bright-accent)), 
+        rgb(var(--alt-accent)), 
+        transparent);
+    height: 3px;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms-IF
+|2=水天一色。
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+你好，我是[[*user Meilemeweng]]。我是一个普通的写手，主要在IF站点活动。写文速度很快，普遍质量却不高，但是我会继续加油，努力为网站贡献自己写的比较好的文章。感谢各位的支持[[footnote]]本人是一个--措--错别字连天的写手，感谢各位的捉虫。[[/footnote]]。
+
+[[div class="blockquote"]]
+[[[Level IF-8]]]
+“漫步湖滨”
+
+**“我们相信，在我们不懈的努力下，一条崭新的道路即将呈现在我们的面前。”**
+
+本人编号最靠前的一篇作品，重写了三遍，终于写出了一个个人比较满意的版本。但是依然存在着很多进步空间，我还会努力学习。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-35]]]
+“cigale”
+
+**“我们并没有真正死亡，我们看见了古老的光。我们抛弃了自己的躯壳，就像蝉破土而出一样，在夏夜里永恒歌唱。”**
+
+重新写了之后内容和深度都提升了很多，而且蝉的隐喻使用了两次。新版本的这一篇文章个人还是比较满意的。而且点子我也觉得很有趣。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-38]]]
+"Chameleon的房间”
+
+**“你欣赏我，我欣赏你。”**
+
+一篇阈限文章，我觉得还行，但其实质量也不很好。对比老站的38还是有很大的进步的。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-60]]]
+“拉尤罗娜”
+
+**“哦，哭泣的女人，像雨天一样悲伤。
+我爬上松树之巅寻找你的痕迹，
+抖落的露珠就像是我的眼泪。
+哦，哭泣的女人，像雨天一样悲伤。”**
+
+个人最满意的一篇作品，相反评分却不是那么高。是我比较喜欢的民俗主题。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-62]]]
+“长夜，肠液”
+
+**“Sam活不长了。但是没关系，我会拿到自己应得的那一部分。”**
+
+写阴谋论的文章，一篇短小精悍的讲故事的层级。我个人觉得还是比较满意的，在一个不是很长的篇幅里面把想写的都写了。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-78]]]
+“鹦鹉”
+
+**“那一天，我做了一个奇怪的梦。
+在梦里，我也变成了一只鹦鹉。”**
+
+一般般的文章，我感觉写的挺不好，但是点子个人觉得还是比较有趣的。有时间重写吧。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-91]]]
+“原点”
+
+**“对于这个层级这种异常结构的形成，历来争议颇多。目前支持人数最多的看法是，黑障区最早与正常区域相同，到后来遭遇了某种“事故”，导致了黑障区以及其通向层级的毁灭。”**
+
+无趣的文章，圆设定用的。不过新站和老站的隐喻还是很花了心思的。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-96]]]
+“澜沧”
+
+**“这个层级真是引人遐思，逆流而上如果能够回到过去，会不会有更多的冒险者寻找河流的源头呢？”**
+
+老文章重写，内容和设计都丰富了不少，文笔也有很大的提升。当然代码也进步了。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-103]]]
+“我们的伞。”
+
+**“Level IF-103——这个人类的孩子，我们付出所有的心血，终于穿过层层迷雾抚摸到它了。”**
+
+与[[*user dgghjda]]大佬的合著，目前为止写的最长的一篇文。我觉得已经代表了个人编程水平和写作水平的最高，当然还有很多需要改进的地方。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-125]]]
+“声音的海洋”
+
+**“当时他偶尔也有变得很可怕的时候；
+到了那个时候，我就不再去理会他。”**
+
+同样也是一个讲故事的层级，设定我比较喜欢。说实话整体还是构思了很久的，最后写出来的话也就差强人意吧。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-135]]]
+“动中之动”
+
+**“滴答滴答，颜色各异的生物从角落像水一样渗入。它们排成一排，在墙上游动着，身姿如同阳光穿过水面留下的粼粼波光。它们让水有了灵性，它们即是大海本身。”**
+
+本人在新网站的第一篇阈限文章，对比之前发的第一个版本在设定上和内容上都丰富了不少。也是得分比较高的一个作品。
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Entity IF-2]]]
+“煤火”
+
+**“直到这个时候，你终于明白了。为什么它不肯在完全明亮或者完全黑暗的区域出没，只有在有光的地方它才会隐入黑暗中。它需要用耀眼的灯光隐藏自己，直到你精疲力竭，它才会引诱你到黑暗的角落里，然后大快朵颐一番。”**
+
+第二篇实体，是我迄今为止写得最好的一个，但其实有很多想写的都没有写出来，就当做是一篇小短文吧。
+
+[[/div]]

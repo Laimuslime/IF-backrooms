@@ -1,0 +1,399 @@
+[[include :backrooms-wiki-cn:theme:watch-your-back
+|banner=http://otherworld-records.wikidot.com/local--files/looping-basement/L4
+|pale-accent=102, 147, 156
+|visited-link-color=64, 105, 112
+|bright-accent=176, 215, 222
+|medium-accent=143, 150, 160
+|dark-accent=87, 91, 96
+|alt-accent=255, 125, 125
+]]
+
+[[module CSS]]
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+:root {
+    --header-title: "The R.I.C.";
+    --header-subtitle: "让被遗忘的文档重归数据库...";
+    --logo-image: url("https://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+
+    --bntg-white-monochrome: 220, 221, 215;
+    --bntg-black-monochrome: 102, 102, 102;
+    --bntg-bright-accent: 86, 108, 90;
+    --bntg-dark-gray-monochrome: 64, 61, 60;
+}
+[[/module]]
+
+[[module css]]
+#page-title {
+     display: none;
+}
+
+.footnotes-footer {
+    display: none;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+[[/module]]
+
+[[>]]
+[[include :backrooms-wiki-cn:credit:start]]
+--[https://backrooms-wiki-cn.wikidot.com/the-broken 破碎之地]有福了。--
+
+版式是基于[https://backrooms-wiki-cn.wikidot.com/theme:watch-your-back 荒芜后室设定版式]修改，由[[*user scutoid studios]]制作，[https://backrooms-wiki.wikidot.com/scutoid 代码大佬的作者页]。
+----
+[[include :brsandbox-mini:collab:page]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[/>]]
+
+[[=]]
++ 设定发起者
+[[*user MCMK-1234]] /@@  @@[[[author:mcmk-1234|作者页]]]
+
++ 中心页作者
+[[*user MCMK-1234]] /@@  @@[[[author:mcmk-1234|作者页]]]
+
+[[*user calf-0]] /@@  @@[[[author:calf-0|作者页]]]
+[[/=]]
+------
+
++ 前言
+
+虚妄归档设定(The Rewrite Initiative Canon/The R.I.C.)。这个设定最初来源于一个关于后室Wikidot和Fandom旧版的[https://b23.tv/CPeOkCH 速览视频]，大清洗之后，Fandom大部分的层级都进入了破碎之地，少数被保留，千层以上几乎无一幸免。
+
+该设定的启发来源于[[[Level IF-37]]]，其正是旧版层级“欢迎来到丛林”的重写。[[*user MCMK-1234]]在之后将Fandom的部分层级搬运并重写至了后室IF层群，其中就包括[[[Level IF-118]]]、[[[Level IF-132]]]、[[[Level IF-142]]]、[[[Level IF-158]]]和[[[Level IF-183]]]几个最初的搬运层级。
+
+同时，[[*user MCMK-1234]]也撰写了[[[Level IF-199|B.O.P]]]一次要团体的设定。需要在此说明的是，B.O.P.并不与虚妄归档所挂钩，任何其他设定或是普通文章都可使用B.O.P.的设定而与虚妄归档无任何关系。
+
+总之，在[[[Level IF-226]]]也就是“恍如隔世”被重写至IF层群之时，[[*user MCMK-1234]]产生了将其统编为一个设定的想法，虚妄归档因此诞生。
+
+@@@@
+@@@@
+
+[[tabview]]
+[[tab 概述]]
+
+简而言之，虚妄归档设定（The Rewrite Initiativ Canon）是指将那些被删除的文档**“重归数据库”**。其来源是一位[[[level-IF-199|B.O.P.]]]成员在探索[https://backrooms-wiki-cn.wikidot.com/Level-999 Level 999]之时切入了一个新层级，该层级便是[[[Level IF-313]]]也就是曾经的[https://backrooms-wiki-cn.wikidot.com/level-1000 Level 1000]。在此之后，大量新版旧层级被发掘出来，时间线由此开始。
+
+与[https://backrooms-wiki-cn.wikidot.com/simulation-canon 拟态设定]类似，该层级也有不同的阶段，每一阶段都有不同的大事件发生。
+[[/tab]]
+[[tab 第一阶段 探索时期（1996～2019）]]
+
+[[[Level IF-199|B.O.P.]]]在Hydrogen（氢）与Helium（氦）的领导下建立，该团体热衷于探索那些未发现的新层级，[[[Level IF-31]]]、[[[Level IF-61]]]等层级便是在此时被发现的。
+
+他们专注于探索IF层群中那些未知角落，尤其是那些被[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]数据库标为“删除”、“重写”、“归档”或“保留”的层级，同时，他们也在尝试探索后室的另一个版本——Fandom。通过[https://backrooms-wiki-cn.wikidot.com/level-320 Level 320]的复现、[https://backrooms-wiki-cn.wikidot.com/level-c-100 Level C-100]与[https://backrooms.fandom.com/zh/wiki/Level_zh_100 Level ZH-100]的连接等案例，他们推测可以通过某种手段将一些层级“复现”出来，但始终停在理论阶段。
+
+在一次研究中，B.O.P.发现了[[[Level IF-118]]]、[[[Level IF-132]]]、[[[Level IF-142]]]、[[[Level IF-158]]]和[[[Level IF-183]]]等层级的残留，在其边界发现了一个特殊物品，其便是“映射核心”，核心可以将那些早已堕入破碎之地的层级浮现出来，同时在另一边，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]也将[[[Level IF-103]]]制造出来，映射被证为可信手段。那些被映射出的新层级归为普通层级，而旧层级有了新的名字“虚妄映射层级”，需要注意的是，B.O.P.侧的命名与M.E.G.不完全相同，B.O.P.将小于千层的旧层级编号与现有重叠层级做区分，没有编号重叠的层级则是保留旧编号。如[[[Level IF-226]]]因有重叠被命名为“Level 26²”，[[[Level IF-142]]]被命名为“Level 992²”，而[[[Level IF-158]]]为“Level 1008”。
+
+由于时间过久，Hydrogen和Helium已无法胜任领导者的位置，B.O.P.继承人便成为了最早加入B.O.P.的Lithium，但Lithium因进入[[[Level IF-270]]]已进入昏迷状态，B.O.P.的实控权便转移到了Dr.Alice身上。
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+@@ @@
+
+[[tabview]]
+[[tab 相关文章]]
+[[collapsible show="[+] 展开" hide="[-] 隐藏"]]
+[[=]]
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-226 - “恍如隔世”
+|intro=层级
+|img=http://scpsandboxcn.wikidot.com/local--files/11142/new26.jpg
+|link=https://if-backrooms.wikidot.com/level-if-226
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-294 - “远处的灯光”
+|intro=层级
+|img=http://calf-0-sandbox.wikidot.com/local--files/files/Level-99.jpg
+|link=https://if-backrooms.wikidot.com/level-if-294
+]]
+文章收录自：[[*user xuziqi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-310 - “基数层级”
+|intro=层级
+|img=https://if-sandbox.wikidot.com/local--files/secret:pictures/Level1000
+|link=https://if-backrooms.wikidot.com/level-if-310
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-313 - “一个熟悉的地方”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/1000%2A3
+|link=https://if-backrooms.wikidot.com/level-if-313
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-314 - “战地医院”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/collab:314/Image_1757765116272.jpg
+|link=https://if-backrooms.wikidot.com/level-if-314
+]]
+文章收录自：[[*user xuziqi]]与[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-37 - “不欢迎来到丛林”
+|intro=层级
+|img=http://backrooms-wiki-cn.wikidot.com/local--files/old:level-37/new37.jpg
+|link=https://if-backrooms.wikidot.com/level-if-37
+]]
+文章收录自：[[*user xuziqi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-45 - “南极洲”
+|intro=层级
+|img=http://brsandbox-mini.wikidot.com/local--files/level-if-350/IMG_6201.png
+|link=https://if-backrooms.wikidot.com/level-if-45
+]]
+文章收录自：[[*user haodemingzi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-118 - “欢迎来到希腊”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_980.jpg
+|link=https://if-backrooms.wikidot.com/level-if-118
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-142 - “霓虹光芒”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_992.png
+|link=https://if-backrooms.wikidot.com/level-if-142
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-132 - “门”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/door.jpg
+|link=https://if-backrooms.wikidot.com/level-if-132
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-158 - “损毁城市”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Corrupcion_2.jpg
+|link=https://if-backrooms.wikidot.com/level-if-158
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-183 - “电影场景”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_983_Variant_1.png
+|link=https://if-backrooms.wikidot.com/level-if-183
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-163 - “无限购物区”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_1102.png
+|link=https://if-backrooms.wikidot.com/level-if-163
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-131.0 - “电视惊魂”
+|intro=层级
+|img=https://s2.loli.net/2024/12/15/sIug8dtESTjaGyH.jpg
+|link=https://if-backrooms.wikidot.com/level-if-131-0
+]]
+文章收录自：[[*user haodemingzi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-335 - “拨号中心”
+|intro=层级
+|img=https://mms1.baidu.com/it/u=2410629388,189455411&fm=253&app=138&f=JPEG?w=750&h=500
+|link=https://if-backrooms.wikidot.com/level-if-335
+]]
+文章收录自：[[*user MCMK-1234]]、[[*user haodemingzi]]、[[*user xuziqi]]、[[*user qwertyuiop1000]]和[[*user xie5]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-182 - “宴会之地”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level_982.jpg
+|link=https://if-backrooms.wikidot.com/level-if-182
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-369 - “加利福尼亚州”
+|intro=层级
+|img=https://mms0.baidu.com/it/u=639688844,2838655734&fm=253&app=138&f=JPEG?w=691&h=500
+|link=https://if-backrooms.wikidot.com/level-if-369
+]]
+文章收录自：[[*user haodemingzi]]、[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-241 - “斜坡”
+|intro=层级
+|img=https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0508%2Ff8f00af4j00rucbrb0016c000og00drm.jpg&thumbnail=960x2147483647&quality=75&type=webp
+|link=https://if-backrooms.wikidot.com/level-if-241
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-320 - “回环公路”
+|intro=层级
+|img=http://if-backrooms.wikidot.com/local--files/level-if-320/%E7%94%9F%E6%88%90%E7%89%B9%E5%AE%9A%E5%85%AC%E8%B7%AF%E5%9B%BE%E7%89%87.png
+|link=https://if-backrooms.wikidot.com/level-if-320
+]]
+文章收录自：[[*user superintendent-V]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-324 - “令人头痛的唐人街”
+|intro=层级
+|img=https://mms2.baidu.com/it/u=2762410707,2437703780&fm=253&app=138&f=JPEG?w=500&h=500
+|link=https://if-backrooms.wikidot.com/level-if-324
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-167 - “漫长忧伤 - 你所深爱之”
+|intro=层级
+|img=https://mms2.baidu.com/it/u=1156928831,1914844348&fm=253&app=138&f=JPEG?w=285&h=285
+|link=https://if-backrooms.wikidot.com/level-if-167
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-216 - “循至泊处”
+|intro=层级
+|img=https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0508%2Fd129cd9cj00rucbe20015d000og00ghp.jpg&thumbnail=960x2147483647&quality=75&type=webp
+|link=https://if-backrooms.wikidot.com/level-if-216
+]]
+文章收录自：[[*user MCMK-1234]]、[[*user superintendent-V]]、[[*user xie5]]、[[*user haodemingzi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-247 - “绝缘层”
+|intro=层级
+|img=https://s2.loli.net/2022/03/01/CV2geX69JE4TlGo.jpg
+|link=https://if-backrooms.wikidot.com/level-if-247
+]]
+文章收录自：[[*user caikunzitaimei]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-284 - “黄金街”
+|intro=层级
+|img=https://backrooms-wiki.wdfiles.com/local--resized-images/trimmed:level-138/138/medium.jpg
+|link=https://if-backrooms.wikidot.com/level-if-284
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-287 - “黯淡洃调”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/level-if-287/Alleyway.webp
+|link=https://if-backrooms.wikidot.com/level-if-287
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-274.1 - “常青岭”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/collab:
+level-if-274-1/Mount_Evergreen.webp
+|link=https://if-backrooms.wikidot.com/level-if-274-1
+]]
+文章收录自：[[*user haodemingzi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-286 - “货架补充中”
+|intro=层级
+|img=http://liminaldoctor.wdfiles.com/local--files/gallery/shelf
+|link=https://if-backrooms.wikidot.com/level-if-286
+]]
+文章收录自：[[*user haodemingzi]]
+[[/div]]
+------
+[[include :backrooms-oversight-cn:component:contest-archive
+|title=Level IF-368 - “未来主义实验室”
+|intro=层级
+|img=http://if-sandbox.wikidot.com/local--files/collab:level-if-368/Videoframe_20251122_113458_com.huawei.himovie.local_edit_712240036864753.jpg
+|link=https://if-backrooms.wikidot.com/level-if-368
+]]
+文章收录自：[[*user MCMK-1234]]
+[[/div]]
+[[/=]]
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+@@ @@
+
+[[div class="blockquote"]]
+[[=]]
+“喂喂，你听清楚了，我说的是B.O.P.把这些被删除的层级重新写回数据库简直是占用编号。”
+
+//“呃，别太多想；毕竟有新的层级文档也挺新鲜的（乐”//
+
+[[/=]]
+-----
+[[>]]
+//—— 出自夜行者论坛的一条有关**虚妄归档设定**之讨论串。//
+[[/>]]
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[=]]
+++ **THE END**
+[[/=]]
+
+[[include :backrooms-wiki-cn:component:footnotecol]]
+@@@@
+
+[[div class="licensebox"]]
+[[collapsible show="‡ 授权 / 引用" hide="‡ 隐藏授权 / 引用"]]
+
+请按如下方式引用此页：
+
+> “[[[the-rewrite-initiativ-canon|虚妄归档设定]]]”，作者 calf-0 & MCMK-1234，来自[http://if-backrooms.wikidot.com/ 后室IF层群维基]。原文链接：http://if-backrooms.wikidot.com/the-rewrite-initiativ-canon。遵循 [https://creativecommons.org/licenses/by-sa/3.0/deed.en CC BY-SA 3.0] 协议。
+=====
+=====
+更多授权相关信息，请查阅[http://backrooms-wiki-cn.wikidot.com/licensing-guide 授权指导]。
+[[/collapsible]]
+[[/div]]

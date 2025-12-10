@@ -1,0 +1,387 @@
+[[include :backrooms-wiki-cn:theme:liminal-greyspace]]
+
+
+[[module css]]
+/* Stolen from the Pomona theme */
+.wood-frame {
+    color:rgb(0,0,0);
+    background: rgb(var(--white));
+    padding: 0.01rem 1rem;
+    margin: 0.5rem 0;
+    box-shadow: var(--quote-shadow);
+    border: 0.8rem rgb(var(--wood)) ridge;
+}
+
+:root {
+    --wood: 157, 128, 97;
+    --white: 255, 255, 255;
+}
+[[/module]]
+
+[[module css]]
+/* Leaders logoblock for database */
+:root{
+   --dark-gray-monochrome: 120, 120, 120;
+}
+
+.leaders-logoblock {
+    padding: 0.01rem 1rem;
+    color:rgb(255,255,255);
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--dark-gray-monochrome));
+}
+ 
+.leaders-logoblock::after {
+    content: "";
+    float: center;
+    border: solid 2px #0000;
+    background: url(http://backrooms-wiki.wikidot.com/local--files/theme:archway-os/archway_new.png) center/25% no-repeat;
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+}
+
+[[/module]]
+
+[[module css]]
+/* Daily Rooms block */
+
+.newspaperblock{
+width: auto;
+padding: 0.01rem 1rem;
+margin: 0.5rem 0 0.5rem 0.25rem;
+background: url("http://backrooms-wiki.wikidot.com/local--files/callum-andrews/journal");
+text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+color:rgb(0,0,0);
+}
+
+[[/module]]
+
+[[module css]]
+/* Database highlight */
+.meg {
+ color:#ffffff;
+ background-color:#000000;
+ --link-color: 140, 136, 126;
+ --hover-link-color: 140, 136, 126;
+}
+
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:hinc]]
+
+[[include :backrooms-wiki-cn:component:ambiance
+audio=https://praetor.wdfiles.com/local--files/level-276/Level%208%20-%20M.E.G%20Cave%20Raiders.mp3|
+norate=1
+]]
+
+[[div class="styled-quote" style="-webkit-mask-image: linear-gradient(to bottom, black 20%, transparent 100%); mask-image: linear-gradient(to bottom, black 20%, transparent 100%);"]]
++ 欢迎来到M.E.G.数据库档案
+[[=image http://backrooms-sandbox-2.wikidot.com/local--files/trailmixncocoa-meg-theme/IMG_3130.PNG width="300 px"]]
+------
+[[=]]
+当前您所浏览的[[span class="meg"]]**场景-02.9**[[/span]]来源于[[span class="meg"]]**拱廊系统**[[/span]]，最后更新于[[span class="meg"]]**1995年4月2日**[[/span]]。
+[[/=]]
+------
+[[div class="leaders-logoblock" style="-webkit-mask-image: linear-gradient(to bottom, black 20%, transparent 100%); mask-image: linear-gradient(to bottom, black 20%, transparent 100%);"]]
++ 场景-02.9
+------
++++ 概述
+[[include component:image-block
+name=https://praetor.wdfiles.com/local--files/level-276/55.PNG|
+caption=目前已知的几张场景-02.9的呈现图之一。截止目前，该场景尚未有任何图像记录。
+]]
+场景-02.9是一处噩梦般的异度空间，据少数误入者描述其内部遍布着血河与骨丘，整片地貌皆是由血肉组成。尽管可通过##red|切行##操作进入，但目前唯一确认的入口仍位于[http://backrooms-wiki-cn.wikidot.com/level-8 场景-01.9]内。鉴于此地的危险性，[http://backrooms-wiki-cn.wikidot.com/the-leaders the leaders]于1980年对其实施永久封锁，此后会始终派驻重兵看守。
+
+场景-02.9似乎是开发室的实体物种之源头。此外，关于蜂巢女皇假想存在的猜测，据称该实体能够化身且统御整个场景，现已催生出延续数百年的底层文化，尽管其存在至今仍停留于老一辈流浪者的传闻中，从未得到证实。
+
+[[span style="display: inline-block; mask-image: linear-gradient(to bottom, black 0, transparent 95%); -webkit-mask-image: linear-gradient(to bottom, black 0, transparent 95%)"]]
++++ 生存指南
+由于前往场景-02.9存在潜在风险，the Leaders已明令禁止对此地的探索行动，也就意味着目前唯一可获取的信息仅来源于流浪者的口述证言，其中部分内容甚至可以追溯至数百年前。
+
+需铭记的重要忠告是**[503 服务不可用]**[[/span]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++* @@. . .@@
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=]]
+[[size 230%]][[span class="meg"]]@@    @@{{2019年10月12日}}@@    @@[[/span]][[/size]]
+[[/=]]
+
+[[div class="newspaperblock" style="-webkit-mask-image: linear-gradient(to bottom, black 20%, transparent 100%); mask-image: linear-gradient(to bottom, black 20%, transparent 100%);"]]
+[[div style="font-family:times new roman;"]]
+[[=]]
++ 后室日报
+[[/=]]
+
+------
+[[=]]
+++ M.E.G.先驱兼前成员于[http://backrooms-wiki-cn.wikidot.com/level-853 Level 853]身亡
+[[/=]]
+
+------
+//Olivia Bellerose，[http://backrooms-wiki-cn.wikidot.com/the-m-e-g 探险者总署]的资深成员，被另一名M.E.G.特工发现于[http://backrooms-wiki-cn.wikidot.com/level-853 Level 853]身亡。尽管两年前她就因其搭档Tournesol去世而辞去Alpha基地的研究员职务，但据监督者Justin River透露，她的遗体仍将按M.E.G.重要先锋规格安葬，目前尚未透露更多信息。//
+------
+近年来对于探险者总署厄运连连，自2016年高级档案员[http://backrooms-wiki-cn.wikidot.com/a-river Asher River]去世后，该组织似乎每年都会痛失一名重要成员。2020年也未能幸免，据罗经点一位要求匿名的特工通报，前植物学研究员兼行动组员Olivia Bellerose的遗体已于Level 853发现。
+
+Olivia Bellerose自M.E.G.成立之初便是其核心成员之一，凭借精湛的植物学专长与副监督者Jana Cotyledon共事且参与了多项对M.E.G.的发展至关重要的突破性研究。自2012年游牧民族整编为M.E.G.以来，她始终秉持着保护流浪者的信念深入探索这个异常的世界。那钢铁般的意志最终促成了玫瑰素的诞生，此种物质被广泛用于防止[http://backrooms-wiki-cn.wikidot.com/entity-17 爬菌]的污染与扩散。
+
+然而，她的M.E.G.生涯在2018年画上句号。当时，她的搭档，Tournesol，[http://backrooms-wiki-cn.wikidot.com/base-alpha Alpha基地]前实体研究员，在一次探险中不幸罹难。尽管外界将该事件视作M.E.G.黄金时代的终结，对Olivia而言更是她离开的导火索，认为该组织已变得过于疏忽，甚至无法保护自己的队员。
+
+离开后的她曾对[http://backrooms-wiki-cn.wikidot.com/level-5 Level 5]进行了短暂研究，并写下了如今广为人知的恐怖旅馆生存指南，随后她深入了后室的更深处，致力于帮助尽可能多的无助流浪者。由于她拒绝与大多数M.E.G.成员交流，关于她的事迹之记录寥寥无几，但她的名字仍在远离主12层的流浪者中成为希望的象征。
+
+然而，Level 853却成为了她的葬身之地。尽管她的死因尚未公开，但M.E.G.已确认将她的遗体运回了Alpha基地，并以M.E.G.成员及英雄的身份被安葬。“对我们而言她不仅是一位同事。尽管她在两年前离开了我们，但此次事件标志着我们再次失去了一位珍视的伙伴。”监督者Justin River在最后一次公开露面时说道。
+
+随着又一位M.E.G.先驱的离去，许多成员公开表明了对组织未来的担忧与它能否从接连失去资深成员的打击中恢复过来。“监督者委员会至今仍未表态，但很明显，成员们正承受着巨大的压力。在他们彻底分崩离析之前，还能承受多少伙伴的离去？”Ale Venrick，罗经点的队长问道。
+
+[[span style="display: inline-block; mask-image: linear-gradient(to bottom, black 0, transparent 95%); -webkit-mask-image: linear-gradient(to bottom, black 0, transparent 95%)"]]
+截至目前，监督者委员会也尚未就此事发表官方声明，而监督者Justin River也拒绝作出进一步解释
+[[/span]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++* @@. . .@@
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=]]
+[[size 230%]][[span class="meg"]]@@    @@{{2020年4月15日}}@@    @@[[/span]][[/size]]
+[[/=]]
+
+[[div class="wood-frame"]]
+
+[[=]]
+++++ 欢迎来到本周的临时[http://backrooms-wiki-cn.wikidot.com/level-222 博物馆]特展，
+------
++ 跨越时代的蜂巢
+[[/=]]
+-----
+[[/div]]
+
+@@ @@
+@@ @@
+
+[[tabview]]
+
+[[tab 廊道1]]
+[[include :scp-wiki-cn:component:carousel
+| images=http://praetor.wikidot.com/local--files/level-276/first,http://praetor.wikidot.com/local--files/level-276/second.PNG,http://praetor.wikidot.com/local--files/level-276/third,http://praetor.wikidot.com/local--files/level-276/fourth
+| interval=5
+| wiki=if-backrooms
+| page=fragment:level-276-0
+| width=95%
+| height=30rem
+| position=center
+| no-caption=true
+| background=#000000
+| options=no
+]]
+
+[[div class="wood-frame"]]
++ 奇美拉
+------
+霍夫斯塔德的马赛克艺术——正如诸多其他种类的艺术一般——深深植根于宗教之中，而//奇美拉//[[footnote]]不应与[http://backrooms-wiki-cn.wikidot.com/placeholder 月之奇美拉]相混淆。[[/footnote]]亦非例外。
+
+这些生物——正如后室中众多的其他存在一般——是人类传说被我们如今称作[http://backrooms-wiki-cn.wikidot.com/phenomenon-7 阈界反响]的现象具象化后的产物。不论友善与否，此些造物皆被认为诞生于[[span class="ruby"]]//天境//[[span class="rt"]]//Paradeos//[[/span]][[/span]][[footnote]]**译注：**可能是希腊词语“Paradeisos”（天堂）的变体，结合下文作此翻译。[[/footnote]]—— //[http://backrooms-wiki-cn.wikidot.com/the-grave 虚无]//（神志）与 [[span class="ruby"]]//[http://backrooms-wiki-cn.wikidot.com/blue-channel 迷境]//[[span class="rt"]]//Daedos//[[/span]][[/span]][[footnote]]**译注：**可能是希腊词语“Daedalus”（代达罗斯，希腊神话中的巧匠，以建造迷宫而著名）的变体，结合蓝色通道原文作此翻译。[[/footnote]]（躯体）间的阈界——之中。上述地点于廊道的第一块画面中有所体现，其描绘了一位自层级之根系中生长而出的人类。
+
+画面二及三中则体现了前述实体[[footnote]]分别为一只[http://backrooms-wiki-cn.wikidot.com/entity-7 猎犬]以及一只独特的未命名实体——其源自失落一族历史的早期，此时希腊神话仍在影响霍夫斯塔德的//狄修斯//（信仰）。[[/footnote]]，其画像常被储存在房屋中。这些对于//天境//之物质化身的描绘画像，被认为能够强化栖居此些房屋之霍族人灵魂与躯体间的联系。此些生物皆是源自人类自身的信仰——不论畏惧亦或爱戴——并以不同寻常却迷人万分的方式形成。
+
+据信，最后一块画面描绘了天境的蜂巢思维，其名曰奥甫俄[[footnote]]可被粗略地译为“育养万物之祂”[[/footnote]]，被认为是天境之神志，以及涅尔曼——艺术与创新之女神——之子。
+[[/div]]
+[[/tab]]
+
+[[tab 廊道2]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/e/ef/Christ%27s_Descent_into_Hell_MET_DP-1207-001.jpg]]
+
+[[div class="wood-frame"]]
++ 血窟扩张四方
+------
+由Leonio Vaccarello于16世纪某年所作，//血窟扩张四方//是后室受基督教及其相关宗教影响的纪元中对于蜂巢最为著名的绘作。
+
+尽管源自一神教的想象令人毛骨悚然，然而自公元476年霍夫斯塔德覆灭后，蜂巢绘作的核心意象亦在该画作中出现。核心意象便是血肉质的黑暗地板（尽管相较于其他画作中岩石更多），以及最为重要的，蜂巢女皇的存在。
+
+有趣的是，画作中对于女皇的描绘，其脸庞所显露的神情痛苦万分，部分已然融并于地板之中。尽管最为明显的意指是展现女皇与蜂巢的深切融合，然而当时的许多学者皆一致认同，该意象同时表述了这位统治者正处在恒终的痛楚中，其身躯上的伤痕直接来自层级自身——这是一种潜在的对于伤口的隐喻，映射着名为蜂巢的广袤地狱。
+[[/div]]
+[[/tab]]
+
+[[tab 廊道3]]
+[[include :scp-wiki-cn:component:carousel
+| images=https://praetor.wdfiles.com/local--files/level-276/44.PNG,https://praetor.wdfiles.com/local--files/level-276/55.PNG,https://praetor.wdfiles.com/local--files/level-276/BITCHFLIRKE231.PNG,https://praetor.wdfiles.com/local--files/level-276/33.PNG,https://praetor.wdfiles.com/local--files/level-276/BITCHFLIKR.PNG
+| interval=5
+| wiki=if-backrooms
+| page=fragment:level-276-0
+| width=95%
+| height=30rem
+| position=center
+| no-caption=true
+| background=#000000
+| options=no
+]]
+
+[[module css]]
+/* Caroussel Module Tweaks */
+
+#page-content .carousel-container .carousel-caption { 
+  background-color: #fffce7; 
+  max-width: unset;
+}
+
+#page-content .carousel-container .carousel-caption-wrapper {
+  justify-content: center;
+  display: flex;
+  max-width: unset;
+}
+
+[[/module]]
+
+[[div class="wood-frame"]]
++ 逾越理性的远航
+------
+1872至1891年间，Gustave Vincent，一位来自在当时新近成立的[http://backrooms-wiki-cn.wikidot.com/amor-lncrementum 神爱之繁生]社区的法国艺术家，通过未知手段进入了蜂巢。
+
+深入蜂巢的体验在根本上改变了他的作画形式，从如今广为人知的多彩静物画转变为了他自身称作“l'enfer de chair”[[footnote]]“血肉炼狱”[[/footnote]]的，阴森、满载血肉的混乱画面。因所经历之体验而禁受永久创伤的他，用生命的最后几年投身于一个名为“Voyages Au-Delà de la Raison”[[footnote]]“逾越理性的远航”[[/footnote]]的画集。
+
+在他的回忆录中，他如是描述道：“一场对生命的愚弄，与世界原初之模样完全对立的地带。憎恶[...]统御着祂所创造的癫狂一场，正如祂创生了自身那般”。尽管所谓“憎恶”的本质是否是对于蜂巢女皇的拟人在学者之间仍有争议，然而所提及的入口——即[http://backrooms-wiki-cn.wikidot.com/level-8 洞穴系统]，一处已确认存在数百年的阈界——确认了画作所提及之地狱的本质正是蜂巢。
+
+在构成这一画集的二十六幅画作中，三幅可在[http://backrooms-wiki-cn.wikidot.com/level-214 跨维度后室历史博物馆]中寻得，五幅被展于此处，其余十八幅仍被神爱之繁生所保管。截至今日，该组织仍要求将上述八幅画作归还到位于[http://backrooms-wiki-cn.wikidot.com/level-4 废弃办公室]的主圣所，作为其文化的一部分。
+[[/div]]
+[[/tab]]
+
+[[tab 廊道4]]
+[[=image https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Redon_crying-spider.jpg/677px-Redon_crying-spider.jpg?20070216051441 width="500 px"]]
+
+[[div class="wood-frame"]]
++ 血腐蜂巢之统领者
+------
+尽管这一素描的作者未知，然而波利之一统小组所余留的记录表明，该画于1942年为//《波利军号》//期刊所作，且其描绘了“血腐蜂巢之统领者”。
+
+这一幅对于蜂巢女皇的绘作很可能是迄今为止最真实的描绘，因其缺乏有关癫狂或拟人化的艺术自由手法。尽管如此，该生物却再次被刻画为悲戚之存在，尽管文章对其描述中提到了愤怒和仇恨的情绪。
+
+“血腐蜂巢之统领者”很快成为了蜂巢女王这一神秘存在的典型描绘。亦被称作“悲恸蜘蛛”，当时的父母通常会为小孩子讲述这样一个传说：若孩子不听从父母的话语，这位妖怪便会派怪物吞噬孩子的灵魂。由于日记摘录并未记录其进入真实的蜂巢，故此人们认为素描的作者是根据传说画下这个生物的。
+[[/div]]
+[[/tab]]
+
+[[tab 廊道5]]
+[[=image http://calf-0-sandbox.wikidot.com/local--files/files/hive.PNG]]
+
+[[div class="wood-frame"]]
++ 蜂巢今日之谜
+------
+尽管如今，有关蜂巢女皇的传说已然沦为恐怖都市传说，或是讲述给小孩子的恐怖故事，然而不可否认的是，它对后室文化的影响十分深刻，以至于连[http://backrooms-wiki-cn.wikidot.com/the-leaders The Leaders]都在1980年封锁了蜂巢（据信）的主要入口，并以重兵把守，以保证在[http://backrooms-wiki-cn.wikidot.com/level-8 洞穴系统]中穿行的人不会误入其中。
+
+尽管付诸了巨大努力，却仍有三份来自The Leaders纪元的证言，讲述了三名不同人物切入该层级的故事。在外侧安保人员的辅助下，三人皆通过先前被封锁的主入口逃脱，因此他们的经历得以被记录归档。尽管蜂巢的切出/入阈界自古以来便被证实存在[[footnote]]毕竟在其中出生的实体必然要通过某处离开。[[/footnote]]，此些不幸的故事却反而助长了蜂巢及作为“妖怪”的蜂巢女皇——不论其究竟是何——的知名度。
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+你搞了这么多展览，就为了阻止我去那里？
+
+@@ @@
+@@ @@
+
+[[>]]
+这东西早就计划好了，但我觉得无论如何你都得知道消息。
+[[/>]]
+
+@@ @@
+@@ @@
+
+Leo，我知道你担心我，但我已经做出选择了。这两周是我人生中最糟的两周。我//必须//和她谈谈。我必须得找个方法！什么方法都行！
+
+@@ @@
+@@ @@
+
+[[>]]
+我也搞到了你要求的书，Justin。但就算我阻止不了你过去，又不意味着我不会试试这么做。
+[[/>]]
+
+@@ @@
+@@ @@
+
+它们不过是些传说。就算是真的，我也和[http://backrooms-wiki-cn.wikidot.com/placeholder-dreamweaver 远远][http://backrooms-wiki-cn.wikidot.com/nostalgi-gaius 更][http://backrooms-wiki-cn.wikidot.com/entity-72 糟]的东西打过交道。我不会出事的，信我。
+
+@@ @@
+@@ @@
+
+[[>]]
+Justin，你难道记不得你在和谁说话？我亲眼见过，Justin。我亲眼见了霍夫斯塔德覆灭。我亲眼见了天境变成了哈夫瓦特。并且，最重要的是，我亲眼见证了它在人类文化中缓缓地扎根。
+[[/>]]
+
+@@ @@
+@@ @@
+
+我知道你很了解那个目标，但……你从没有去过那里。年长也不意味着你能理解一切。你在这个展览里自己也说了，这整个东西至今也还是一个大谜团。
+
+@@ @@
+@@ @@
+
+[[>]]
+你也不理解。不过你们这群meg刚刚找到通往[http://backrooms-wiki-cn.wikidot.com/level-8 洞穴系统]的道路，就会封锁掉它，就像The Leaders之前干过的事儿，也很像后室联合体在他们之前干过的事儿。你是想告诉我，你不知道那里有多么危险吗？
+[[/>]]
+
+@@ @@
+@@ @@
+
+我下定决心了，Leo。信息或许有限，但我得试试。我必须找一种从[http://backrooms-wiki-cn.wikidot.com/the-grave 坟墓]中联系她的方式。
+
+@@ @@
+@@ @@
+
+[[>]]
+我想我说什么也阻止不了你了……好吧。你赢了。拿走那本书，去干你那例行公事，然后//完完整整地//回来，好吗？我们这里需要你，我也很清楚悲痛会对一个失去一切的人产生什么样的影响。
+[[/>]]
+
+@@ @@
+@@ @@
+
+……谢了，Leo。我保证我什么也不会搞砸。[https://if-backrooms.wikidot.com/level-276/offset/1 干完事后我立马就回博物馆。]
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
++* @@. . .@@
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@

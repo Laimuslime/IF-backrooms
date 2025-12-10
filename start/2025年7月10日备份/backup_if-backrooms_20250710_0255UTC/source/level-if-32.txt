@@ -1,0 +1,172 @@
+[[module CSS]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "foj-theme-modified";
+    --theme-name: "后室观测极点主题";
+ 
+    /* Header */
+    --header-title: "后室观测极点";
+    --header-subtitle: "建造与发展";
+ 
+    /* 浅蓝白色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 245, 249, 252;
+    --light-pale-gray-monochrome: 220, 238, 255;
+    --very-light-gray-monochrome: 235, 245, 255;
+    --light-gray-monochrome: 200, 220, 240;
+    --gray-monochrome: 180, 200, 220;
+    --dark-gray-monochrome: 150, 180, 210;
+    --black-monochrome: 50, 100, 150;
+    
+    /* 蓝色系配色 */
+    --pale-accent: 200, 230, 255;
+    --bright-accent: 100, 180, 255;
+    --medium-accent: 70, 150, 230;
+    --dark-accent: 40, 120, 200;
+    --alt-accent: 120, 190, 255;
+ 
+    /* 背景和头部颜色 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+ 
+    /* 主要主题颜色 */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 保持其余CSS规则不变，颜色会自动应用新的配色方案 */
+#page-title {
+    border-color: rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2.2rem;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+#header h2, #header h2 span {
+    font-size: 1.4rem;
+    color: rgb(var(--medium-accent));
+}
+
+/* 调整背景渐变使其更柔和 */
+body, #skrollr-body {
+    background-image:
+     linear-gradient(to top,
+       rgba(var(--header-gradient-color-bottom), 0.8) 0%,
+       rgba(var(--header-gradient-color-middle), 0.6) 50%,
+       rgba(var(--header-gradient-color-top), 0.4) 100%
+     ),
+     var(--gradient-background)!important;
+}
+
+/* 使块引用看起来像蓝色便签纸 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--bright-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+    text-decoration: none;
+    border-radius: 3px;
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=2
+]]
+
+**Level IF-32**是后室IF层群的第32层。
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-32/%E5%9F%8E%E5%B8%82
+ |caption=**Level IF-32** 里的其中一个角落。
+]]
++ **描述：**
+Level IF-32类似于一片充满雾霾的城市，城市内的任何建筑物都无法进入，即使此建筑物的入口敞开，在流浪者进入时也仍会被传送至街道之上。城市的街道积灰极其严重，掩盖了其原本的颜色，人行道的砖头已被磨损，磨损物未知，人行道上常常随机出现各种物品，这些物品大多为无用的垃圾，如食品包装袋、罐装饮料盒等，只有极少部分为各种物件，物件的列表如下：
+* 八音盒
+* 电风扇扇叶
+* 书本残卷
+* 充电头
+* 木质柜门
+
+这些物品大多未经过损坏，但已被丢至地面，表面造成了轻微损坏，对使用不造成影响。
+
+马路上散发着刺鼻且难以散去的沥青味，路面极其粗燥，包含浇灌时的痕迹与被车轮磨损的印迹，马路上会出现各类汽车，所有汽车都排放着大量废气，这些废气无法在短时间内散去，在排放后将会留在马路之中。城市的墙壁大多张贴着各种难以清洗的广告，墙壁已显得尤为老旧，裸露出了其中的砖头，墙壁上少数留有用粉笔涂鸦的图案，图案大多无意义或十分渗人，当注视过久时，流浪者将会来到[[[Level IF-25]]]，少数墙壁上生长出了植物，但大多植物早已死亡，留下剩下植物在此处苟延残喘。
+
+城市的整体布局极为混乱，且路面常常会结构重组，常常会出现各种死胡同公路排列于城市之中，而顷刻间又多出一道建筑中的裂缝，进入此层级后任何GPS、导航都无法开始运作。城市的路面上极少情况下会出现部分的机械组织，这些流水线或加工区大多都覆盖着一层污染物质，或是积满了焦油，大多组织可以运作但极其缓慢，部分已经被完全损坏。
++ **事件**
+在此层级中流浪者报告了部分已被证实发生在此层级的事件，如下：
+++ 黑白色调
+当此效应发生时，流浪者将会察觉耳边声音逐渐嘈杂，且眼前的一切颜色都将消失，只剩下黑白灰等颜色在做深浅变化，部分人员还报告了视力下降与短暂失明等特质。
+++ “沉醉”
+当流浪者步入此事件时，流浪者将会经历短暂的眩晕，还将产生一种特殊的情感，这种情感的成因尚不明确，但可以肯定的是，此情感十分强烈，且陷入的人员短时间内无法恢复，这种不明确的情感会让人极度的悲伤或极度兴奋，且如果此人员陷入此事件过深可能导致脑死亡。
+++ “徘徊”
+当流浪者陷入此事件时，流浪者将会失去一切有意义的意识，转而只剩下在此层级徘徊的念头，并将绕此层级的任意建筑物打转，目前这种现象的产生原因不明确，猜测可能是流浪者的精神崩溃导致的并发症。此事件的打断方式为让此流浪者受到巨大的打击，此流浪者将会立即醒来，据那些亲身体会者描述“那就像你做了一个永无止境的梦一般”。
++ **实体**
+此层级内存在少量实体，实体不会主动地攻击人类：
+++ “行人”
+行人是层级内最为常见的实体，该实体类似于人类，该实体面部特征模糊，总是喜欢插兜与沉思，当流浪者激怒此实体时，该实体会立刻一拥而上将流浪者活活打死。
+++ “观察者”
+观察者为此层级出现的无人机的统称，该无人机通体发黑，总是打开着摄像头记录着流浪者的一举一动，意图未知。
++ **基地，前哨和社区**
+--该层级不存在已知的基地、前哨和社区--
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]中转站
+* 人员稀少
+* 后室观测极点的重要基地其一
+* 对此层级展开深入研究
+* 人员覆盖大部分较稳定地区
+
+
++ **附加内容**
+--“这些都是你们的咎由自取，如果没有这一切，你们将不会被降下神罚，堕入后室，成为愚笨的实体。文明在这一阶段总是像狂放的狮子，但即使是再强盛的狮子也总会有倒下的那一刻，你说对不对呢？那些愚蠢至极的人们…”--
+
+该文字出处未知
++ **入口和出口**
+
+++++++ 入口
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]中切出会来到此层级
+* 于[[[https://backrooms-wiki-cn.wikidot.com/level-1|Level 1]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-145|Level 145]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-283|Level 283]]]陷入昏迷3小时以上可切入此层级
+++++++ 出口
+* 在此层级切出将会回到[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]或进入[[[Level IF-5]]]
+* 在此层级中陷入**黑白色调**效应时切出此层级即可来到[[[https://backrooms-wiki-cn.wikidot.com/level-122|Level 122]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-136|Level 136]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-137|Level 137]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-139|Level 139]]]中的任意层级
+* 当注视墙上的粉笔图案过久时，流浪者将会来到[[[Level IF-25]]]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]很平淡的水文，此层级的故事一下就猜出来了，也没想藏很深
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-31]]] | Level IF-32 | [[[Level IF-33]]] >>
+[[/=]]
+[[/div]]

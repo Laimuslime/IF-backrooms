@@ -1,0 +1,70 @@
+[[module CSS]]
+#page-title, #breadcrumbs { display: none !important; }
+.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {float: center; border: solid 2px #FFFFFF; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+a.collapsible-block-link { font-weight: bold; }
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+[[include :backrooms-wiki-cn:theme:starscape]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=相信希望
+]]
+[[module css]]
+.page-tags::before{
+  content: "标签：" !important;
+}
+[[/module]]
+[[=]]
+[[module rate]]
+[[/=]]
+[[div_ class="meta-title"]]
+Phenomenon 38
+[[/div]]
+[[span class="pseudocrumbs"]][[[Duelcon2025|2025决斗竞赛]]] >> Phenomenon 38[[/span]]
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[!-- https://backrooms-wiki.wikidot.com/fragment:phenomenon-38-1 --]
+[!-- https://backrooms-wiki.wikidot.com/fragment:phenomenon-38-2 --]
+
+----
+[[=]]
+[[=]]
+[[collapsible show="[+] 作者" hide="[-] 作者"]]
+
+**Phenomenon 38**由[[*user I_am_a_dragon]]撰写。
+
+**Phenomenon 38**由[[*user calf-0]]译就。
+
+批判者：
+
+[[*user Thales777]]
+[[*user PrismaticMoose]]
+[[*user ReyDay]]
+[[*user SquibbleZombie]]
+[[*user DrJTC]]
+
+[[/collapsible]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=I_am_a_dragon
+|translator=calf-0
+]]
+=====
+> **文件名：** Xinjiang Sailimu Lake Grassland
+> **作者：** emirzhang2018 on Pixabay
+> **协议：** [https://creativecommons.org/publicdomain/zero/1.0 CC0 1.0 Universal]
+> **链接：** https://pixabay.com/zh/photos/xinjiang-sailimu-lake-grassland-3778364/
+> 经[[*user I_am_a_dragon]]编辑
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[div class="footer-wikiwalk-nav"]]
+<< [[[Phenomenon 37]]] | Phenomenon 38 | [[[Phenomenon 39]]] >>
+[[/=]]
+[[/div]]
+[[/=]]

@@ -1,0 +1,233 @@
+[[iftags +版式 +原创]]
+[[>]]
+[[module rate]]
+[[/>]]
+此版式由[[*user FNFzzz]]制作
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-backrooms:theme:sky]]@@
+
+[[/div]]
+
++ 示例
+
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2012/04/14/16/37/sky-34536_1280.png
+|caption=天空
+]]
+
+可通过五个连字符“@@-----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+多么精巧绝伦。
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。我想知道为什么？这很奇怪。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+这段文本
+__放在这里__
+//你们就能//
+**看到不同**
+--格式以及--
+{{其它东西}}
+看起^^来是^^
+怎么,,运作,,
+
+----
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+-----
+[[/iftags]]
+
+[[iftags -版式]]
+[[/iftags]]
+[[module CSS]]
+:root {
+    --themeColor: #4682B4;
+    --accentColor: #1E90FF;
+}
+
+#container-wrap {
+    background: #FFFFFF;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1200px;
+}
+
+div#header {
+    background: linear-gradient(135deg, #E6F2FF 0%, #B0E0E6 100%);
+    padding: 15px 20px;
+    text-align: center;
+}
+
+div#header h1 a:before {
+    content: "The Backrooms IF";
+    color: #1E3F7F;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div#side-bar {
+    background: #F0F8FF;
+    padding: 10px;
+    width: 200px;
+    float: left;
+}
+
+div#page-content {
+    padding: 15px;
+    margin-left: 220px;
+}
+
+body {
+    background: #E6F2FF;
+    color: #2F4F4F;
+    margin: 0;
+    padding: 0;
+}
+
+a, a:visited {
+    color: #4169E1;
+}
+
+blockquote {
+    border-left: 3px solid #87CEFA;
+    background: #F0F8FF;
+    padding: 8px 12px;
+    margin: 10px 0;
+}
+
+.lightblock, .darkblock {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.styled-quote, .dark-styled-quote {
+    padding: 10px 15px;
+    margin: 10px 0;
+}
+
+@media (max-width: 768px) {
+    div#side-bar {
+        width: auto;
+        float: none;
+        margin: 0 0 15px 0;
+    }
+    
+    div#page-content {
+        margin-left: 0;
+    }
+    
+    div#header h1 a:before {
+        font-size: 20px;
+    }
+}
+[[/module]]

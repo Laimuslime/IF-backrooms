@@ -1,0 +1,199 @@
+[[iftags +版式 +原创]]
+[[>]]
+[[module rate]]
+[[/>]]
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-backrooms:theme-blue-river]]@@
+
+[[/div]]
+
++ 示例
+
+可通过五个连字符“@@-----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。甚至可以更多。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+--这是一段删除文本--
+__这是一段划线文本__
+//这是一段斜体文本//
+**这是一段加粗文本**
+{{这是一段等宽字}}
+这是^^上标^^
+这是,,下标,,
+
+[[[Level IF-1|我存在。]]]
+[[[我不存在。]]]
+
+
+一个[[footnote]] 脚注。 [[/footnote]]
+
+
+----
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="blockquote"]]
+自定义引用块
+[[/div]]
+
+-------
+[[/iftags]]
+
+[[iftags -版式]]
+[[/iftags]]
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "blue-river";
+    --theme-name: "blue-river";
+    --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾经来过这里";
+
+    --white-monochrome: 221,234,255;
+    --pale-gray-monochrome: 236,244,255;
+    --light-gray-monochrome: 100,149,237;
+    --gray-monochrome: 100,149,237;
+    --black-monochrome: 20, 30, 25;
+    --bright-accent: 100,149,237;
+    --medium-accent: 100,149,237;
+    --dark-accent: 30,144,255;
+    --pale-accent: 160, 200, 180;
+    --link-color: 30,144,255;
+    --hover-link-color: 30,144,255 ;
+    --visited-link-color: 30,144,255;
+
+
+    --body-font: Inter, "Noto Serif SC", Courier New, serif;
+    --header-font: Inter, "Noto Serif SC", Courier New, serif;
+    --mono-font: Recursive, "Noto Sans SC", Consolas；
+
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --background-gradient-distance: 0rem;
+
+    
+
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.9) 0%,
+        rgba(var(--dark-accent), 0.9) 100%);
+
+
+#container {
+    background-image: radial-gradient(circle,
+        rgba(var(--pale-accent), 0.1) 50%,
+        transparent 0);
+}
+
+
+[[/module]]

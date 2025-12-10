@@ -1,0 +1,60 @@
+[[include :backrooms-wiki-cn:theme:blankcolor]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=unknown
+|lang=cn
+]]
+**Level IF-235**是后室IF层群的第235层。
++ **描述**
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2025/10/05/07/11/candles-9874140_1280.jpg
+|caption=**Level IF-235**被证实的唯一已知图像。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1598039649584-bdd83f8740bf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU5JUJCJTkxJUU2JTlBJTk3JTIwJUU2JTlDJUE4JUU2JTlEJUJGfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=**Level IF-235**的地板表面。
+]]
+**Level IF-235**为一个永远处于黑暗之中黑暗建筑综合体，大小近似于无限。除开层级内自带的可发出光线的设施以外，从其他层级带来的照明设施在此层级内均会失效。
+
+目前我们对于该层级了解甚少，大部分流浪者报告称，该层级处于一个不断移动的传送带装置中，并被传送带之间的链条分成若干个板块，每个板块大小不一。
+
+**Level IF-235**内含有可使用的Wi-Fi，Wi-Fi信号似乎会随着流浪者在层级之中处于的高度而增强，层级内的Wi-Fi极为稳定，几乎不可能出现任何断连的情况。
+
+**Level IF-235**内出现的建筑类型包括古风的中式楼阁、上个世纪末风格的前苏联联排住宅、普通乡村中的小型别墅等，这些房屋内均可找到一些完全可以安全食用的食物，大部分食物为外卖和中放置的快餐。
+
+除此之外，这些房屋内也会放置着一些其他的物品，通常为日用品或家具，目前发现的有以下几种：
+* 梳妆台
+* 洗碗机
+* 洗衣机
+* 衣架
+* 散乱的书籍
+* 画作
+* 艺术雕像
+* 课桌
+* 风扇
+* 沙发
+* 蜡烛
+
+**Level IF-235**的地板材质通常为果木板或白桦木板、这些木板表面尤为光滑；部分地板材质为粗糙的混凝土，表面有时带有一些使用粉笔书写的无意义符号。
++ **基地、前哨与社区**
+暂无
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-31]]]或[[[Level IF-38]]]内进入一个完全黑暗的房间即可来到此层级。
+++++++ 出口
+* 未知
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+水一篇
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-234]]] | Level IF-235 | [[[Level IF-236]]] >>
+[[/=]]
+[[/div]]

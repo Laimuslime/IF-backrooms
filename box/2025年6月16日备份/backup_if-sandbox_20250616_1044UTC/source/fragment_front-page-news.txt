@@ -1,0 +1,60 @@
+[!-- 公告，请不要往正文里放注释。 --]
+[[iftags +段落]]
+[[div style="display: none;"]]
+[[include :backrooms-wiki-cn:fragment:front-page-style]]
+[[/div]]
+[[div_ class="announceContainer"]]
+[[/iftags]]
+
+[!-- 这里是首页上方的公告。 --]
+[!-- {$announce}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+一些新闻，比如站点建交和竞赛
+[[/div]]
+[[div_ class="announcement"]]
+这是另一个
+[[/div]]
+
+[!-- --]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+
+ --]
+
+
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+----
+[[div class="announceContainer"]]
+[[/iftags]]
+
+[!-- {$news}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2024年X月X日**
+一些过时的新闻
+[[/div]]
+[!-- --]
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+[[/iftags]]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+ --]

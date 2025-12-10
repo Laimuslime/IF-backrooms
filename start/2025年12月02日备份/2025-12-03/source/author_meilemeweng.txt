@@ -1,0 +1,19 @@
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=水天一色。
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+你好，我是[[*user Raincoat snow]]。我是一个普通的写手，主要在IF站点活动。写文速度很快，不过普遍质量不算高。但是我会继续加油，努力为网站贡献自己写的比较好的文章。
+
+这是一个很喜欢水的作者，你会发现下面这些拙作中大量出现了有关于水的意象。
+@@@@
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:author-page order=created_at]]
+@@@@
+@@@@
+@@@@

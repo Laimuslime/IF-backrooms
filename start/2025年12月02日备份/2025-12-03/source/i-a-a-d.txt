@@ -1,0 +1,206 @@
+[[include :backrooms-wiki-cn:theme:super-cute]]
+[[module CSS]]
+.printpaper {
+   background-color:rgb(255,255,255);
+   color:rgb(0,0,0);
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(0,11,12,1);
+}
+.weekblock{
+   color: white;
+   background-color: rgb(var(--dark-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: 2px solid rgb(var(--mainAccent));
+   border-left: 8px solid rgb(var(--mainAccent));
+   position: relative;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=I.A.A.D.
+|2=Dragon创建了作者页
+]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div class="with-tess blockquote"]]
+[[=]]
+++ 自我介绍
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[module ListUsers users="."]]
++++ **哈喽，%%title%%！**
+[[/module]]
+[[/=]]
+我是I_am_a_dragon（也叫Dragon Pro），你可以叫我IAAD、Dragon或者DP。是一位18岁的德国人，但现在住在日本，所以我的时区是UTC+9。
+
+我主要写积极类型的文，偶尔也会写点幽默风的。基本不写恐怖类型的文，因为我觉得自己不太擅长营造恐怖氛围。另外，我对这个网站这设定也不太了解。所以此类题材的文也不会写。
+
+另外，我目前还在以ESL学生的身份学习英语。因此导致经常反复使用同一个词汇。且对同义词掌握的不太好，同时我也让我的文略显单调（特别是比较正式/学术的语气写文时）。现在正在尽可能解决这个问题。
+
+最后，我应该说一下“她”是我的代词。
+[[/div]]
+[[div class="with-tess blockquote"]]
+[[=]]
+++ 文章
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Object 55]]] [[/size]]
+[[size 100%]] 亲爱的，请活下去 [[/size]]
+[[module ListPages name="object 55"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/object-50/letter|number=1]]
+##white|这说明了一件事：给你带来痛苦的挣扎和悲伤只不过是一粒沙子，而生命的价值是无尽的沙丘。##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+由[[*user ReyDay]]过绿灯。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Level 308]]] [[/size]]
+[[size 100%]] 生命之力 [[/size]]
+[[module ListPages name="level 308"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/dragon-images/308-3|number=2]]
+##white|旭日再次东升之时，##
+##white|眼前景象无不令人震惊。##
+##white|一片绿洲巍然矗立，##
+##white|如若“不毛之地”上的璀璨玉石！##
+##white|那便是生命之力。##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+参赛作品。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Level 301]]] [[/size]]
+[[size 100%]] 希望之窗 [[/size]]
+[[module ListPages name="level 301"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/rewrite-301/window.png|number=3]]
+##white|不要放弃。希望是让人坚持不懈的灯塔。所以，我希望我们每个人心中都有希望。人类已经生存了几千年，正是因为有了希望，我们今天才得以生存。希望代代相传。人类是不朽的，希望是永恒的！##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+由[[*user ReyDay]]发表许可。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Entity 234]]] [[/size]]
+[[size 100%]] 无谓敌意 [[/size]]
+[[module ListPages name="entity 234"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/dragon-images/234-1|number=4]]
+##white|它们表面上是可怕的后室怪物，实则是人性中的无尽欲望，以及因此产生的无谓敌意的化身。这种实体的来源不是后室，而是我们。##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+由[[*user Liurnia]]过绿灯。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Level 323]]] [[/size]]
+[[size 100%]] 岛屿使用政策 [[/size]]
+[[module ListPages name="level 323"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/dragon-images/323-1|number=5]]
+##white|那帮蠢员工已经拆除了我们的基地，因为它只有95颗星，而且没有人保护它。##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+由[[*user BlueSignet]]发表许可。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Level 510]]] [[/size]]
+[[size 100%]] @@... --- ...@@ [[/size]]
+[[module ListPages name="level 510"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=https://scp-sandbox-3.wikidot.com/local--files/dragon-s-roots2024/picture|number=8]]
+##white|你用鸟喙猛撞墙壁。机械般地。一次又一次，每次都期待着能有什么结果，却每次都落得失望，盼着有人能听见。盼着有人能回应。##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+由[[*user Red_eyes Dragoon]]过绿灯。
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [[[Phenomenon 38]]] [[/size]]
+[[size 100%]] 希望现象 [[/size]]
+[[module ListPages name="phenomenon 38"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=http://scp-sandbox-3.wikidot.com/local--files/dragon-images/38-1|number=9]]
+##white|如果你现在要我解释这个现象，我不太确定该如何解释。我可以给你举个例子：它就像安慰剂效应。只要病人对他所服用的药物的疗效充满信心，他们的症状就更有可能好转。这种效果并非由服用的药物引起，而是基于病人对康复的心理期望。
+##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+参赛作品。
+[[/=]]
+[[/div]]
+[[div class="with-tess blockquote"]]
+[[=]]
+++ 艺术作品
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [https://backrooms-wiki-cn.wikidot.com/art:matrix 矩阵] [[/size]]
+[[module ListPages name="matrix"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=https://backrooms-wiki.wdfiles.com/local--files/art%3Amatrix/matrix.png|number=6]]
+##white|那么，我们要是用手绘来记录Level 12的外观，是不是就能避免这一特殊效应呢？##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[size 200%]] [https://backrooms-wiki-cn.wikidot.com/art:lady-blanche Lady Blanche]（未翻译） [[/size]]
+[[module ListPages name="lady blanche"]]
+##purple|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])
+[[/module]]
+------
+[[include :backrooms-wiki-cn:component:scrollquote image=https://backrooms-wiki.wdfiles.com/local--files/art:lady-blanche/blanche.png|number=7]]
+##white|这个维基上的大部分艺作都是人物绘画，可是我不太擅长这个。但我想试试看:}##
+[[include :backrooms-wiki-cn:component:scrollquote-end]]
+[[/=]]
+[[/div]]
+
+[[div class="with-tess blockquote"]]
+[[=]]
+++ 特别感谢
+[[/=]]
+[[/div]]
+[[div class="lightblock"]]
+[[=]]
+[[*user Error012]]
+[[*user BlueSignet]]
+[[*user ReyDay]]
+[[*user Liurnia]]
+[[*user MisterNemu]]
+[[*user Red_eyes Dragoon]]
+[[*user msluce09]]
+[[*user jan Jejasa]]
+[[*user R0bert de Mar3]]
+[[*user BlueSkiesAbove]]
+[[*user endless_waters]]
+
+这些伙伴为我的文章提供了非常重要的批判。由于我记性不好，如果你觉得自己也应该被列入这份名单，请务必告诉我。
+[[/=]]
+[[/div]]

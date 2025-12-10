@@ -1,0 +1,29 @@
+[[include :此处应该插入版式]]
+
+[[module css]]
+[[/module]]
+[!--同时如果CSS代码位于底下，那么子页面的CSS代码会失效(本人亲测)--]
+[!--以下为子页面链接--]
+[!-- http://r-sandbox-cn.wikidot.com/fragment:wiki-code-guidance#toc6-1 --]
+[!-- http://r-sandbox-cn.wikidot.com/fragment:wiki-code-guidance#toc6-2 --]
+[!-- http://r-sandbox-cn.wikidot.com/fragment:wiki-code-guidance#toc6-3 --]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+所有在子页面上面的部分
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+所有在子页面之下的部分
+
+----
+[[collapsible show="作者信息" hide="关闭"]]
+[[user* 你的维基账号名称]]
+[链接 图片来源]
+[[/collapsible]]
+
+父页面

@@ -1,0 +1,78 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+]]
+**Level IF-227**是后室IF层群的第227层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1682014534049-99b19f46323e?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8JUU5JUFCJTk4JUU1JUIwJTk0JUU1JUE0JUFCJUU3JTkwJTgzJUU1JTlDJUJBfGVufDB8fDB8fHww
+|caption=**Level IF-227**的球场。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1628295926058-afd9f47eba81?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFOSVBQiU5OCVFNSVCMCU5NCVFNSVBNCVBQiVFNyU5MCU4MyVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-227**的另一个区域。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1570206957990-924a778930dd?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFOSVBQiU5OCVFNSVCMCU5NCVFNSVBNCVBQiVFNyU5MCU4MyVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-227**的角落。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1552135044-da7497068e12?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCVFOSVBQiU5OCVFNSVCMCU5NCVFNSVBNCVBQiVFNyU5MCU4MyVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-227**的傍晚。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1626181181329-42b2cfc54583?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fCVFOSVBQiU5OCVFNSVCMCU5NCVFNSVBNCVBQiVFNyU5MCU4MyVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=阴天时的**Level IF-227**。
+]]
+**Level IF-227**为一无限延伸且环境极其优美的标准高尔夫球场。该层级较易进入且层级内极度安全，因此广泛受到后室IF层群内的流浪者欢迎。
+
+**Level IF-227**为一个受到维护的高尔夫球场，其向外无限延伸，不同的景致，如球道、森林、沙坑、水障碍总是柔和地连接在一起。层级外围呈非欧几里得特性，但大部分区域仍是稳定的。
+
+**Level IF-227**的草地总是呈现出翠绿且极其茂盛的状态，其边缘永远平整，仿佛刚刚才经过修剪。草地上有时会出现一些物品，如废弃的球杆、高尔夫球等。
+
+**Level IF-227**大部分时刻总是处于黄昏时段，但有时也会陷入黑暗或是阴雨天气。层级的太阳永不落下，层级的太阳并不刺眼。层级总是有着柔和的光照，夜晚时虽会减少却绝不会消失。层级的阴天虽有乌云，但绝无降雨。
+
+**Level IF-227**中总是有着鸟类的鸣叫，且异常响亮，但在调查过程中并未发现层级中有过任何鸟类生物生活的痕迹。层级自始至终保持着最佳温度，有时，层级中会出现轻柔且凉爽的微风。
+
+**Level IF-227**中似乎存在着类人实体，大部分情况下，流浪者会发现球场边缘多出了几栋类似于住宅楼的建筑。住宅楼里布置极为简单，里面似乎生活着一种人形实体：这些人形实体穿着制服，似乎能听懂流浪者的语言，但不能发出声音。该实体会在流浪者在层级中打球时给予指导，若该实体并无被指示的任务，该实体将会慢慢淡出。
+
+**Level IF-227**中有着大量可供流浪者使用的现有资源，且仍在不断刷新，这也是层级如此受欢迎的原因之一。
+
+**Level IF-227**中的流浪者有时可见层级路径上突然浮现一木质标牌，标牌上标有箭头指示，箭头所指位置为一俱乐部会所。俱乐部中包含诸多设施，内部装修风格极为复古，大部分设施为木质。
+
+**Level IF-227**的俱乐部中最受欢迎的区域为进门处的小吃吧，小吃吧为一些流浪者所运营。小吃吧的冰柜和展示架中总是能凭空出现一些饮料，大部分为冰镇的杏仁水，且层级中的杏仁水似乎包含某种特殊风味。另外一种饮料为层级中独有的柠檬水，被称为“{{Lake Lemon}}”，{{Lake Lemon}}极受欢迎，味道清爽，带有浓厚柠檬味，包含两种酸度与甜度各不相同的变体。{{Lake Lemon}}似乎能够轻微地提振精神，因此也被当做能量饮料使用。除此之外，小吃吧内也包含种类繁杂的各类小吃，大部分是美式风味的三明治和巧克力能量棒，这些食物可正常食用并且可补充体力。
+
+**Level IF-227**的俱乐部的其他区域包含更衣室、球具店与补给站。更衣室内有大量可换的服装，均可正常使用，无任何异常。球具店里陈列着高尔夫球杆和无限量供应的高尔夫球，均为免费供应且质量极佳。补给站通常无人看管，但时不时生成出瓶装水、新鲜水果和防晒霜。
++ **基地、前哨与社区**
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]轻击前哨（E.S.W.）
+* 位于主俱乐部中心会所之内
+* 三名常驻人员
+* 为流浪者提供指引
+* 记录层级信息
+++ The 19th H.C.
+* 50人以上成员
+* 永久居住
+* 自发维护球场
+* 经营小吃吧
+* 极度友好
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-20]]]中发现一片一场翠绿且修剪整齐的草坪并切出即可来到此层级
+++++++ 出口
+* 打出一记完美击球即可来到[[[Level IF-203|梅乐翁]]]
+* 在层级中睡着将会来到[[[Level IF-19]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-226]]] | Level IF-227 | [[[Level IF-228]]] >>
+[[/=]]
+[[/div]]

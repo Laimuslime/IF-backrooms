@@ -1,0 +1,424 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "lavender-theme";
+   --theme-name: "后室观测极点主题";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "后室观测极点";
+   --header-subtitle: "建造与发展";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   /* 浅蓝白色配色方案 */
+   --white-monochrome: 255, 255, 255;
+   --pale-gray-monochrome: 245, 249, 252;
+   --light-gray-monochrome: 200, 220, 240;
+   --gray-monochrome: 180, 200, 220;
+   --black-monochrome: 50, 100, 150;
+   
+   /* 蓝色系配色 */
+   --bright-accent: 100, 180, 255;
+   --medium-accent: 70, 150, 230;
+   --dark-accent: 40, 120, 200;
+   --pale-accent: 200, 230, 255;
+   --alt-accent: 120, 190, 255;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: var(--dark-accent);
+   --visited-link-color: var(--medium-accent);
+   --new-page-color: var(--alt-accent);
+   --hover-link-color: var(--bright-accent);
+ 
+   --rating-module-button-color: var(--medium-accent);
+   --rating-module-text-color: var(--medium-accent);
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem rgba(var(--pale-accent), 0.5);
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ #login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgba(var(--medium-accent), 0.8) !important;
+   color: rgb(var(--white-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgba(var(--pale-accent), 0.7);
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ .lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(var(--dark-accent),.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(var(--bright-accent),1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(var(--black-monochrome),1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+]]
+**Level IF-162**是后室IF层群的第162层。
+[[f>toc]]
++ **描述**
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2021/09/22/08/35/architecture-6646154_1280.jpg
+|caption=从外侧查看的**Level IF-162**，拍摄方法未知。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2014/05/30/18/30/vancouver-358515_1280.jpg
+|caption=**Level IF-162**的大厅。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2014/07/21/19/20/lobby-398845_1280.jpg
+|caption=**Level IF-162**的其中一个特殊变体走廊。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2021/12/18/06/13/hotel-6878057_1280.jpg
+|caption=**Level IF-162**的其中一个客房。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_1280.jpg
+|caption=**Level IF-162**中靠窗的客房。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_1280.jpg
+|caption=**Level IF-162**中的大客房。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2020/12/24/19/08/hotel-room-5858067_1280.jpg
+|caption=**Level IF-162**中客房的床。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_1280.jpg
+|caption=**Level IF-162**中的餐厅。
+]]
+**Level IF-162**类似于一座大型酒店，酒店向各个方向不断延伸，高度接近1km，已勘探的区域大小约为900万km²。在初次进入此层级时，流浪者会发现自己身处于大厅之中，大厅中的装饰风格较为混杂，复古与现代交织在一起，大厅内摆着几张沙发和茶几。
+
+沙发散发着少许皮革气味，表面较为光滑，整体较新。茶几使用木头制作，茶几上摆着几株盆栽，盆栽色彩极为鲜艳。茶几上有时会生成少许报纸和茶具，报纸内容完全随机，语言为流浪者母语。茶具上的花纹极其精美，有着特殊的香气。
+
+**Level IF-162**的大厅极为宽阔，地面映射着楼层，大厅连接着其他重要的区域，大厅中摆放着大量绿植以清新空气。桌椅在大厅之中极为常见，桌椅上摆有装饰品，从生活用品至奢侈品无其不有，这些装饰品可拿走，但无法带出此层级，仅能作观赏作用。大厅是层级中最为核心的区域。
+
+从大厅辐射出的走廊组成了层级的通道，这些走廊呈非欧几里得性质，长宽高会随着处于区域之内的流浪者心理状态发生变化，走廊的墙纸略显陈旧，墙壁上的复古电灯提供照明，存在大量变体：
+* 主走廊：主走廊的空间较宽，地面铺有洁净的地毯，大部分时间通往主要区域。
+
+* 服务走廊：相较于主走廊来说较为狭窄，供层级之中除开流浪者之外的那些实体使用，墙面标有标识，有时会生成一些扫地机器人或服务餐车。
+
+* 紧急通道：这些通道通常设立于显眼之处，标有荧光指示标志，通往消防楼梯或避难区域，这些通道极其宽阔，可通过大量人员，在大型事件发生时为流浪者的首要寻找目标。
+
+* 豪华走廊：豪华走廊是层级之中最罕见的走廊变体，这一类型的走廊装修风格极其复古，吊灯照亮着下方的大理石地板，盆栽整齐排列在走廊一旁，整体呈金色。
+
+走廊两旁分布着无数标有编号的房门，每扇门上都标有四位数的号码，流浪者在入住时务必记住此号码，房门虽会不断变化，但一个号码的房门后通常是一模一样的客房，流浪者在客房之中留下的物品或痕迹也会保留。
+
+客房是**Level IF-162**最主要的构成部分，均勘探，目前已知种类如下：
+* 标准客房：面积40m²，配备一张双人床、一个淋浴间、一台冰箱和一台电视。
+
+* 大客房：面积>80m²，配备客厅、卧室和厨房，独立的卫浴设施，内部安装有一浴缸，其余配置与标准客房无异。
+
+* 主题房间：每个套房都是一个主题，主题不限，内部的装潢往往顺应主题，如星空套房之中的天花板会使用投影仪投影出极其真实的宇宙景象。
+
+需要注意的是，每次流浪者都会进入一个没有其他流浪者的客房，请不要未经允许进入其他流浪者的客房，这可能导致流浪者被警告或是处罚。
+
+层级中有着大量区域，包括小型影院、办公室、购物中心、餐厅、咖啡厅、酒吧、游泳池、游戏厅、图书馆、花店、会议室、医务室、洗衣房、健身房等区域，该层级中也包括小型的农业区与工业区，这使得层级之中的资源可以自给自足，层级中有着大量资源，这些资源为层级自行生产且难以完全消耗。
+
+层级之中的温度似乎在不断变化，直至变化为流浪者的最佳舒适温度，层级中的昼夜循环正常，但下雨或下雪的频率较高。层级中均配备Wifi，流浪者可使用层级之中的Wifi。
++ **行为准则**
+++ 应当
+* 礼貌对待实体
+* 尝试与基地联系
+* 补充物资
+* 记住自己的房间号码
+* 检查层级出入口
+++ 不应
+* 单独而行
+* 伤害实体
+* 破坏物品
+* 接受非服务员提供的食物
+* 在午夜时分探索未知区域
+* 挑衅其他流浪者
+* 进行危险动作
+* 自杀
++ **实体**
+++ 前台
+前台为一人行实体，身着黑色制服，长相模糊，可使用流浪者的母语与其他流浪者相交流，前台可以解决流浪者的大部分需求，无法解决时前台会表示十分抱歉，前台不需要休息，所有前台个体都分布在层级的各个区域，前台可以为流浪者导航，必要时会跟随流浪者，前台有着大量钥匙，这些钥匙可以用于打开层级酒店房间的房门。
+++ 清洁工
+清洁工为一身着蓝色工作服，面部特征模糊的人性实体，清洁工总是在层级中进行清洁工作，效率极高，出行时间始终与大部分流浪者相反。清洁工无法说话，也无法理解流浪者的语言，但清洁工可以理解流浪者的肢体动作，有时会尝试与流浪者交流。
+++ 厨师
+厨师为一带着白色高帽的肥胖人形实体，面部特征近乎消失，虽身材肥胖但行动敏捷，移动速度较快，在层级之中的厨房进行工作，擅长烹饪，乐于交流，有时会发明新菜式供流浪者品尝。
+++ 保安
+保安身材高大，极其健壮，身着黑色制服，负责维护层级之中的秩序，致力于阻止层级之中的冲突发生，移动速度极快，且出行时间极其不稳定。
++ **历史**
+**Level IF-162**的记录在千禧年之前还从未存在，2001年时**Level IF-162**的一张照片突然泄露，发布者未知，但发布者提供了层级的入口，但其入口在2018年时才被证实。2018年，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]中的一个小组发现了此层级，将此层级的档案与图片上传于档案库之中，并与其他团体合作[[footnote]]不包括[https://backrooms-wiki-cn.wikidot.com/the-u-e-c U.E.C.][[/footnote]]探索了层级之中的环境。2020年，[https://backrooms-wiki-cn.wikidot.com/b-n-t-g B.N.T.G.]在层级之中建立了第一个永久基地，随后，层级陆续增加了20余个主要基地，所有基地之间共享资源，设立规则，共同开发层级。2021年，层级之中突然爆发暴乱，层级因此被封锁消息4年，直到2025年暴乱的解除。
++ **事件**
+++ 2021.11.17 失踪楼层
+这一天，层级中的17楼层彻底消失，关于所有对于17层的描述也消失，正处于17层的流浪者都被传送到了16层或18层，流浪者通过16层可直抵18层，仿佛17层从未存在，在事件发生的48小时之后，17层重新出现，但所有装饰都焕然一新，目前推测，这可能是层级的自更新事件。
+++ 附注
+若流浪者在层级之中发现新的事件，流浪者可仿照以上格式添加于下方，所有事件都是值得探究的，那些无意义的事件终究会消失在层级的历史之中。
++ **基地、前哨与社区**
+++ 常驻地社区
+常驻地社区里包括那些长居住于此的流浪者，这些流浪者大多选择在层级中度过余生，常驻地社区内有着独创的节日，每当节日到达时社区内的流浪者们都会举办大型派对，常驻地社区对所有流浪者都开放且极其友好。常驻地社区的范围通常较为分散，但各自有着联系。
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]门廊基地
+门廊基地是第二个于层级之中建立的基地，[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]致力于探索层级中所有的未知区域，他们也负责保护其他流浪者的安全，门廊基地与绝大多数基地建交，且在层级中被视作典范，门廊基地虽加入成员较为困难，但流浪者还是可进入其基地内。
+++ [https://backrooms-wiki-cn.wikidot.com/b-n-t-g B.N.T.G.]永久贸易基地
+永久贸易基地是层级之内第一个建立的基地，基地欢迎任何友好的贸易，同时基地也为流浪者无偿提供少量物资，永久贸易基地内的居住区较少，大部分都是办公室，永久贸易基地的范围较大，且已经在层级的各个位置建立了小型前哨。
+++ [https://backrooms-wiki-cn.wikidot.com/the-u-e-c U.E.C.]无垠基地
+无垠基地与大部分基地敌对，其通常是充满敌意的，若流浪者属于[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]请远离此基地，[https://backrooms-wiki-cn.wikidot.com/the-u-e-c U.E.C.]试图在层级之中建立稳定的殖民地并拉拢一些流浪者，目前成员较少但占领范围相对较大。无垠基地内的规则极严，若流浪者没有遵守规矩则可能遭到驱赶，不推荐流浪者加入此基地。
+++ [https://backrooms-wiki-cn.wikidot.com/backrooms-remodeling-co 后室装修公司]试验改造基地
+我们现在还在改造层级的一些区域：]，目前你可以看到一些区域已经被我们整理地井井有条了，现在你完全可以看到内部安全且舒适的环境，我们希望这能让你开兴点，同时也不那么失败，让这里成为一个成功的作品。
+++ [https://backrooms-wiki-cn.wikidot.com/the-e-p-b E.B.P.]酒店研究基地
+酒店研究基地中的人员较少，大多为档案部人员，酒店研究基地的占领区域极小，不到门廊基地的¼，但基地仍然保持着秩序，酒店研究基地极其友好，内部的成员会欢迎远到而来的流浪者。
+++ [https://backrooms-wiki-cn.wikidot.com/speednoclippers 速切玩家]途径点前哨
+呃，这里最初只被我们当做一个普普通通的途径点，直到我们的一些成员留在这里，这里差不多成为了一个类似于中转站的地方，你每天都能看见一堆人切入切出，不过我们还是在这里说，我们欢迎其他流浪者的到来。
+++ [[[Level IF-199|B.O.P.]]]辐射性发展基地
+[[[Level IF-199|B.O.P.]]]最近的探索变得极为频繁，虽然影响力还不能与那些主要团体相比，但已经开始了有条不紊的发展工作，目前基地的计划是辐射性地向外扩张，且不干扰其他的基地和流浪者。
+++ 绝对混乱前哨
+绝对混乱大多成员来自于那场暴乱中，暴乱被阻止后，一些心怀不满的成员建立了此前哨并准备发起新一次的暴乱，该前哨极其危险，里面的成员大多都具有十分强烈的攻击性，若你看到了绝对混乱前哨的所在地点，请务必报告，目前绝对混乱前哨的地点仍然未知，这无疑是十分有威胁性的。
++ **入口与出口**
+++++++ 入口
+* 于[[[Level IF-3]]]、[[[Level IF-26]]]、[[[Level IF-97]]]中发现一张毛毯并睡在上面即可来到此层级
+* 在[[[Level IF-4]]]、[[[Level IF-7]]]、[[[Level IF-94]]]、[[[Level IF-149]]]中发现一扇白色的门并打开即可来到此层级
+++++++ 出口
+* 在层级中直接切出将会抵达[[[Level IF-5]]]
+* 喝喷泉的水会来到[[[Level IF-10]]]
+* 偷东西会来到[[[Level IF-11]]]
+* 以任何方式坠落会来到[[[Level IF-19]]]
+* 若流浪者询问，“前台”会把流浪者带去流浪者想要去的层级
+* 在层级中掉出窗户会来到[[[Level IF-37]]]
+* 层级中标有“103”的门可进入[[[Level IF-103]]]
+* 在层级中窒息即可来到[[[Level IF-171]]]
+* 对一堵白墙切出会来到[[[Level IF-199]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-161]]] | Level IF-162 | [[[Level IF-163]]] >>
+[[/=]]
+[[/div]]

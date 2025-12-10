@@ -1,0 +1,42 @@
+[[div class="lightblock"]]
+[[html]]
+<html>
+<head>
+  <title>网站运行时间</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    h4 {
+      color: #333;
+    }
+
+    #timer {
+      font-size: 17px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h4>网站已运行</h4>
+  <div id="timer"></div>
+
+  <script>
+    var startDate = new Date("2025-03-17T00:00:00");
+    function updateTimer() {
+      var currentDate = new Date();
+      var timeDifference = currentDate - startDate;
+      var days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+document.getElementById("timer").innerHTML = days + " 天, " + hours + " 小时, " + minutes + " 分钟, " + seconds + " 秒";
+    }
+    setInterval(updateTimer, 1000);
+  </script>
+</body>
+</html>
+[[/html]]
+[[/div]]

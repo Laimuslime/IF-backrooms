@@ -1,0 +1,582 @@
+[[div]]
+[[div class="style-block warning"]]
++ 重要说明
+本站规中的内容基于后室中文维基的站规且根据网站实际情况有所修订，站务组保留对站规内容的全部解释权，若存在异议应以站务组解释为基准。
+
+以下规则中的特定条例，例如针对歧视性言论和不当政治讨论的处理等，可从本站延伸至本站运营的官方QQ群聊、官方哔哩哔哩弹幕视频网账号等场所，亦可由上述场所延伸至本站。
+[[/div]]
+
+[[div class="style-block"]]
++ 给新成员的特别提示
+
+如果你是在撰写申请书时第一次打开这个页面的话，那么请务必耐心且认真地通读阅读全文内容。如果你在入站后的短时间内违反了任意站规的话，那么你将受到最低为**移除成员资格**的处分。
+
+以下是一些常见于新成员的违规行为，在此列出以作警示：
+[[div class="quote-block"]]
+* **发布空白/草稿页面。** 请去[https://if-sandbox.wikidot.com/ 沙盒站]进行创作和测试，你可以在侧栏找到它的入口。
+* **擅自修改他人文章。** 包括为他人的页面添加出入口，按照自己的理解和想法修改他人页面的排版、描述或配图，在未参照原文的情况下修改翻译页面，随意回退页面历史版本等。
+* **发表迷惑言论。** 如果你不确定某个场合是否适合开玩笑或宣泄情绪，那么保持严肃和冷静总是最好的选择。
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
++ 社区规则
+
+[[div class="quote-block"]]
+**注意：**以下规则中的特定条例，例如针对歧视性言论和不当政治讨论的处理等，可从本站延伸至本站的官方QQ、官方哔哩哔哩弹幕视频网账号等场所，亦可由上述场所延伸至本站。
+[[/div]]
+
+++ 1.社群规范
+站点成员应遵循以下基本的行为规范，相关政策：[[[anti-harassment-policy|反骚扰政策]]]。
+
+[[div style="margin-left: 1em;"]]
++++ 1.1.年龄要求
+* 加入网站的最低年龄限制是 **10** 周岁，低于规定年龄的用户仍然可以阅读网站上的文章。10 周岁是我们的年龄底线，若发现你进站年龄未满 10 周岁，则你将被封禁至年龄达到 10 周岁为止。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 1.2.尊重他人
+* 必须尊重社区内的所有成员。提出反对意见或观点没问题，前提是必须保持礼貌。过于偏激、意图人身攻击，歧视他人者将会予以处分。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 1.3.关于对其他社群的攻击行为
+* 以 The Backrooms IF 的名义对另一个社群或站点的攻击是严令禁止的。特别是当你在其他 Backrooms 相关网站内（如[http://backrooms-wiki.wikidot.com/ 英文维基]或 Fandom 维基，无论是否宣称自己代表本网站）对其网站用户或网站本身进行攻击、言语辱骂或是其他恶劣行为时，你将会受到本站的处罚，视情节性质从警告至永久封禁。
+[[/div]]
+
+++ 2.内容规范
+成员发送或编辑帖文和页面时，应遵守这些条例，相关政策：[[[content-policy|内容政策]]]。
+
+[[div style="margin-left: 1em;"]]
++++ 2.1.关于简体中文与繁體中文
+* 本站同时接受简/繁两种形式的投稿和发帖，任何成员都不得因为语言差异而对相关语言使用群体提出质疑甚至歧视。我们是 The Backrooms IF 中文维基，不是简中维基。屡教不改者将会受到站务的着重处罚。特别地，不鼓励成员在本站完全使用他种语言发帖。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 2.2.编辑
+* 你可以随时合规修改属于自己的帖文和页面。如因为更新或网络问题出错而误发了页面或帖文，请及时使用编辑功能补救。特别的，在发帖时如果仅表示更新或补充内容，应编辑更新而非直接重复发帖。
+
+* 你只能对本站内其他人发布的文章进行非常细微的修改，如修复错误的超链接或错别字（进行这种编辑时，需要在编辑注释栏内予以说明）。翻译页面应以原页面的实际内容为准。如果认为一个页面需要修改，应经过发布者或站务团队同意许可后才可编辑。
+* 含“**合作**”标签的**原创**页面即为合作页面，可添加对应的可合作内容。不过，页面创建者和站务团队有权删除他们认为页面里不适合出现的内容。
+
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 2.3.特别内容
+* 由于本网站的性质，部分成人内容和血腥内容是被允许存在的，但不提倡在页面内刻意表现大量的非必要成人内容，也不应在面向全站的讨论串发布直接的成人内容。成人内容页面使用“成人内容”标签特别标记以区分。
+* 出于国内网络的实际情况，与维护网站风气等因素考虑，发表政治言论、在作品里涉及政治是不被提倡的。发送涉及敏感事件，或时政要闻高度相关的内容将受到处罚。
+* 我们无权干涉用户的思想政治倾向，但严禁在网站内发表宣扬或支持极端反动性质、法西斯主义、种族主义、恐怖主义与其他违背公序良俗和普世价值观要求的政治言论与文章。包括但不限于支持或表现出对纳粹与法西斯主义的同情、宣扬种族歧视与仇视、带有主观恶意色彩地对国际人道主义灾难开玩笑的行为等。涉及有关内容文章将被勒令限期整改或删除，涉事用户则将受到警告至封禁不等的处分。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 2.4.站点版权协议
+* 本站不遵守 [http://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] 协议。在原创页面内使用的各类素材都无必须遵循 CC BY-SA 3.0或相关兼容协议，这意味着可以使用任何有版权或无来源的素材。
+[[/div]]
+
+
+++ 3.评分守则
+成员对页面进行评分互动时，应遵守评分守则，相关政策：[[[deletions-policy|删除政策]]]。
+[[div style="margin-left: 1em;"]]
++++ 3.1.尊重并认真评分
+* 评分应该仅出于文章本身的综合质量，因文章本身质量以外的原因而评分是不允许的，例如所谓“拯救待删除页面”等。投票者可以选择不对评分做出任何解释，但主动声称因质量外原因评分可能招致处分。任何拉帮结派，或试图让大量的用户对一篇文章进行 upvote/downvote 的行为都是不允许的。在翻译作品上，评分应该针对译文翻译质量，而非原文内容。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
++++ 3.2.关于自我投票
+* 本站允许作者对自己的文章进行 upvote/downvote，但作品的删除线会因作者的自我投票而相应浮动。另外，读者也有权质疑进行自评分的作者是否是基于文章质量给出的评分，并给出合适的理由来佐证自己的观点。同样，作者回应自评分的理由时也应当给出合理的解释。
+
+[[/div]]
+[[/div]]
+
+[[=]]
+@@ @@
+**{{* * *}}**
+@@ @@
+[[/=]]
+
+[[div class="style-block"]]
++ 处分规则
+
+违反以上社区规则将招致处分，处分内容由职员根据具体情况决定；所采取的行动将基于违反的规则和用户过去的行为。所有的警告与封禁处罚都将被记录在本站的处分记录处，可供成员查询。站务一般会在讨论区/论坛帖子中发布处分帖文，也可能通过站内私信等方式告知违规用户受到处分。
+
+处分共分为五档级别：{{警告、严重警告、移除成员资格、封禁、永久封禁}}。此外，还有非处分、但同样带有警示意味的{{提醒}}。五档处分以及{{提醒}}均分别计数，且一经记录便不再移除。因此，我们诚挚建议你不要抱着“试试也无所谓”的心态违反站规。
+@@ @@
+
+++ 提醒
+这并非一种处罚，通常适用于行为不符合某些指导的规范，或是轻微违规但影响小，站务认定不必处分的情况。它们通常包括：
+
+[[div class="quote-block"]]
+* **在讨论区随意使用大号标题字体。** 大号字体会在[[[*forum:recent-posts|最近的帖子列表]]]中占用大量版面，给查看新回帖的其他成员带来困扰。如果你确实需要在你的帖子中使用标题，那么请尽量使用四级及以上的标题（即至少 4 个加号“{{++++}}”）。
+* **挖坟。** 也就是回复过早的讨论串。大多数帖子的讨论内容都有很强的时效性，太久之后的回帖通常不再有意义，甚至还会误导其他网站成员。通常来说，如果一个讨论串在一个月内都没有新的回帖，那么它就会被视为“坟帖”，请不要再回复新的帖子。不过，唯一的例外是“单页讨论”（即点击每个页面底部的“讨论”按钮后打开的讨论串），你可以放心回复这里的帖子。
+[[/div]]
+
+这些情况下，站务会发送“职员帖：提醒”来提醒用户及时修正行为或作出相应措施。当工作人员发布提醒帖并说明“好了，别再这样做了，下不为例。”等善意的提示时，你最好听他的。累积受到3次提醒或是提醒后仍不改正者会受到1次警告处分，请不要无视站务或成员的提醒。
+
+@@ @@
+
+++ 警告
+
+这通常是惩罚的最主要手段。受到**警告**将使你的警告计数 **+1**，受到**严重警告**则使你的警告计数 **+2**。如果警告计数达到 3 及以上，就有可能招致最高为移除成员资格的处分。达到 5 以上，就有可能招致最高封禁的处分。
+以下行为都会让你受到警告：
+
+[[div class="quote-block"]]
+**不当编辑。**这包括了：
+* **发布空白/草稿页面。** 即发布完全无内容、无意义；或完成度极低，如仅含有生存难度模块、版式的代码；或明显将网站作为沙盒，内容胡乱的页面。如仅是误操作，可及时通过页面右下角的+ 选项，删除按钮，再直接点击重新命名/移动即可将其移入deleted:分类——这种情况下不会受到处分。但如果不做处理，或者仍多次发布此类页面，则会受到警告。
+* **擅自更改标签。**如擅自移除和添加站务专用的“待删除”“_cc”等标签，或胡乱修改他人的页面标签都会受到警告处分。
+
+* **擅自修改他人文章。**任何在未经允许的情况下，对他人文章做出除修正语法错误、错字、非作者有意为之的代码错误外的其他编辑行为都将受到警告处分，同理，若对翻译文章进行了影响内容的编辑，且并非因为原文更新，同样会招致警告处分。过于恶劣的编辑行为（如清空页面）将会被视为破坏网站。
+* **抢编辑。**若你想要修改某个并非由自己发布的页面，请先确认页面编辑锁定已经解除。Wikidot 编辑器提供了 15 分钟的页面编辑锁定，若你发现页面正在被他人编辑时，请不要擅自更改，也不要随意移除页面锁定。如果因为你移除他人页面锁定而导致他人编辑丢失/失效并因此被举报，你将会受到警告处分。
+* **占用翻译页面。**本站页面可大致分为原创和翻译页面，成员在发布页面时应特别注意页面URL。如果希望撰写属于自己的原创作品，则应规范发布在原创的URL下。若发布的原创作品占用了本应属于特定翻译页面的URL，例如"level-xx"等，则会给予警告处分。
+[[/div]]
+[[div class="quote-block"]]
+**发表不当言论。**这包括了：
+* **钓鱼。**即通过某种手段达到哗众取宠的目的，并于事后取笑其他人对此的反应的行为。钓鱼行为和无法与钓鱼区分开的类似行为都会导致警告处分。
+* **发表迷惑言论。**迷惑言论的定义是在讨论区内发表令人费解的，或与讨论毫不相关的言论（如不分场合的玩烂梗或毫无由来的负面言论）。如果你想开个玩笑，那么你必须要能让别人意识到你在开玩笑。
+* **水帖和洗版。**以增长Karma，讨论完全无关内容，或其他无意义行为为目的而进行的水帖行为会被警告。短时间重复发布非常相似，或完全一致的页面也会视情节给出警告。
+* **骚扰或攻击（辱骂等）他人。**在任何情况下，本站内都不允许有骚扰或言论上的人身攻击行为发生。如果你觉得某个用户正在骚扰/攻击你，请联系工作人员。特别地，在某篇文章的讨论区中公然羞辱文章作者的行为亦会招致从警告起步的处分，无论你所不当评论的文章本身的质量如何。例如，阴阳怪气者也是警告处分的对象。此外，在极端情况下，用户可能会因为在站外的骚扰/攻击行为而被封禁。
+* **错误回复职员帖。**只有被标记为“职员帖：开放/提醒”的职员帖才是被允许回复或进行讨论的，在其他职员帖下你只能进行三种回复——在“职员帖：删除宣告”下申请重写/授权他人重写、对工作人员发表的处罚或对其他宣告进行合理质疑、对来源要求等类型职员帖进行回复表示页面已修正。
+* **擅自发布职员帖。**你不应当模仿网站工作人员进行发帖，如将自己的帖文标题命名为“职员帖：xx”的格式，这将会受到警告处分。值得一提的是，虽然工作人员在宣告删除某些页面时会使用计时器，但计时器并不是工作人员专用的（换言之，你可以随意使用计时器，只要不违反此规定即可）。
+* **就简体与繁体问题对用户进行攻击。**参考上文，任何就汉字繁简体进行攻击的行为都将受到警告处分。
+* **时政内容和政治攻击。**在网站内发布有关政治的言论是不被提倡的，同时也不要试图在网站内就他人的政治、宗教等信仰或思想理念进行攻击，这是非常令人不适的行为。在发帖和页面中直接涉及敏感的时政事件、政治内容和政治主张的行为将会受到警告。
+[[/div]]
+[[div class="quote-block"]]
+**拉票。**网站不允许用户以任何形式引导他人进行评分（包括upvote和downvote），意图操纵他人评分将会受到警告处分。
+
+**恶意downvote。**网站不允许除文章质量之外的理由进行评分，如果你对页面进行了某种并非针对文章本身质量而是带有主观恶意的downvote，工作人员会要求你限期内撤回这些评分，并视情节严重程度给予警告或严重警告处分。在竞赛期间，恶意downvote将不被计入成绩，同时，若恶意downvote规模十分严重或造成极为恶劣的影响，工作人员将按照恶意控分/试图操纵竞赛对涉事用户进行封禁处理。
+[[ul style="margin: 0;"]][[li class="folded"]]
+[[div_ class="foldable-list-container"]]
+[# 请通读站规，并在理解要求之后再点击这里的这段文字。]
+[[/div]]
+[[div_ style="margin: 0;"]]
+@<&nbsp;>@
+[[/div]][[/li]][[/ul]]
+
+**泄露暗号。**如果你是通过检索“暗号”两字找到这里的，请好好反省一下自己并且再去仔细找，没那么容易。进入站点要求完整正确地将藏在本文中的暗号附在你的申请书里，在站点的讨论区、发表的页面中蓄意泄露暗号的，将被全帖/全文删除并对发布者处以警告处分。在站点以外的地方，如后室相关的非官方QQ群，哔哩哔哩弹幕视频网的评论区等地泄露暗号，调查后认定属实的，亦将处以警告处分。必要时会紧急更换暗号。另外，因泄露行径造成其他严重后果（如大量引流等）的将受上至封禁的连带处分。同样的，泄露申请书答案等行为一经查实也会招致处分。
+
+**占位。**本站严禁占位，若发现有谁占位，则占位者被警告一次。
+[[/div]]
+++ 移除成员资格
+这是一个更严重的警告。违规用户可以随时重新申请。这通常适用于以下情况：被警告后不听劝阻，忽略了所有警告并继续违规。
+[[div class="quote-block"]]
+**累计3次被警告。**累计3次违规并被警告将导致移除成员资格处理。
+
+**将账号出借给他人。**若有确凿证据证实当事人存在出借自己的账号的行为，站务将直接移除涉事账号的成员资格。
+
+**故意提交虚假伪造的举报或证据。**任何作伪证的行为一旦被证实，将直接移除涉事账号的成员资格，并根据影响程度与情节轻重给予或不给予一段时间的封禁处分。
+[[/div]]
+++ 封禁
+范围从封禁1周到永久封禁。适用于严重违规，带有明显恶意或偏激行为的情况下作为最终措施。封禁是工作人员对于一些严重恶劣的行为或用户进行的最终警告，被封禁的用户在封禁期限内无法再次申请加入网站。如果你有以下行为，你将受到封禁处罚：
+[[div class="quote-block"]]
+**多次被移除成员资格。**若你因多次违反站规而被给予移除成员资格处分，工作人员将考虑进行封禁处理。同样的，若你已多次受到短期封禁处罚，工作人员亦会考虑将你永久封禁。
+
+**歧视性发言和偏激行为。**发表种族主义等歧视性用语与发表宣扬支持纳粹/法西斯主义、恐怖主义/反人类或反社会言论是严重违反社群守则的行为，将会导致封禁一周的处罚。
+
+**谎报年龄。**若用户被发现真实年龄未满10周岁，则他将被封禁直至满足年龄要求。另外，所有成员都应有与10周岁相称的行为，明显表现低龄、无视规则、出现屡次屡犯违规行为等会引起特别注意，并可能会依据此前情况，给予更重的处分。
+
+@@ @@
+**抄袭。**任何试图将他人的作品或想法当作自己的作品或想法的行为都是禁止的，且会视情节给予封禁一个月到永久封禁的处分。将从某处获得的灵感写进你自己的作品中是被允许的，但对任何文本或文章有关要素的直接抄袭绝对禁止。
+
+**人肉/开盒。**对网站用户进行人肉/开盒攻击是极为严重的骚扰行为，一旦确认，任何进行人肉的用户都将被永久封禁。同样地，帮助他人进行人肉、对人肉行为进行拱火或嘲讽受害者的用户将被封禁一个月。
+
+**冒充他人。**冒用他人身份是严重的侵权和欺骗行为。任何擅自使用他人的身份信息创建账号，或试图让别人相信自己账号的使用者为其他人的用户，一经发现，都将被永久封禁。
+
+**账号分身/开小号。**任何试图绕过封禁的行为都会导致封禁延期。此外，出于任何目的创建分身帐号并加入本站的行为都是禁止的。一经发现，将会受到封禁一个月的处罚，同时小号将被永久封禁。如果出现了特殊情况，如原账号被盗或无法找回，请及时联系管理团队更换活跃账号。
+
+**破坏页面/网站。**诸如清空他人页面内容、肆意修改中心类页面等行为将被视为恶意破坏网站，这种行为将会导致封禁至少一个月的处罚。
+[[ul style="margin: 0;" role="listitem"]][[li class="folded"]]
+[[div_ class="foldable-list-container"]]
+[# 请通读站规，并在理解要求之后再点击这里的这段文字。]
+[[/div]]
+[[div_ style="margin: 0;"]]
+@<&nbsp;>@
+[[/div]][[/li]][[/ul]]
+
+**恶意控分/试图操纵竞赛。**极为严重的恶意评分（不论是拉up还是拉down）事件将被视为进行恶意控分操作，特别是在竞赛（非竞赛文章亦是）当中以各种形式试图操纵评分是严重违反站规的。若有该行为，你将被处以永久封禁。
+[[/div]]
+
+如果你被封禁，说明你很可能犯下了很严重的错误，以至于我们需要通过这种手段给予严厉惩戒（年龄问题除外）。因此，如果你被封禁后依旧想要发表文章，则只能联系 [[*user IF_Bot]] 代发文章，但不得在上述代发文章中：
+# 以其在用或曾用的Wikidot名署名；
+# 以其在站内的常用昵称署名（由职员判定）；
+# 通过私讯、群聊等渠道，或指使他人通过上述渠道透露文章作者（由职员查证是否属实）。
+封禁期满后，允许作者补上署名。
+[[/div]]
+
+[[=]]
+@@ @@
+**{{* * *}}**
+@@ @@
+[[/=]]
+
+[[div class="style-block"]]
++ 职员帖
+站点职员会使用职员帖进行部分管理。相关政策也可参阅[[[meet-the-staff|会见职员]]]。
+[[div style="margin-left: 1em;"]]
+++ 1.**开放职员帖**
+* 以下职员帖一般允许回复，但仍不应回帖闲聊。
+* **职员帖：提醒** 提醒不至于警告的轻微成员不当行为。
+* **职员帖：开放** 一般为给出某项需说明的更新或预告。
+[[/div]]
+
+[[div style="margin-left: 1em;"]]
+++ 2. **非开放职员帖**
+* 以下职员帖一般不允许回复，除非帖文本身有说明、需举证质疑或请求更新。
+* **职员帖：警告/移除成员资格/封禁** 对成员不当行为给出相应处分。
+* **职员帖：锁帖** 某讨论串下发生较剧烈的争执时，令某一楼层的双方立刻停止争吵行为；回复某一讨论串下明显离题/不当的帖文；标记某一讨论串为锁定状态，不允许继续回复。
+* **职员帖：修改说明** 撤下不合规素材。
+* **职员帖：限期修改** 要求撤下不合规素材。
+* **职员帖：来源要求** 要求给出正确的素材来源。
+* **职员帖：删除宣告** 页面的分数跌至删除线以下，进入待删除状态。
+[[/div]]
+[[/div]]
+
+[[=]]
+@@@@
+**{{* * *}}**
+@@ @@
+[[/=]]
+
+[[div class="style-block"]]
++ 常见问题
+**我认为这个警告并不合理，我希望将它撤回，怎么反映？**
+如果你认为工作人员对你或者其他人做出的警告处罚是错误的，或者这件事另有隐情，你可以在宣布该处罚的职员帖下进行回复。附上你的理由与证据，工作人员会做出回复与相应措施。
+对工作人员的宣告进行合理质疑是被允许的，质疑范围也包括工作人员所发布的其他职员宣告，如宣布对某项政策进行更新。但请确保质疑的合理性和证据的充分性，否则同样会受到警告处分。
+
+**我被封禁了，这不公平，我觉得我没错！**
+如果你觉得你被错误地封禁了，或者你认为应该再给你一次机会，请前往[http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4yaEkXFbIDJrmCsV5Qvu-3o_wsso4_VQ&authKey=%2BZQz9paZ7ZCzoeyj3Z2huq7tAehWwfCrHVdsKVpDnnF4R1ooJGm91UyvhFNHo8UD&noverify=0&group_code=901608556 官方QQ]私信管理或通过Wikidot私信工作人员以便进行申诉。在申诉过程中，你应该解释为什么你认为你应该被解禁（并提供相应的证据，如果需要的话），工作人员将决定你的封禁时段是否会被缩短以及在再次申诉之前你需要等待多长时间。
+
+**被永久封禁之后就完全没有余地了吗？可我还想在网站内活动，我可以开小号吗？**
+通常而言，工作人员不会随意做出永久封禁的处罚，除非你的行为对社区造成了严重恶劣影响。但这种处罚并非是毫无回旋余地的，你可以按上述方法进行申诉，若申诉通过，你的封禁期限将被适当缩短。
+
+**我认为某个/些成员的行为令人反感但不在站规的处罚范围内，要怎么办？**
+你可以通过向站务发送wikidot私信或QQ私信等方式向站务检举。检举时必须附带足够可信的证据、理由以及你希望站务对被检举人做出的处罚手段，这些将作为站务的评判依据并有可能在站内予以公示（当然，检举人身份信息不会予以透露）。站务收到检举后会予以评判并会在三个工作日内作出回应。
+[[/div]]
+[[/div]]
+
+[[module css]]
+:root {
+    --body-font: "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+}
+
+#page-content > p:first-of-type + div {
+    display: none;
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block p {
+    margin-top: 0.5em;
+}
+
+div.style-block h1 {
+    margin: var(--base-font-size) 0;
+    text-align: center;
+}
+
+div.style-block h2,
+div.style-block h3 {
+    display: flex;
+    margin: 1em 0 0;
+    align-items: flex-start;
+}
+
+div.style-block h2 span,
+div.style-block h3 span {
+    margin: 0;
+    --wght: 700;
+    font-size: var(--base-font-size);
+    font-family: Recursive, "Noto Sans SC";
+}
+
+div.style-block h2::after,
+div.style-block h3::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.75em;
+    border-bottom: 1.5px solid rgb(var(--white-monochrome));
+}
+
+div.style-block ul {
+    margin: 0.5em 0 2em;
+    padding-left: 0;
+}
+
+div.style-block > ul:last-of-type {
+    margin-bottom: 0;
+}
+
+div.style-block ul li:not(.folded, .unfolded) {
+    margin-bottom: 1em;
+}
+
+div.style-block ul li.folded,
+div.style-block ul li.unfolded {
+    margin-bottom: 0 !important;
+}
+
+div.style-block ul li::marker {
+    font-size: 0;
+}
+
+div.style-block div.quote-block {
+    background: rgb(var(--white-monochrome));
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block div.quote-block p {
+    margin: 1em 0;
+}
+
+div.style-block div.quote-block ul {
+    margin: 1em 0 1em 1.5em;
+    list-style-type: disc;
+}
+
+div.style-block div.quote-block ul li::marker {
+    font-size: 1em;
+}
+
+div.style-block.warning {
+    background-color: #fddedd;
+    padding: 1px 1em;
+}
+
+div.style-block.warning h1 {
+    color: #ff2d2d;
+}
+
+#page-title, div.footnotes-footer { display: none }
+
+@media only screen and (max-width: 768px) {
+    div.style-block h2 span,
+    div.style-block h3 span {
+        font-size: calc(0.9 * var(--base-font-size));
+    }
+}
+[[/module]]
+[[module css]]
+:root {
+    --body-font: "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block p {
+    margin-top: 0.5em;
+}
+
+div.style-block h1 {
+    margin: var(--base-font-size) 0;
+    text-align: center;
+}
+
+div.style-block h2,
+div.style-block h3 {
+    display: flex;
+    margin: 1em 0 0;
+    align-items: flex-start;
+}
+
+div.style-block h2 span,
+div.style-block h3 span {
+    margin: 0;
+    --wght: 700;
+    font-size: var(--base-font-size);
+    font-family: Recursive, "Noto Sans SC";
+}
+
+div.style-block h2::after,
+div.style-block h3::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.75em;
+    border-bottom: 1.5px solid rgb(var(--white-monochrome));
+}
+
+div.style-block ul{
+    margin: 0.5em 0 2em;
+    padding-left: 0;
+}
+
+div.style-block > ul:last-of-type,
+div[style="margin-left: 1em;"] > ul:last-of-type {
+    margin-bottom: 0;
+}
+
+div.style-block ul li {
+    margin-bottom: 1em;
+}
+
+div.style-block ul li.folded,
+div.style-block ul li.unfolded,
+div[style="margin-left: 1em;"] ul li.folded,
+div[style="margin-left: 1em;"] ul li.folded,
+div[style="margin-left: 1em;"] ul li ul li.folded,
+div[style="margin-left: 1em;"] ul li ul li.folded{
+    margin-bottom: 0 !important;
+    color: black;
+}
+
+div.style-block ul li::marker {
+    font-size: 0;
+}
+
+div.style-block div.quote-block {
+    background: rgb(var(--white-monochrome));
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block div.quote-block p {
+    margin: 1em 0;
+}
+
+div.style-block div.quote-block ul {
+    margin: 1em 0 1em 1.5em;
+    list-style-type: disc;
+}
+
+
+
+div.style-block div.quote-block ul li::marker {
+    font-size: 1em;
+}
+
+#page-title, div.footnotes-footer { display: none }
+
+@media only screen and (max-width: 768px) {
+    div.style-block h2 span,
+    div.style-block h3 span {
+        font-size: calc(0.9 * var(--base-font-size));
+    }
+}
+
+body div#page-options-bottom a#history-button,
+body div#page-options-bottom-2 a#view-source-button,
+body div#action-area form#history-form-1,
+body div#action-area div.page-source {
+    display: none !important;
+}
+
+ul[style="margin: 0;"],
+ul[style="margin: 0;"] li {
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+ul[style="margin: 0;"] li div.foldable-list-container a {
+    color: black;
+    color: rgb(var(--swatch-text-general));
+    text-decoration: none !important;
+    cursor: text;
+}
+
+ul[style="margin: 0;"] .folded div[style="margin: 0;"] {
+    display: none;
+}
+
+ul[style="margin: 0;"] .unfolded div[style="margin: 0;"] {
+    display: inline-flex;
+}
+
+ul[style="margin: 0;"] .unfolded div:first-of-type {
+    display: none;
+}
+
+
+
+ul[style=margin: 0;] .unfolded div[style=margin: 0;]::before {
+    content: "\u60f3\u5077\u6697\u53f7\uff0c\u6211\u64cd\u4f60\u5988";
+  }
+
+
+ul[style=margin: 0;][role=listitem] .unfolded div[style=margin: 0;]::before {
+    content: "\u60f3\u5077\u6697\u53f7\uff0c\u6211\u64cd\u4f60\u5988";
+  }
+
+ul[style=margin: 0;][role=list] .unfolded div[style=margin: 0;]::before {
+    content: "\u60f3\u5077\u6697\u53f7\uff0c\u6211\u64cd\u4f60\u5988";
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul[style="margin: 0;"] .unfolded div[style="margin: 0;"]::before {
+    content: "\672c\7ad9\7684\6697\53f7\4e00\5171\6709\4e24\6bb5\ff0c\8fd9\662f\6697\53f7\7684\7b2c\4e00\6bb5\ff1a\5047\5982\4f60\4e0d\5c0f\5fc3\5728\9519\8bef\7684\5730\65b9\4ece\73b0\5b9e\4e2d\5207\51fa\ff0c";
+  }
+
+
+ul[style="margin: 0;"][role="listitem"] .unfolded div[style="margin: 0;"]::before {
+    content: "\672c\7ad9\7684\6697\53f7\4e00\5171\6709\4e24\6bb5\ff0c\8fd9\662f\6697\53f7\7684\7b2c\4e8c\6bb5\ff1a\4f60\6700\7ec8\5c06\5760\5165\540e\5ba4\3002";
+  }
+[[/module]]

@@ -1,0 +1,23 @@
+= **你可以通过此处查找你的沙盒**
+[[tabview]]
+[[tab 所有分类]]
+[[module listpages separate="no" order="title" perPage="200"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[tab collab分类]]
+[[module listpages category="collab" separate="no" order="title" perPage="200"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[tab secret分类]]
+[[module listpages category="secret" separate="no" order="title" perPage="200"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[tab 默认分类]]
+[[module listpages category="_default" tags="-搞笑 +房间" separate="no" order="title" perPage="200"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[/tabview]]

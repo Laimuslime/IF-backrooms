@@ -1,0 +1,130 @@
+[[module CSS]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "forest-theme";
+    --theme-name: "后室观测极点·绿版";
+ 
+    /* Header */
+    --header-title: "林地之域";
+    --header-subtitle: "过往与回忆";
+    --logo: url(https://if-backrooms.wikidot.com/local--files/start/Logo);
+ 
+    /* 森林绿色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 240, 248, 240;
+    --light-pale-gray-monochrome: 220, 240, 220;
+    --very-light-gray-monochrome: 230, 245, 230;
+    --light-gray-monochrome: 200, 220, 200;
+    --gray-monochrome: 150, 180, 150;
+    --dark-gray-monochrome: 100, 130, 100;
+    --black-monochrome: 50, 80, 50;
+    
+    /* 绿色系配色 */
+    --pale-accent: 200, 240, 200;
+    --bright-accent: 100, 200, 100;
+    --medium-accent: 70, 160, 70;
+    --dark-accent: 40, 120, 40;
+    --alt-accent: 120, 210, 120;
+ 
+    /* 背景 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+    --gradient-header: none; /* 移除条纹背景 */
+ 
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 标题样式 */
+#header {
+    background: linear-gradient(
+        to bottom,
+        rgba(var(--pale-accent), 0.9),
+        rgba(var(--bright-accent), 0.7)
+    ) !important;
+    border-bottom: none !important; /* 移除底部条纹 */
+}
+
+#page-title {
+    border-bottom: 3px solid rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent)) !important;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+/* 块引用样式 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--medium-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=0
+|lang=cn
+]]
+**Level IF-65**是后室IF层群的第65层。
+[[include component:image-block
+ |name=http://if-sandbox.wikidot.com/local--files/secret:pictures/Level%20IF-65
+ |caption=**Level IF-65** 之中，往常之回忆
+]]
++ **描述**
+**Level IF-65**类似于一片广袤无垠的大型植物群，植物群中包括大量不同的植物，高矮也各不相同，层级中同时含有高大的乔木与低矮的灌木，树木上覆盖着藤蔓和苔藓，这些植物形成了共生关系，且所有植物高度并不会超过11m及以上，所有的植物于层级之中交织于一起，层级中的植物密度极大，树叶与枝干各重叠于一起，遮挡住下方的泥土。层级之中存在的某些树木相较于层级之外的其他树木可能会更为粗壮，在层级之中的植物群内部也存在着大量可以药用或者食用的植物。可使用的植物通常含水量较多，颜色为绿色，食用口感较脆。
+
+层级内的植物群当中散布一些小型区域，如水洼、沼泽、洞穴等区域。水洼反射着太阳光，表面如水晶般晶莹。沼泽湿度较重，沼泽区域中的泥土结构极为不稳定，这些泥土含水较多，流浪者可能会忽然察觉脚下的土地逐渐变得松软直至陷入更深层的地下。目前洞穴区域尚未被探索完毕，已知洞穴内部结构错综复杂，所有小道汇集于一处，洞穴区域内部光线较暗，流浪者在其中可搜寻到被打磨的木棍与石头，在手电筒的照射下可见石壁上显现的象形文字，这些象形文字意义未知。
+
+在**Level IF-65**中，流浪者在探索植物群落是会突然情不自禁地想起往常发生的事与心中最为怀念的记忆，这些记忆内容不固定，在调查中发现正面的回忆占大多数，而那些负面的回忆也会在片刻之后变得烟消云散，这些回忆如幻影般于流浪者脑海中闪回，流浪者仿若身处于其中。在**Level IF-65**之中，流浪者可能会突然对事物失去感知，具体表现为流浪者突然感觉不到周围一切的所有环境，无法感知到眼前、耳边以及身体的一切，在几秒会几分过后，流浪者突然又会恢复至原有的状态，且发现自己已处于层级中的另一处地点，若流浪者身上曾带有伤口，在此刻也会瞬间恢复。
+[[div class="blockquote"]]
+时间一直在流逝，周遭的一切正发生着变化。记忆中的片段如闪回般出现，勾起着流浪者的点点回忆。转眼时间就离开到另一处之外了。微风扫过每一处，绿色的色调充斥着视网膜的摄影构图，植物在光线的照耀下饱含着生机，一切都维持在此等状况。诚然，过去也许很美好，但事物总是在孜孜不倦地发生变化的，当追忆起往常那副使你会心一笑或潸然泪下的景象时，现实中的一切同样在不断进行着，沉溺于过去之中，些许就错过了新的风景。
+[[/div]]
++ **基地、前哨与社区**
+++ [https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]“旧时常隔”基地
+“旧时常隔”基地位于层级中的一小片区域，由排布整齐的简易帐篷组成，基地中修有由地砖平铺的小径，在小径的一旁立有黑色白炽灯。
+
+“旧时常隔”基地中央放置有一木质钟摆，钟摆的时间与BTC平齐，此外，该钟摆的误差极小，为1000年十分之一毫秒。
+++ [[[Level IF-199|B.O.P.]]]“逝时长空”基地
+“逝时长空”基地目前尚未有主要人员，驻留于基地内部的人员大多为小型探索队成员，小型探索队为[[[Level IF-199|后室观测极点]]]定时举办的探测其他层级的小型活动，[[[Level IF-31]]]、[[[Level IF-32]]]、[[[Level IF-33]]]、[[[Level IF-64]]]、[[[Level IF-77]]]等层级皆为活动中探测。
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-3]]]、[[[Level IF-4]]]、[[[Level IF-5]]]、[[[Level IF-7]]]、[[[Level IF-8]]]、[[[Level IF-10]]]、[[[Level IF-11]]]、[[[Level IF-13]]]、[[[Level IF-14]]]、[[[Level IF-15]]]、[[[Level IF-17]]]、[[[Level IF-27]]]中发现一片植物群并切出即可来到此层级
+++++++ 出口
+* 于层级中跳入水中会来到[[[Level IF-46]]]、[[[Level IF-52]]]、[[[Level IF-60]]]、[[[Level IF-135]]]等层级中的随机层级
+* 在层级中于植物中切出会来到[[[Level IF-54]]]、[[[Level IF-62]]]、[[[Level IF-63]]]中的随机层级
+* 在层级中进行回忆活动时流浪者可能小概率突然切入至[[[Level IF-50]]]或[[[Level IF-108]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者是马上就考试的[[*user MCMK-1234]]没活整了
+图片来源于[[*user haodemingzi]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-64]]] | Level IF-65 | [[[Level IF-66]]] >>
+[[/=]]
+[[/div]]

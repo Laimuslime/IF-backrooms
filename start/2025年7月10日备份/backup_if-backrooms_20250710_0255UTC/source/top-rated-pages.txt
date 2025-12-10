@@ -1,0 +1,3 @@
+[[module ListPages order="rating desc" tags="-归档 -管理 -作者 -待删除 -重写中 -指导 -文章 +原创" category="-deleted -system" separate="false" perPage="25" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]

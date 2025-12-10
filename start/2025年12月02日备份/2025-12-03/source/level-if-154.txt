@@ -1,0 +1,109 @@
+[[include :brsandbox-mini:pc171]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+.glitch {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+    --header-title: "后室维基";
+    --header-subtitle: "失真频域";
+}
+[[/module]]
+
+[[div class="fader"]]
+[[=]]
++ [[size 140%]][[span class="glitch"]]—— Level IF-154 ——[[/span]][[/size]]
+[[/=]]
+[[/div]]
+@@ @@
+[[=]]
+[[image http://scpsandboxcn.wikidot.com/local--files/bi1/level-class-unknown]]
+[[/=]]
+
++ **描述**
+
+尚未明确 **Level IF-154** 的进入方式，现阶段内对此层级了解有限。档案库对其信息掌握不足，无法提供详细的层级档案。
+
+如果您周遭环境特征与参考图相似，并且符合以下条件，则可能已经进入此层级：
+
+[[=image http://scpsandboxcn.wikidot.com/local--files/bi1/CN3405.jpg width="350px"]]
+
+* 无法与任何人相遇。
+
+* 天空的颜色逐步变为纯黑，黑白相间的摩尔纹在某一方位的天空开始显现，且其旁侧出现一块持续对外释放微弱光亮的大型**{{显示屏}}**。
+
+* 发现一台悬浮在半空中的 **{{CRT 电视机}}**（下文将其称作**{{电视机}}**），且之后地表上开始出现大量报废和正常运行的 **{{电视机}}**。
+
+* 高空中的**{{显示屏}}**所有的**{{电视机}}**突然开始发出低频噪音，但不久之后噪音逐渐减弱，直至消失。
+
+* 部分**{{电视机}}**发出的噪音掺杂了多段杂乱、无法听清的低语声和持续的拍打声。
+
+确认进入该层级后，切勿惊慌，请立即原路返回，并**严禁**使用任何除原路返回以外的逃离方式。违反后果未知，但大概率会导致您失去生命。 
+[[=]]
+[[div class="blockquote"]]
+[[collapsible show="展示现有案例" hide="关闭"]]
+
+++++ 切入正在运行的**{{电视机}}**内部：
+@@ @@
+该受害者进入了一间被黑暗笼罩的**{{[[[https://backrooms-wiki-cn.wikidot.com/rede-18|室内空间]]]}}**，房间内仅有一张椅子和几根一端朝向其背面的巨大软管。椅子的正前方墙壁上聚集了大量类似眼球、发着白光的不明物体，且其正在通过翻转正反来模拟一帧帧的「画面」。
+
+在该受害者走到房间的边缘处观看「[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 画面]」时，其在愣了几秒后突然与外界中断联系，从此之后下落不明。
+------
+++++ 使用一切除原路返回之外的方式逃离：
+@@ @@
+该受害者到达了一间巨大的**{{[[[https://backrooms-wiki-cn.wikidot.com/rede-18|灰色房间]]]}}**，并被固定在一间灰色房间的一张椅子上，且有数根巨大的管子连接该受害者的后脑部分。受害者正前方的墙壁被替换成了雪花屏，但没过多久雪花屏被一段夜景视频替换。
+
+进入房间后，该受害者的说话频率显著下降，最终停止发言。数十分钟后，该流浪者突然发出破哑的叫声，持续三分钟后停止，直到摄像画面消失前皆无法与流浪者取得联系。
+[[/collapsible]]
+[[/div]]
+[[/=]]
+
+如果您成功逃离 **Level IF-154**，请立即观察周边环境，并在几周之内确保没有出现上述条件，且未发现一台悬浮的**{{电视机}}**；如果发生，请立即**{{重复上述要求行为，直至您当前所处的层级不再发生此类现象。}}**
+
+如果未能及时遵守或者违反此规则，后果自负。
+
+------
+上文皆为此层级的环境描述、行为准则及出入口，需补充的是：
+
+* 受害者在 **Level IF-154** 消失后，追踪到其最后信号出现位置时，仅发现一台悬浮且正在运行的**{{电视机}}**。
+
+* 逃离 **Level IF-154** 的幸存者必然会遗留下不同程度的后遗症——视野向中心缩小，且形状与**{{电视机}}**屏幕一致；像素颗粒散布在视野各处，并伴有强烈的刺痛麻木感。言语被嘈杂的噪音屏蔽。时常无法控制，并之后无法再感知到头部以外的身体部位。
+ * 如果发现自己出现了上述症状，请**{{立即前往存在大型人类聚居地的开阔层级，随后静待自己的视角飞升至高空}}**。
+
+= **{{暂无更多。}}**
+
+[[=]]
+[[size 750%]][[span class="melan"]][[span style="background: linear-gradient(to top, white,white,white); -webkit-text-fill-color: transparent; -webkit-background-clip: text;background-color:#000000;"]][[span class="material-icons"]][https://backrooms-wiki-cn.wikidot.com/rede-18 visibility][[/span]][[/span]][[/span]][[/size]]
+[[/=]]
+----------
+@@@@
+[[div class="blockquote"]]
+[[=]]
+[[module rate]]
+[[div class="borderblock"]]
+[[div class="styled-collap"]]
+[[collapsible show="作者信息" hide="关闭"]]
+
+本文作者 [[*user Destitute]]
+你是电视，我是电视，所有人都是电视。整个世界就是一个巨大的电视，而我们只是生活在电视之上的一个电视。
+
+温馨提示：眼睛可以点击
+---------
+++++ 图片与字体来源
+
+生存难度图片经过本人二次编辑，图片就是直接在暗色背景引入生存难度组件，再切换成电脑模式后截图所得。
+
+第二张图片由两张图片结合而成，[https://unsplash.com/photos/three-televisions-sitting-on-top-of-a-pile-of-grass-KSP1RSNuSGQ 主体]和[https://unsplash.com/photos/a-bunch-of-tvs-that-are-sitting-on-a-shelf-3qaojaP-6cE 右上角的电视机]。
+
+文章的假标题字体代码来自 EN 的层级列表，由 [[*user Anime_Roar]] 提供。
+
+[[/=]]
+[[/collapsible]]
+[[/div]]
+--------
+[[/div]]
+[[/div]]

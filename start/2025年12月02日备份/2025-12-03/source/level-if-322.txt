@@ -1,0 +1,158 @@
+[[include :backrooms-wiki-cn:theme:dull-blade]]
+
+[[module css]]
+:root {
+--header-title: "朽暗屋废";
+--header-subtitle: "你的记忆是否真实？";
+--black-monochrome: 5, 5, 5;
+   --gray-monochrome: 5, 5, 5;
+   --dark-accent: 5, 5, 5;
+   --platinium-monochrome: 240, 240, 240;
+   --white-monochrome: 240, 243, 243;
+   --gray-accent: 150, 152, 156;
+   --grey-accent: 10, 10, 16;
+}
+
+html {
+  -webkit-filter: grayscale(60%);
+  filter: grayscale(70%);
+}
+
+.weekblock{
+   color: white;
+   background-color: rgb(var(--dark-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: 2px solid rgb(var(--medium-accent));
+   border-left: 8px solid rgb(var(--medium-accent));
+   position: relative;
+}
+
+.weekblock:hover {
+   cursor: hand;
+   cursor: pointer;
+   opacity: .7;
+   transform: translateX(30px);
+   transition: all 0.5s ease;
+}
+
+.weekblock .real a{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   text-decoration: none;
+   z-index: 10;
+   opacity: 0;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'Serif', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'IM Fell English', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+@media only screen and (max-width:768px){
+.texty:hover{
+  font-size: 1.8rem;
+}
+}
+.texty {
+  font-size: 1.8rem;
+  padding: 2rem 1.4rem
+}
+
+.sd-container {
+--sd-bullets:255,255,255 !important;
+}
+[[/module]]
+
+
+
+> 我自堕落中坠入此地
+> 我怀揣的惊恐尝试逃离
+> 我什么都没法做，只能进行探索
+> 这里即使黑暗也是那么美好，我为什么要逃离呢？
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=死区
+|one=极度不安全
+|two=高致命危险
+|three=出口失效
+]]
+
+**Level IF-322**是后室IF层群的第322层。
+[[include component:image-block
+|name=1
+|caption= 我明明是那么眷恋祂啊
+]]
++ 描述：
+**Level IF-322**仅由一个路灯以及一栋废弃房屋组成，流浪者在切入**Level IF-322**时通常固定出现在路灯之下，路灯的光线强度较高，能够使流浪者出现短期失明症状。层级内永久处于黑夜状态，且不存在任何形式的WI-FI信号，但异常的是，M.E.G.所接收到的所有有关**Level IF-322**的信息均由M.E.G.讨论论坛上的一位匿名账号发送，且M.E.G.难以通过常规手段对其进行追踪。目前M.E.G.仍在对该账号进行监视。
+
+此外，流浪者在**Level IF-322**内的行动将受到较强的限制，其表现为流浪者无法在层级内的房屋前300m范围内的长方形范围外活动，而任何尝试突破该限制的流浪者最终都迎来了内脏爆裂的结果。流浪者在切入该层级后唯一能够做的事便是进入层级内的房屋进行探索。
+
+房屋的样式接近前厅上世纪40年代的乡村屋舍，但流浪者无法在层级内再观察到其他与其样貌类似或者相同的屋舍。房屋外墙由于层级内部极度干燥而导致出现了严重的裂痕，在流浪者进入房屋时有几率出现坍塌现象。在流浪者进入房屋后，其大门将被暴力关闭并封锁，流浪者无法通过任何外部道具进行抵挡或者破拆。
+
+房屋内存在1个饭堂、3个卧室、1个厨房以及1个杂物间，而在6个房间中，杂物间内刷新有极高数量的[[[https://backrooms-wiki-cn.wikidot.com/entity-3|笑魇]]]。除此以外，流浪者仅能够于厨房中的灶台上发现一个火钳以及3~5块被燃烧至通红的煤炭块，以及在饭堂左侧的卧室中发现一把沾染有血迹的铁锤。而任何人为突破房屋墙体的尝试均被证明无解。
+
++++ “无端眷恋”
+值得一提的是，匿名者在新的文档中提及到了该效应的出现，M.E.G.则在近期对此存在高度兴趣的研究，该效应表现为流浪者在切入**Level IF-322**的短期内将对此地产生极端的眷恋，并因此产生高度的情绪亢奋。流浪者将在该效应的影响下积极地对层级进行探索，即使在该过程中受到极度危险的伤害也难以产生恐惧、悲伤等负面情绪。
+
+据M.E.G.对文档的多次分析得出，该层级理论上应当存在出口，但M.E.G.并未发现任何自**Level IF-322**逃离的流浪者，因此，M.E.G.认为，在该效应的影响下，流浪者将不会产生逃离该层级的想法。但层级内不存在任何物资，这也表明流浪者将在该效应的影响下永远停留在**Level IF-322**中，并因营养不良或者笑魇袭击而亡。目前，M.E.G.已将所有被证实切入**Level IF-322**的流浪者列入死亡名单。
+
++ 实体：
+上文已述，该层级内存在极高数量的笑魇。
+
++ 基地、前哨与社区：
+由于层级内存在孤立效应，**Level IF-322**内不存在任何基地，前哨与社区。
+
++ 入口与出口：
+++ 入口
+* **Level IF-322**目前暂未查明固定的切入方式，目前已知的是于[[[Level IF-39]]]、[[[Level IF-5]]]、[[[Level IF-136]]]、[[[Level IF-128]]]、[[[Level IF-100]]]内产生强烈的怀旧情绪将有几率进入该层级。
+
+++ 出口
+* 上文已述，M.E.G.推测该层级存在稳定的出口来源，但流浪者将因**“无端眷恋”**的影响而导致其失去离开该层级的想法。
+
+------
+[[>]]
+[[collapsible show="我因未知进入此地" hide="但祂仍在挽留我，我为什么要离开呢？"]]
+是谁在希望我留下？
+[[*user kadjwxs]]
+图源：https://www.bilibili.com/opus/1104316871572717591#reply273758604736 （一块屑Ag的B站动态）
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-321]]] | Level IF-322 | [[[Level IF-323]]] >>
+[[/=]]
+[[/div]]

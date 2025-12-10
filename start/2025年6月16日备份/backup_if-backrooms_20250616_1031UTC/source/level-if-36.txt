@@ -1,0 +1,58 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:level-class
+|lang=cn
+|class=5
+]]
+
+**Level IF-36**是后室IF层群的第36层，是一个风景秀丽地方，但是充满了危险。
+
++ **描述**
+
+**Level IF-36**是一片被迷雾笼罩的群山，里面的地形高低错落，却没有如同悬崖峭壁一般陡峭的地方。浓度较大的雾气始终笼罩在这里，并且并无天气变换与日夜交替，永远是有些亮度的阴天。
+
+这里被绿植覆盖，但是空气却与新鲜毫无关系。这里永远充斥着刺鼻的腐臭味，但是在本层级却没有发现任何尸体。
+
+这里的植物包括一些前厅常见的草本，木本植物，以及一些本层级特有的植物。这些特殊的植物通常为乔木，长得异常高大。已观测的所有作物中最低大概有十米[[footnote]]探员目测高度[[/footnote]]；最高直入云霄，无法观测具体高度，估测已经超过数百米，主干十分粗大，被探员描述为“十个人都抱不过来”。
+
+值得注意的是，本层级并不存在任何可利用物资，就连树木与野草也无法用任何已知途径获取或破坏。
+也有报告称在本层级观测到有树木的藤条攻击或吞噬实体的案例，但并无法证实。
+
++ **实体**
+
+这里存在着大量实体，主要包括：[[[https://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-15|悲尸]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-31|迷彩爬行者]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-11|爆酸者]]]、[[[https://backrooms-wiki-cn.wikidot.com/entity-5|肢团]]]等。
+
+奇怪的是，并没有任何实体会靠近**Level IF-36**特有植物附近约五米的地方，除非实体正在追击流浪者。
+
++ **基地、前哨和社区**
+
+由于**Level IF-36**极高的实体密度，任何组织都没有在这里建立基地和前哨的能力，仅有一支宣称进行植物研究[[footnote]]在这种环境下真无法想象怎么进行植物研究……[[/footnote]]。
+
++ **入口和出口**
+
++++ 入口
+
+* 在枢纽里切入一个嵌入墙体的树干。
+
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-32|Level 32]]]有极小概率遭遇迷雾，等到骷髅消失与实体出现就切入了**Level IF-36**。
+
++++ 出口
+
+* 切入任何一个**Level IF-36**特有树木[[footnote]]放心，在这么多树木里面他们很好辨认[[/footnote]]就可以切入[[[https://if-backrooms.wikidot.com/level-if-2|Level IF-2]]]。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user iftimefly]]
+[[*user Hinc_itur_ad_astra]]代发
+[无图片]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-35]]] | Level IF-36 | [[[Level IF-37]]] >>
+[[/=]]
+[[/div]]

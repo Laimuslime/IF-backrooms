@@ -1,0 +1,108 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+.document { color: black !important; }
+[[/module]]
+
+[[module css]]
+#main-content {
+  width: 100%;
+  max-width: unset;
+}
+#page-content { max-width: unset !important; }
+[[/module]]
+
+
+[[div class="lightblock"]]
+[https://if-backrooms.wikidot.com/spec/offset/4 ←] 我的电脑 > Spec - 个人 > 桌面 > 演员的相关资料（？？？我打不开这个)
+
+------
+
+[[div class="folder"]]
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+README.txt
+[[a href="https://if-backrooms.wikidot.com/spec/offset/8" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2020年3月3日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/vertigo" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2022年1月3日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/get-close" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2022年6月11日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/you-know-i-m-no-good" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2023年8月28日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/testing-testing-is-this-thing-even-fuckin-on" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+[错误]
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/vol-1-the-only-banned-game-in-level-389" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2025年2月2日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/i-survived-the-end-of-reality-and-all-i-got-was-a" class="doc-link"]][[/a]]
+[[/div]]
+
+[[div class="document"]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/document-icon-24.png]]
+[[=]]
+2115年4月3日
+[[/=]]
+[[a href="https://backrooms-wiki-cn.wikidot.com/houses-of-the-holy" class="doc-link"]][[/a]]
+[[/div]]
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+------
+
+[[/div]]

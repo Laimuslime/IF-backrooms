@@ -1,0 +1,121 @@
+[[include :backrooms-wiki-cn:component:title
+|1=六千六百六十六
+|2=传奇死区王入侵IF层群了救命
+|logo=a
+|3=http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg
+]]
+[[include :backrooms-wiki-cn:theme:true-dark]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 3s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+ 
+:root {
+   --fade-in-delay: 0.1s; /* Change the speed here. */
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay));}
+[[/module]]
+[[module CSS]]
+
+孩子们偶遇FR死区王入侵IF拼尽全力无法战胜。（（（
+自我介绍：
+名：kadjwxs，别称kad,凯特，KAD
+身份：FR著名FR-27X死区区间开创者（目前仍在扩张），AS牢玩家，U分管理，入侵的民分包括但不限于：TO-DV、S、AC、SX、AS
+性别：男
+年龄：我不说你自己想吧
+住址：银河系
+家庭情况：很家庭
+人品：是个好人但抽象体质，把抽象表情当逗号，喜欢发出逆天言论以求存在感（ ，没事就写死区对IF层群的流浪者安全造成威胁（
+近况：1、偶遇超模QQ无法登录，拼尽全力无法战胜。2、体锻回家右手被楼梯扶手未焊齐的焊缝暗杀，包扎破伤风口服药一套花费我300+，红温。3、因为右手战损导致写文力衰弱，近期难以写文。（秋水对不起我文在备忘录里而我拿不到手机qwq) 4、手好过后继续进行1~5，未定，未分与不适用的练习。并对实体与现象进行练习。然后看一下能不能写一篇团体。然后我将退出IF-1竞赛的角逐。
+常玩游戏：第五人格（ID：我守夜激推啊，49渠道服），穿越火线（ID：Tpud5，v区)，phigros，冰与火之舞，pjsk（世界计划），RS，DL等欢迎和我一起玩！
+
+作品：
+[[<]]
+[[collapsible show="层级" hide="收起"]]
+[[[Level IF-9]]] - **无有效信息**
+> **Level IF-9**在目前仅存的几例报告中，均表现为一片支离破碎的大陆，大陆呈现白色，其上空无一物，流浪者除了在大陆之上行走以外，无法进行任何动作。
+评价：一次不适用的练习，感觉有点过于短小了，但是又没有合适的点子加长。
+
+[[[Level IF-28]]] - 无义之路
+> "光滑平整的路面之上，满载着疯狂与痛楚，你看见了吗？它们正看着你。 ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：） ：）"
+评价：FR中补齐27x的最后一块拼图，所以并没有经过细细的打磨，以后慢慢改进
+
+[[[Level IF-40]]] - **##blue|死寂幽室##**
+> 行走于痛苦与死亡的深渊之中，无人聆听的黑暗死寂，囚禁着无数灵魂的黑暗之屋，汝之命运之归宿
+评价：FR27x的开端，也是我在IF的第一篇，为了迎合FR的论战改的不伦不类的，所以搬到IF的时候删减了不少。
+
+[[[Level IF-42]]] - //**[[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]]“无望魂”[[/span]]**//
+> ##red|同我回归那空幻的归宿吧，无望的灵魂啊##
+评价：在翻自己OC时忽然想到的一个点子，虽然感觉林中人影的主题有点庸俗，但好在是活下来了，也是一件可喜可贺的事情呢。（其实42也是一次未定的练习呢^-^）
+
+[[[Level IF-53]]] - **##red|呛血##**
+> 据勘测，**Level IF-53**的浓雾中含有某种未知成分，流浪者在吸入雾气后，肺部将开始逐渐积攒起类似血液的血红色液体，且液体积攒速度与流浪者在肺部开始积水后的呼吸速度有关，呼吸速度越快积攒速度越快
+评价：比较慢速的写出来的一篇，在学校里构思了很久，但出我意料的是这是我投IF的文里评分最高的，有点出乎我意料
+
+[[[Level IF-73]]] - **再生之馆**
+> 你们所背负的可怕罪孽，已经承继在了你们可怜的孩子们身上，遗憾的是，罪孽永不消散，但你们可以通过修行不断淡化你们的罪孽，来保护你们的孩子，今日，先在此进行一次净化，再在明日回家，将净化之道传授与你们的孩子
+评价：看《怪屋谜案2》时想到的点子，所以就写了这么一篇，本来想写一段事件的，但我写事件的技术好像并不强，值得一笑的是，这篇文和前IF-14（对位交换）是同一时期的文，那篇文死了，这篇文评分+9（（（
+
+[[[Level IF-136]]] - **##red|彩####yellow|色####green|森####blue|林##**
+> 荡漾在彩色树林中吧！
+评价：星辰大帝和我的合著（虽然是我提供点子他写），原本有投中但是被秒杀了，所以转而由我来让这个层入侵各大层群（（（
+
+[[[Level IF-138]]] - ##green|win## 原
+> 流浪者在切入Level IF-138时，其面朝方向将统一面向东方，流浪者能够看见Level IF-138内一片与windows 7桌面极其相似的风景，这也是Level IF-138“win原”这个名字的来源。
+评价：原本准备用于参与IF-1竞赛的，但是我感觉文笔还是不行，不值得IF-1的编号，因此我将其编号改为IF-138投入并就此退出IF-1竞赛的角逐，等一次我比较熟练的竞赛吧ヾ(≧▽≦*)o
+[[/collapsible]]
+[[/<]]
+
+[[<]]
+[[collapsible show="实体" hide="收起"]]
+暂无
+[[/collapsible]]
+[[/<]]
+
+
+[[<]]
+[[collapsible show="团体" hide="收起"]]
+Oh no 我没有写团体
+[[/collapsible]]
+[[/<]]
+
+
+[[<]]
+[[collapsible show="现象" hide="收起"]]
+没有现象（（（
+[[/collapsible]]
+[[/<]]

@@ -1,0 +1,115 @@
+[[include :backrooms-wiki-cn:component:open-title]]
+[[div class="lightblock"]]
+[[=]]
+
+由[[[akirooms|DrAkimoto]]]撰写。
+由[[[author:calf-0|calf-0]]]译就。
+@@@@
+[[include :calf-0-sandbox.wikidot.com:author-table-aki]]
+
+----
+批判者：
+
+[[*user LaundryFan_04]]
+
+[[*user scutoid studios]]
+
+[[*user DivineAtlas]]
+
+[[*user PrismaticMoose]]
+
+[[/=]]
+[[/div]]
+[[include :backrooms-wiki-cn:component:close-title]]
+ 
+ 
+ 
+ 
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+ 
+ 
+------
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+ [[[Entity 87]]] | [[[Entity 88]]] | [[[Entity 89]]]
+[[/=]]
+[[/div]]
+
+
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=DrAkimoto
+|translator=calf-0
+]]
+=====
+> **名称：** Robot
+> **作者：** DrAkimoto
+> **协议：** CC-BY-SA-3.0
+> **来源链接：** https://backrooms-wiki.wikidot.com/entity-88
+> **衍生自：** https://www.flickr.com/photos/97453745@N02/9047910968/ & https://commons.m.wikimedia.org/wiki/File:Inside_Hoot%27s_Ultimate_Party_Zone_-_panoramio_(4).jpg
+
+> **名称：** sounds
+> **作者：** JOGOS Public Assets
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.m.wikimedia.org/wiki/File:Tech_Beeping.wav
+
+> **名称：** laser
+> **作者：** Gravity Sound
+> **协议：** CC BY 4.0
+> **来源链接：** https://commons.m.wikimedia.org/wiki/File:Laser_7_(Gravity_Sound).wav
+
+> **名称：** miku
+> **作者：** MIKI Yoshihito
+> **协议：** CC BY 2.0
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Miku+hatsune+draws&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** signet
+> **作者：** Zegomo
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Signet&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** john
+> **作者：** Dinkun Chen
+> **协议：**CC BY-SA 4.0
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Laundry+machine&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** bunny
+> **作者：** KitKatFat
+> **协议：** Public Domain Dedication
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Fat+bunny&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** bob
+> **作者：** Mostafameraji
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Tomato&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** moose
+> **作者：** Malene Thyssen
+> **协议：** CC BY-SA 3.0
+> **来源链接：** https://commons.m.wikimedia.org/w/index.php?search=Moose&title=Special%3AMediaSearch&wprov=acrw1_-1&type=image
+
+> **名称：** atlas
+> **作者：** Abraham van Diepenbeeck
+> **协议：** public domain
+> **来源链接：** https://commons.m.wikimedia.org/wiki/File:Atlas,_from_Tableaux_du_temple_des_Muses.jpg
+
+> **名称：** enter
+> **作者：** DrAkimoto
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://backrooms-wiki.wikidot.com/entity-88
+
+> **名称：** ad
+> **作者：** DrAkimoto
+> **协议：** CC BY-SA 4.0
+> **来源链接：** https://backrooms-wiki.wikidot.com/entity-88
+> **衍生自：** https://www.flickr.com/photos/97453745@N02/9047910968/ , https://backrooms-wiki.wikidot.com/entity-3 , https://backrooms-wiki.wikidot.com/level-0 , https://backrooms-wiki.wikidot.com/entity-75 , & https://backrooms-wiki.wikidot.com/entity-5
+
+
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

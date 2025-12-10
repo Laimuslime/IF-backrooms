@@ -1,0 +1,98 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+|color=black
+]]
+**Level IF-261**是后室IF层群的第261层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1708013815501-c57470ab81cc?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU5JUJCJTkxJUU2JTlBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-261**的居民楼。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1670935574836-cfe4340888ff?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+|caption=**Level IF-261**的大楼。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1755444449058-425e21486dfb?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8JUU5JUJCJTkxJUU2JTlBJTk3fGVufDB8fDB8fHww
+|caption=**Level IF-261**的街道。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1703962169683-2064ad7d1179?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fCVFNSVBRSVBNCVFNSU4NiU4NSVFNiVCOCVCOCVFNCVCOSU5MCVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-261**的房间其一。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1517476072926-bce26e54610f?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFNSVBRSVBNCVFNSU4NiU4NSVFNiVCOCVCOCVFNCVCOSU5MCVFNSU5QyVCQXxlbnwwfHwwfHx8MA%3D%3D
+|caption=**Level IF-261**的房间其二。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1703681621958-df1163db40ef?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUU1JUFFJUE0JUU1JTg2JTg1JUU2JUI4JUI4JUU0JUI5JTkwJUU1JTlDJUJBfGVufDB8fDB8fHww
+|caption=**Level IF-261**的房间其三。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1668889995007-0ec1f4c9cb0c?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU1JUFFJUE0JUU1JTg2JTg1JUU2JUI4JUI4JUU0JUI5JTkwJUU1JTlDJUJBfGVufDB8fDB8fHww
+|caption=**Level IF-261**的房间其四。
+]]
+**Level IF-261**为一无限延伸的现代都市，层级中的流浪者通常难以碰面，其建筑风格与[[[Level IF-19]]]并无二致。然而，该层级总是被笼罩在一片永恒且无法穿透的黑暗之中，能见度通常较低。
+
+**Level IF-261**内有着大量设施，电力系统持续运作，城市中的路灯、办公楼与公寓之中的灯都可随意打开，即使如此，层级之内也是相当黑暗的。层级大部分区域总是被黑暗所笼罩，且灯光似乎遭到减弱。
+
+**Level IF-261**的街道上无任何异物，极为整洁，街道上一般带有些许光源。街道上有着不同文字的标识，标识内容大多为该街道的名称，名称取名风格也与前厅类似。部分街道可能为前厅中某些街道的复制副本，流浪者来到这些街道时将会感到久违的熟悉感。
+
+**Level IF-261**的店铺里空无一人，灯光似有似无，但均在持续运行。店铺货架上摆满了各种物品，大多为可安全食用的食物以及其他物资，流浪者无需付款也可离开店铺。大部分店铺中都带有饮水机，里面持续不断地供应着杏仁水。
+
+**Level IF-261**的气温大多维持在20℃上下，流浪者在进入时将会感到极为舒适。部分在较冷环境或较热环境长期生活并适应那里温度的流浪者在进入该层级时并不会感到温度骤变，因为该层级在流浪者进入时会先改变为流浪者所习惯的温度，而后逐渐降低至普通水平。
+
+**Level IF-261**中不存在实体，曾有流浪者报告称层级中出现了不明移移动物，但我们还不能确切地确认其为真实存在的生物或是一种实体。该层级会使陷入悲尸循环的流浪者渐渐恢复健康，且并无副作用。整座城市宛若空城般。
+
+**Level IF-261**不存在任何已知的边界，但大部分流浪者均认为在进入层级之后的一段时间之内始终被层级中这些许可见且无法挣脱的黑色牢笼所包裹着，目前认为这些流浪者的表述为压力过大时所产生的臆想。
+
+**Level IF-261**的黑暗充斥在城市上空中，时刻吞噬着来自四面八方所照射而来的光线。整座城市中的光线似乎会被缓慢地吸收，直到其变得暗淡。城市部分区域有时会突然“删除”掉周遭的可见光线，将流浪者包裹在黑暗之中。
+
+**Level IF-261**的房屋内部一般情况下来说并无任何人类，流浪者们很难在房屋内碰面，不过部分流浪者已在层级内建立了少数的聚集点。房屋内的一切宛若被提前准备好，所有物品井井有条地摆放在一起，流浪者打乱几小时过后将会恢复原位。
+
+**Level IF-261**的电视时刻可以启动，且无需电源也可运行，但流浪者打开时，所有信号会在刹那间突然消失，仅留下雪花屏的嘶嘶声或是刺耳且令人感到不安的错误提示音。层级内的电话亦是如此，部分电话会突然响起，当流浪者拨通时，传来的仅有无声的静默。
+
+**Level IF-261**中的流浪者往往会产生孤独感，层级内的大部分区域都有着“人为布置”的痕迹，但却空无一人。流浪者有时可能发现对面的公寓楼之中亮起了灯，然而房屋里永远是空无一人的状态。
+
+**Level IF-261**的流浪者总是能听见城市之中各类基础设施所发出的低沉轰鸣，这也是层级中唯一的声音。但大部分流浪者都会在层级之中产生幻听，幻听的种类如下：
+* 流浪者身后那模糊但又在流浪者心中显得格外清晰的脚步声
+* 在城市的寂静之中，突然传出一声短暂的尖叫，而又迅速结束
+* 各类不同、异常的环境音效
+这些声音可能使得流浪者的心理压力逐渐增大。
+
+**Level IF-261**中的窗户有时会突然闪动，且发出极大的噪音，流浪者有时可在窗边观测到。窗户有时可能会偏移位置，甚至卡进墙里或是散架，但在移动事件发生完后的几个小时之内，窗户会回到原来的位置。
+
+**Level IF-261**的植物通常毫无生机，宛若路边的装饰性摆件，但却会死亡或是生长。大部分植物的出现位置为路边的普通盆栽或是绿化带，少数情况下会生长在层级的一些犄角旮旯之处。
+
+**Level IF-261**本身是极度稳定的，并不会出现结构错乱、空间错位、鬼打墙等现象，但进入层级的流浪者们通常会被层级操控着来到更远的地方，且该流浪者会在此时短暂的失去意识，待到移动结束后，流浪者将会失去这一部分的记忆。这一事件导致部分流浪者出现了记忆错乱的现象，且无法正常的碰面。
+
+**Level IF-261**中流浪者所产生的变动或是留下的记号均会被缓慢地抹除，除非产生变动的区域或是留下的记号附近有着活跃的流浪者。层级中的流浪者并不会死亡，但会被层级施压，使得流浪者极度焦虑。
+
+**Level IF-261**中不存在任何有害细菌或是病毒，有害细菌或是病毒通常会被流浪者携带而来，当这些微生物来到层级内部时，层级将会直接消灭这些有害微生物。流浪者若是在进入该层级之前患上了某种疾病，即使其为绝症也会在进入的那一刻所恢复。
+
+**Level IF-261**中的流浪者无法进行自杀行为，当流浪者产生自杀动机[[footnote]]例如跳楼、割腕等[[/footnote]]时，流浪者会立即被层级所操控，四肢无法动弹，始终保持站立。若流浪者已陷入自杀的过程时，流浪者会在届时失去所有的疼痛感并立即回到自己在层级中的固定休息点[[footnote]]一般为流浪者在层级中所找到的床等可以用来休息的地方[[/footnote]]。
++ **基地、前哨与社区**
+++ 孤独守望之者
+这一社区通常指代那些选择在此层级独居的少数流浪者。他们通常占据一栋公寓楼，用物资堆满房间，试图创造一种“正常生活”的假象。他们之间几乎从不碰面，因为相遇所带来的短暂慰藉，在分别后会加剧更深的孤独感。他们更倾向于通过留下便条或改变灯光信号来进行单向交流。
++ **入口与出口**
+++++++ 入口
+* 在[[[Level IF-19]]]进入一条黑暗的巷子即可来到此层级
+++++++ 出口
+* 独自进入层级中那吞噬掉所有光线的边缘黑暗地带之中，流浪者将回到[[[Level IF-19]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-260]]] | Level IF-261 | [[[Level IF-262]]] >>
+[[/=]]
+[[/div]]

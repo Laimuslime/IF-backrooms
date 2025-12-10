@@ -1,0 +1,291 @@
+[[include :backrooms-wiki-cn:theme:kalag]]
+[[module css]]
+:root{
+   --logo-image: url("https://cdn.discordapp.com/attachments/733478011780988958/861388950844473375/New_Project.png");
+   --header-title: "比日落沙滩还宜居(*╹▽╹*)";
+   --header-subtitle: "沉浸其中";
+}
+[[/module]]
+
+[[include :backrooms-wiki:component:scrollquote
+image=http://backrooms-ac.wikidot.com/local--files/level-ac-29/644f157a00a9aaeb2133948d8c73b31f1245445300.jpg%40720w_480h_1e_1c.avif]]
+//烟花绽放，美丽如梦。//
+
+[[include :backrooms-wiki:component:scrollquote-end]]
+
+[[include component:level-class
+|class=宜居-前厅
+|lang=cn
+|color=#179639
+|image=.
+|one=温馨的烟花
+|two=和谐的社区
+|three=友善实体
+]]
+
+**Level IF-80**是后室IF层群的第80层，被发现于在2026年2月19日时wikidot上后室IF层群中一位名为//**“yanhuaxiu”**//的用户写的故事。
+[[module ListUsers users="."]]
+[[div class="sitemember"]]
+> %%title%%欢迎访问该页面(๑╹ヮ╹๑)ﾉ
+[[/div]]
+[[/module]]
+
+
++ 描述
+
+[[include component:image-block
+|name=http://backrooms-ac.wikidot.com/local--files/level-ac-29/644f157a00a9aaeb2133948d8c73b31f1245445300.jpg%40720w_480h_1e_1c.avif
+|caption=多么美的烟花啊(*╹▽╹*)
+]]
+
+**Level IF-80**，又称“后室烟花秀，盛大开场(๑╹ヮ╹๑)ﾉ”，是该层级给自己取的名字。**Level IF-80**是一个特殊的城市型层级，整个空间被永恒的夜晚所笼罩，天空持续绽放着绚丽的烟花。值得注意的是，这些烟花在正常情况下完全静默，只有当流浪者近距离接触时才能听到其爆裂声。该层级的环境温度恒定维持在舒适的25℃。
+
+该层级内建有覆盖全域的稳定Wi-Fi网络，其传输速率达到目前技术无法超越的**10Gbps水平**。
+
+在城市基础设施方面，该层级展现出惊人的完整性。随处可见人类活动留下的痕迹，水电等基础资源似乎取之不尽。更令人惊讶的是，许多在前厅中价值不菲的物品在这里变得极为普遍，几乎随处可见。
+
+该层级的湖被分为4种状态，为：杏仁状态、返乡状态、正常状态、星空状态，以下是各种状态的形式：
+
+[[tabview]]
+[[tab 杏仁状态]]
+当进入杏仁状态时，湖水会完全转化为[[[https://backrooms-wiki-cn.wikidot.com/object-1|杏仁水]]]。若流浪者饮用此时的湖水，将被随机传送至某个富含[[[https://backrooms-wiki-cn.wikidot.com/object-1|杏仁水]]]且安全的层级。
+[[/tab]]
+[[tab 返乡状态]]
+返乡状态这种状态十分罕见，概率几乎接近于0[[footnote]] 我会尽力将概率调大的(o゜▽゜)o☆ [[/footnote]]，当出现这种状态时，流浪者喝上一口就会到达[[[https://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]，但由于该种状态于正常状态极为相似，以至于外貌几乎都一样。
+[[/tab]]
+[[tab 正常状态]]
+这种状态与[[[https://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]中普通的湖泊一样，且这种湖泊出现的概率最大。
+[[/tab]]
+[[tab 星空状态]]
+星空状态的湖水颜色与[[[Level IF-108]]]的夜空中的颜色相似，但里面有一些类似星星的物体，这些类似星星的物品可以被食用，若流浪者食用了“星星”，那么流浪者将会被传送至有太空景观且安全的层级
+[[/tab]]
+[[/tabview]]
+
+医疗设施是该层级最突出的特点之一。城市内设有设备完善的医院，但调查显示这些医疗设备可能仅具装饰功能。所有进入医院的流浪者，其疾病症状都会立即消失，这一特殊现象使得该层级因疾病导致的死亡率降至极低的0.1%。这种近乎奇迹的治愈效果至今仍是[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G]]]重点研究的课题。
+
+该层级内具有独特的经济体系，在该层级中，金钱概念几乎失去意义。所有基础生活物资与服务均可免费获取，流浪者无需为日常需求担忧。然而，这一福利制度存在唯一例外：当个体违反层级特定规则时，系统将自动扣除相应数额的货币作为惩罚。这种特殊机制既保障了层级的正常运转，又维持了基本秩序。
+
+以下是M.E.G整理出来的规则：
+
+* 1、该层级内不允许犯罪。
+* 2、禁止将任何层级的威胁代入该层级。
+
+该层级的中心处有一块石牌，石碑上通常刻着几个字为：
+
+[[include :backrooms-wiki:component:scrollquote
+image=http://backrooms-ac.wikidot.com/local--files/level-ac-29/644f157a00a9aaeb2133948d8c73b31f1245445300.jpg%40720w_480h_1e_1c.avif]]
+//“你好(*╹▽╹*)”//
+
+[[include :backrooms-wiki:component:scrollquote-end]]
+
+++ 现象
+
++++ 资源雨
+
+该层级中的雨与[[[https://backrooms-wiki-cn.wikidot.com/phenomenon-c-3|Phenomenon C-3]]]不同，其为一种下着后室物品的雨，若流浪者身体的某个部位接触到物品，物品会表现出一种软软的感觉，掉到地面上时，又会变为原来材质的触感。雨中的物品会随着季节的变化而变化，以下是该层级不同季节下的物品：
+
+[[=]]
+[[collapsible show="展开不同季节下的物品" hide="关闭"]]
+
+++++ 春季
+
+[[[https://backrooms-wiki-cn.wikidot.com/object-1|杏仁水]]]（瓶装）、[[[https://backrooms-wiki-cn.wikidot.com/object-5|糖果]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-3|驱笑剂]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-16|皇家口粮]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-43|塔罗牌组]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-51|一些口袋]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-74|迁跃浆果]]]。
+
+++++ 夏季
+
+[[[https://backrooms-wiki-cn.wikidot.com/object-c-1|罐装龙肉]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-20|紫钥石]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-28|诺克立普贴]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-32|枇杷果]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-154|云朵面包]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-7|星云]]]。
+
+++++ 秋季
+
+[[[https://backrooms-wiki-cn.wikidot.com/object-c-298|苹果]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-119|保护绷带]]]。
+
+++++ 冬季
+
+[[[https://backrooms-wiki-cn.wikidot.com/object-c-19|杏仁制品]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-27|家香]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-71|安全睡袋]]]、[[[https://backrooms-wiki-cn.wikidot.com/object-c-8|治愈水晶]]]。
+
+[[/collapsible]]
+[[/=]]
+
++++ 应当
+
+* 去收集雨中下的物品。
+* 遵守法律。
+
++++ 不应
+
+* 错过。
+* 抢夺。
+
+++ 实体
+
++++ 烟花
+
+**烟花**是**Level IF-80**中除了层级本身唯一的实体。**烟花**起初被认为是该层级的现象之一，但经[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G]]]调查，烟花很有可能是该层级的独特实体，但无法被证实；因**烟花**周围似乎又一股无形的屏障。
+
++++ **“火花”**
+
+**“火花”**是该层级的化身，外观与[[[https://backrooms-wiki-cn.wikidot.com/entity-132|Entity 132]]]类似，但**“火花”**具有眼睛且能控制该层级内的环境与入口和出口，而[[[https://backrooms-wiki-cn.wikidot.com/entity-132|Entity 132]]]没有，因此**“火花”**没有被定义为[[[https://backrooms-wiki-cn.wikidot.com/entity-132|Entity 132]]]中的特殊品种。**“火花”**的电视可以播放视频，但她不允许任何人播放视频[[footnote]] 目前只有佚名播放过视频。 [[/footnote]]。**“火花”**会[[[https://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]中的所有语言[[footnote]] 如：日本語、English
+ [[/footnote]]。
+
+++ 基地、前哨与社区
+
++++ [[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G]]]“烟花秀”基地
+
+* 基地靠近医院附近。
+* 人数为100人。
+* 友好，开放交易。
+
+**因一些原因只显示重要基地。**
+
+++ 入口与出口
+
++++ 入口
+
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-11|Level 11]]]中找到一个烟花会来到该层级。
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-36|Level 36]]]中找到飞往上海的登机口会来到该层级。
+* 在[[[https://backrooms-wiki-cn.wikidot.com/level-c-100|Level C-100]]]切入一个烟花会来到该层级。
+* 在任意城市层级都有几率无缝衔接至该层级。
+* {{你为什么要离开[[[https://backrooms-wiki-cn.wikidot.com/level-200|家]]]呢？}}[[footnote]] 在[[[https://backrooms-wiki-cn.wikidot.com/level-200|Level 200]]]见到烟花秀 [[/footnote]]
+* 更多入口尚待该层级建设。
+
++++ 出口
+
+* 切入医院会回到原来的层级。
+* 切入烟花周围的地面会来到[[[https://backrooms-wiki-cn.wikidot.com/level-11|Level 11]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-36|Level 36]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-c-28|Level C-28]]]、[[[https://backrooms-wiki-cn.wikidot.com/level-c-34|Level C-34]]]。
+* 找到一个与众不同的小巷会来到[[[Level IF-17]]]。
+* 在该层级内找到一个农田会来到[[[https://backrooms-wiki-cn.wikidot.com/level-184|Level 184]]]。
+* 找到一个写着“环线”的地铁站会来到[[[https://backrooms-wiki-cn.wikidot.com/level-c-228|Level C-228]]]。
+* 更多出口尚待该层级建设。[[footnote]] 为什么什么都要我建造(*╹▽╹*) [[/footnote]]
+
+[[collapsible show="对于该层级的采访记录" hide="关闭"]]
+
+> //对该层级的采访记录//
+> **遭遇对象：**该层级的层级意识
+> **遭遇地点：** **Level IF-80**
+> **交涉人员：** **佚名**[[footnote]] 他就叫佚名(～￣▽￣)～ [[/footnote]]
+> ------
+> [[=]]
+> **[记录开始]**
+> [[/=]]
+> （**佚名**在**Level IF-80**中逛了几下之后遇到了**“火花”**，然后就开始对**“火花”**进行采访）
+>
+> **佚名：**请问你为什么要对人类这么友好呢？
+>
+> **火花：**因为我觉得害人不利己呀(*╹▽╹*)
+>
+> **佚名：**所以这就是对人类好的原因？
+>
+> **火花：**是呀(๑╹ヮ╹๑)ﾉ
+>
+> **佚名：**那么来到第2个问题：为什么刚开始的时候不把返乡状态调高一点，而是以后慢慢调高呢？
+>
+> **火花：**因为我知道有**后室意识**这个东西，我怕调高一点我就得进[[[https://backrooms-wiki-cn.wikidot.com/the-broken|破碎之地]]]了(￣^￣)ゞ
+>
+> **佚名：**你知道**后室意识**？
+>
+> **火花：**在网上不就可以看到吗(〜￣△￣)〜
+>
+> **佚名：**既然你可以上网查询资料那我也不问了。
+>
+> **火花：**这么短吗，我看别的采访都是好久的Σ(☉▽☉"a
+> ------
+> [[=]]
+> **[记录结束]**
+> [[/=]]
+
+[[/collapsible]]
+
+[[collapsible show="附录A - “层级开通铁路的事以及各个线会去往的层级”" hide="关闭"]]
+
+2027年年初，因为**Level IF-80**变成热门层级，在各个组织的考虑下，决定给**Level IF-80**造个铁路，**Level IF-80**也同意了这件事。
+
+以下是各个线会开往的层级：
+
+[[include component:image-block
+|name= http://backrooms-ac.wikidot.com/local--files/level-ac-29/IMG_4007.jpeg
+|caption=来自**佚名**手绘
+]]
+
+[[tabview]]
+[[tab 红线]]
+**Level IF-80**→[[[https://backrooms-wiki-cn.wikidot.com/level-97|Level 97]]]→[[[https://backrooms-wiki-cn.wikidot.com/level-158|Level 158]]]→[[[Level IF-31]]]→终点站“[[[https://backrooms-wiki-cn.wikidot.com/level-194|Level 194]]]”
+[[/tab]]
+[[tab 蓝线]]
+**Level IF-80**→[[[https://backrooms-wiki-cn.wikidot.com/level-194|Level 194]]]→[[[Level IF-108]]]→[[[Level IF-15]]]→[[[https://backrooms-wiki-cn.wikidot.com/level-27|Level 27]]]→[[[https://backrooms-wiki-cn.wikidot.com/level-162|Level 162]]]→终点站“[[[https://backrooms-wiki-cn.wikidot.com/level-180|Level 180]]]”
+[[/tab]]
+[[tab 黄线]]
+**Level IF-80**→[[[https://backrooms-wiki-cn.wikidot.com/level-184|Level 184]]]→[[[https://backrooms-wiki-cn.wikidot.com/level-c-12|Level C-12]]]→[[[https://backrooms-wiki-cn.wikidot.com/level-c-113|Level C-113]]]→终点站“[[[https://backrooms-wiki-cn.wikidot.com/speednoclipping-midpoint|速切中点]]]”
+[[/tab]]
+[[tab 绿线]]
+**Level IF-80**→[[[Level IF-98]]]→[[[Level IF-99]]]→[[[Level IF-19]]]→终点站“[[[https://backrooms-wiki-cn.wikidot.com/speednoclipping-midpoint|速切中点]]]”
+[[/tab]]
+[[/tabview]]
+
+[[/collapsible]]
+
+[[<]]
+[[collapsible show="附录B - “REDE实体尝试侵入的记录”" hide="关闭"]]
+
+> 时间：2027年12月5日
+> REDE实体：[[[https://backrooms-wiki-cn.wikidot.com/rede-2|远行号角]]]
+> 发现记录：“火花”在逛了一下之后准备前往[[[Level IF-17]]]时，发现了[[[https://backrooms-wiki-cn.wikidot.com/rede-2|远行号角]]]和受控人类。
+> 处理方式：“火花”通过控制出口让远行号角去到[[[Level IF-49]]]。
+> （以至于[[[Level IF-49]]]结果如何请收看附录C）
+
+[[/collapsible]]
+[[/<]]
+
+[[collapsible show="附录C - “附录B的后续”" hide="关闭"]]
+
+> **“火花”**将[[[https://backrooms-wiki-cn.wikidot.com/rede-2|远行号角]]]引到[[[Level IF-49]]]之后，由于[[[Level IF-49]]]过于狭小，[[[https://backrooms-wiki-cn.wikidot.com/rede-2|远行号角]]]只能切出[[[Level IF-49]]]到[[[Level IF-31]]]。
+
+[[/collapsible]]
+
+[[collapsible show="附录D - “熊出没？”" hide="关闭"]]
+
+> 最近**Level IF-80**出现了疑似[[[https://backrooms-wiki-cn.wikidot.com/the-frontrooms|前厅]]]动画片《熊出没》的角色且城市各处出现了动画中出现过的东西，目前是已收集到的：
+
+[[div class="styled-quote"]]
+**编号**：IF80-001
+**物品**：电锯
+**启动方式**：大喊“砍树去喽”即可启动
+**备注**：/
+[[/div]]
+
+------
+
+++++ //更多《熊出没》物品等待着您的发现//
+如果您有意要为**Level IF-80**的纪念品交互清单作出贡献，请按照以下步骤添加您的纪念品：
+* 思考一个合适的物品
+* 给予它一个符合“IF80-XXX”格式的编号，编号可以不遵循排列顺序，但不可重复或超出四位
+* 为它编写一个光怪陆离的启动方式
+* 您也可以选择填写**有意义的**备注或直接在备注栏输入“/”
+* 请将以上内容代入以下格式：
+> @@[[div class="styled-quote"]]@@
+> @@**编号**@@：IF80-XXX
+> @@**物品**@@：（注意纪念品字体要加粗）
+> @@**启动方式**@@：（此处要求同上）
+> @@**备注**@@：
+> @@[[/div]]@@
+* 代入并检查无误后，复制粘贴至清单末尾（注意空行）
+* 请在作者展示里用“IF80-XXX来自@@[[*user 你的用户名]]@@”的格式加上您的姓名，并列出您贡献的纪念品编号
+* 原作者可能对您的纪念品交互做适当完善，请见谅。同样地，原作者会对描写不合适的、内容极其无趣或格式错误的纪念品进行大改或清除
+* ##red|未经允许请勿对其他内容进行改动，违者必究##
+
+[[/collapsible]]
+
+------
+
+[[>]]
+[[collapsible show="感谢观看！" hide="关闭"]]
+作者：[[*user haodemingzi]]
+第一幅图来自百度
+其余两幅图来源于[[*user haodemingzi]]绘制
+附录D参考自[[[https://backrooms-wiki-cn.wikidot.com/level-c-113|Level C-113]]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-79]]] | Level IF-80 | [[[Level IF-81]]] >>
+[[/=]]
+[[/div]]

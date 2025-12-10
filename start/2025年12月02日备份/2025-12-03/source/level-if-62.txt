@@ -1,0 +1,226 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "deep-forest-theme";
+   --theme-name: "Deep Forest Theme";
+ 
+   --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "The Backrooms";
+   --header-subtitle: "你曾经来过这里";
+ 
+    --body-font: Inter, Noto Sans SC, Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, Noto Sans SC, Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, 幼圆, Noto Serif SC, Consolas, monaco, monospace;
+ 
+   /* 深绿色系调色板 */
+   --white-monochrome: 18, 32, 24;            /* 深墨绿 */
+   --pale-gray-monochrome: 8, 20, 12;         /* 近乎黑的深绿 */
+   --light-gray-monochrome: 60, 95, 70;       /* 青苔绿 */
+   --gray-monochrome: 140, 175, 140;          /* 灰绿色 */
+   --black-monochrome: 230, 245, 230;         /* 淡青白 */
+   --bright-accent: 80, 140, 90;              /* 鲜叶绿 */
+   --medium-accent: 50, 110, 70;              /* 森林绿 */
+   --dark-accent: 30, 80, 45;                 /* 松针绿 */
+   --pale-accent: 120, 160, 120;              /* 雾霭绿 */
+   --dark-gray-monochrome: 100, 120, 100;     /* 橄榄灰 */
+   --light-pale-gray-monochrome: 15, 25, 18;  /* 幽暗绿 */
+   --very-light-gray-monochrome: 40, 60, 45;  /* 深苔藓绿 */
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--pale-gray-monochrome)) 0%,
+      rgba(8, 20, 12, 0.20) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--black-monochrome);
+   --swatch-headerh2-color: var(--black-monochrome);
+   --swatch-topmenu-border-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-bg-color: var(--pale-gray-monochrome);
+ 
+   --link-color: 100, 230, 120;               /* 荧光绿 */
+   --hover-link-color: 80, 200, 100;          /* 亮绿色 */
+ 
+   --background-gradient-distance: 0rem;
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#skrollr-body {
+   background-image:
+    radial-gradient(circle, rgb(var(--pale-gray-monochrome)) 50%, transparent 0);
+   background-repeat: repeat;
+   background-size: 0.25em 0.25em;
+   width: 100%;
+   height: 7.5rem;
+}
+ 
+#container {
+   background-image: radial-gradient(circle, rgba(8, 20, 12, 0.40) 50%, transparent 0);
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+/* 其他样式保持不变... */
+
+/* 调整引用块颜色 */
+.styled-quote {
+   background-color:rgba(8, 20, 12, 0.8);
+   border-left: 0.5rem solid rgba(var(--bright-accent));
+}
+
+.dark-styled-quote {
+   background-color:rgb(var(--light-gray-monochrome));
+   border-left: 0.5rem solid rgba(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+   background-color: rgba(30, 80, 45, 0.9) !important;
+   color: rgb(var(--black-monochrome));
+   border-color: rgb(var(--bright-accent));
+}
+
+/* 代码块样式 */
+#page-content pre,
+#page-content code {
+   background-color: rgba(18, 32, 24, 0.9);
+   border-color: rgb(var(--bright-accent));
+}
+
+/* 图片边框 */
+.scp-image-block {
+   border: 1px solid rgb(var(--bright-accent));
+   box-shadow: 0 0.2rem 0.3rem rgba(30, 80, 45, 0.5);
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=蚀骨之痛
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=2e-环境危害
+|image=http://backrooms-wiki.wikidot.com/local--files/level-166/2eSDclass.png
+|one=不安全
+|two=不稳定
+|three=资源匮乏
+|lang=cn
+]]
+@@@@
+@@@@
+**Level IF-62**是后室IF层群的第62层。
+@@@@
+@@@@
++ **描述**
+
+**Level IF-62**是一处非线性空间，表现为一个室内环境。**Level IF-62**的外观类似于一组连续的植物收藏室，其内部空间推测是无限的。这个层级主要由交错的走廊与走廊两侧的房间构成，内部照明设施稀少，相对黑暗的环境对于探索工作造成了一定的阻碍。
+
+**Level IF-62**内部有着大量的类似于窗口的结构，从窗口向外观察可以观察到所处的这一个室内环境的外部时刻处于黑夜的状态。在窗口外侧可以观察到少量类似于路灯的物体，也有可能会有类似于树枝的物体在窗口摇晃。即使这些窗口有的处于打开的状态，但是流浪者进行任何尝试翻过窗口的行为均已被证实无法成功。
+
+[[include component:image-block |name=http://if-backrooms.wikidot.com/local--files/level-if-62/IMG_5542.jpeg
+ |caption=**Level IF-62**。摄于2017年4月5日。
+]]
+
+**Level IF-62**内部的环境较为破败，墙壁粗糙而肮脏，附着有一层黑色的粉末状物质并且不时渗出一种油状液体，触感潮湿。在地面上经常能够发现泥土和碎岩石的痕迹，这导致**Level IF-62**地表凹凸不平，经常使流浪者摔倒。加之层级内部的黑暗环境，在**Level IF-62**内部进行远距离探索被认为是不可行的，我们也不建议流浪者这么做。
+
+除此之外，**Level IF-62**内部存在着大量的植物。虽然层级内部极度黑暗，理论上植物不可能进行光合作用，但是这一些植物却没有表现出任何枯萎或者腐败的迹象。在这一些植物的表面覆盖有一层粘稠的液体，其化学构成未知，由于这个原因我们一般认为这一些植物无法进行食用。事实上，**Level IF-62**内部的资源极度匮乏，任何例如杏仁水或者皇家口粮之类有用的资源从未在**Level IF-62**被发现过。
+@@@@
+@@@@
+[[collapsible show="关于肉食性植物" hide="隐藏"]]
+[[div class="blockquote"]]
+
+**[已编辑]**是一种食虫植物。其具有较高的欣赏性和趣味性，常用于盆栽观赏。还被作为奇异花卉点缀于沼泽园或供植物教学之用。当昆虫停留在黏液上时，**[已编辑]**将会迅速收起枝干，将可怜的昆虫团团裹住，溶解消化，再为己所用……之后，它重新展开叶片，看起来是那样的玲珑美丽。
+
+——摘自百科全书
+@@@@
+@@@@
+Dr.Armstrong向我们保证，生物电科技将会拥有无限的未来。我们笑着赞许他说的话，因为在钱面前，科学精神和人性一文不值。我们修筑了一个堡垒，要不然那些流浪汉会像被抓住的母羊似的又哭又叫。这里是完全封闭的，我们已经确保他们没有办法发出任何求救的信号。
+
+在我们复杂的准备之下，研究得以顺利开展。但是有一天Sam对我说，他打算退出了。他觉得那一些植物不是真正的植物。我们当然是不可能让技术泄露出去的，所以在第二天，Grace偷偷地把他检举了。
+
+Sam活不长了。但是没关系，我会拿到自己应得的那一份。
+[[/div]]
+[[/collapsible]]
+@@@@
+@@@@
+**Level IF-62**似乎还存在一些还未被探明的异常效应。进入这个层级的流浪者将会在两个小时内失联，实际上在**Level IF-62**的大部分区域内都是不支持通讯的。我们在这些区域内部发现了一些信号屏蔽器以及它们被人为安装的痕迹，但是到目前为止从来没有抓获过任何一名这种装置的安装者。我们推测这是由于层级内部的孤立效应，导致这之类的行为想要实现非常困难。
+@@@@
+@@@@
+[[collapsible show="附录：一张被发现于Level IF-62的字条" hide="隐藏"]]
+[[div class="blockquote"]]
+他们是一群疯子。
+
+Marry死了。我至今都还记得她的脸，那前所未有的干枯与恐怖，淡蓝色的遮阳帽变成了一块块破破烂烂的黑色碎片。但是想来，她死时也还不算很痛苦。即便如此，她难道就该死么？不过是罪人证明自己无辜的遁词罢了。
+
+那个自称Dr.Armstrong的弱智告诉他们，研究所里的植物能够发电。然后，这一群被叫做研究员的家伙开始在小镇里面招募流浪汉，把他们喂给那一些叶片表面流着粘液的植物。
+
+谁也不知道自己是不是下一个。先是Sally，然后再是Alan，Marry。希望别轮到我。我不想死。
+[[/div]]
+[[/collapsible]]
+@@@@
+@@@@
+@@@@
++ **基地、前哨与社区**
+
+由于**Level IF-62**内部存在孤立效应，因此没有已知的基地，前哨与社区。
+@@@@
+@@@@
+@@@@
++ **入口与出口**
+
+++++++ 入口
+* 从[[[Level IF-60]]]中切入树干，将会使流浪者来到**Level IF-62**。
+* 从[[[Level IF-54]]]中切入粘稠的泥土，将会使流浪者来到**Level IF-62**。
+* 从[[[Level IF-35]]]切出的流浪者，将有概率来到**Level IF-62**。
+
+++++++ 出口
+* 切入植物体会让流浪者来到[[[Level IF-54]]]。
+* 切入一块被淤泥覆盖的地面将会使流浪者来到[[[Level IF-8]]]。
+* 切入一个封闭式房间的墙壁将会使流浪者进入[[[Level IF-25]]]。
+* 尝试从窗口切出，将会使流浪者来到[[[Level IF-88]]]。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+它在消化我们。
+@@@@
+@@@@
+我们原以为在Dr.Armstrong的领导下，这一切的局面还能控制得住。直到那一天早上，我们像以往一样谈笑风生地走进房间，看见了地上的那一具干尸，那焦黑，干枯的脸。
+@@@@
+@@@@
+昔日的领导者成为了第一个死者。
+@@@@
+@@@@
+我们出不去了。我们以前为研究而做的一切，如今都变成了囚禁我们的牢笼。我们只有在这地狱里面悔恨着，嚎哭着，直到喉咙嘶哑得什么声音也发不出来。
+@@@@
+@@@@
+我现在时常想到那个女孩，她有着一头浓密的黑发，戴着淡蓝色的遮阳帽，在**曾经**的树影婆娑下微笑着。我猜她可能喜欢被青翠的枝叶环绕的感觉，她最终保持这种姿态，像植物一样枯萎腐败，可她身边的藤蔓却显得更加有生机了。她的残骸佝偻着，与绿意融化在一起，那是在……
+@@@@
+@@@@
+硫酸是一种很重的，很粘稠的液体。它覆盖在叶片的表面，也曾经覆盖在少女的皮肤上，把那白皙的组织里面的水一层层地脱掉，最后变成黑色的碳。
+@@@@
+@@@@
+我不敢想象这需要承受怎样的痛苦。而现在，它终于轮到我们了。
+@@@@
+@@@@
+永不落幕的夜空之下，没有一个人是无罪的。
+@@@@
+@@@@
+永不升起的太阳背后，每一个人都如此丑陋。
+[[/div]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-61]]] | Level IF-62 | [[[Level IF-63]]] >>
+[[/=]]
+[[/div]]

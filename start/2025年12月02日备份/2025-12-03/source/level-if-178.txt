@@ -1,0 +1,24 @@
+[[>]]
+
+[[module rate]]
+
+[[/>]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+
+------
+
+[[collapsible show="在这背后……" hide="是著作信息！"]]
+使用[[*user username2357]]来标注作者。
+除了[https://unsplash.com/photos/hxcQzqPeziw 这张图] 由Unsplash上的 [https://unsplash.com/@betno Dominik Bednarz] 发表，经 [https://unsplash.com/license Unsplash License] 授权和[https://unsplash.com/photos/t6kr9bbHaVg 这张图] 由Unsplash上的 [https://unsplash.com/@fgiorgio Florian GIORGIO] 发表，经 [https://unsplash.com/license Unsplash License] 授权，其他均为自摄
+版式是[http://backrooms-wiki-cn.wikidot.com/theme:to-wish-upon-a-dream 许愿梦境]
+第一次参赛，质量较低，请见谅
+[[/collapsible]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-177]]] | Level IF-178 | [[[Level IF-179]]] >>
+[[/=]]
+[[/div]]

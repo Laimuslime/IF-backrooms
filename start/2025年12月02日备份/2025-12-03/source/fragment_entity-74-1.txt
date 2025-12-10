@@ -1,0 +1,295 @@
+[[include :backrooms-wiki-cn:theme:eyes-of-argos]]
+
+
+
+
+
+[[module css]]
+.testblock {
+   background-color:rgb(var(--bright-accent));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+#header h1, #header h1 a {
+  justify-content: center;
+}
+
+#header h2, #header h2 span, #header h2 span::before {
+  justify-content: center;
+  left: 0;
+}
+
+#header::before {
+  background-position: center;
+  left: 0;
+}
+[[/module]]
+
+[[html]]
+<style type="text/css">
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--4b961b7cc327/common--theme/base/css/style.css);
+@import url(http://backrooms-wiki.wikidot.com/local--files/component:theme/nulim-norm.min.css);
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Anuliminal/1);
+@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Aeyes-of-argos/1);
+
+input {
+  background-color: rgb(var(--black-monochrome));
+}
+
+button.login-btn {
+  background-color: rgb(var(--black-monochrome));
+}
+
+.fade-in {
+  display: none;
+  animation: fadeIn 5s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
+<div style="text-align: center;">
+<input id="button_here" placeholder="输入密码">
+<button onclick="verify_login()" class="login-btn">--></button>
+</div>
+<script>
+    function verify_login() {
+      const passwords = [
+        "Armageddon Engine",
+        "Armageddon",
+        "Engine",
+      ].map(p => p.toLowerCase());
+      const input = document.getElementById("button_here").value.toLowerCase();
+
+      if (passwords.includes(input)) {
+        document.querySelector('.fade-in').style.display = 'block';
+      } else {
+        alert("输入错误。尚余 (999) 尝试次数");
+      }
+    }
+</script>
+<div class="fade-in">
+<hr />
+<div class="borderblock">
+<p>所以，你的好奇心最终还是战胜了你的理智。</p>
+<p>别装傻了。你知道你为什么要来这里。因为你渴望<em>真相。</em> 你不再满足于盲信，它已不足以维系你的忠诚。或许你是个不速之客&#8212;某个黑客技术远超于智商的闯入者。</p>
+<p>无论原因如何，都无所谓。很多人找到G.P.D.的那个&quot;持矛神秘救世主&quot; 的页面就已经心满意足了，答案也足够简单了。</p>
+<p>但<em>你</em>偏偏开始探究<span style="color: #449ef5">引擎</span>，才落得如今的下场。</p>
+<p>权且把这当作我们的橄榄枝，一份诚意象征，一次善意示意，只希望你就此<em>收手</em>，莫再深究。</p>
+<p>你已挠破了蚊子叮咬的肿包，切勿让它爆裂开来。</p>
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+<p>&#8212; [罪孽捕手的统帅：<span style="color: #20035c">ANUBIS</span>]</p>
+</div>
+</div>
+<hr />
+<p><span style="white-space: pre-wrap;">&#32;</span><br />
+<span style="white-space: pre-wrap;">&#32;</span></p>
+<hr />
+<div class="styled-quote">
+<p><strong>他说：“你不能看见我的面，因为人见我的面不能存活。”</strong></p>
+<p>——<em>《出埃及记》33:20</em></p>
+</div>
+<hr />
+
+
+
+<div class="darkblock">
+<style>
+.draggable {
+user-select: none;
+position: relative;
+z-index: 8;
+border: 1px solid #333;
+background-color: #fff;
+box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+padding: 1em 2em;
+max-width: 70vw;
+line-height: 1.5;
+font-family: proxima-nova, sans-serif;
+font-size: 0.9375rem;
+color: black;
+}
+@media only screen and (max-width: 768px) {
+.draggable {
+font-size: .9em;}
+}
+
+#text {
+padding: 1em;
+width: 100%;
+}
+
+.right {
+position: absolute;
+right: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.bullet {
+list-style-type: "/02DF";
+}
+
+.show {
+z-index: 10;
+}
+
+tt {
+font-variation-settings: "wght" 350;
+}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
+<script src="https://backrooms-wiki.wdfiles.com/local--files/component%3Adraggable/draggableDiv.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+$(document).ready(function () {    
+$(".draggable").mousedown(function() {    
+$(this).addClass('show');
+$(this).siblings().removeClass('show');
+});
+})
+</script>
+
+<div class="draggable">
+<p>
+<div>
+
+<i>描述</i>阿尔戈斯。这就像要求一个盲人去描述绿色一样。我们知道它真实存在。有时我们甚至能感知到它。就像盲人咬下一口苹果，明知它是“红色”的，却永远无法真正理解自己吃下的是什么。
+<br>
+<br>现在，想象这个盲人突然获得了视力，但仅仅只有一瞬间。
+<br>
+<br>
+
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手 003：
+<span style="color: #bdb237">MINOS</span>
+]
+</div>
+</div>
+</p>
+</div>
+
+<div class="draggable right">
+<p>
+<div>
+
+机器拥有着<i>行为</i>，还是说它们只是预先编写好的代码的执行结果？
+
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手的监察者
+<span style="color: #0815cc">YAMA</span>
+]
+</div>
+</div>
+</p>
+</div>
+
+<div class="draggable right">
+<p>
+<div>
+
+阿尔戈斯没<i>有</i>真正的形态。他存在于你的想象——若你知道他的存在，他就会杀死你。你躲得越远，他就越会靠近你。
+
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手 006：
+<span style="color: #217a1c">GIDEON</span>
+]
+</div>
+</div>
+</p>
+</div>
+
+<div class="draggable">
+<p>
+<div>
+
+人们视我们为执法官。警察。正义的仆从。
+但这些看法不过是我们工作中偶然产生的误解。
+<br>
+<br>阿尔戈斯的真正本质，既不是仁慈的调解者，也不是残酷的执法官。许多人加入我们的组织，是出于行善的愿望——将“罪人”从街头清除，为这些动荡的领域恢复安全与和平。
+<br>
+<br>我们只是采纳了这种信条，以吸引更多人加入。
+<br>
+<br><i>我们</i>才是阿尔戈斯最纯粹的信徒。我们不为正义服务，我们为秩序服务。
+<br>
+<br>阿尔戈斯是我们的指引者——而我们是它的眼睛。我们的天平不会因善恶、贪婪或谦卑而倾斜。我们的天平只衡量<i>混乱</i>与<i>秩序。</i>在阿尔戈斯的眼中，没有“灰色地带”。只有稳定与不稳定。落入我们视线之人，既不是对人类犯罪，也不是对神明犯罪，而是对平衡犯罪。我们的职责是保护这种平衡，而不是质疑为了维持它必须做什么。
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手 004：
+<span style="color: #999999">QUETZALCOATL</span>
+]
+</div>
+</div>
+</p>
+</div>
+
+<div class="draggable right">
+<p>
+<div>
+
+<br>它无形，却真实存在。无意识，却全知全能。不可见，却被所有人目睹。
+<br>
+<br>阿尔戈斯就像一个故事。故事是文化的命脉，是社会的根基。正是通过故事，我们理解自然世界、道德准则与社会契约。故事的存在是为了让我们认识自己——警示我们避开凡人必经的陷阱。
+<br>
+<br>别把它当作幼稚的童话。切勿误解——阿尔戈斯是一个<i>警告。</i>
+<br>
+<br>一个我们尚未破译的警告。
+
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手 史学家：
+<span style="color: #77bdaa">METATRON</span>
+]
+</div>
+</div>
+</p>
+</div>
+
+<div class="draggable">
+<p>
+<div>
+
+正义并非盲目，只是它目睹得太多了。
+
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+——[罪孽捕手 000：
+<span style="color: #a31e03">SHAMASH</span>
+]
+</div>
+</div>
+</p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+<hr />
+<div class="styled-quote">
+<p><strong>除了从神来的，没有人见过父。</strong></p>
+<p>——<em>John 6:46</em></p>
+</div>
+<hr />
+<p><span style="white-space: pre-wrap;">&#32;</span><br />
+<span style="white-space: pre-wrap;">&#32;</span></p>
+<div class="borderblock">
+<p>你心中的疑问想必仍未得到解答，这很正常。但我仍想分享最后一条信息。</p>
+<p>外界有种流传甚广的说法称&quot;阿尔戈斯&quot;不过是个幌子，是我们自导自演的神明，专为替那些冷酷无情、自诩正义之人的行径开脱，不过是顶层人物捏造的傀儡罢了。</p>
+<p>若你选择相信这种论调，请务必铭记这个事实：</p>
+<h1 id="toc0"><span>即使是<em>我们</em>也未曾知晓有关阿尔戈斯的消息是从何而来</span></h1>
+<div style="text-align:right; color: rgb(var(--bright-accent));">
+<p>&#8212; [罪孽捕手的统帅：<span style="color: #20035c">ANUBIS</span>]</p>
+</div>
+</div>
+</div>
+[[/html]]

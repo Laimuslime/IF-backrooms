@@ -1,0 +1,60 @@
+[[include :backrooms-wiki-cn:theme:torso]]
+[[include :backrooms-wiki-cn:component:open-title]]
+[[=]]
+> 作者：[[*user caikunzitaimei]]。
+> [https://pixabay.com/zh/photos/scissors-duct-tape-blister-foil-1986602/ 图片链接][[footnote]]遵循Pixabay协议。[[/footnote]]。
+> 他站同投：[https://backroom-wiki-cn.wikidot.com/object-cloud-24 Object Cloud-24]、[https://three-backrooms.wikidot.com/object-three-1 Object Three-1]、[https://r-backrooms-wiki-cn.wikidot.com/object-r-7 Object R-7]。
+[[/=]]
+[[include :backrooms-wiki-cn:component:close-title]]
+**躯器编号：**IF-10
+
+**代价：**小
+
+**安装位置：**体外
+
++ 介绍：
+
+**Flesh IF-10**，或名//“伤口愈合带”//，其外观表现为一个与透明胶带高度相似的物品，其材料**培育者**拒绝透露。通常情况下不会出现在除[https://Backrooms-wiki-cn.wikidot.com/level-c-156 Antrum C-156]外的任何层级，尽管也有例外，也不建议流浪者们使用这些来历不明的//“伤口愈合带”//，其中大概率是被动了手脚。
+
+//“伤口愈合带”//的轴心部分是该躯器的种子，当//“伤口愈合带”//的胶面部分消耗殆尽后，其种子便可培育。整个培育过程大概需要2～4天，并且在此期间不可有任何人为干涉，否则种子无法培育。
+
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2017/01/17/12/03/scissors-1986602_1280.jpg
+|caption=//“伤口愈合带”//（右）的图片，旁边则是[https://if-backrooms.wikidot.com/object-if-9 后室剪刀]。
+]]
+
++ 功能：
+
+当//“伤口愈合带”//的部分胶面完全贴合在伤口处时，该胶面部分将会快速分解成胶原蛋白，快速修复伤口，1～2分钟过后，伤口将会完全修复。
+
+当然，代价便是在修复伤口的过程中，流浪者身体内的**红细胞**将会有小幅度的减少，长期依赖使用将会导致出现贫血症状。因此，不建议流浪者依赖与该躯器，也不要频繁使用该躯器。
+
++ 说明：
+
+以下是//“伤口愈合带”//的使用步骤：
+
+**一、**将胶面撕开至合适长度并将其剪下；
+
+**二、**将撕下的胶面贴在伤口[[footnote]]撕下的胶面必须要完全覆盖伤口。[[/footnote]]。
+
+**三、**期间不要有较大幅度的活动，静待原地等待1～2分钟；
+
+**四、**1～2分钟过后，伤口便会愈合完毕。
+
+**注意：**
+
+**一、**若撕下的胶面未完全覆盖伤口，则会导致伤口感染或身体休克。
+
+**二、**在愈合期间，剧烈运动或撕下胶面都可能会导致//“伤口愈合带”//的作用的失效。
+
+**三、**若以任何形式导致胶面覆盖的伤口造成二次伤害，则会使自身的伤势更加严重。
+
++ 获取：
+
+目前其仅可在[https://Backrooms-wiki-cn.wikidot.com/level-c-156 Antrum C-156]的{{**商业区**}}交易获得。
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Object IF-9|Flesh IF-9]]] |  Flesh IF-10  | [[[Object IF-11|Flesh IF-11]]] >>
+[[/=]]
+[[/div]]

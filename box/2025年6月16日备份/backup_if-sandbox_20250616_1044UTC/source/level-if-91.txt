@@ -1,0 +1,18 @@
+[[module rate]]
+[[>]]
+[[/>]]
+[[include component:level-class
+|class=5
+|lang=cn（繁体用tr）
+|color=#008000
+|image=图片URL（右边的图）
+|one=不安全
+|two=不稳定
+|three=实体横行
+]]
+**Level IF-91**是后室IF层群的第91层。
++ 描述：
+[[include component:image-block
+ |name=
+ |caption=**Level 0** 里所摄下的第一幅照片。
+]]

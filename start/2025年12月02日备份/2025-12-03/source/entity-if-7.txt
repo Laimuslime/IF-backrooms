@@ -1,0 +1,298 @@
+[[module css]]
+
+#page-options-container {
+    opacity: 0.1;
+}
+
+#page-options-container:hover {
+    opacity: 1;
+    transition: ease-in 0.1s;
+}
+
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container{
+    background-image: none;
+}
+
+.header-diamond {
+   display:none;
+}
+
+[[/module]]
+
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap');
+body{
+background:#161310;
+font-family:"Noto Serif SC";
+color:#d1d5c5;
+font-size:19px;
+}
+
+#search-top-box,#top-bar,#page-title,#header,#footer,#license-area,#footer,#license-area  {
+display:none
+}
+
+
+p {
+    line-height:230%;
+}
+
+#container-warp {
+    max-width:2000px;
+}
+
+a {
+    color: red;
+    color: red;
+}
+a:visited {
+    color: red;
+    color: red;
+}
+
+div#container-wrap {
+background: url() repeat;}
+
+.meta-title {
+display:none
+}
+
+
+
+#footer{
+opacity:0;
+}
+
+.page-rate-widget-box .rate-points,
+.page-rate-widget-box .rateup,
+.page-rate-widget-box .ratedown,
+.page-rate-widget-box .cancel {
+    background-color: transparent !important;
+    border-color: transparent;
+    color: #7b796a;
+}
+.page-rate-widget-box .rateup a,
+.page-rate-widget-box .ratedown a,
+.page-rate-widget-box .cancel a {
+    color: #7b796a;
+}
+.page-rate-widget-box .rateup a:hover,
+.page-rate-widget-box .ratedown a:hover,
+.page-rate-widget-box .cancel a:hover {
+    background: transparent;
+    color: #7b796a;
+}
+
+div.foldable-list-container > a:nth-child(2) {
+    display: none;
+}
+
+
+
+[[/module]]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+@@@@
+@@@@
+@@@@
+
+[[include component:image-block
+name=https://brsandbox-pro.wikidot.com/local--files/secret:entity-s-17/IMG_2824.jpeg
+|caption=A
+|width=50%
+|align=center
+]]
+
+@@@@
+@@@@
+@@@@
+
+A
+“**Entity IF-7**被形容为一台全景摄像机，主要栖息于一切存在道路的层级。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**为一类人型实体，外貌与正常前厅人类近乎一致，其头部被一台全景摄像机所替代。”##
+[[/>]]
+
+A
+“**Entity IF-7**与正常摄像机不同，该实体的部分结构已出现较为明显的损坏，且若长期暴露于人类视线中，损坏程度会变得愈发严重。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**的头部包裹着一颗鲜活且具有弹性的心脏，血管连接着表皮各处的金属零件。该实体除头部以外的部位均由金属材料构成，其内部除血管以外不存在任何其它器官。”##
+[[/>]]
+
+A
+“**Entity IF-7**会时刻在各个道路层级中游荡，该实体在后室中的分布极为广泛，且倾向于独自行动，尽管仍有流浪者报告过它们成群结队行动的记录。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**对摄像机或类似摄像机的物品留有极大的恐惧，在发现摄像机的同时会表现出惊恐、不安的情绪，并将头部转移至一侧，快速切出层级。”##
+[[/>]]
+
+@@@@
+@@@@
+@@@@
+
+[[include component:image-block
+name=https://brsandbox-pro.wikidot.com/local--files/secret:entity-s-17/IMG_2814.jpeg
+|caption=B
+|width=50%
+|align=center
+]]
+
+@@@@
+@@@@
+@@@@
+
+A
+“**Entity IF-7**会通过寄生的方式杀害受害者。该实体会先在受害者未察觉的情况下跳至受害者头部，随后该实体会将受害者的颈部完全切断，将其头部转移，让自身与受害者的颈部相连接。”
+
+[[>]]
+##878d92|B##
+##878d92|“若**Entity IF-7**拥有武器，在发现摄像机时，会冲上前去将摄像机摧毁，并击伤使用者，而后立即切出层级。若被摧毁物为一架携带着摄像机的无人机或其它单独行动的非生命体，则该实体会看向被摧毁物的残骸数十秒，随后丢弃武器并切出层级。”##
+[[/>]]
+
+A
+“受害者在被**Entity IF-7**寄生后仍保留着自身的意识。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**仍保留着清醒的自我意识。”##
+[[/>]]
+
+@@@@
+@@@@
+
+[[div class="darkblock"]]
+
+[[=]]
+1
+------
+//[记录开始]//
+[[/=]]
+
+A
+“**Entity IF-7**发现了一名受害者，正在慢慢地靠近这名受害者。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**正在[[[https://backrooms-wiki-cn.wikidot.com/level-c-244|一条公路]]]的一侧寻找出口，视角一直向前，探索期间从未回头过。”##
+[[/>]]
+
+A
+“**Entity IF-7**靠近这名受害者，跳上这名受害者的头部，并开始寄生他的头部。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**开始痛苦地尖叫着，尖叫声在几秒钟之内变为了电流声，随后，不再发出任何声响。该实体的头部掉落在地面上，其在与颈部脱落之后仍保留着脱落前惊恐的神情。”##
+[[/>]]
+
+A
+“**Entity IF-7**替代了**Entity IF-7**。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**被**Entity IF-7**所替代。”##
+[[/>]]
+
+[[=]]
+//[记录结束]//
+[[/=]]
+
+------
+
+[[/div]]
+
+@@@@
+@@@@
+
+[[=]]
+……
+[[/=]]
+
+@@@@
+@@@@
+
+[[div class="darkblock"]]
+
+[[=]]
+2
+------
+//[记录开始]//
+[[/=]]
+
+C
+“两名流浪者发现了一个携带着一根生锈撬棍的**Entity IF-7**，并走上前去进行观察。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**发现了两名流浪者，但并未对其做出任何反应。”##
+[[/>]]
+
+C
+“两名流浪者想要拿出摄像机对**Entity IF-7**进行拍摄，但因知道**Entity IF-7**会对摄像机产生恐惧，所以一名流浪者拿出镜子摆在**Entity IF-7**面前，让另一名流浪者在**Entity IF-7**背后通过镜面拍摄**Entity IF-7**。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**并未发现背后的摄像机，但从镜面中发现了变成摄像机的头部，感到非常得惊恐，于是拿起撬棍不停地击打自己的头部，直至玻璃碎裂，血液涌出。”##
+[[/>]]
+
+C
+“两名流浪者被眼前的场景吓住了，慌忙地向背面跑去。”
+
+[[>]]
+##878d92|B##
+##878d92|“**Entity IF-7**杀死了**Entity IF-7**。”##
+[[/>]]
+
+[[=]]
+//[记录结束]//
+[[/=]]
+
+------
+
+[[/div]]
+
+A
+“应当：远离。”
+
+[[>]]
+##878d92|B##
+##878d92|“应当：靠近。”##
+[[/>]]
+
+A
+“不应：靠近。”
+
+[[>]]
+##878d92|B##
+##878d92|“不应：远离。”##
+[[/>]]
+
+------
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+**作者：**//[[user Spocpa619]]//
+**版式制作者：**//drmarleak//
+由//[[user he fan]]//目击并拍摄了图1与图2，声明以CC-BY-SA 3.0协议发布。
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Entity IF-6]]] | Entity IF-7 | [[[Entity IF-8]]] >>
+[[/=]]
+[[/div]]
+
+[[footnoteblock]]

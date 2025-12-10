@@ -1,0 +1,166 @@
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "minimal-gray-theme";
+    --theme-name: "Minimal Gray Theme";
+
+    --header-font: 'SimSun', '宋体', serif;
+    --title-font: 'SimSun', '宋体', serif;
+    --body-font: 'SimSun', '宋体', serif;
+    --mono-font: 'SimSun', '宋体', monospace;
+
+    /* 浅灰与深灰色调 */
+    --white-monochrome: 255, 255, 255;         /* 纯白 */
+    --pale-gray-monochrome: 250, 250, 250;     /* 极浅灰 */
+    --light-gray-monochrome: 230, 230, 230;    /* 浅灰 */
+    --gray-monochrome: 150, 150, 150;          /* 中灰 */
+    --black-monochrome: 50, 50, 50;            /* 深灰(非纯黑) */
+    --bright-accent: 180, 180, 180;            /* 亮灰 */
+    --medium-accent: 120, 120, 120;            /* 中等灰 */
+    --dark-accent: 80, 80, 80;                 /* 深灰 */
+    --pale-accent: 240, 240, 240;              /* 超浅灰 */
+    --alt-accent: 100, 100, 100;               /* 替代灰 */
+
+    /* 简约的线性渐变 */
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent),1) 0%,
+        rgba(var(--dark-accent),1) 100%
+    );
+}
+
+/* 基础文本样式 - 字体调整为14px */
+#page-content {
+    font-family: var(--body-font);
+    font-size: 14px;  /* 从16px调整为14px */
+    line-height: 1.6;  /* 相应调整行距 */
+    color: rgb(var(--black-monochrome));
+    background-color: rgb(var(--white-monochrome));
+    padding: 15px;    /* 稍减内边距 */
+}
+
+/* 标题样式 - 按比例缩小 */
+#page-content h1 {
+    font-size: 1.8em;  /* 原约25px → 约22px */
+    margin-top: 1.5em;
+}
+#page-content h2 {
+    font-size: 1.5em;  /* 原约21px → 约18px */
+}
+#page-content h3 {
+    font-size: 1.2em;  /* 原约18px → 约16px */
+}
+#page-content h4,
+#page-content h5,
+#page-content h6 {
+    font-size: 1.1em;  /* 约15px */
+    margin-top: 1.2em;
+}
+
+/* 其他元素间距微调 */
+#page-content blockquote {
+    padding: 12px 18px;
+    margin: 18px 0;
+}
+#page-content pre {
+    padding: 12px;
+    font-size: 13px;  /* 代码字体稍小 */
+}
+#page-content table th,
+#page-content table td {
+    padding: 10px 12px;  /* 表格单元格间距减小 */
+}
+#page-content img {
+    margin: 20px auto;  /* 图片边距减小 */
+}
+
+/* 其余样式保持不变... */
+[[/module]]
+
+[[module Rate]]
+
+[[include component:level-class
+|class=1
+|one=安全
+|two=稳定
+|three=极少量实体
+|lang=cn
+]]
+
+**Level IF-91**是后室IF层群的第91层。
+
++ **描述**
+
+**Level IF-91**被认为是后室IF层群的枢纽之一。这个层级的外观表现为一座办公楼，其向各个方向无限延伸。**Level IF-91**的构成是复杂的，每一个进入这个层级的流浪者会首先来到一个会议室里。这个会议室里具有桌椅和照明设施，M.E.G.已经在此处做了记号来提醒流浪者进入了这个层级。会议室仅允许流浪者单独切入，但是多人同时出现在会议室里是可以实现的。
+
+[[include component:image-block |name= http://if-backrooms.wikidot.com/local--files/level-if-91/IMG_5544.jpeg
+ |caption=**Level IF-91**里所摄下的第一幅照片。
+]]
+
+在会议室之外的区域同样表现为办公楼外观，但是与会议室不同，这里具有一定的不稳定的特性，会出现空间转换的现象，不过频率较低。因此，在这个区域建设基地，前哨站与社区是可行的，并且已经有大量的人员在此地驻扎。
+
+在除了会议室以外的区域里，门被认为是**Level IF-91**的切出点，往往能够将流浪者带到其他的层级。除此之外，杏仁水，皇家口粮以及火盐之类的物资都可以在层级内部被找到。**Level IF-91**正常区域内部的照明设施从来没有表现过损坏的迹象，对此，我们目前正在研究中。
+
+但是一旦有多个流浪者同时切入**Level IF-91**，只有一名流浪者会来到正常区域，其他流浪者将会切入**黑障区**。
+
+**黑障区**
+
+**Level IF-91**的另外一个区域，与正常区域类似，黑障区的入口同样是一间会议室，但是那里并没有被标记，而且相当破败，似乎已经很久没有使用过。黑障区内部只有会议室以及和会议是紧密相连的走廊表现出稳定的特性，其他的区域具有孤立效应，将会阻碍流浪者的探索，并且难以建设基地。
+
+黑障区内部只有少量的照明设施，在有照明设施的地带内可以进行通讯，但是一旦进入没有照明设施的区域，通讯将会断开。黑障区内部几乎没有可以使用的资源，存在着通向其他层级的出口，但是相对于正常区域，可行的切出点是少见的。更多的出口会通向黑色的虚空，通常被认为是已经毁灭的层级。
+
+**电梯**
+
+电梯会出现在正常区域内的第一条走廊和黑障区内的第一条走廊中。**电梯**具有较为稳定的特性并且可以正常运行，是连接两个区域的唯一通道。流浪者可以通过电梯来到正常区域或者是黑障区。在这个区域中不存在切出这个层级的出口。
+
+[[div class="blockquote"]]
+
+对于这个层级这种异常结构的形成，历来争议颇多。目前支持人数最多的看法是，黑障区最早与正常区域相同，到后来遭遇了某种**“事故”**，导致了黑障区以及其通向层级的毁灭。但是在这一次事故中，有的层级得以保存，这导致了在黑障区内部以及正常区域内部相同切出点现象的产生。而在正常区域形成以后，黑障区就被废弃了，正常区域成为了那些得以保存层级的重要枢纽。
+
+[[/div]]
+
+近期以来，黑障区内部有照明设施的区域正在快速增加。我们认为，在某一天，也许黑障区会被正常区域完全取代。
+
++ **实体**
+
+在正常区域内部没有发现实体，但是在黑障区内会有少量的猎犬出没。我们一般认为其不构成威胁。
+
++ **基地、前哨与社区**
+
+++ M.E.G.先驱者前哨
+* 大约有45名常驻人员。
+* 可以为流浪者提供保护。
+* 支持贸易。
+* 允许新成员的加入。
+* 负责层级内部的探索以及物资收集工作。
+
+++ 火炬手
+* 大约有15名常驻人员。
+* 这个基地位于黑障区的入口处。
+* 可以为流浪者提供帮助与保护。
+* 与M.E.G.先驱者前哨存在建交关系，维持这个基地存在的物资由M.E.G.先驱者前哨进行提供。
+
+
++ **入口与出口**
+
+++++++ 入口
+* 在[[[Level 1]]]中，进入带有特定标识的铁门，将会来到**Level IF-91**。
+* 在[[[Level 2]]]中，一扇没有上锁的标有刻画痕迹的铁门将会使流浪者来到**Level IF-91**。
+
+++++++ 出口
+* 从进入的地方离开，将会使流浪者回到[[[Level 1]]]或者说是[[[Level 2]]]。
+* 层级内部的门可以使流浪者切出这里。在正常区域和黑障区都被发现的切出点可以来到的层级有[[[Level IF-2]]]，[[[Level IF-3]]]，[[[Level IF-5]]]，[[[Level IF-6]]]，[[[Level IF-11]]]，[[[Level IF-12]]]，[[[Level IF-16]]]，[[[Level IF-20]]]，[[[Level IF-38]]]，[[[Level IF-51]]]，[[[Level IF-58]]]，[[[Level IF-60]]]，[[[Level IF-97]]]，[[[Level IF-98]]]，[[[Level IF-99]]]。除此之外，只能在正常区域被发现的切出点可以来到的层级有[[[Level IF-4]]]，[[[Level IF-7]]]与[[[Level IF-8]]]。
+@@@@
+@@@@
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+内容主要是新站和老站的隐喻，圆设定用的
+图片来自网络，侵权必删。
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<<[[[Level IF-90]]] |Level IF-91 | [[[Level IF-92]]] >>
+[[/=]]
+[[/div]]

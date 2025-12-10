@@ -1,0 +1,151 @@
+[[module CSS]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "foj-theme-modified";
+    --theme-name: "后室观测极点主题";
+ 
+    /* Header */
+    --header-title: "后室观测极点";
+    --header-subtitle: "建造与发展";
+ 
+    /* 浅蓝白色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 245, 249, 252;
+    --light-pale-gray-monochrome: 220, 238, 255;
+    --very-light-gray-monochrome: 235, 245, 255;
+    --light-gray-monochrome: 200, 220, 240;
+    --gray-monochrome: 180, 200, 220;
+    --dark-gray-monochrome: 150, 180, 210;
+    --black-monochrome: 50, 100, 150;
+    
+    /* 蓝色系配色 */
+    --pale-accent: 200, 230, 255;
+    --bright-accent: 100, 180, 255;
+    --medium-accent: 70, 150, 230;
+    --dark-accent: 40, 120, 200;
+    --alt-accent: 120, 190, 255;
+ 
+    /* 背景和头部颜色 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+ 
+    /* 主要主题颜色 */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 保持其余CSS规则不变，颜色会自动应用新的配色方案 */
+#page-title {
+    border-color: rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2.2rem;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+#header h2, #header h2 span {
+    font-size: 1.4rem;
+    color: rgb(var(--medium-accent));
+}
+
+/* 调整背景渐变使其更柔和 */
+body, #skrollr-body {
+    background-image:
+     linear-gradient(to top,
+       rgba(var(--header-gradient-color-bottom), 0.8) 0%,
+       rgba(var(--header-gradient-color-middle), 0.6) 50%,
+       rgba(var(--header-gradient-color-top), 0.4) 100%
+     ),
+     var(--gradient-background)!important;
+}
+
+/* 使块引用看起来像蓝色便签纸 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--bright-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+    text-decoration: none;
+    border-radius: 3px;
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=3
+]]
+
+**Level IF-33**是后室IF层群的第33层。
+[[include component:image-block
+ |name=http://if-backrooms.wikidot.com/local--files/level-if-33/%E4%B8%AD%E5%BF%83%E5%8C%BA%E5%9F%9F
+ |caption=**Level IF-33**的中心区域
+]]
++ **描述：**
+Level IF-33类似于一个太空中的前哨站，环境失重，在进入此层级的瞬间流浪者的身上会自动穿戴宇航服，此前哨站即是整个层级，此层级中的太空并不存在任何物质，猜测极有可能只是层级中的一个布景，太空中包含数颗恒星，约330颗，肉眼可观测到12颗行星和23颗矮行星，如前文所述，所有行星均为虚假的、不存在的布景。
+
+层级内部的中心区域为由各种刚性材料组成的封闭房间，此区域为流浪者最先到达的区域，此房间内充满氧气，地板、墙壁、天花板存在有条纹的印迹，此区域光线较暗，电灯无法打开。中心区域连接着外部，进入外部的通道为一道科技电子门，外部光线充足，点灯可以打开，地面与天花板由未知材料组成，墙面则是采取部分金属、部分玻璃制成。
+
+层级的金属墙体上含有大量磨损的痕迹，但也有部分区域被修理好，被修理好的区域为光滑状态，整面金属墙反射着少量的灯光，部分地方还被强烈破坏，出现通往太空的口子，这部分区域通常极度危险，当流浪者靠近这一部分且未采取措施时，流浪者将会被太空区域的气流拽飞，无法返回层级，且会立刻心脏衰竭死亡。玻璃墙采用的是钢化玻璃，难以被完全破坏，但还是出现了少许烧焦的区域和划痕。
+
+层级外部的空中浮有一些基础的生活用品，如螺丝刀、肥皂等，这些物品通常不受到任何重力与推力的影响，完全违反物理规则，但在被拾取那一刻恢复。层级外部存在有部分人生活过的痕迹，目前对于此层级的历史尚不明确。层级内有部分裸露在外的电子设施，部分存在电流，请勿对其触碰，这样可以保证流浪者的状况正常。
+
+层级内存在部分漩涡区域，该区域表现为动力强大的气流绕一个点循环旋转，当流浪者进入时首先会感到巨大的拉力与压力，随机身体组织开始破裂，最后流浪者全身将被撕裂被漩涡吞噬，见到此区域请尽快避开，当你不幸遇到时请匍匐地像一个地方爬行，请不要挣扎或是尝试挣脱，这样会使此漩涡的作用力更加强大，如你成功挣脱，请检查身体的每个方面。
++ **实体**
+++ 修理机器人
+修理机器人猜测原本为此层级修理物品用的机器人，但受到了信号的不明干扰导致其逐渐开始攻击人类，攻击方式为使用螺丝刀或钳子投掷或甩动，移动速度极慢但产生的力极大，建议进入此层级的时候避开此实体，如果见到了请尝试同样的方式攻击，并在某一时刻关闭此机器人的电源，这样可以使它停止任何移动。
++ **基地，前哨和社区**
+
+++ [[span class="ruby"]]后室观测极点[[span class="rt"]]Backrooms Observation Pole[[/span]][[/span]]勘探者基地
+* 对此层级进行勘探
+* 后室观测极点的重要基地其一
+* 人员稀少
+* 物资较多
+
++ **入口和出口**
+++++++ 入口
+* 在[[[Level IF-3]]]中后空翻有概率来到本层
+* 在[[[Level IF-4]]]、[[[Level IF-7]]]中感到眩晕概率来到本层
+* 在[[[Level IF-32]]]产生失重感即可来到本层
+++++++ 出口
+* 当流浪者在此层级切出时将会来到[[[Level IF-5]]]、[[[Level IF-9]]]、[[[Level IF-10]]]、[[[Level IF-21]]]、[[[Level IF-26]]]、[[[Level IF-30]]]、[[[Level IF-34]]]中的任意层级。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者[[*user MCMK-1234]]朋友给的灵感，正文全是自己写的
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-32]]] | Level IF-33 | [[[Level IF-34]]] >>
+[[/=]]
+[[/div]]

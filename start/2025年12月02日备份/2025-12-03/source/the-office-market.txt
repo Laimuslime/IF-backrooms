@@ -1,0 +1,140 @@
+[[include :backrooms-wiki-cn:theme:bntg-journal
+|custom = --]
+|ads-image = http://backrooms-wiki.wikidot.com/local--files/the-office-market/ad
+|linked-place = http://backrooms-wiki.wikidot.com/the-meowrooms
+|sub-title = 十年来，办公室市场为流浪者和团体提供了一个后室各处的商品买卖的地方。作为庆祝其成立十周年的一种方式，是时候追溯根源，讲述它的过去、现在和未来的故事了。
+|username = Dan Abbolt
+|month = 5
+|day = 12
+|year = 2027
+|time = 上午十时
+|levels = 无垠城市 
+]]
+
+[[module css]]
+:root {
+--header-title: "后室日报";
+[[/module]]
+
+[[>]]
+[[include :backrooms-wiki-cn:credit:start-standalone]]
+看起来由于某种原因，信息框在这个版式上不起作用。
+不管怎样，如果它最终被修复了——
+作者：[https://www.wikidot.com/user:info/praetor3005 Praetor3005]([http://backrooms-wiki-cn.wikidot.com/the-meowrooms 作者页])
+译者：[https://www.wikidot.com/user:info/bbianshu bbianshu]
+为[https://backrooms-wiki-cn.wikidot.com/prompt2024 2024词条竞赛]创作，词条为“和平”，次要词条为“朋友”、“家庭”、“旅行”、“阈限”、“邂逅”和“安全”。
+[[include :backrooms-wiki-cn:credit:end-standalone]]
+[[/>]]
+
+[[div class="styled-quote"]]
+在 Level 4 发生的所有奇怪事件中，也许最奇怪的是各个团体共同努力创造一个中立交易的天堂，让每位流浪者都能享受。五年来，位于[https://backrooms-wiki.wikidot.com/level-4 废弃办公室]内的办公室市场不仅为人们提供了购物和销售商品的场所，还为人们提供了一个社交平台。每周五上午 8 点至下午 6 点 M.S.T.（标准时间），办公室市场都会摆满由各种商人制作的摊位，无论他们是团体中的专业人士还是简单的流浪者，摊位上可以找到食物、工具、药品等等。由于其社区方面，许多来自 Level 4 及 Level 4 相邻层级的流浪者现在每周都会在那里购物，他们使这个地方成为在废弃办公室和 Level 4 相邻的层级中人类生活的真正支柱。
+[[/div]]
+
+[[div class="styled-quote"]]
++ 合作创造历史
+[[include :backrooms-wiki-cn:component:image-block
+    name=http://backrooms-wiki.wdfiles.com/local--files/the-office-market/DSC00499.jpg|
+    caption=2012年的办公室市场，Rowan和John正在布置玩具车比赛现场。
+]]
+
+当然，这个位于 Level 4 的特殊房间并不总是现在的办公室市场。在 2017 年之前，废弃办公室的这一部分平淡无奇，没有任何迹象表明它的宏伟未来。然而，这个地方也不是没有目的的，因为它的大性质允许[https://backrooms-wiki-cn.wikidot.com/backrooms-robotics 后室机器人科技]将其用于与几年后在那里举办的活动一样社交的活动。
+
+尽管是技术官僚主义团体，其部分成员仍然时不时享受一些小事。在这种情况下，它以由该集团的两名工程师组织的年度玩具车比赛的形式实现，名为“后室玩具车大赛”。在那里，任何人都被鼓励用他们在后室找到的东西制作他们自己的机动微型车辆，以参加一场友谊赛。“这只是 Rowan 和我每年都想做的一个愚蠢的活动，我们从来没有想过它会开始如此扩张的事情。”John Knight 说。
+
+从 2009 年到 2017 年，每一场都展示了参赛者古怪的临时汽车，和这些汽车争夺第一名的场景。“这是我们每年在同一天举办的一个相当小的活动，”该活动的共同创始人 Rowan Frouze 回忆道，“我们从来没有超过十几个参与者，他们通常是常客，有时对电子产品和微缩模型充满热情，有时只是业余爱好者。”
+
+然而，在 2017 年的年度玩具车比赛期间，情况发生了变化。虽然这次活动对来自后室不同群体的参与者来说从来都不陌生，但这次有两名参赛者与众不同。其中的一位是来自[https://backrooms-wiki-cn.wikidot.com/level-5 家政服务]的著名 M.E.G. 昆虫学家 Sebastian Muller ，另一位是在[https://backrooms-wiki-cn.wikidot.com/level-1 商人之家]工作的 B.N.T.G. 交易员 Derrick Meran。两人在某种程度上确实有着共同利益，但他们的背景听起来像是灾难的起源。“起初我们担心这两个人会打破有趣的气氛，因为你知道，当时这两个团体的关系仍然很糟糕。”罗恩回忆道，“谢天谢地，我们大错特错了。”
+
+两人之间的氛围立即成为一种强烈的友好纽带。虽然两位参赛者来自不同的领域，有着不同的愿景，在不同的团体，但他们立即相互同情，分享他们的生活故事，或为他们共同的爱好提供建议。 Sebastian 对那一天记忆犹新：“我曾经认为 B.N.T.G. 交易员冷酷无情，只追求利润，不求其他。但 Derrick 向我证明，他们可以成为愿意真诚帮助他人并结交朋友的友善的人。”
+
+[[include :backrooms-wiki-cn:component:image-block
+    name=http://backrooms-wiki.wdfiles.com/local--files/the-office-market/DSC00776.png|
+    caption=2017年的“后室玩具车比赛”为数不多的几张照片之一。
+]]
+
+虽然事件照常进行，但真正在两个团体中感受到的是它的后果。当然，这是一个缓慢的过程，有很多评价。但随着时间的推移，随着他们的成员开始更随意地互动，每个小组对彼此的偏见开始消退。撇开冷酷的专业精神不谈，他们的成员慢慢地敞开心扉，意识到他们不是在与贪婪的资本家或充满希望的傻瓜互动。后室讲述了许多人的故事，每个人都有自己的生活、希望和梦想。随着时间的推移，这两个团体意识到他们对彼此以及对他们可以追求的合作的粗词滥造是错误的。
+
+当然，2017 年的玩具车比赛并不是导致两个团体和解的唯一原因，但许多人认为这是它的催化剂。因此，当 M.E.G. 和 B.N.T.G. 开始设想一种既能帮助流浪者又能庆祝让他们更亲近的东西时，Level 4 的这个小房间就成了一个显而易见的答案。因此，在 Rowan 和 John 的帮助下，这两个团体于 2017 年 5 月 12 日成立了办公室市场的第一次主办活动，B.N.T.G. 在那里提供许多物品供流浪者购买，而 M.E.G. 则帮助管理活动并提出活动。
+
+看到它的成功，这两个团体在一周后再次举办了市场，然后一次又一次。很明显，人们需要一个社交场所，让人们可以在补充库存的同时见面。随着时间的推移，越来越多的人无论是通过出售他们的商品还是购买他们需要的东西，都开始了解它并参与其中。办公室市场合作之间的信任随着每一次保持举办而巩固，其规模比任何一个团体最初设想的都要大得多。“随着这么多其他团体和流浪者出售他们可以种植或创造的东西，办公室市场开始成为 Level 4 日常工作中的标准。”Katherine Zimals 说，“随着时间的推移，人们开始在不需要 M.E.G. 或 B.N.T.G. 的情况下放置自己的支架，开始自己的卖货。我们只是成为卖家的一部分，成为更伟大事物的一部分。"
+
++  每个人的目的
+
+后室提供的所有东西都可以在办公室市场中找到，这要归功于来自后室各地的令人难以置信的卖家。无论他们属于一个主要团体还是只是单纯的流浪者，无论他们生产他们出售的东西还是从他们居住的地方收集它，都欢迎每个人建立自己的摊位。
+[[include :backrooms-wiki-cn:component:image-block
+    name=http://backrooms-wiki.wdfiles.com/local--files/the-office-market/stand.png|
+    caption= Level 718 “澄澈天空”的沉默僧侣出售的陶器。
+]]
+虽然[https://backrooms-wiki-cn.wikidot.com/office-space-el3a EL3A]或[https://backrooms-wiki-cn.wikidot.com/level-1 宜居地带]由于位于后室入口层而更加知名且容易进入，但许多流浪者仍然更喜欢在办公室市场购物。“它更安全，离我住的地方更近。” [https://backrooms-wiki-cn.wikidot.com/level-11 无垠城市][[footnote]]**译者注：**原文在Level 11重写前完成。[[/footnote]]的居民 Mattieu Boulanger 解释说。来自废弃办公室附近或直接住在那里的其他层级的流浪者，是最常见的客户类型，也是卖家，其中，来自 Level 11 的流浪者最多。“每个月我们都会出售来自[https://backrooms-wiki-cn.wikidot.com/level-499 森灵乐土]的部分收成。”[https://backrooms-wiki-cn.wikidot.com/amor-incrementum 神爱之繁生]的成员 [https://backrooms-wiki-cn.wikidot.com/love-aster Aster] 说。至于住在[https://backrooms-wiki-cn.wikidot.com/level-5 恐怖旅馆]的流浪者 Matthew Hammons ，他出售他在该层级的房间里找到的各种物品。“灯具、银器、优雅的衣服……你不可能在后室里到处都能找到它们，“他解释道，“办公室市场允许我用它们换取我无法获得的其他东西。”
+[[include :backrooms-wiki-cn:component:image-block
+    name=http://backrooms-wiki.wdfiles.com/local--files/the-office-market/bakery.png|
+    caption=来自 Level 304 “面包店” 的烘焙糕点。
+]]
+
+正如 Matthew 所提到的，交易是办公室市场的关键部分。事实上，在后室中没有实际的货币可以使用，交易是通过易货进行的，即使是在流浪者之间也是如此。一个[https://backrooms-wiki-cn.wikidot.com/object-85 亚格鲁格亚果]可以买 4.5 磅的[https://backrooms-wiki-cn.wikidot.com/object-15 火盐]，两块[https://backrooms-wiki-cn.wikidot.com/object-16 皇家口粮]可以买一个手工制作的[https://backrooms-wiki-cn.wikidot.com/object-87 磨损的布袋]，甚至是一个[https://backrooms-wiki-cn.wikidot.com/object-51 磨损的口袋]……无论他们是[https://backrooms-wiki-cn.wikidot.com/level-718 澄澈天空]的僧侣还是生活在[https://backrooms-wiki-cn.wikidot.com/level-304 面包店]的流浪者，任何人都可以交易任何东西。价格通常由卖家设定，卖家倾向于寻找特定物品或特定类型的物品，例如食物或衣服，但通常对不同的交易开放。分歧仍然很少见，因为流浪者通常像大多数其他市场空间一样使用 G.P.D. 的交易价值量表[[footnote]]**译者注：**原文超链接已失效，本处译者猜测为一种价值量表。[[/footnote]]作为价格评估。“即使在这个严酷的世界中，人们在进行交易时也会出奇地冷静，” Antoine Talor 证实，他是十几名确保现场安全的常客之一，“我们曾经禁止携带或出售枪支，但两年后我们取消了这项规定，事件仍然处于历史最低水平。这毕竟是一个互惠互利的地方，多亏了我们，偶尔的疯子永远进不来。”
+
+然而，办公室市场不仅仅由其交易性质定义。这个交易活动仍然是一个社交活动，来自后室各处的人们可以在这里见面和讨论，分享他们多个层级的生活。与[https://backrooms-wiki-cn.wikidot.com/level-1| Tom 的餐馆]的厨师 Tom 类似，可以在其中建立一些牢固的纽带。“五年前我在这里遇到了 Sasha。他在买[https://backrooms-wiki-cn.wikidot.com/objet-2-fr 墙酥]，我卖我从[https://backrooms-wiki-cn.wikidot.com/level-283 游乐天地]收获的墙酥。一周后，他回来讨论，然后一次又一次。他真是个有魅力的人！“Laure Delâcre 回忆道。”一个月后，他向我求婚了，现在我们是一个幸福的 4 口之家。住在[https://backrooms-wiki-cn.wikidot.com/level-159 兽域]，但每周仍然在这里购物！”她高兴地补充道。
+
+[[include :backrooms-wiki-cn:component:image-block
+    name=http://backrooms-wiki.wdfiles.com/local--files/the-office-market/Newrace.png|
+    caption=志愿者们正在为2024年的“后室玩具车大赛”安装一个改进的临时赛道。
+]]
+
+谁能忘记那里可能发生的许多活动呢？这些活动由志愿者组织，范围从即兴运动比赛到角色扮演表演。有些活动甚至直接在现场策划，这是当下的核心。唯一真正计划的活动是一年一度的玩具车比赛，Rowan 和 John 仍然在同一天实现。“通过办公室市场，新人发现了这个最初的爱好。我们非常感谢大家十年前创造的东西，同样很高兴看到每次都有更多的人对我们的小项目感兴趣。”Rowan 解释道。
+
++ 等待着光明的未来
+
+在过去的十年里，办公室市场改变了许多人的生活，并在废弃办公室之外名声大噪。由于不断有新人加入市场，市场连接了生活，使文化交流变得更加容易。“人们往往没有意识到，尽管后室万维网[[footnote]]**译者注：**原文超链接已失效，但为某种现象，本处译者猜测为后室的各种[https://backrooms-wiki-cn.wikidot.com/object-21 Wi-Fi]相互连接，形成类似于万维网的体系。[[/footnote]]的存在，但人们的生活方式却因他们所处的不同社群而大相径庭。”安东尼·凯尔文解释道，“这是几个世纪以来，他们的环境塑造了居住在那里的流浪者的需求，以及他们如何解决这些需求的方式。办公室市场就像所有这些社区的一扇窗户，因为人们可以在这里展示他们居住地的各种商品，比如特定的食物或工具。”
+
+办公室市场的稳步扩张甚至超出了它所容纳的已经很大的房间范围。随着岁月流逝，看台和小巷很可能会延伸到原来的边界之外。“也许[https://backrooms-wiki-cn.wikidot.com/backrooms-remodeling-co 后室装修公司]可以把房间弄得更大，以适应现在每个想参与的人。”Katherine 开玩笑地说，“这个地方在我们许多人的心中占有特殊的位置。最初是我们两个团体之间的和解，后来成为人们结识来自许多其他层级的其他人并交易商品的一种方式。我为我们成功创造的东西感到无比自豪。”
+
+[[=]]
+> 因此，无论您是想找到在您居住层级无法获得的东西，还是想出售您种植或找到的东西以获取利润，或者只是想结交新朋友，那么办公室市场都在这里为您服务！每周五上午 8 点至下午 6 点 S.M.T.，每个人都能找到适合自己的小东西，甚至对您也是如此！
+[[/=]]
+------
+[[/div]]
+------
+
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=Praetor3005
+]]
+=====
+> **名称:** DSC00487
+> **作者:** HobbyTown USA of Oshkosh, Wisconsin
+> **许可:** [https://creativecommons.org/publicdomain/zero/1.0/ Public Domain]
+> **源链接:** https://archive.org/details/backrooms-photos/807OREGON/DSC00487.jpg
+
+> **名称:** DSC00499
+> **作者:** HobbyTown USA of Oshkosh, Wisconsin
+> **许可:** [https://creativecommons.org/publicdomain/zero/1.0/ Public Domain]
+> **源链接:** https://archive.org/details/backrooms-photos/807OREGON/DSC00499.jpg
+
+> **名称:** DSC00776
+> **作者:** HobbyTown USA of Oshkosh, Wisconsin
+> **许可:** [https://creativecommons.org/publicdomain/zero/1.0/ Public Domain]
+> **源链接:** https://archive.org/details/backrooms-photos/807OREGON/DSC00776.jpg
+
+> **名称:** 2023 Amsterdam - close-up of a market stall at the Albert Cuyp city market with a lot of ceramic articles for sale; in the background a clothing store - free download photo in Dutch street photography by Fons Heijnsbroek, Netherlands
+> **作者:** Fons Heijnsbroek
+> **许可:** [https://creativecommons.org/publicdomain/zero/1.0/ Public Domain]
+> **源链接:** https://commons.wikimedia.org/wiki/File:2023_Amsterdam_-_close-up_of_a_market_stall_at_the_Albert_Cuyp_city_market_with_a_lot_of_ceramic_articles_for_sale;_in_the_background_a_clothing_store_-_free_download_photo_in_Dutch_street_photography_by_Fons_Heijnsbroek,_Netherlands.tif
+
+> **名称:** geograph.org.uk - 5543678
+> **作者:** Bob Harvey
+> **许可:** [https://creativecommons.org/licenses/by-sa/2.0/deed.en CC BY-SA 2.0]
+> **源链接:** https://commons.wikimedia.org/wiki/File:Market_stall_-_geograph.org.uk_-_5543678.jpg
+
+> **名称:** DSC00785
+> **作者:** HobbyTown USA of Oshkosh, Wisconsin
+> **许可:** [https://creativecommons.org/publicdomain/zero/1.0/ Public Domain]
+> **源链接:** https://archive.org/details/backrooms-photos/807OREGON/DSC00785.jpg
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [https://backrooms-wiki-cn.wikidot.com/level-4 Level 4]| 办公室市场 |
+[[/=]]
+[[/div]]

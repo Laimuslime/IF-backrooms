@@ -1,0 +1,386 @@
+[[include :backrooms-wiki-cn:theme:super-liminal wide=a]]
+
+[[module CSS]]
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css');
+
+@keyframes FADE {
+    from {
+        opacity: 0;
+        transform: translate(1rem, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes left90 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-90deg);
+    }
+}
+
+@keyframes right90 {
+    from {
+        transform: rotate(-90deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+:root {
+    --tabview-border-width: 0;
+    --tabview-button-background-color: 0, 0, 0, 0;
+    --tabview-button-text-color: var(--text-color);
+    --tabview-hover-button-background-color: 0, 0, 0, 0;
+    --tabview-hover-button-text-color: var(--tabview-button-text-color);
+    --tabview-selected-button-background-color: 0, 0, 0, 0;
+    --tabview-selected-button-text-color: var(--dark-color-3);
+    --tabview-content-background-color: var(--background-color);
+    --tabview-horizon-color: var(--background-color);
+
+    --fade-in-delay: 0.1s;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 0.7em;
+}
+
+.main-wrapper {
+    background: rgba(var(--light-color-2));
+    border-radius: 0.5rem;
+    padding-top: 1rem;
+}
+
+.main-wrapper > * {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.main-wrapper > .yui-navset {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5rem;
+}
+
+.yui-navset .yui-nav {
+    border-radius: 0 0 0.5rem 0.5rem;
+    overflow: hidden;
+}
+
+.yui-navset .yui-nav li {
+    position: relative;
+    transition: box-shadow 0.2s;
+    box-shadow: inset 0 -0rem 0 rgba(var(--dark-color-3));
+    overflow: hidden;
+}
+
+.yui-navset .yui-nav li::before {
+    content: "";
+    display: block;
+    background: rgba(var(--dark-color-3));
+    position: absolute;
+    width: 1.4rem;
+    height: 1.4rem;
+    clip-path: polygon(0 100%, 100% 100%, 50% 50%);
+    bottom: -1.4rem;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: bottom 0.2s;
+}
+
+.yui-navset .yui-nav li:is(:hover, :active, :focus, :focus-within) {
+    box-shadow: inset 0 -0.3rem 0 rgba(var(--dark-color-2));
+}
+
+.yui-navset .yui-nav li.selected {
+    box-shadow: inset 0 -0.3rem 0 rgba(var(--dark-color-3));
+    background-image: linear-gradient(to top, rgba(var(--dark-color-3), 0.2), transparent 50%);
+}
+
+.yui-navset .yui-nav li.selected::before {
+    bottom: 0;
+}
+
+.yui-navset .yui-nav li a em,
+.yui-navset .yui-nav li.selected a em {
+    padding: 0.5em 1em 1.1em;
+    font-weight: 700;
+}
+
+.yui-navset .yui-nav li a em {
+    font-weight: 400;
+}
+
+.yui-navset .yui-content {
+    padding: 2rem 0 0;
+}
+
+.switch-container {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2rem;
+    display: block;
+}
+
+.switch-container li {
+    display: block;
+}
+
+.switch-container li > br {
+    display: none;
+}
+
+.switch-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.4rem 2rem;
+    background: linear-gradient(to bottom, rgba(var(--dark-color-4)), rgba(var(--dark-color-3)) 30%);
+    color: rgba(var(--light-color-2));
+    cursor: pointer;
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    border: rgba(var(--dark-color-4)) solid 0.2rem;
+    font-weight: 700;
+    font-size: 1.1em;
+    transition: 0.2s;
+}
+
+.switch-button:hover {
+    border: rgba(var(--dark-color-2)) solid 0.2rem;
+}
+
+.switch-button::before {
+    display: block;
+    content: "";
+    position: absolute;
+    height: 1rem;
+    width: 2em;
+    background: rgba(var(--light-color-1));
+}
+
+.switch-button span {
+    cursor: pointer;
+    user-select: none;
+}
+
+.switch-button a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: block;
+    font-size: 0;
+}
+
+.switch-container li.folded .switch-button {
+    padding-bottom: 1.1rem;
+}
+
+.switch-container li.folded .switch-button::before {
+    clip-path: polygon(50% calc(100% - 0.2rem), 100% 0%, 100% 0.2rem, 50% 100%, 0% 0.2rem, 0% 0%);
+    bottom: 0.3rem;
+}
+
+.switch-container li.unfolded .switch-button {
+    padding-top: 1.1rem;
+}
+
+.switch-container li.unfolded .switch-button::before {
+    clip-path: polygon(50% 0%, 100% calc(100% - 0.2rem), 100% 100%, 50% 0.2rem, 0% 100%, 0% calc(100% - 0.2rem));
+    top: 0.3rem;
+}
+
+.switch-container li.folded .switch-1,
+.switch-container li.unfolded .switch-2 {
+    display: block;
+}
+
+.switch-container li.folded .switch-2,
+.switch-container li.unfolded .switch-1 {
+    display: none;
+}
+
+.switch-container li.folded .list-wrapper {
+    flex-direction: column;
+}
+
+.switch-container li.unfolded .list-wrapper {
+    flex-direction: column-reverse;
+}
+
+.list-wrapper {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+.list-wrapper .lightblock {
+    margin: 0;
+    padding: 0.001rem 2rem;
+    box-shadow: inset 0 0 0 rgba(var(--dark-color-3));
+    border-radius: 0.5rem;
+    animation-name: FADE;
+    animation-duration: 0.4s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: backwards;
+    flex: auto;
+    overflow: hidden;
+    transition: 0.2s;
+    position: relative;
+    --h2-color: var(--text-color);
+}
+
+.list-wrapper .lightblock::before {
+    content: "\f14a";
+    font-size: 1.2em;
+    font-family: "Font Awesome 5 Free";
+    display: block;
+    width: fit-content;
+    font-weight: 900;
+    color: rgba(var(--light-color-2));
+    position: absolute;
+    left: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.list-wrapper .lightblock:is(:hover, :active, :focus, :focus-within) {
+    padding-left: 3rem;
+    padding-right: 1rem;
+    box-shadow: inset 2rem 0 0 rgba(var(--dark-color-3));
+}
+
+.list-wrapper .darkblock {
+    margin: 0;
+    padding: 0.001rem 1rem;
+    box-shadow: inset 0 0 0 rgba(var(--dark-color-3));
+    border-radius: 0.5rem;
+    animation-name: FADE;
+    animation-duration: 0.4s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: backwards;
+    flex: auto;
+    overflow: hidden;
+    transition: 0.2s;
+    position: relative;
+}
+
+.list-wrapper .darkblock a.collapsible-block-link {
+    color: rgba(var(--background-color));
+}
+
+.list-wrapper .darkblock a.collapsible-block-link::before {
+    content: "▼";
+    display: inline-block;
+    margin-right: 0.5em;
+}
+
+.list-wrapper .darkblock .collapsible-block-folded a.collapsible-block-link::before {
+    animation-name: left90;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(.32, .38, .39, .94);
+    animation-fill-mode: forwards;
+}
+
+.list-wrapper .darkblock .collapsible-block-unfolded a.collapsible-block-link::before {
+    animation-name: right90;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: cubic-bezier(.32, .38, .39, .94);
+    animation-fill-mode: forwards;
+}
+
+.list-wrapper .darkblock .collapsible-block-content {
+    margin: 1rem 0;
+    background: rgba(var(--background-color));
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.list-wrapper .darkblock .lightblock {
+    animation: none;
+    border-radius: 0;
+    margin: 1rem 0;
+}
+
+.list-wrapper > div:nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+.list-wrapper > div:nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+.list-wrapper > div:nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+.list-wrapper > div:nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+.list-wrapper > div:nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+.list-wrapper > div:nth-child(n+5) { animation-delay: calc(6 * var(--fade-in-delay)); }
+
+.list-wrapper .lightblock blockquote {
+    display: inline;
+    font-size: 0.85em;
+    font-style: italic;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: transparent;
+}
+
+@media only screen and (max-width: 480px) {
+    h2 {
+        font-size: 1.4em;
+    }
+
+    .switch-button:hover {
+        border: rgba(var(--dark-color-4)) solid 0.2rem;
+    }
+}
+[[/module]]
+[[div class="main-wrapper"]]
+
++ 精品归档
+
+这些文章是已出现在维基中并曾在主页上展示过的条目，同时也是我们认为需要获得更多浏览和阅读的条目。我们每个月都会更新新的“精品档案”，所以本页和精品档案都将持续更新。所被推荐的都是很棒的作品，我们极力推荐您浏览阅读这些良作。
+
+[[tabview]]
+
+[[tab 原创精品]]
+[[ul class="switch-container"]][[li class="folded"]]
+[[div_ class="foldable-list-container switch-button"]]
+[[span class="switch-1"]]正序[[/span]][[span class="switch-2"]]倒序[[/span]][# 切换排序]
+[[/div]]
+[[div class="list-wrapper"]]
+[[include fragment:featured-archive-1]]
+[[/div]]
+[[/li]][[/ul]]
+[[/tab]]
+
+
+[[tab 翻译]]
+[[ul class="switch-container"]][[li class="folded"]]
+[[div_ class="foldable-list-container switch-button"]]
+[[span class="switch-1"]]正序[[/span]][[span class="switch-2"]]倒序[[/span]][# 切换排序]
+[[/div]]
+[[div class="list-wrapper"]]
+[[include fragment:featured-archive-t]]
+[[/div]]
+[[/li]][[/ul]]
+[[/tab]]
+
+[[/tabview]]
+[[/div]]
+
+[[=]]
+**添加精品**
+[[size 85%]][[[fragment:featured-archive-1|原创精品·壹]]] | [[[fragment:featured-archive-t|翻译精品]]][[/size]]
+[[/=]]

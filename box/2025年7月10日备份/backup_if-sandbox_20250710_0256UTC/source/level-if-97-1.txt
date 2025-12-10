@@ -1,0 +1,25 @@
+[[module ThemePreviewer noUi="true" theme_url="https://cdn.jsdelivr.net/gh/scp-cn-tech/sigma9@cn/cn/sigma9_ch.min.css"]]
+[[include :scp-wiki-cn:theme:y2k]]
+[[include :scp-wiki:component:toggle-sidebar]]
+
+[[module CSS]]
+
+:root {
+    --header-title: "SCP基金会";
+    --header-subtitle: "弥合彼此差距";
+    --sp_header-logo: url(https://cdn.discordapp.com/attachments/852640296693137469/1081244349792260166/58logotrans.png);
+}
+#header::before { mix-blend-mode: normal; }
+[[/module]]
+
+
+[[module CSS]]
+
+:root {
+    --header-title: "The backrooms-if";
+    --header-subtitle: "梦核";
+}
+.danger-diamond > .arrows {
+     top: 0;
+}
+[[/module]]

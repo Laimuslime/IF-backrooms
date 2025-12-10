@@ -1,0 +1,412 @@
+[[include :backrooms-wiki-cn:theme:ethereality]]
+[[module CSS]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "无尽商超 夜之境地";
+    --header-bg-img: url('https://images.unsplash.com/photo-1634333791715-7aad45049ef6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JTlGJThFJUU1JUI4JTgyJTIwJUU5JTk4JTg4JUU5JTk5JTkwfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000');
+    --accent: 0, 0, 0; /*主题色*/
+}
+
+@-webkit-keyframes rotation{
+    from {
+        --webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        --webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+:root {
+    --mono-font: Noto Serif SC, Noto Serif TC;
+}
+#skrollr-body { background-image: none; }
+#container { background-image: none; }
+blockquote > :first-child, .blockquote > :first-child, div.blockquote > :first-child, [class*=blockquote] > :first-child { margin-top: 1em; }
+blockquote > :last-child, .blockquote > :last-child, div.blockquote > :last-child, [class*=blockquote] > :last-child { margin-bottom: 1em }
+blockquote { padding: 0.1px 1em;}
+
+hr {
+    height: 0;
+    border-top: solid 1.5px rgba(var(--gray-monochrome), 0.6);
+}
+
+.interview {
+    margin: 1em 1.25rem;
+    background: rgba(0, 0, 0, 0.4);
+    border: solid 1.5px rgba(var(--gray-monochrome), 0.6);
+    padding: 0.1px 1em;
+}
+
+.meg-report {
+    background-color: rgb(34, 34, 0);
+    background-image: radial-gradient(circle, rgba(170, 170, 85, 0.12) 30%, transparent 0);
+    background-repeat: repeat;
+    background-size: 0.60em 0.60em;
+    border: 4px solid rgb(170, 170, 85);
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    color: rgb(221, 221, 119);
+}
+
+.meg-report hr {
+    height: 0;
+    border-top: rgb(170, 170, 85) solid 3px;
+}
+
+.meg-report blockquote {
+    box-shadow: none;
+    background: rgb(34, 34, 0);
+    margin: 1em 0;
+    padding: 0.1px 1em;
+    border: solid 3px rgba(221, 221, 119, 0.2);
+}
+
+.meg-report .image-container {
+    padding: 0;
+}
+
+.blanche {
+    background: rgba(217, 213, 204);
+    color: rgba(85, 60, 48);
+    margin: 1em 0;
+    border: 2px solid rgba(217, 213, 204);
+    font-family: var(--mono-font);
+}
+
+.the-lost {
+    background: rgb(32, 18, 4);
+    color: rgb(255, 252, 231);
+    margin: 1em 0;
+    border: solid rgb(67, 102, 49) 2px;
+}
+
+.the-lost .image-container {
+    padding: 0;
+}
+
+.thelost {
+    display: flex;
+    flex-direction: columns;
+}
+
+.the-lost-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.the-lost-logo {
+    margin-right: 0.5em;
+    padding-bottom: 0.2em;
+}
+
+.the-lost-title {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.the-lost-subtitle {
+    font-size: 0.85em;
+    font-weight: 700;
+}
+
+.dev {
+    background-color: rgb(48, 48, 52);
+    background-image: repeating-linear-gradient(180deg,rgba(0,0,0,0),rgba(0,0,0,.15) 50%,rgba(0,0,0,0));
+    background-size: auto 8px;
+    color: white;
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border: solid rgb(0, 195, 255) 2px;
+}
+
+.dev hr {
+    border-color: rgb(0, 195, 255);
+}
+
+.rotation {
+    --webkit-transform: rotate(360deg);
+    animation: rotation 5s linear infinite;
+    --moz-animation: rotation 5s linear infinite;
+    --webkit-animation: rotation 5s linear infinite;
+    --o-animation: rotation 5s linear infinite;
+}
+
+.email {
+    background-color: rgba(90, 18, 3, 0.6);
+    color: rgba(217, 132, 39);
+    margin: 1em 0;
+    border-left: rgba(217, 132, 39) solid 0.5em;
+}
+
+.email-header {
+    background-color: rgba(217, 132, 39);
+    color: rgba(90, 18, 3);
+    padding: 1em 1em 0.5em 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.email-options > span {
+    flex: auto;
+    background: rgba(90, 18, 3, 0.6);
+    border: rgba(90, 18, 3) 2px solid;
+    text-align: center;
+    padding: 0.3em 0;
+    position: relative;
+    font-size: 0.85em;
+}
+
+.email-options > span.picked::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: rgba(217, 132, 39) transparent transparent transparent;
+    border-width: .575em;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.email hr {
+    margin: 0;
+    height: 0;
+    border-top: rgba(217, 132, 39) 2px solid;
+}
+
+.email ul {
+    padding-left: 1em;
+}
+
+.showb .scp-image-caption {
+    font-size: 100%;
+    padding: 0.5em 0;
+}
+
+@media screen and (max-width: 768px) {
+    #page-content { font-size: 0.85em; }
+
+    .interview {
+        margin: 1em 0;
+    }
+
+    .the-lost-title {
+        font-size: 1.5em;
+    }
+}
+
+[[/module]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=宜居
+|lang=cn
+]]
+**Level IF-280**是后室IF层群的第280层。
++ **描述**
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1634333791715-7aad45049ef6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JTlGJThFJUU1JUI4JTgyJTIwJUU5JTk4JTg4JUU5JTk5JTkwfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=**Level IF-280**的入口
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1585504120644-37f5c0b0b140?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU1JTlDJUIwJUU0JUI4JThCJUU1JTk1JTg2JUU1JTlDJUJBfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=狭长走廊
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1674565770064-6e683f12dd44?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU1JTlDJUIwJUU0JUI4JThCJUU1JTk1JTg2JUU1JTlDJUJBJUU1JUE0JTlDJUU2JTk5JTlBfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=午夜未尽
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1609271135567-9436e5a77dfe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUU1JTlDJUIwJUU0JUI4JThCJUU1JTk1JTg2JUU1JTlDJUJBJUU1JUE0JTlDJUU2JTk5JTlBfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=继续前进
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1623380798302-e9b42e7d3111?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUU1JTlDJUIwJUU0JUI4JThCJUU1JTk1JTg2JUU1JTlDJUJBJUU1JUE0JTlDJUU2JTk5JTlBfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=被满身的黑暗包裹
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1571931523837-928a2b04c625?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUU1JTlDJUIwJUU0JUI4JThCJUU1JTk1JTg2JUU1JTlDJUJBJUU1JUE0JTlDJUU2JTk5JTlBfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=2000
+|caption=你难道不喜欢这种感觉吗？
+]]
+**Level IF-280**主体为一个半开放式的地下商超，初次今日该层级之时，流浪者会来到该层级的第一区域，即入口处。入口处为通往层级主体部分的入口前的柏油道路，该道路为四车道单向道。道路两侧的人行道由略显老旧的砖块砌成，在人行道上总是会出现一些标志，这些标志均为指向路口方向的箭头立牌。
+
+在人行道一旁是众多小型商店或楼梯入口，大部分商店为小型便利店，少数便利店为打烊状态，这些便利店中稳定刷新着不同种类的食物和杏仁水，这些食物与水均摆放在货架上，流浪者可以在任何时刻取用这些食物。楼梯入口通向地下商超的第1层，通常由瓷砖所铺设，配有方形日光灯，内部较为狭窄，且楼梯坡度较陡。
+
+层级内的楼层采用“负记数”，楼层的第一层代表实际第-1层，第二层代表实际第-2层。整个层级内配备有完整的电梯与楼梯系统，层级中的电梯常有检修，电梯中装有空调。
+
+层级的第一层为衔接区域，该区域通常为一些狭长走廊的综合体。大部分走廊由瓷砖所组成，日光灯照亮了走廊的部分区域。走廊的结构通常是稍有扭曲的，不过流浪者难以察觉到走廊弧度的变化。
+
+走廊的墙壁上贴有大量纸质物品，多数为电影海报或是告示牌，电影海报通常是前厅中已播出电影的海报，部分海报在电影宣发之前早已出现。告示牌大多是简单的告示内容，如“小心碰头”、“前方装修”。
+
+走廊中分布着少量载具，载具大多为电动车或轿车，这些载具可正常使用，但需车钥匙才可打开，车钥匙一般分布在走廊的中心处，且容易找到，载具内部一般放置着一些工具箱，工具箱内部装有钳子、扳手等物品。
+
+层级的第二层至第五层为主要的商店区域，该区域总是尤为黑暗，电线、管道等设施裸露在外，钢筋混凝土等结构组成了复杂的楼层环境。
+
+楼层内包含多个次区域，这些次区域外围一圈被公路环绕，且通过公路连接主要的区域。次区域内一般建有连锁超市，这些超市内售卖的物品从食物、日用品、衣物、家具等类型至书籍、文具、建材甚至武器应有尽有。
+
+楼层内包含有多个LED广告牌，这些广告牌上通常播放着宜居层级的旅游宣传片，目前宣传片内发现的有以下几个层级：
+* [[[Level IF-19]]]
+* [[[Level IF-46]]]
+* [[[Level IF-99]]]
+* [[[Level IF-116]]]
+* [[[Level IF-162]]]
+* [[[Level IF-189]]]
+* [[[Level IF-292]]]
+层级内包括一个交易区，交易区内总是堆放着不同种类的杂物，流浪者可在其内部与他人交易，交易过程中会有监督员前来巡视，以确保没有重大的暴力冲突事件发生。
++ **基地、前哨与社区**
+++ M.E.G. 易市 基地
+* 控制整个层级
+* 定时监督内部
+* 建有一个大型旅馆，旅馆需杏仁水交易才可进入，位于第五层
+* 欢迎任何流浪者进入
+* 检修层级内的电路系统
++ **入口与出口**
+++++++ 入口
+* 在任意黑暗层级中切入一条柏油路即可来到此层级
+* 大部分M.E.G.基地都包含此层级的稳定双向出入口
+++++++ 出口
+* 从入口处返回将会进入任意一个宜居层级
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+**日期：**2023年8月31日
+**地点：**Level IF-280易市旅馆内，由自动录音设备所记录
+**人员：**Hank Grady、Eric Reid
+----
+**Hank Grady：**好了…探索开始。
+
+**Eric Reid：**你现在进入仓库了吗？
+
+**Hank Grady：**接近了，差不多。
+
+**Eric Reid：**我总感觉事情没这么简单。
+
+**Hank Grady：**为什么？
+
+**Eric Reid：**M.E.G.跟我说过这只是一次小的袭击的，应该可以解决，但是从画面来看，这次似乎是蓄谋已久。
+
+**Hank Grady：**具体是哪？
+
+**Eric Reid：**看到墙上的记好了吗，一般行动不会有如此细致的记号的，这只有可能是很多人的团伙。
+
+**Hank Grady：**如果真是的话，那我附近应该有人才对。
+
+**Eric Reid：**可惜我看不出来，从那里传向控制室的声音失真得太多了。
+
+**Hank Grady：**等等，通风管道那明显是有声响。
+
+**Eric Reid：**什么类型的？
+
+**Hank Grady：**像是什么东西在里面爬行。
+
+**Eric Reid：**人数多不多。
+
+**Hank Grady：**这我怎么知道，你最好还是说一下。
+
+**Eric Reid：**那我开个通知？
+
+**Hank Grady：**就现在。
+
+**Eric Reid：**我操。
+
+[信息中断]
+
+**Hank Grady：**等等？
+
+[[/div]]
+
+@@@@
+@@@@
+
+[[div class="email"]]
+[[div_ class="email-header"]]
+[[div_]]
+[[size 150%]]**BACKMAIL 邮箱 |**[[/size]] [[size 80%]]**等待是最美好的陪伴**[[/size]]
+[[/div]]
+[[div_ style="text-align:right; font-size: 0.85em; flex: auto;"]]
+**__Castellos_222 ▼__**
+[[/div]]
+[[/div]]
+[[div_ style="display: flex" class="email-options"]]
+[[span]]收信箱[[/span]][[span]]发信箱[[/span]][[span style="background-color: rgba(217, 132, 39);color: rgba(90, 18, 3);" class="picked"]]**写信**[[/span]][[span]]通讯录[[/span]][[span]]关于我们[[/span]]
+[[/div]]
+[[div style="padding: 0.5em 1em 0.1px"]]
+
+**收件人：**@@lastday@backifmail.com@@
+
+**主题：**Level IF-280出大事了
+
+[[/div]]
+
+----
+在吗…？
+
+我也知道您是Level IF-280其中一个管理，Level IF-280的文档也是由您撰写的，Level IF-280最近出了点事儿，恳请您发个大型通知。
+
+事情大概是这样的：在易市那个旅店里，前几天也就是2023年8月31日的时候，里面突然窜出很多人出来，当时里面也搞不清楚什么情况，就派了一些安保人员进去维持秩序，差不多是个几十人的小队。
+
+那几个人进去后就再也没有回来，里面逐渐传出一些打斗和争执的声音，随后整个旅馆突然停电，Wi-Fi大范围失效，我那个时候摸黑进了一个类似于安全通道的区域，然后到达了第四层。
+
+当时消息还没传到上面，我以为只是个小事件，随后找了个便利店休息了一会，随后有不少避难者也上来了，据他们所说，是有一个团伙劫持了整个总部，首领似乎是一个叫做“Kolev”的人。
+
+由于某次与M.E.G.交易的不利，Kolev组织了一场小型袭击，在层级的某个仓库之内囤积了大量武器，在那天晚上潜入旅店并开始了无差别袭击。
+
+后来M.E.G.那边就失联了，看样了Kolev可能袭击了某个重要的M.E.G.信息协会分部。Kolev具体长什么样不清楚，仅知道他劫持了层级出口，并封锁了一切消息。
+
+我这里的网络是临时找的，可能用不了多久，请立即上传此消息。
+[[div style="padding: 0.1px 1em"]]
+[[>]]
+——@@onecity@backifmail.com@@
+[[/>]]
+
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+
+[[div class="meg-report"]]
+
+[[=]]
+[[size 1.5em]]**Level IF-280 受袭报告 须知**[[/size]] _
+[[size 0.8em]]**Sept. 2 2023**[[/size]]
+[[/=]]
+近日，于Level IF-280易市旅馆突发一起袭击事件，袭击者为Kolev等人团伙，该袭击导致了易市总部信息部断连、基地被劫持、层级出入口封锁，大部分物资均遭到盗窃，目前我们正在尝试与总部联系。
+
+近期行程中包含Level IF-280的流浪者们，请暂时不要切入此层级，若您的家人、朋友等正处于该层级，请尝试联系他们或是向总部请求探访他们目前的状态。处于层级中的流浪者请勿惊慌，我们将会以最快的速度支援此层级，请等待进一步的通知。
+----
+[[=image http://ye-zhi-d.wikidot.com/local--files/level-c-1025/MEG_Eagle.png width="100px"]]
+= —— **M.E.G.** - 为了更好的人类 ——
+
+[[/div]]
+
+@@@@
+@@@@
+
+[[include component:level-class
+|class=4
+|lang=cn
+|three=重大战争事件
+]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-279]]] | Level IF-280 | [[[Level IF-281]]] >>
+[[/=]]
+[[/div]]

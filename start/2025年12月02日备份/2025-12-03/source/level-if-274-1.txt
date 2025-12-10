@@ -1,0 +1,190 @@
+[[include :backrooms-wiki-cn:theme:ethereality]]
+[[module css]]
+.titleblock {
+   background-color: rgb(var(--white-monochrome));
+   padding: 0.5rem 1rem 0.10rem;
+   margin: 1.5rem 0rem 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: solid rgb(var(--pale-accent)) 2px;
+}
+ 
+.titlebox{
+  position: relative;
+  top: -1.6rem;
+  background-color: rgb(var(--pale-accent));
+  color: rgb(var(--white-monochrome));
+  padding: 0.25rem 1rem;
+  line-height: 0.1rem;
+}
+
+.headerbox{
+    padding:1rem 0;
+    background: linear-gradient(180deg, rgba(197, 197, 187,0.25) 0%, rgba(232, 228, 220,0.2) 90%);
+    float:none;
+    width:auto;
+    margin:auto;
+    border-radius:1rem 1rem 0 0;
+}
+
+.scrollheader{
+    background: url("http://if-sandbox.wikidot.com/local--files/collab:
+level-if-274-1/Grass.webp");
+    animation: slide2 180s linear infinite;
+    background-size: 330px;
+    background-repeat: repeat-x;
+    width:calc(100%);
+    max-width: 800px;
+    min-height: 170px;
+    border-radius:1rem 1rem 0 0;
+    position: static;
+    border-right: 5pt solid #C6C3BC;
+    border-left: 5pt solid #C6C3BC;
+    border-bottom: 5pt solid rgb(198, 198, 188);
+}
+@keyframes slide2{
+  0% {
+    background-position: 120px bottom;
+  }
+  100% {
+    background-position: -770px bottom;
+  }
+}
+.stroke {
+  color: white;
+  text-shadow: -1px -1px 0 #336A77, 1px -1px 0 #336A77, -1px 1px 0 #336A77, 1px 1px 0 #336A77;
+}
+
+.html-block-iframe:first-of-type {
+    width: 50%;
+    float: left;
+}
+[[/module]]
+
+[[div class="scrollheader"]]
+[[div class="headerbox"]]
+@@@@
+@@@@
+[[=]]
+[[div class="stroke"]][[/div]]
+//寸草较以往更加碧绿！//
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+[[include :backrooms-wiki-cn:component:nulevelclass
+|lang=cn
+|no=274
+|customline=1
+|linecolor=var(—gray-monochrome)
+|ent=0
+|customent=1
+|enttext=无实体
+|entcolor=var(--gray-monochrome)
+|ext=0
+|customext=1
+|exttext=容易逃脱
+|extcolor=var(--gray-monochrome)
+|env=0
+|customenv=1
+|envtext=无环境危害
+|envcolor=var(--gray-monochrome)
+|customclass=1
+|classtext=宜居
+]]
+**Level --274--IF-274.1**是[[[Level IF-274]]]的子层。
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/collab:
+level-if-274-1/Mount_Evergreen.webp
+|caption=有记录以来第一张Level IF-274的照片。
+]]
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/collab:level-if-274-1/Grass.webp
+|caption=本层级草地的特写。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2019/10/26/21/27/mountains-4580418_640.jpg
+|caption=山谷的图片。
+]]
+[[include component:image-block
+|name=https://cdn.pixabay.com/photo/2023/06/21/14/17/mountain-8079469_1280.jpg
+|caption=雪山的图片。
+]]
++ 描述
+Level IF-274.1由多座山岭构成，绿草如茵遍地，些许结构时建立于此片青色之上，山岭可透过其高耸的山体以识别，部分山峦较其他山岭具更多异点——崎岖的纹理、一些山顶则为雪覆盖，而非常态的岩石。本层级氧气含量充足，但却无任何可见之树木，而整体的环境趋于稳定，未有明显的颓败迹象，更无已知的实体报告。
+
+当流浪者进入Level IF-274.1，立刻将感受到一股宁和的神态，进入层级的流浪者无一观察到此现象。目前尚不明确该宁和感是如何导致之。
+
+山岭之上常有资源，而雪峰则具更多物资，另外，Level IF-274.1之山岭似会自行大量制造氧气，具体原因及做法上不明朗。需谨记的是，所有山岭始终位于农场的半径四公里内，倘若流浪者已发现农场，建议您沿连接山岭与农场的沥青道路行走。
+
+山谷是一种近似于山的地表样貌，有着至少一面的倾角相对地面为86°到111°。山谷常常被湖泊或者其他较小的水域所占据，越小的水域也意味着从山谷上飞流而下的水流量更少。这里的这些湖泊的水体由多种单质混合而成，不像是本层级其余的地方流的是盐水，这里流的是丙酮和柠檬酸的混合物。
+
+Level IF-274.1可显少见些许面积广大的农场，其建筑体总由绯红色或浅蓝色漆成，原因未知，一猜想称颜色取决农场落成时是否发生氧气尽乏事件。农场中无可使用之农具，除农具外均完好无损，农场均含24瓶杏仁水，原因同建筑颜色，仍不知晓。此外，草地下破碎板块有时会移动，从而导致草地上出现裂缝、农场因其移动而龟裂。
+
+农场可藉由环绕其的大型木制围栏轻松辨认，内麦田目视柔韧、洁净，麦穗成行排列，近谷仓的土壤上显现土壤线，谷仓外部看似较其内更大。此外，耕种于农场中的小麦可被食用，此似是部分曾有流浪者居住之空屋内发现面包的原因。农场常见有马厩，据推测，马厩过去曾是用于圈养某种实体，依据为于中地面上发现，棕色或黑色的状似毛发之物。
+
+农场时因未知原因出现已损坏的拖拉机。据M.E.G.成员确认的部分目击报告，拖拉机时会自行移动。虽其方向盘不曾转动，但拖拉机仍能以不明方式转向。此外在层级的谷仓中，可发现似是干草堆之物，其看似坚固，但若与之相接触，流浪者的手臂将可轻易的穿过之，该现象不会对任一触摸它的流浪者造成伤害。不少报告宣称“干草堆”是为液体，但均未解释“液态干草堆”的原因。
+
+每20公里将可见一栋房屋，内部资源丰富，通常为杏仁水，房屋间大小各异，然其地基基本皆为2,014平方英尺。房屋内部可产生大量氧气，但处氧气尽乏事件间并不产生氧气，原因未知。
+
+雪山与其他山岭不同，其面积是有限的，通常其面积约在150～500平方公里之间。雪山上的温度保持在-10°C到10°C之间。雪山上偶尔会突兀的出现一家餐厅，餐厅内部十分破旧，若流浪者坐在餐厅内的凳子上，桌子上将会出现一张菜单，菜单上的食物有：
+
+* 日式拉面。
+* 可乐。
+* 烤鸡。
+* 烤鱼。
+* 烤鸡翅。
+* 薯条。
+* 汉堡。
+* 草莓。
+* 蛋糕。
+* 披萨。
+* 来自[[[Level IF-227]]]的{{Lake Lemon}}。
+* 皇家口粮。
+* 巧克力。
+
+这些食物除了可乐之外全都可食用，且味道均比在其他层级吃到的要好吃。
+
++ 基地、据点与前哨站
+++ M.E.G. - 幼拓虫基地
+* Level IF-274.1最具主导性的基地
+* 约驻有 23 名人员
+* 友善，多数时后开放交易
+* 驻扎于山岭上
+++ 岭丘社会
+* Level IF-274.1中第二庞大之"据点"
+* 30长住人口
+* 持中立，通常不开放交易
+* 私人性社会圈，仅供菁英加入
+* 居住于一栋与前厅豪宅相似之房屋内
+++ [[[Level IF-199|B.O.P.]]]“失态生态实验体”基地
+* 人数有30人。
+* 内部有极多的实验器材。
+* 曾经发生过一次爆炸。
++ 入口和出口
+++ 入口
+
+已被发现通往Level IF-274.1之入口如下：
+
+* 切入[[[Level IF-274]]]的一片草地必将进入本层。
+* 进入[[[Level IF-115]]]一扇标有"户外"的门将进入本层。
+++ 出口
+
+已被发现离开Level IF-274之出口如下：
+
+* 跌入一片枯草将进入[[[Level IF-155]]]。
+* 使身体全然浸入“干草堆”中，而后将身处[https://backrooms-wiki-cn.wikidot.com/level-10 Level 10]之中。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user haodemingzi]]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-274|沙 · 境]]] | 常青岭 | [[[Level IF-275|迷雾密林]]] >>
+[[/=]]
+[[/div]]

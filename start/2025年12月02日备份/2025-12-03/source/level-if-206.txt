@@ -1,0 +1,462 @@
+[[include :backrooms-wiki-cn:theme:deep-space]]
+[[include :backroom-wiki-cn:component:invis]]
+[[module CSS]]
+
+
+.blur {color: transparent; text-shadow: 0 0 6px rgba(128,0,128,.3); }
+
+.bokashi {
+    color: transparent;
+    transition: 1s;
+    text-shadow: 0 0 6px #FFFFFF;
+
+}
+.bokashi a{
+    text-shadow: 0 0 6px #800000;
+    color: transparent;
+    transition: 1s;
+}
+.bokashi:hover {
+    text-shadow: none;
+    color: #b7ecff;
+}
+.bokashi:hover a{
+    color: #b01;
+    text-shadow: none;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[div class="offset-page" id="page-2"]]
+
+[[div class="darkblock"]]
+++++ 重大发现？
+User ID：[[user error-com]]
+发布时间：Jul 6 2025 08:14(IP：Level IF-206)
+----
+我超，这里有光？？？
+[[image https://if-sandbox.wikidot.com/local--files/level-if-1-jgpze-100/eclipse-1492818_1280.webp]]
+[[div class="darkstyled-quote"]]
+++++ Re：重大发现
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 6 2025 08:25(IP：Level IF-199)
+----
+啊？？？
+这亮度tm是核爆罢 哥们你没事吧？
+@**M.E.G. IF深空探索部门** 在吗？我记得你们也有人在里面
+[[div class="darkstyled-quote"]]
+++++ M.E.G. IF深空探索部门官方帖
+User ID：##blue|M.E.G. IF深空探索部门 官方账号##
+发布时间：Jul 6 2025 09:11(IP：{{已加密}})
+----
+情况属实。我们已派遣更多人员进入**Level IF-1进行调查。**
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ Re：重大发现
+User ID：[[user error-com]]
+发布时间：Jul 6 2025 09:22(IP：Level IF-206)
+----
+没事。
+[[/div]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="border-logoblock"]]
+[[=]]
+
++ ##blue|M.E.G. IF深空探索部门官方公告##
+
+[[/=]]
+----
+近日，我司接到**Level IF-206**内部流浪者的多个报告，证实**Level IF-206**内部出现了天然光源。根据我司特工的实地观测，该光源实为一颗突然出现在层级中心的发光星体。鉴于其活跃性，目前暂将其编目为[[[Entity IF- (已编辑)]]]。
+
+目前我司正在研究**Level IF-206**的切出方法。
+,,TIPS：关于**Entity IF-(已编辑)**的征名活动已开始，详情可见我司的官方网站。,,
+----
+[[=]]
+M.E.G. IF深空探索部门
+2025年7月9日
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkblock"]]
+++++ 好康的
+User ID：[[user error-com]]
+发布时间：Jul 11 2025 07:14(IP：Level IF-206)
+----
+太空开车吗？有点意思
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-206/IMG_20250712_215727.png]]
+[[div class="darkstyled-quote"]]
+++++ Re：好康的
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 11 2025 07:15(IP：Level IF-199)
+----
+？
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ Re：好康的
+User ID：[[user BanAllAD]]
+发布时间：Jul 11 2025 07:17(IP：Level IF-206)
+----
+这不是你们的私人聊天室啊喂😡
+昨天只顾着拍照忘了发回贴了
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ Re：好康的
+User ID：[[user Paper Scraps]]
+发布时间：Jul 11 2025 07:18(IP：Level -206)
+----
+这哪儿啊
+[[div class="darkstyled-quote"]]
+++++ Re：瞎聊帖
+User ID：[[user error-com]]
+发布时间：Jul 11 2025 07:20(IP：Level IF-206)
+----
+就在那个**Entity IF- (已编辑)**边上。
+[[/div]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="titleblock"]]
+[[span class="titlebox"]]一名Level IF-1内M.E.G.人员的日志[[/span]]
+
+
+**2025/7/12，Level IF-206**
+在**Level IF-206**发生巨变之后，我们又接到上级的任务，去寻找聊天室内一名用户照片内的公路。根据这张照片，它应该是在那颗最近被命名为“埃忒尔”[[footnote]]**Entity IF- (已编辑)**以希腊众神中的太空之神埃忒尔（Αἰθήρ）命名。[[/footnote]]的星体附近——很明显的地标，这意味着我们的任务不会太艰难。不过一想到我们要在太空中疯狂扑腾以快速移动的姿态我就想笑。
+
+我们的位置距离它并不算远，不久我们就到了。这里我从未见过——鉴于它直接穿过了这颗恒星，这应该是**Entity IF-(已编辑)**的造物。奇异的是，它居然拥有引力——我们是从上方降落的，本以为我们碰到地面后会弹起来，结果我们整个小队的人都摔了下去。经过测量，它与前厅的重力竟然大差不差，在9.5N/kg上下。所幸它的引力范围只有5米上下，很容易就可以挣脱。
+
+在道路四周有一些悬浮的房屋，我们进去看了看，有一些物资。这些屋子以后可能作为潜在的层级出口，因为由于“埃忒尔”的活动，这里每时每刻都在发生变化。并且似乎我们离它越近，温度就越高。希望它不会逐渐升高到致死水平。再勘察了一番之后我们便回去了。
+
+这条路到底有多长？我也不知道，至少它望不到尾——头在“埃忒尔”的里面。
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="border-logoblock"]]
+[[=]]
+
++ ##blue|M.E.G. IF深空探索部门官方公告##
+
+[[/=]]
+----
+近日，我司根据流浪者和行动小队成员的报告，证实**Level IF-206**内部新出现了一条横贯全层、穿过**Entity IF- (已编辑)**的车行公路。推测其为Entity IF- (已编辑)出现的附加产物。该星体最近活动较为剧烈，请流浪者在其半径1000km以外活动避免被该星体伤害。
+
+部分流浪者报告称，他们通过部分漂浮门进入了其他的层级，且这些特定的漂浮门具有特定的样式，因此极易辨别。目前已经将部分门样式进行编目入库的处理，流浪者可前往我司官网查看。
+
+雷达扫描证明在层级内可用，最大半径为500千米。实时雷达地图已在官网公布。
+,,TIPS：关于**Entity IF-(已编辑)**的征名活动已结束，其官方名称现为“埃忒尔”。,,
+----
+[[=]]
+M.E.G. IF深空探索部门
+2025年7月12日
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkblock"]]
+++++ 脱离苦海？
+User ID：[[user error-com]]
+发布时间：Jul 13 2025 11:44(IP：Level IF-206)
+----
+**感谢M.E.G.！！！**
+看看我找到了什么
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-206/IMG_20250712_215715.png]]
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 16 2025 11:45(IP：Level IF-199)
+----
+一个漂浮门。不过看样子，它貌似是在M.E.G. IF深空探索部门的名单上的🤔
+最好检查一下有没有什么异样
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user BanAllAD]]
+发布时间：Jul 16 2025 11:46(IP：Level IF-206)
+----
+哥们儿，你在哪里，我去找你
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user error-com]]
+发布时间：Jul 16 2025 11:48(IP：Level IF-206)
+----
+距离原点1212km处 理论上你在雷达上看得到我的 我们的位置和名字全在上面
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user Paper Scraps]]
+发布时间：Jul 16 2025 11:50(IP：LeveIF-206)
+----
+我在1200 带我一个啊喂
+[[/div]]
+[[/div]]
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user error-com]]
+发布时间：Jul 16 2025 13:14(IP：Level IF-206)
+----
+我们仨都在门边上了，今天我们就要--太空三结义--离开这个放音乐的死层级了
+祝我们好运！
+如果我们还活着，我们会发新帖的
+[[image https://if-sandbox.wikidot.com/local--files/level-if-1-jgpze-100/stars-1655504_960_720.jpg]]
+最后看一眼。真美。
+[[div class="darkstyled-quote"]]
+++++ Re：脱离苦海？
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 16 2025 13:15(IP：Level IF-199)
+----
+兄弟保重
+[[/div]]
+[[div class="darkstyled-quote"]]
+++++ 职员帖
+User ID：[[user qwertyuiop1000]] ##yellow|聊天室管理员##
+发布时间：Jul 16 2025 13:16(IP：Level IF-199)
+----
+本讨论帖作1小时暂时封闭处理。
+[[/div]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkblock"]]
+++++ (No subject)
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 16 2025 20:26IP：Level IF-199)
+----
+**error-com**那一帮人怎么现在还没回信，总不能似了吧
+提前默哀（rip）
+[[div class="darkstyled-quote"]]
+++++ Re：(No subject)
+User ID：[[user error-com]]
+发布时间：Jul 16 2025 20:34(IP：Level IF-198)
+----
+我们还活着啊喂
+[[div class="darkstyled-quote"]]
+++++ Re：(No subject)
+User ID：[[user JgPz.E-100]]
+发布时间：Jul 16 2025 20:35(IP：Level IF-199)
+----
+可喜可贺，同时，对不起
+不在线上了，我亲自去找你
+[[/div]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[=]]
+[[div class="logo-block"]]
+
++ //[#u-page-3 点击此处查看最新文档]//
+
+[[/div]]
+[[/=]]
+[[/div]]
+[!--     迭代三     --]
+[[div class="offset-page" id="page-3"]]
+[[include :backrooms-wiki-cn:component:sdcsex
+|lang=cn
+|class=群星
+|one=//万籁星穹//
+|two=//虚无宇宙//
+|three=//存世之星//
+]]
+**Level IF-206**是后室IF层群的第206层。
+
++ 描述
+
+**Level IF-206**表现为一处巨大的黑色空间，**饰以点点万千的繁星**。其内部不具有任何形式的空气，但流浪者可以自如的在层级内部呼吸，且无需配备任何辅助设备。流浪者可以使用类似于游泳的姿势在层级内运动。使用任何手持光源在50米开外的距离照射均无效，但流浪者可以通过M.E.G.在此层设置的实时雷达地图察看方圆数百里内的人员与物体。
+
+**Level 0的孤立效应**被证实并不存在于该层级，因已经有大量流浪者在层级内互相接触的报告。
+
+由于层级温度高达惊人的{{22K}}[[footnote]]K，即开尔文，热力学单位。22K合-251.15℃。[[/footnote]]，任何液体温度计携带入本层时均会瞬间爆炸，因此其仅能使用电子温度计测明。但流浪者在层级内部行动时，不会感受到任何寒意。
+[[include component:image-block
+|name=https://if-sandbox.wikidot.com/local--files/level-if-1-jgpze-100/stars-1655504_960_720.jpg
+|caption=**Level IF-206**的一张照片
+]]
+有时，流浪者会在空中遇到一些漂浮门，它们大小样式不一。大部分漂浮门通往层级中的另一地点，少数特殊样式的门通往其他层级，它们将会在下文的“出口”一栏提及。由于遇见它们的概率较小，因此建议遇到特殊样式的漂浮门时将其死死抱住或是立马进入其中。
+
+Wi-Fi信号良好且广布整个层级，这使得流浪者上网与传递层级消息至外界成为可能。目前，M.E.G. IF深空探索部门已建立了一个**Level IF-206**专属聊天室。后室协调时2025年6月，该聊天室面向所有用户开放。
+
+++ 特殊区域：公路
+[[image https://if-backrooms.wdfiles.com/local--files/level-if-1-jgpze-100/IMG_20250712_215727.png]]
+公路是层级内唯一存在重力的区域，其横贯整个层级，长度不明，经过**Entity IF-(已编辑)**附近[[footnote]]疑似**Entity IF-(已编辑)**的剧烈活动令其瞬间改道，原路直接穿过该实体[[/footnote]]，坐标系平稳的维持在(x，y，0)[[footnote]]雷达地图的坐标，以**Entity IF-(已编辑)**作为原点(0，0，0)[[/footnote]]。道路宽10米，厚5米，引力范围为5-30米。在道路四周的悬浮房屋内会有物资刷新。
+
+++ 特殊事件集合
+
++++ “宇宙歌声”事件
+在不定时间内，层级内会播放歌曲，它们大部分与梦核主题相关。它们的音量通常较小，但足以让流浪者们清晰的听见。有部分报告称层级内部出现了以极大的音量播放音乐的情况。以下将出现过的歌曲进行列表展示。
+||~  曲目 ||~ 被记录出现的频次 ||
+|| 《It's just a burning memory》The Caretaker || 55 ||
+||《Libet's Delay》The Caretaker || 48 ||
+||《Hi》TEMPOREX || 23 ||
+||《Are You Lost》Park Bird || 23 ||
+||《Nice Boy》TEMPOREX || 22 ||
+||《Take A Chance》Myuu || 21 ||
+||《Among Us》Myuu || 21 ||
+||《Six Forty Seven》Instupendo || 20 ||
+||《Comfort Chain》Instupendo || 19 ||
+||《Never Gonna Give You Up》Rick Astley || 19 ||
+||《Erika》Major Han Freiss || 1 ||
+|| 《British Grenadiers,Fife and Drums》 || 1 ||
+||《前[[span class="bokashi"]]苏联[[/span]]国歌-牢不可破的联盟》 || 1 ||
+
+++ “大爆炸”事件
+该事件发生于后室协调时2025年7月6日。层级内部突然爆出极大的足以使人短暂失明的强光，随后**Entity IF-(已编辑)**进入层级，且层级背景变为星辰。**Level IF-206**自此有了天然光源。
+[[include component:image-block
+|name=https://if-sandbox.wikidot.com/local--files/level-if-1-jgpze-100/eclipse-1492818_1280.webp
+|caption=“大爆炸事件”发生时的摄影。
+]]
+
++ 实体
+
+++ Entity IF-(已编辑)“埃忒尔”（Αἰθήρ）
+该星体于“大爆炸事件”时进入层级，并凭借剧烈的活动改变了层级的环境。该实体已拥有专门的介绍页面，本页不再赘述。
+
++ 基地、前哨与社区
+
+++ M.E.G. IF深空探索部门前哨站
+建立在公路区域的一座较大的悬浮房屋内部，坐标大约在（1214，53，0）。房屋外部已树立起明显的标识。
+
++ 入口和出口
+
+++ 入口
+
+* 在**Level 78**切出有概率进入该层级。
+* 在[[[Level IF-99]]]触碰一艘宇宙飞船的模型会被传送至此。
+
+++ 出口
+目前唯一离开该层级的方式是进入特殊样式的漂浮门。
+
+* 进入一扇镓材质的门会进入[[[Level IF-3]]]。
+* 进入一扇114*514cm大小的花岗岩材质门会来到[[[Level IF-11]]]。
+* 进入一扇古典风格的青铜门会来到[[[Level IF-198]]]。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-205]]] | Level IF-206 | [[[Level IF-207]]] >>
+[[/=]]
+[[/div]]
+
+[[/div]]
+[!--     默认页     --]
+[[div id="default-page"]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:level-class
+|class=pending
+|lang=cn
+|two=稳定性待定
+]]
+**Level IF-206**是后室IF层群的第206层。
++ **描述**
+**Level IF-206**表现为一个极为巨大的黑色空间，内部不存在任何自然光源，且疑似具类似于**Level 6**对光线的影响，这导致流浪者身处其中时会产生极大的恐惧、迷失感和不适感。一般时，层级内极为寂静，这亦加剧了上述的效果。
+
+**Level 0**内的孤立效应在这里未被证实确定存在。诚然，该层级一般情况下寂静的特性使得流浪者之间可以互相喊话并听见对方的回应，但该空间具有不明原因的制造回声能力，使得流浪者极难判断是否有另一生命体位于附近。
+
+层级内不存在任何的氧气，但流浪者可以使用一种未知的方式进行**安全的**呼吸。流浪者可以使用类似于游泳的姿势，在层级内部来回移动。
+
+有时，流浪者会迎头撞上一些漂浮的门。它们大小样式均不定，但均通往**Level IF-1**的另一区域[[footnote]]推测。由于黑暗的层级属性，尚无法证实这一点。[[/footnote]]
+
+层级内部具有稳定的Wi-Fi，使得流浪者位于其中时可以上网，并将层级内的信息传递至外界。目前，在M.E.G. IF深空探索部门的帮助下，建立了一个**Level IF-206的专属聊天室**。
+
+++ 事件
+
+在不定时间内，层级内会播放歌曲，它们大部分与梦核主题相关。它们的音量通常较小，但足以让流浪者们清晰的听见。有部分报告称层级内部出现了以极大的音量播放音乐的情况。以下将出现过的歌曲进行列表展示。[[footnote]]--据一名仍在漂浮的流浪者称：感谢这个层级，通过聊天室我已经把它们的曲名和调子背的滚瓜烂熟了--[[/footnote]]
+
+||~  曲目 ||~ 被记录出现的频次 ||
+|| 《It's just a burning memory》The Caretaker || 16 ||
+||《Libet's Delay》The Caretaker || 14 ||
+||《Hi》TEMPOREX || 13 ||
+||《Are You Lost》Park Bird || 13 ||
+||《Nice Boy》TEMPOREX || 12 ||
+||《Take A Chance》Myuu || 11 ||
+||《Among Us》Myuu || 11 ||
+||《Six Forty Seven》Instupendo || 10 ||
+||《Comfort Chain》Instupendo || 9 ||
+||《Never Gonna Give You Up》Rick Astley || 9 ||
+||《Erika》Major Han Freiss || 1 ||
+|| 《British Grenadiers,Fife and Drums》 || 1 ||
++ **基地、前哨与社区**
+由于层级属性，目前暂无任何的基地、前哨或社区被成功建立。
++ **入口与出口**
+++++++ 入口
+* 触碰[[[Level IF-99]]]中的一艘宇宙飞船模型会被传送至此。
+* 在**Level 78**尝试切出有概率来到该层级。
+++++++ 出口
+* 暂未发现稳定性强且可用的出口。
+------
+
++ 附录
+
+[#u-page-2 关于Level IF-206及其探索的归档记录（分类：文档集）]
+[[=]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者：[[*user JgPz.E-100]]
+图源：[https://pixabay.com/illustrations/eclipse-sun-space-moon-planet-1492818/ 图1]，[https://pixabay.com/photos/stars-night-sky-space-galaxy-1655504/ 图2]，另外两张由AI生成，遵守协议
+
+致谢：[[*user error-com]]，[[*user BanAllAD]]，[[*user qwertyuiop1000]]，[[*user Paper Scraps]]，他们对我初入IF分的这篇作品进行了慷慨的支持与建议，并同意我使用他们的昵称！
+
+[[/collapsible]]
+[[/=]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-205]]] | Level IF-206 | [[[Level IF-207]]] >>
+[[/=]]
+[[/div]]
+[[include :backrooms-wiki-cn:component:footnotecol]]
+[[/div]]

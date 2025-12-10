@@ -1,0 +1,56 @@
+[[module CSS]]
+/* 调整你的root吧！ */
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "black-highlighter";
+    --theme-name: "nu-SCP Theme";
+    --logo-image: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg);
+    --header-title: "SCP Foundation";
+    --header-subtitle: "SECURE, CONTAIN, PROTECT";
+    --body-font: Raleway,Arimo,Verdana,Geneva,sans-serif;
+    --header-font: Poppins,Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+    --title-font: Poppins,Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+    --mono-font: Recursive,Consolas,monaco,monospace;
+    --wght: 400;
+    --ital: 0;
+    --mono-wght: 350;
+    --slnt: 0;
+    --CASL: 0;
+    --CRSV: 0;
+    --MONO: 1;
+    --lnum: 1;
+    --pnum: 1;
+    --kern: 1;
+    --liga: 1;
+    --clig: 1;
+    --dlig: 0;
+    --calt: 1;
+    --white-monochrome: 252,252,252;
+    --pale-gray-monochrome: 244,244,244;
+    --light-pale-gray-monochrome: 244,244,244;
+    --very-light-gray-monochrome: 215,215,215;
+    --light-gray-monochrome: 160,160,160;
+    --gray-monochrome: 66,66,72;
+    --dark-gray-monochrome: 48,48,52;
+    --black-monochrome: 12,12,12;
+    --pale-accent: 230,40,60;
+    --bright-accent: 133,0,5;
+    --medium-accent: 100,46,44;
+    --dark-accent: 100,3,15;
+    --alt-accent: 221,102,17;
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--black-monochrome);
+    --header-gradient-color-top: var(--black-monochrome);
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    --swatch-text-dark: var(--black-monochrome);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-text-general: var(--swatch-text-dark);
+    --swatch-important-text: var(--bright-accent);
+    --swatch-menubg-color: var(--white-monochrome);
+Show All Properties (61 more)
+}
+[[/module]]

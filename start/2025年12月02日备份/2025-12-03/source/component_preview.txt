@@ -1,0 +1,31 @@
+[[div class="preview"]]
+{$text}
+[[/div]]
+[[module CSS]]
+div.preview { display: none; }
+[[/module]]
+
+[[iftags +组件]]
+[[>]]
+[[module rate]]
+[[/>]]
+预览组件最初由SCP维基的[[*user EstrellaYoshte]]创建，后由Backrooms维基的[[*user ReyDay]]移植至本站。如需更多信息，请查阅下方的授权信息栏。
+
+该组件用于使用CROM机器人搜索页面时，显示页面的预览文本！预览文本不会显示在页面本身，仅会在CROM嵌入内容中显示。
+
+使用方法如下：
+
+**@@=====@@**
+**@@[[include :if-backrooms:component:preview@@**
+**@@text=预览文本填写于此！@@**
+**@@]]@@**
+**@@=====@@**
+
+[[include component:image-block
+|name=http://reyday.wikidot.com/local--files/component:preview/Testing
+|caption= 它的显示效果如下！
+|align= right
+]]
+
+内容必须放置在页面顶部，否则无法生效。就这样！很简单，对吧？
+[[/iftags]]

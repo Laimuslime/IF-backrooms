@@ -1,0 +1,19 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者[[*user kadjwxs]]
+图源：pixaday
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-237]]] | Level IF-238 | [[[Level IF-239]]] >>
+[[/=]]
+[[/div]]

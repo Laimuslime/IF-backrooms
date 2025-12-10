@@ -1,0 +1,394 @@
+[[include :backrooms-wiki-cn:theme:pomona]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page3"]]
+%%content{4}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page4"]]
+%%content{5}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page5"]]
+%%content{6}%%
+[[/module]]
+[!--
+====
+
+[[module css]]
+:root{
+   --header-title: "归乡何漫漫";
+   --header-subtitle: "倍思归"
+}
+[[/module]]
+
+[[include component:level-class
+|class=habitable
+|lang=cn
+|one=安全且稳定
+|two=无有害实体
+|three=思乡情难止
+]]
+
+**Level IF-180**是后室IF层群的180层。
+
+++ **描述**
+
+[[include component:image-block
+    name=https://brsandbox-pro.wdfiles.com/local--files/collab%3Amissing-you-but-not-seeing-you/%E6%A3%AE%E6%9E%97|
+    caption=在**Level IF-180**拍摄的一张照片。
+]]
+
+**Level IF-180**表现为一片广袤而繁盛的森林。因从切入点为中心，越向外围森林越繁茂，距离切入点12公里处的森林基本不存在空隙[[footnote]] 这是怎么长成这样的呢？ [[/footnote]]，并且难以砍伐，导致该层级的可探索区域仅为一个半径为12公里的圆形区域。
+
+**Level IF-180**中无较大地势起伏，各处地面坡度均在5°以下，昼夜运行周期与前厅相似且无季节变化。本层级白日温度一般为25°C，而夜间温度会下降1-2°C，但湿度与风速无明显变化，湿度保持在60%，风速时常为0.3m/s。因层级内树叶茂盛，导致本层级无阳光直照，然而层级内的亮度却一直处于明亮的水平，在后续探索中发现，这种亮度来自于某种会发光的树叶。
+
+++ **物资**
+
+**Level IF-180**最开始被发现时被认为是不存在物资的。不过在[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G.]]]组织的某次探索中，一位探险家被来自上方的果实砸晕。经查找，有大量果实处于树叶的层层遮挡下，这种果实可食用且含有充足的营养和水分。因其储量巨大，可作为稳定的物资来源。
+
+注意，因未知原因，该果实在接触到地面后便会立刻消失，所以不要试图在地面寻找掉落的果实。
+
+++ **实体**
+
+**Level IF-180**中存在少量的昆虫，这些昆虫与前厅的昆虫有极大的相似，目前发现类似前厅的昆虫有蚂蚁、螳螂，竹节虫、蜘蛛、甲虫。这些昆虫与前厅昆虫唯一的区别是这里的昆虫营养含量远超于前厅[[footnote]] 我的天哪，不会有人要来吃昆虫吧？ [[/footnote]]。
+
+除昆虫之外，该层级暂未发现其它实体。
+
+++ **效应**
+
+**怀乡效应：**切入该层级的流浪者都会在切入的一瞬间回忆起在前厅美好的回忆，若不存在相关记忆，则会回忆起其它过去拥有但再也无法获得的美好回忆。这会使切入该层级的流浪者在聊起过去时更容易产生怀念乃至于泪流满面，这种影响被认为是无害的。在切出该层级三天后，这种影响会在慢慢地消退。
+
+现正尝试用这种影响去治疗部分情感障碍患者，并取得了良好成效。
+
+++ **基地、前哨和社区**
+
++++ **M.E.G.思乡者前哨**
+
+* 常有26名M.E.G.成员
+* 公开且开放贸易
+* 乐意帮助需要的流浪者
+
+++ **入口**
+
+* （未证实）在对家乡记忆不清时睡去有概率来到该层级。
+* 在[[[Level 11]]]中切入一张印着地球的海报会进入该层级。
+
+++ **出口**
+
+* 在夜晚切入一棵树会到达[[[Level C-164]]]（如果还想继续探索后室则不建议尝试）。
+* 在树木最稀疏的地方（也就是你进入层级时所处的地方）切入地面可返回到原本层级。
+
+这里真的非常安全，但你不愿再久留，你太思念她了，你不敢再回忆她......
+[https://if-backrooms.wikidot.com/level-if-180/offset/1/page2_limit/1 所以你离开了这里]
+----
+[[>]]
+[[collapsible show="愿分离得以重逢" hide="愿思念不留遗憾"]]
+图片为ai生成
+作者为[[*user error-com]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-179]]] | Level IF-180 | [[[Level IF-181]]] >>
+[[/=]]
+[[/div]]
+====
+[[module css]]
+:root{
+   --header-title: "此水几时休";
+   --header-subtitle: "此恨何时已"
+}
+[[/module]]
+[[=]]
+[[div class="styled-quote"]]
+++ ##red|**M.E.G.通报**##
+最近有部分流浪者在切出[[[Level IF-180]]]后消失，望知晓者可给出线索。
+[[/div]]
++ **未知文件**
+[[/=]]
+[[include :backrooms-wiki-cn:component:sdcsex
+|lang=cn
+|class=DC
+|one=严重精神危害
+|two=无法辨别环境
+|three=实体完全绝迹
+]]
+
+**IF-180 Level**是后室IF层群180层的反面。
+
+++ **描述**
+
+[[include component:image-block
+    name=https://brsandbox-pro.wdfiles.com/local--files/collab%3Amissing-you-but-not-seeing-you/%E6%B2%99%E6%BC%A0|
+    caption=真正的**IF-180 Level**。
+]]
+
+**IF-180 Level**表现为一片巨大的荒漠，//但你永远也不会知道//。因其强烈的幻觉影响，故无法确定此层级的大小，//当然你也你不能确认此层级的样貌。//
+
+**IF-180 Level**中的环境完全不适合任何生物生存，氧气含量高达60%，白天温度高达46℃，而夜间温度将会降低到-12℃，//不过你却感受不到，沉溺于虚假的幻觉。//
+
+++ **物资和实体**
+
+**IF-180 Level**中不存在任何物资和实体，//但对看见了思念之人的你，这个层级仍然是完美的。//
+
+++ **效应**
+
+**怀恋效应：**在切入**IF-180 Level**的一瞬间，流浪者的思绪会立刻被怀念某人占据，这个人往往是流浪者最想见到的他或她。紧接着，流浪者会立刻陷入幻觉之中，而在幻觉中，流浪者会看见最想见到的人祈祷流浪者不要再离开，并且流浪者也会丧失对外界的感受。//迄今为止，尚未有流浪者在死亡前成功从幻觉之中摆脱。//
+
+++ **基地、前哨和社区**
+
+因**IF-180 Level**难以进入以及特殊效应影响，//你们甚至没人知道这个层级，更何况是建立基地呢？//
+
+++ **入口**
+
+在充满对某人的怀念时以任何方式切出[[[Level IF-180]]]会来到这里。
+
+++ **出口**
+
+//在死亡之前摆脱幻觉便可回到你切入[[[Level IF-180]]]之前所在的层级，但是谁能摆脱积蓄已久的思念？//
+[[html]]
+<body text="green">
+<center>
+<p>
+<div class="text" style="display: inline"></div>
+</p>
+</body>
+<style>
+@import url(https://www.scp-wiki.net/local--files/theme:scp-offices-theme/scpoffices_theme.css);
+
+.text {
+    text-align: center;
+    font-family: var(--header-font);
+}
+
+</style>
+<script type="text/javascript">
+obfu_data = {
+"delay":0,
+"start_time":10,
+"end_time":100,
+"disp_time":2000,
+"loop":true,
+"obfu_chars":"日日思君不见君共饮长江水",
+"phrases":[
+'你在对那人的思念中离去',
+'在世界的另一头再见',
+]
+}
+</script>
+<script type="text/javascript" src="https://backrooms-wiki.wikidot.com/local--files/level-404/obfuscator.js"></script>
+[[/html]]
+----
+[[>]]
+[https://if-backrooms.wikidot.com/level-if-180/offset/1/page3_limit/1 但你为何要沉溺于假象？在真实中才能见到真正的她。]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-179]]] | Level IF-180 | [[[Level IF-181]]] >>
+[[/=]]
+[[/div]]
+====
+[[module css]]
+:root{
+   --header-title: "为何至此？";
+   --header-subtitle: "幻觉何破？"
+}
+[[/module]]
+[[div class="blockquote"]]
+**人类，我很好奇，为什么你不会受困于幻觉？**
+[[>]]
+因为那是幻觉，既然不是真实，又如何不能破除？
+[[/>]]
+**你难道不希望你能与她重逢？**
+[[>]]
+当然希望。
+[[/>]]
+**那你不应该不沉溺于与她相伴的幻觉中。**
+[[>]]
+我也不应该沉溺于与她相伴的幻觉中。
+[[/>]]
+**这是为何？**
+[[>]]
+因为我渴望再次见到她。
+[[/>]]
+**我不理解。**
+[[>]]
+你也无需理解，Level IF-180。
+[[/>]]
+**......**
+@@@@
+@@@@
+**你是怎么知道的？**
+[[>]]
+能在这里与我交流的，除了你还能有谁？
+[[/>]]
+**你为什么不会被幻觉欺骗？**
+[[>]]
+因为我渴望再次见到她。
+[[/>]]
+**我还是不理解。**
+[[=]]
++++ //**[https://if-backrooms.wikidot.com/level-if-180/offset/1/page4_limit/1 但我或许应该尝试去理解。]**//
+[[/=]]
+**你让我看到了我所未看见的，我应该去改进，我需要你的帮助，你愿意帮助我吗？**
+[[>]]
+......
+@@@@
+@@@@
+可以......
+[[/>]]
+[[/div]]
+----
+[[>]]
+[[collapsible show="愿分离得以重逢" hide="愿思念不留遗憾"]]
+图片为ai生成
+作者为[[*user error-com]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-179]]] | Level IF-180 | [[[Level IF-181]]] >>
+[[/=]]
+[[/div]]
+====
+[[div class="styled-quote"]]
+[[=]]
+++ ##red|**M.E.G.通报**##
+[[/=]]
+层级[[[Level IF-180]]]发生巨大变化，请现在仍然处于[[[Level IF-180]]]的流浪者立刻切出。
+[[/div]]
+
+[[include component:level-class
+|class=n/a
+|lang=cn
+|one=不适用
+|two=不适用
+|three=不适用
+]]
+
+**Level IF-180**是后室IF层群的180层。
+
+现在这里没有任何物质，请广大流浪者不要尝试切入，否则后果自负。
+
+[https://if-backrooms.wikidot.com/level-if-180/offset/1/page5_limit/1 但这个层级究竟发生了什么？]
+
+----
+[[>]]
+[[collapsible show="愿分离得以重逢" hide="愿思念不留遗憾"]]
+图片为ai生成
+作者为[[*user error-com]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-179]]] | Level IF-180 | [[[Level IF-181]]] >>
+[[/=]]
+[[/div]]
+
+====
+[[module css]]
+:root{
+   --header-title: "愿分别得以重逢";
+   --header-subtitle: "愿思念不留遗憾"
+}
+[[/module]]
+[[div class="blockquote"]]
+
+[[include component:level-class
+|class=habitable
+|lang=cn
+|one=安全且稳定
+|two=从此望故乡
+|three=宽慰自来到
+]]
+
+**Level IF-180**是后室IF层群的180层。
+
+++ **描述**
+
+[[include component:image-block
+    name=https://brsandbox-pro.wdfiles.com/local--files/collab%3Amissing-you-but-not-seeing-you/%E9%85%92%E5%BA%97|
+    caption=现在的**Level IF-180**。
+]]
+
+**Level IF-180**表现为一个巨大的酒店，该酒店总共有300层，每层均为一个房间。
+
+**Level IF-180**面积约为1km^^2^^，温度保持在25℃，湿度保持在60%。**Level IF-180**的每一层均拥有独立且完善的生活和娱乐设施.
+
+值得注意的是，自第二层开始，**Level IF-180**中每层均配有一个可以看到故乡的电视机，在这一层的每名住客都可以从这个电视机里看到自己的故乡，少部分人可以看到自己最想看到的人，但每名住客只可观看10分钟，一旦超过十一分钟，电视机会自动关闭并且使流浪者忘记自己的家乡和最想见到的人。
+
+++ **物资**
+
+**Level IF-180**中不存在物资，但相应的是，流浪者也不会感到饥饿。
+
+++ **基地、前哨和社区**
+
+**Level IF-180**不允许任何团体建立基地。
+
+++ **入口**
+
+在任意层级极度思乡时睡去。
+
+++ **出口**
+
+在**Level IF-180**中生活一天并观看过家乡或最想见到的人的影像后在**Level IF-180**睡去。
+
+在**Level IF-180**中生活三天后在**Level IF-180**中睡去。
+[[=]]
+在离开**Level IF-180**后，流浪者会感到对思念的释怀，现正尝试与**Level IF-180**联系来治疗有关心理疾病患者。
+[[/=]]
+----
+[[div class="blockquote"]]
+**感谢你的帮助，这让我可以更方便的了解你们人类的思念。**
+[[>]]
+也感谢你愿意给人类提供一个看到家乡或思念的人的地方。
+[[/>]]
+**这是我所真正希望的。**
+[[>]]
+不过，为什么那些看得久的会忘记家乡或者思念的人呢？
+[[/>]]
+**嘿嘿，对他们贪心的惩罚嘛。**
+@@@@
+@@@@
+**还有我也要点素材去研究你们人类的情感吧。**
+[[>]]
+......
+@@@@
+@@@@
+既然你完成了你所希望的，那，再会。
+[[/>]]
+**再会**
+@@@@
+@@@@
+**对了，跟你说一声，你思念的那位也来后室了，现在就在[[[Level-11]]].**
+[[>]]
+你能送我去那里吗。
+[[/>]]
+**那么，请吧。**
+[[=]]
+++ **......**
+[[/=]]
+[[/div]]
+[[/div]]
+----
+[[>]]
+[[collapsible show="愿分离得以重逢" hide="愿思念不留遗憾"]]
+图片为ai生成
+作者为[[*user error-com]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-179]]] | Level IF-180 | [[[Level IF-181]]] >>
+[[/=]]
+[[/div]]
+====
+--]

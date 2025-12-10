@@ -1,0 +1,30 @@
+[[div class="darkblock"]]
+++ 2025 年翻译精品合集·壹
+[[collapsible show="展开合集" hide="收起合集"]]
+[[div class="lightblock"]]
+++ [[[nivel-es-5-1|Level ES-5.1 - “轨道”]]]
+> [[user calf-0]] 译
+//“我起初在阴影中瞥见一丝微光。可它却浸染着灰暗的色调，又被阴郁的天空遮蔽。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-288|Level 288 - “死星之芒”]]]
+> [[user ThEndlessRain]] 译
+//“黑暗也许扼杀了星璇的辉光，可它却永远无法扑灭我的光芒。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[level-50-id|Level 50-ID - “赎罪之渊”]]]
+> [[user calf-0]] 译
+//“直至最终，受困于此的人们只剩三条路可走：成为峭壁上永不消散的尘埃，溺亡于那片冷酷无情的毒海，或是将自我彻底献祭给赎罪之焰——通往Level 51-ID的唯一途径。”//
+[[/div]]
+
+[[div class="lightblock"]]
+++ [[[entity-74|Entity 74 - “阿尔戈斯”]]]
+
+> [[user calf-0]] 译
+
+//“匆匆扫视你的双肩。熟悉的寒意如钢针般顺着脊背爬下。而身旁的陌生人似乎只会不断地注视着你。”//
+[[/div]]
+[[/collapsible]]
+[[/div]]

@@ -1,0 +1,390 @@
+[[iftags +版式 +原创]]
+[[>]]
+[[module rate]]
+[[/>]]
+此版式由[[*user Meilemeweng]]基于非常美观简洁的阈限版式与很酷的暗色阈限版式制作。
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-backrooms.wikidot.com/theme-blue-threshold-space]]@@
+
+[[/div]]
+
++ 示例
+
+可通过五个连字符“@@-----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+“哦，哭泣的女人，像雨天一样悲伤。
+我爬上松树之巅寻找你的痕迹，
+抖落的露珠就像是我的眼泪。
+哦，哭泣的女人，像雨天一样悲伤。”
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。甚至可以更多。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+这段文本
+__放在这里__
+//你们就能//
+**看到不同**
+--他正在看着你--
+{{也许}}
+并^^不是这样^^
+你在,,这里吗？,,
+
+[[[Level IF-201|我存在。]]]
+[[[我不存在。]]]
+
+
+“雨后的空气潮湿而略带清新，你握着母亲的手，缓缓在水泥路面上行走着。你们本来已经收起了雨伞，然而重新开始坠落的雨滴让你们不得不把它打开。水泥路边上有一些裂纹，在雨水的冲刷下看起来像是水波。”[[footnote]] 脚注一。 [[/footnote]]
+
+“你们穿过一个个路灯与儿童娱乐设施，虽然它们的数量并没有因为你们的远去而减少，但它们确实正在逐渐融化，散发出一股浓郁的塑料气息。灌木丛绿油油的，表面覆盖了一层水，看起来多少还是有一些不自然。”[[footnote]] 脚注二。 [[/footnote]]
+
+“雨水通过排水口流入排水系统的声音从未停止，而且似乎就在你们脚下。你们没有停下你们的脚步，直到你们也化为液体，渐渐流入地下。”[[footnote]] 脚注三。 [[/footnote]]
+
+
+----
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+如同天空。
+[[/div]]
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+如同海洋。
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+如同海滨。
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+如同海岸。
+[[/div]]
+
+[[collapsible show="版式代码" hide="隐藏"]]
+[[code]]
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "liminal-blue";
+    --theme-name: "Liminal Blue Theme";
+    --logo-image: url("../../New_BHL/image/logo.svg");
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾经来过这里";
+
+    --body-font: Inter, "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, "Noto Sans SC", "Noto Sans TC", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, "Noto Serif SC", "Noto Serif TC", Consolas, monaco, monospace;
+
+    --white-monochrome: 230, 240, 250;   
+    --pale-gray-monochrome: 200, 220, 240;  
+    --light-gray-monochrome: 160, 180, 210;
+    --gray-monochrome: 70, 100, 140;  
+    --black-monochrome: 20, 40, 70;   
+    --bright-accent: 100, 150, 220;    
+    --medium-accent: 60, 100, 180;    
+    --dark-accent: 30, 60, 120;   
+    --pale-accent: 180, 210, 230;   
+
+    --link-color: 80, 150, 220;       
+
+    --hover-link-color: 50, 120, 200;    
+    --visited-link-color: 120, 160, 220;   
+
+   
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --background-gradient-distance: 0rem;
+
+    
+
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.9) 0%,
+        rgba(var(--dark-accent), 0.9) 100%);
+
+
+    --diagonal-stripes: linear-gradient(transparent 0);
+
+}
+
+
+
+
+#skrollr-body {
+    background-image: radial-gradient(circle,
+        rgb(var(--medium-accent)) 50%,
+        transparent 0);
+    background-repeat: repeat;
+    background-size: 0.25em 0.25em;
+}
+
+
+#container {
+    background-image: radial-gradient(circle,
+        rgba(var(--pale-accent), 0.1) 50%,
+        transparent 0);
+}
+
+.styled-quote {
+    background-color: rgba(var(--pale-accent), 0.5);
+    border-left: 0.5rem solid rgb(var(--medium-accent));
+}
+
+
+.dark-styled-quote {
+    background-color: rgba(var(--gray-monochrome), 0.8);
+    border-left: 0.5rem solid rgb(var(--pale-accent));
+    color: rgb(var(--white-monochrome));
+}
+
+
+.lightblock {
+    background-color: rgba(var(--pale-accent), 0.3);
+}
+
+.darkblock {
+    background-color: rgba(var(--gray-monochrome), 0.7);
+    color: rgb(var(--white-monochrome));
+}
+
+
+
+#footer, #footer a {
+    color: rgb(var(--pale-accent));
+}
+
+
+.scp-image-block {
+    border: 1px solid rgb(var(--bright-accent));
+    background-color: rgba(var(--pale-accent), 0.2);
+}
+
+
+
+#page-content div#u-adult-warning {
+    border: 3px solid rgb(var(--dark-accent));
+    background: rgba(var(--pale-accent), 0.7);
+    color: rgb(var(--black-monochrome));
+
+    
+
+    &>div#u-adult-header {
+        color: rgb(var(--dark-accent));
+    }
+}
+
+[[/module]]
+[[/code]]
+[[/collapsible]]
+-----
+[[/iftags]]
+
+[[iftags -版式]]
+[[/iftags]]
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "liminal-blue";
+    --theme-name: "Liminal Blue Theme";
+    --logo-image: url("../../New_BHL/image/logo.svg");
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾经来过这里";
+
+    --body-font: Inter, "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, "Noto Sans SC", "Noto Sans TC", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, "Noto Serif SC", "Noto Serif TC", Consolas, monaco, monospace;
+
+    --white-monochrome: 230, 240, 250;   
+    --pale-gray-monochrome: 200, 220, 240;  
+    --light-gray-monochrome: 160, 180, 210;
+    --gray-monochrome: 70, 100, 140;  
+    --black-monochrome: 20, 40, 70;   
+    --bright-accent: 100, 150, 220;    
+    --medium-accent: 60, 100, 180;    
+    --dark-accent: 30, 60, 120;   
+    --pale-accent: 180, 210, 230;   
+
+    --link-color: 80, 150, 220;       
+
+    --hover-link-color: 50, 120, 200;    
+    --visited-link-color: 120, 160, 220;   
+
+   
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --background-gradient-distance: 0rem;
+
+    
+
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.9) 0%,
+        rgba(var(--dark-accent), 0.9) 100%);
+
+
+    --diagonal-stripes: linear-gradient(transparent 0);
+
+}
+
+
+
+
+#skrollr-body {
+    background-image: radial-gradient(circle,
+        rgb(var(--medium-accent)) 50%,
+        transparent 0);
+    background-repeat: repeat;
+    background-size: 0.25em 0.25em;
+}
+
+
+#container {
+    background-image: radial-gradient(circle,
+        rgba(var(--pale-accent), 0.1) 50%,
+        transparent 0);
+}
+
+.styled-quote {
+    background-color: rgba(var(--pale-accent), 0.5);
+    border-left: 0.5rem solid rgb(var(--medium-accent));
+}
+
+
+.dark-styled-quote {
+    background-color: rgba(var(--gray-monochrome), 0.8);
+    border-left: 0.5rem solid rgb(var(--pale-accent));
+    color: rgb(var(--white-monochrome));
+}
+
+
+.lightblock {
+    background-color: rgba(var(--pale-accent), 0.3);
+}
+
+.darkblock {
+    background-color: rgba(var(--gray-monochrome), 0.7);
+    color: rgb(var(--white-monochrome));
+}
+
+
+
+#footer, #footer a {
+    color: rgb(var(--pale-accent));
+}
+
+
+.scp-image-block {
+    border: 1px solid rgb(var(--bright-accent));
+    background-color: rgba(var(--pale-accent), 0.2);
+}
+
+
+
+#page-content div#u-adult-warning {
+    border: 3px solid rgb(var(--dark-accent));
+    background: rgba(var(--pale-accent), 0.7);
+    color: rgb(var(--black-monochrome));
+
+    
+
+    &>div#u-adult-header {
+        color: rgb(var(--dark-accent));
+    }
+}
+
+[[/module]]

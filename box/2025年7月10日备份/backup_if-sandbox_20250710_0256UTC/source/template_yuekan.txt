@@ -1,0 +1,78 @@
+[[module rate]]
+
++ //精品推荐贴//是什么
+**精品推荐贴**是后室 IF 层群的一份**月刊**，一般在月底发布，了解本月的优质页面，有时候成员繁忙会略微推迟。
+
++ 一、IF分本月精品文章
+
+[[div class="lightblock y"]]
++++ 1.[[[unknown]]] “name”
+作者:[[*user 作者]]
+-----
+节选
+-----
+评价
+[[/div]]
+@@@@
+[[div class="lightblock y"]]
++++ 2.[[[unknown]]] “name”
+作者:[[*user 作者]]
+-----
+节选
+-----
+评价
+[[/div]]
+@@@@
+
+-----
++ 二、PICK UP文章
+这一类文章通常并没有更高的分数，也挤不进精品行列，但这不妨碍其质量优秀，进步巨大。
+
+[[div class="darkblock y"]]
++++ 1.[unknown]“name”
+作者：[[*user 作者]]
+-----
+节选
+-----
+当前评分：+rate
+[[/div]]
+-------
+[[div class="darkblock y"]]
++++ 2.[unknown]“name”
+作者：[[*user 作者]]
+-----
+节选
+-----
+当前评分：+rate
+[[/div]]
+------
+
+-----
+
++ 三、本月最佳写手
+[[div class="grid-container"]]
+[[div class="grid-big"]]
+新人组
+[[user ？]]
+[[/div]]
+[[div class="grid-big"]]
+老成员组
+[[user ？？]]
+[[/div]]
+[[/div]]
+------
+
++ 四、写手留言区
+（本模块允许编辑，请不要更改其余区域，谢谢！）
+
+[[div class="lightblock y"]]
+[[*user name]]：占位。
+----
+[[/div]]
+-----
++ 五、作者信息
+
+[[collapsible show="编写者" hide="隐藏"]]
+[[*user name]]主要编写
+
+[[/collapsible]]

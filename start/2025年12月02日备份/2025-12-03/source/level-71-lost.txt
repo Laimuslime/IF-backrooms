@@ -1,0 +1,616 @@
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+[[/module]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:theme:better-blank
+|del=a
+|font=a
+|title=a
+]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 5.50s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+}
+[[/module]]
+
+[[module css]]
+:root {
+    --bb-black: 255, 255, 255;
+    --bb-white: 0, 0, 0;
+}
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 90%;
+    margin:auto;
+   text-align: center;
+    text-shadow: 1.25px 1.25px 1.25px rgb(255,255,255);
+}
+
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 0.8) 85%, rgba(0, 0, 0, 0.8) 100%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+[[/module]]
+@@@@
+
+[[div class="solid-hr"]]
+[[/div]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[div style="font-family: 'Noto Serif SC', sans-serif; font-size: 1.2em;"]]
+
+@@@@
+我不该往下走的。
+
+台阶上堆积着厚厚的灰，空气里弥漫着稀薄的灰，它们像是噪点，无规则且无秩序地排列着。
+
+我不该往下走的。
+
+台阶的尽头被未知所充斥，可这是我唯一的选择。
+@@@@
+
+[[image http://brsandbox-pro.wikidot.com/local--files/collab:l71/%E6%8F%92%E5%9B%BE1]]
+
+@@@@
+扶手是铁制的，轻触只觉冰冷而粗糙，其上锈斑遍布，部分区域锈得严重，在地上洒下一团铁屑。
+
+我紧紧抓着扶手，沿楼梯向下走去。
+
+
+@@@@
+@@@@
+[[/div]]
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="classic-title meta-title"]]
+Level 71 -“迷失域”
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:sdcsex
+|lang=cn
+|class=DC
+|one=思维精神危害
+|two=异常感官影响
+|three=潜在致命效应
+]]
+@@@@
+@@@@
+@@@@
+**Level 71** 是后室的第 72 层，表现为一个巨大、大部分区域尚未完工的地下室。
+@@@@
+@@@@
++ 描述
+
+
+
+
+@@@@
+
+**Level 71** 内的标志建筑仅有一面无限延展的墙体，该墙体几乎完全被沙砾或尘土覆盖，大致位于该层级的切入点附近。层级内环境破败不堪，层级地面与墙体类似地被沙砾和尘土覆盖着；空气中常有烟尘弥漫，流浪者的视野将因此受到严重影响。除去层级的地面、天花板以及该墙体外，其他方向的空间似乎是无限延伸的。
+
+该层级存在一种使得流浪者仅能分辨黑白二色的特殊视觉现象，具体表现为流浪者视野中所有物体仅存在灰度[[footnote]]这意味着进入本层级的流浪者眼中仅存在黑白灰三色。[[/footnote]]。这一特殊层级现象可以被流浪者快速适应，**且不会产生负面的精神影响**。由于本层级暂未内发现任何已知的光源，加之该特殊现象的影响，本层级内的能见度较低，流浪者需集中注意才可分辨周围环境。
+
+孤立效应**被认为**存在于此层级中，目前唯一确认的与 **Level 71** 中探索者联系的有效方式是在 [https://backrooms-wiki-cn.wikidot.com/level-4  Level 4] 内提前建立通讯。
+
+
+
+[[include component:image-block
+|name=http://brsandbox-pro.wikidot.com/local--files/collab:l71/%E6%A5%BC%E6%A2%AF
+|caption=楼梯
+|align=left
+]]
+@@@@
+通向 **Level 71** 的楼梯[[footnote]] 该楼梯通向的层级尚存争议，另一种说法是该楼梯通向--[*https://backrooms-wiki-cn.wikidot.com/th3-sh4dy-gr3y 暗灰]--。 [[/footnote]]向上下两端均无限延伸，其材质与墙面相同，梯面上布满灰尘和砾石。楼梯扶手可能为铁制，楼梯转角处的扶手有多处断裂。楼梯侧面墙体有较多的脱落痕迹，脱落处颜色较深，内部材质不明。沿楼梯向上或向下移动，--可能通往--楼梯是无限延伸的，向上或向下只能看到楼梯消失在黑暗中，--通往未知--。
+
+
+
+墙体附近散乱放置着木制脚手架和其他的支撑架构，这些物品似乎随层级深入而分布的更为广泛。
+
+
+
+受限于层级内的光照条件，仅有位于切入点附近的墙体可以作为有效的参照物，贸然脱离墙体的行为是极不明智的，**目前所有脱离墙体行动的流浪者都在短时间内失去了联系，无一例外**。
+
+
+[[collapsible show="通讯内容" hide="收起"]]
+> **Swan：**好吧，我想我真的厌倦了，我是说——我顺着这面破墙走了**至少**十个小时了，我没有发现任何出口，我甚至觉得自己只是在原地踏步。
+>
+> **Wisalder：**可层级资料说——
+>
+> **Swan：****去他的**层级资料。
+>
+> [脚步声]
+>
+> **Swan：**我还以为这里很黑呢，喂？我有新的发现，虽说仍然不知道光源在哪，但它似乎是伴随着我本人的，也就是说，实际上是我走到哪里，光跟到哪里。这意味着，只要我记得那面墙在哪个方向，我迷路的可能性其实不是很大。
+>
+> **Wisalder：**我总觉得——
+>
+> **Swan：**现在我离墙已经有些距离了，我就快看不见——
+>
+> **Wisalder：**Swan？
+>
+> 注：位于 [[[Level 4]]] 中联络 Swan 的 Wisalder 随后向 M.E.G. 报告了情况，Swan 此后再未有过任何消息，该事件被认为是“探索绝不能脱离墙壁进行”的又一铁证。
+[[/collapsible]]
+@@@@
+关于层级内是否存在实体，目前尚未有明确的定论，尽管部分探索中传回了有关实体的报告，但报告内容过于混乱，可信度极低，暂未将这些报告列入参考范围。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[div style="font-family: 'Noto Serif SC', sans-serif; font-size: 1.2em;"]]
+@@@@
+
+陌生的空间，和楼梯那里一样，到处都是灰尘。
+
+我只能看到一面墙，也仅是看到了它的灰色，我不知道它究竟是不是一面墙，但它至少不是黑的。
+
+黑的地方很远，是灯光找不到的地方，它们都叫做**“未知”**。
+@@@@
+[[image http://brsandbox-pro.wikidot.com/local--files/open:cymxlkf/%E5%B8%8C%E6%9C%9B%E8%BF%99%E4%B8%AA%E6%95%88%E6%9E%9C%E5%A5%BD%E4%B8%80%E7%82%B9]]
+@@@@
+紧贴着墙走大概不会带来好运，但离开墙，我又能去哪？
+
+一地鸡毛。脚手架，还有很多碎石，它们一并倾倒在地上，上面积着厚重的灰。
+
+有时候我会被它们绊一跤，但我始终不敢离开这面墙。
+
+这面墙无论怎么走都是一个样子，粗糙，破败，到处都是坑洼的脱落。
+
+墙壁很冷，空气也很冷。
+
+好冷，又黑又冷，有时候我怀疑自己已经死了。
+
+但得到的答案往往都是“否”。
+
+[[module CSS]]
+.hover-text:after {
+    content: "这是件好事，或许。";
+}
+
+[[/module]]
+ 
+[[span class="hover-text"]]​[[/span]]
+
+我困了，有时候会听到小时候在摇篮里才会听到的歌谣。
+
+还有各种生物的叫声。
+
+还有轻柔的海浪。
+
+风声...
+
+还有...
+@@@@
+@@@@
+...
+@@@@
+@@@@
+
+...
+@@@@
+@@@@
+**我现在意识很清醒，这绝不是幻听。**
+@@@@
+@@@@
+@@@@
+[[/div]]
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
++++ “回声”
+随着流浪者被困在 **Level 71** 内的时间增加，他们会开始听到有回声响起。这些声音在一开始时只是微弱的低吟或气息声，但随着时间的流逝，声音的音量会逐渐增大而显得愈发不可忽视。这些声音无法用任何方式来减弱或抹除。目前尚未找到这些声音的来源，从切入层级到回声响起的时间也是完全因人而异的。根据多份报告的分析得出，流浪者的潜意识可能间接导致了“回声”的产生，但尚无直接有力的证据证明这一点。
+
+根据 M.E.G. 收到的各类报告可总结出：这些回声展现出的通常是流浪者过往美好记忆的声响。流浪者通常能迅速反应过来回声的内容，但是，这些声响并不能使得流浪者的精神状态好转，相反地，流浪者会很快发现自己的记忆出现了严重流失，而回声的声音也随着时间的流逝逐渐加大而失真，到最后甚至只剩下刺耳的杂音。此时流浪者的大部分记忆均已损失殆尽，而其精神状态也因为回声的困扰而濒临崩溃。
+
+当回声的音量达到一定阈值后[[footnote]]一般地，“消逝”现象的发生时间是在回声开始失真时。[[/footnote]]，流浪者的身体将开始逐渐消散，这一现象被称之为 “消逝” 。有关该现象的介绍可在下文中参阅 **“消逝”** 词条。主流观点认为，这两种现象之间存在着某种难以解释的联系。
+
+
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[div style="font-family: 'Noto Serif SC', sans-serif; font-size: 1.2em;"]]
+@@@@
+婚礼的钟声一直在回荡，
+
+海浪的声音拍打个没完，
+
+童谣的吟唱开始失真，最后，剩下的都是些噪音。
+
+我亲爱的朋友，他还在吵闹，先安静一阵吧。
+
+让我享受这些哪怕已经失真的“美好”。
+
+美好在模糊，淡化，它们被消磨，被我当作最后的精神食粮，它们让我不至于沦为饿殍。可美好却好像要离我远去。
+
+又或者已经远去。
+
+我看到了他，他和我同样落难于此。
+
+他做着无谓的挣扎和哭喊，我也是。
+
+他累了，筋疲力尽地倒在地上，我也是。
+
+他开始用指甲在一张纸上不断滑动，我也是。
+
+我想扇醒自己，他便给了自己一巴掌。
+
+我靠近他，看着他的眼睛。
+
+
+[[image http://brsandbox-pro.wikidot.com/local--files/open:cymxlkf/%E7%9C%BC%E7%9D%9B]]
+
+
+
+**他的眼睛里没有我。**
+
+
+
+@@@@
+@@@@
+@@@@
+[[/div]]
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+
++++ [[span class="text-shadow"]]“消逝”[[/span]]
+
+随着流浪者待在此层级的时间增加，消逝也成为了他们必然的结局。每个人从切入 Level 71  到消逝所需的时间不同，但遭遇消逝现象是必然发生的事件。
+
+一旦消逝开始出现于流浪者的身上，那么流浪者将首先经历到心理上的影响。流浪者的精神通常会先慢慢涣散，此时其能感受到自身反应逐渐迟钝，并且大脑逐渐被各种混乱的想法所占据、侵蚀。[[footnote]]对这些流浪者的联络者而言，被莫名其妙主动切断的通讯是流浪者步入死亡的最后预兆。[[/footnote]]这些影响无法以任何方式减轻，且会随着时间越来越严重。最后流浪者的精神将完全崩溃，且能感受到自身的意识脱离于身体本身，此时将进入身体上的影响。
+
+一旦进入身体上的消逝，流浪者的身体将从身体的一侧开始，灰飞烟灭式地逐渐消散。由于流浪者的意识已脱离自身，其通常能见到自己的身体逐渐化为粒子并飘向空中，直至最后身体与粒子皆消失无踪。有记录称消逝的流浪者成为了层级中的灰尘，但目前没有证据以支持这一说法。
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[div style="font-family: 'Noto Serif SC', sans-serif; font-size: 1.2em;"]]
+@@@@
+被遗忘，抛弃在边境。
+
+而边境也是被遗忘和抛弃的。
+
+我们的宿命从一开始就绑定在一起。
+
+**我们的宿命从一开始便是消逝。**
+@@@@
+
+[[image http://brsandbox-pro.wikidot.com/local--files/collab:l71/%E6%8F%92%E5%9B%BE3]]
+**迷失于边境，消泯于逝年**
+@@@@
+@@@@
+[[/div]]
+[[/=]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+
+
+
++ 基地，前哨与社区
+[[span class="text-blur text-hoverback"]]根据某些确切的记录，可以确定 Level 71 存在过至少[[/span]] 3 [[span class="text-blur text-hoverback"]]个团体以及一个前哨，目前尚未发现任何与之有关的其他线索，所​̨̘̳̺ͩ̓ͤ̀͑̉͂̀͜͢͏所​̶̢͉̩͓̣̝̝̝̬̲́̂͑̍所​̸̟̖̼̩́̓̊̊̓͐̚͝͞͡所​̧̯̠͙̭̗̓ͯ͊́͛̾̓͢͠所​̟̮̳͂ͥ͌́̾̕͏̡̬͙ͭ̀所​̵̖͚̜͎̣͍̩̒ͭ̎͛ͮ͘͠[[/span]]
+
++ 入口与出口
+++ 入口
+在 [https://backrooms-wiki-cn.wikidot.com/level-4  Level 4] 找到一个地下室并进入。 进入后入口便将旋即关闭，流浪者将发现自己正身处楼梯与上述墙面的交汇处。
+
+@@@@
+++ 出​̵̙̯̱͎̬͖ͦ̐͆͑͜͝͞͞口​̷̴͉̝͎͓͎̄̓̏̒̔͌͢͜
+[[div class="signblock signblock-dark"]]
++* 警告
+离开 Level 71 的稳定出口并不存在，请在进入前准备好稳定的切行道具，并最好时刻与一名位于 [https://backrooms-wiki-cn.wikidot.com/level-4  Level 4] 中的同伴保持联系。但是，必须指出，尽管你可能准备好了一切：布兰奇的签名或是其他靠谱的切行道具、可靠而资深的联络对象，以及坚强的意志与决心，但你探索该层级的生还率将仍然低于 30% 。尽管我们尊重探险家们，但 M.E.G. 不建议任何人进入 Level 71 。
+[[include component:image-block
+|name=http://brsandbox-pro.wikidot.com/local--files/collab:l71/%E5%A2%99%E5%A3%81
+|caption=可能存在出口的区域
+|align=center
+]]
+如果你完全出于意外而来到了 Level 71 ，请在意识尚清醒时，竭力寻找地上的杂物**明显增多**的地段，并在该地段的墙面上寻找可能的出口。这个出口仅在极少数报告中被提到，也并无办法验证它的真伪，但无论如何，这是你**唯一的机会**。
+[[div class="signblock-img" style="filter: invert(100%)"]]
+[[image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo]]
+[[/div]]
+[[span class="signblock-footer"]]M.E.G. 罗经点兵团[[/span]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[=]]
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 140%]]
+[[span class="text-blur"]]寒冷所̨̘̳̺ͩ̓ͤ̀͑̉͂̀͜͢烦躁所̶̢͉̩͓̣̝̝̝̬̲́̂͑̍所̸̟̖̼́̓̊̊̓̚͝͞͡​̧̯̠͙̭̗̓ͯ͊́͛̾͢͠​̟̮̳͂ͥ͌́̾̕͏̡̬͙ͭ̀饥饿所̵̖͚̜͎̣͍̩̒ͭ̎͛ͮ͘͠[[/span]]
+
+我下意识地反复摩挲着那张签名，望着磨出毛边的纸面丢了魂。
+
+有什么东西被我落在过去里了。
+
+又一次摩擦。
+
+无事发生。
+
+为什么。
+
+@@@@
+@@@@
+@@@@
+
+为什么！？
+
+谁骗了我……
+
+嗡鸣再度响起，我缓缓蹲下。
+
+情绪退去，世界只剩空茫，我抱着头，茫然无措。
+
+[[/size]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 130%]]
+跋涉。
+
+无穷无尽，可能永不会止步的跋涉。
+
+不能停……
+
+[[span class="text-blur"]]为什么不能停下？[[/span]]
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 120%]]
+我抬起右手，努力地聚焦视线。
+
+我看着它从中指的指尖开始，一点点地化作齑粉，像是被风托起，然后落下。
+
+没有疼痛，没有流血。
+
+像被掸落的积灰一样消逝。
+
+
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 110%]]
+虚虚实实，恍如大梦。
+
+千千万万的魂灵在我面前掠过，影影绰绰，那游离的魂灵中站着他。
+
+那样光洁，那样伟岸。
+
+我撑着眼皮，企图将他框在视野里，
+
+我想触碰他……
+
+[[span class="text-blur"]]我在干什么？[[/span]]
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 100%]]
+[[span class="text-blur"]]呜呜……呜呜呜……[[/span]]
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 90%]]
+另一个人……
+
+他在拖着残缺不全的躯壳跋涉。
+
+……
+
+[[span class="text-blur text-hoverback"]]那是……我。[[/span]]
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 80%]]
+混杂繁复的一切在现实之上堆叠，
+
+**然后崩塌。**
+
+那样温柔地将我包裹其中，抽丝剥茧。
+
+[[span class="text-blur text-hoverback"]]为什么是我？[[/span]]
+
+**宿命**
+
+[[span class="text-blur text-hoverback"]]迷失在边境[[/span]]
+
+**摇摇欲坠**
+
+[[span class="text-blur text-hoverback"]]历史的遗骸[[/span]]
+
+**回响**
+
+[[span class="text-blur text-hoverback"]]消泯于逝年[[/span]]
+
+**消逝...**
+@@@@
+@@@@
+@@@@
+@@@@
+[[span class="text-blur text-hoverback"]]那​̷̷̧̡̢̝̱̥͈̼̱̦̱̬̖ͫ̒ͫ̔ͫ̾̌̿́̇͋̀ͧ͡ͅ鲸​̶̶̹̥̻̟̩̱̮̟͙̗̗̩͇̞̞͇̥ͧ͗̊͑ͦ́̎̀̒ͨ̊吞​̡̢̭̫͎̟̹̭͖̜̖̻̺̳̽̔͛̉̍̀͋̆̊ͬ̃̀͢͡͡͝光​̷̢̙͈̫̺͖̖̖̍́̀̓͐͗̍̏́͐̊ͤ͒̋ͤ́͋̓ͭ̑̉芒​̵̷̵̵̧̙̹͇͉͕̙̝̙̹̎ͮ͐͑ͨ͐ͪͩͩ̾̐́͑͢͡͡的​̤͓͙̜̮̹̲̗̯͖̀̐ͣ̄̆ͬͦͦͤ̒̀̀͆̋͑͜͝͏̰̀灰​̵̧̛̛̜̱̥̰̳̣̙̻̱̋̅̍͑ͯ͊́̄ͯ̑͐̽̊̍̒ͤ͡.̵̢͙̬̬͖̩̘̪̺̯̜̻͇͎̞͇̽ͩ͋̄̓̋͗ͬͦ̊͑̀͞.̢͕̓̆̕ͅ͏̶̴̨̪̮̜͒ͫͣͨͬ̈́́͑̏̌ͨ̓ͥ̚͏̐ͅ.̐ͮ̐͆ͭͭ̆̈́̂̕͢͝͏̶̶̘̘̰͍͍̗̖̻̋̇̍ͦ́̕̚[[/span]]
+
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+[[image http://brsandbox-pro.wikidot.com/local--files/open:cymxlkf/%E8%BF%99%E4%B8%AA%E5%A5%BD]]
+@@@@
+@@@@
+@@@@
+…………
+@@@@
+@@@@
+@@@@
+……
+
+@@@@
+@@@@
+@@@@
+…
+@@@@
+@@@@
+@@@@
+@@@@
+.
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+@@@@
+@@@@
+@@@@
+[[div style="font-family: 'Ma Shan Zheng', serif;"]]
+[[size 70%]]
+我是那
+消逝在[[span class="text-blur text-hoverback"]]阴影[[/span]]中的一抹[[span class="ruby"]][[[https://backrooms-wiki-cn.wikidot.com/th3-sh4dy-gr3y |暗灰]]][[span class="rt"]]黯洃[[/span]][[/span]]……
+[[/size]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[/=]]
+------
+[[>]]
+[[collapsible show="作者们与图源" hide="收起"]]
+[[*user Nameless35722]]      -   [https://backrooms-wiki-cn.wikidot.com/author:nameless35722 作者页]
+[[*user wangjx]]   -   [https://backrooms-wiki-cn.wikidot.com/author:wangjx 作者页]
+[[*user wild ghost377]]    -  [https://backrooms-wiki-cn.wikidot.com/author:ghost377 作者页]
+[[*user snowmob]]  -   [https://backrooms-wiki-cn.wikidot.com/author:snowmobilibili 作者页]
+[[*user DielsAlder]]  -   [https://backrooms-wiki-cn.wikidot.com/author:dielsalder 作者页]
+
+
+“楼梯”一图为[[*user he fan]]拍摄。
+其他图片均由本队成员拍摄，修改。
+[[/collapsible]]
+[[/>]]

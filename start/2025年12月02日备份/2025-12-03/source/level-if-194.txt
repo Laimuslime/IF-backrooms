@@ -1,0 +1,321 @@
+[[include :backrooms-wiki-cn:theme:drown-light]]
+[[module CSS]]
+:root {
+    --header-subtitle: "欲真......？";
+}
+[[/module]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 3s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+  #page-title { animation-delay: 0s; }
+ 
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+ 
+:root {
+   --fade-in-delay: 0.1s; /* Change the speed here. */
+}
+
+#page-content > :nth-child(1) { animation-delay: calc(1 * var(--fade-in-delay)); }
+#page-content > :nth-child(2) { animation-delay: calc(2 * var(--fade-in-delay)); }
+#page-content > :nth-child(3) { animation-delay: calc(3 * var(--fade-in-delay)); }
+#page-content > :nth-child(4) { animation-delay: calc(4 * var(--fade-in-delay)); }
+#page-content > :nth-child(5) { animation-delay: calc(5 * var(--fade-in-delay)); }
+#page-content > :nth-child(6) { animation-delay: calc(6 * var(--fade-in-delay)); }
+#page-content > :nth-child(7) { animation-delay: calc(7 * var(--fade-in-delay)); }
+#page-content > :nth-child(8) { animation-delay: calc(8 * var(--fade-in-delay)); }
+#page-content > :nth-child(9) { animation-delay: calc(9 * var(--fade-in-delay)); }
+#page-content > :nth-child(10) { animation-delay: calc(10 * var(--fade-in-delay)); }
+#page-content > :nth-child(11) { animation-delay: calc(11 * var(--fade-in-delay)); }
+#page-content > :nth-child(12) { animation-delay: calc(12 * var(--fade-in-delay)); }
+#page-content > :nth-child(13) { animation-delay: calc(13 * var(--fade-in-delay)); }
+#page-content > :nth-child(14) { animation-delay: calc(14 * var(--fade-in-delay)); }
+#page-content > :nth-child(15) { animation-delay: calc(15 * var(--fade-in-delay)); }
+#page-content > :nth-child(n+15) { animation-delay: calc(16 * var(--fade-in-delay));}
+[[/module]]
+[[div class="shadeblock"]]
+[[=]]
+@@@@
+@@@@
++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]] {{//**你......情愿变成一条鱼吗？//**}}[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你时常可听见这类模糊不堪的低语声，尽管你表面上极不情愿，但内心早已充满好奇。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你开始回忆起你的经历，被后室折磨的痛不欲生，一切尽在严管之下。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]] {{//**在汪洋中肆无忌惮的游动，何尝不是一种自由？**//}}[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**低语声开始逐渐侵蚀你......**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**或许你接受了他的请求，你的视线开始变得模糊...**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]] {{//**“魚......”**//}}[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**当你再次睁眼时，是无尽的汪洋。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**它的确没有欺骗你。**[[/span]]
+@@@@
+@@@@
+[[/=]]
+[[/div]]
+@@@@
+[[include component:image-block
+ |name=http://brsandbox-mini.wikidot.com/local--files/1011/IMG_20250709_181641.jpg
+ |caption=碧波...
+ |align=center
+ |width=500px
+]]
+@@@@
+[[div class="shadeblock"]]
+[[=]]
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你注视着眼前的一切，一片碧波。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你为自己可以在水中畅快呼吸而感到疑惑，向自身看去，你已然成为了一条自由的鱼。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你心中暗喜，认为自己已逃出了实体与危险的魔爪，在海中肆无忌惮地畅游着。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**但你发觉你自己无法靠近水面分毫，你也未觉诧异。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你继续向前方游去......**[[/span]]
+@@@@
+@@@@
+[[/=]]
+[[/div]]
+[[include component:image-block
+ |name=http://brsandbox-mini.wikidot.com/local--files/1011/5bd0f59698d51ed9.jpg
+ |caption={{**这是......天堂吗？**}}
+ |align=center
+ |width=500px
+]]
+[[div class="shadeblock"]]
+[[=]]
+@@@@
+@@@@
+++++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]]//**其实你并不知道，他们跟你一样，是愚昧无知的流浪者...**//[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+++++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]]//**不过也正常**//[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+++++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]]//**像你们这般愚昧的人，怎会察觉呢？**//[[/span]][[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你并没有在意那些异常——远处模糊不堪的人影。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**可你毫无诧异，依然游动着，甚为欢乐。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**那人影愈发清晰，远处类似于一堵墙的物体让你你深感迷惑。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你奋力游去，妄图一探究竟。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你不敢相信你的所见，那堵墙是一面巨型玻璃。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**远处晃动的人影 是一名潜水员，她向你招了招手。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你不敢置信眼前的一切......**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你想要逃离，却发觉你在向水面浮去。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**一段时间后，你斜眼看向玻璃背后，显现出了大量人影......**[[/span]]
+@@@@
+@@@@
+[[/=]]
+[[/div]]
+[[include component:image-block
+ |name=http://brsandbox-mini.wikidot.com/local--files/1011/b68b1e75f9bc9218.jpg
+ |caption={{**原来只是另一个囚笼......**}}
+ |align=center
+ |width=500px
+]]
+[[collapsible show="展开附录" hide="关闭附录"]]
+[[div class="shadeblock"]]
+[[=]]
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你才知晓眼前的一切，是一场骗局，你后悔万分。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你发觉水面正在逐渐趋近于你...**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你尝试挣脱，最终无果......**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**你凝视着......**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++++ [[span style="color: black;"]]**至于那水面之上是什么，没有人知道。**[[/span]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++++ [[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]][[span style="color: black;"]]{{**因为都死了......**}}[[/span]][[/span]]
+@@@@
+@@@@
+[[/=]]
+[[/div]]
+[[/collapsible]]
+-----
+[[=]]
+[[module rate]]
+[[collapsible show="作者信息" hide="隐藏"]]
+**作者：**[[*user XiaoZi666]]
+图一链接：https://pixabay.com/zh/photos/dolphin-animal-sea-ocean-203875/ ，已经过后期修图
+图二链接：https://pixabay.com/zh/photos/fish-underwater-corals-sea-ocean-378286/
+图三链接：https://pixabay.com/zh/photos/aquarium-sharks-okinawa-japan-725798/
+[[/collapsible]]
+[[/=]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-193]]] | Level IF-194 | [[[Level IF-195]]] >>
+[[/=]]
+[[/div]]

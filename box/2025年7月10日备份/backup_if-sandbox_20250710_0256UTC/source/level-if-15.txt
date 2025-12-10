@@ -1,0 +1,36 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include :backrooms-wiki-cn:theme:suprematism]]
+[[include :backrooms-wiki-cn:theme:trauma |rainy=true]]
+
+[[=]]
+> 暗夜中刺出数道光芒。
+[[/=]]
+[[include component:image-block
+    name=https://if-sandbox.wikidot.com/local--files/level-if-15/Screenshot_20250611_235552_com_mmbox_xbrowser_pro_BrowserActivity.jpg|
+    caption=虚无。
+]]
+
++ **描述**
+墨黑的夜沉甸甸地压下来，那些路灯苏醒过来，从沉默的黑暗中绽出光芒。浓密的黑雾裹着那一片片散开的光亮，光束从圆润的灯泡中射出，试图照亮那片暗夜，可沉默与黑暗无时无刻在吞噬着，那些源自于最深处的、黑暗本身的**生物**朝着为数不多的光明之中爬去，似要吞噬。
+
+浓雾弥漫，万物都变得模糊，仅有细微朦胧的光芒穿透着，在黑暗中闯荡着、迷茫着，散状的它只好停滞，感受冰冷
+
+排排冰冷的灯柱笔直地插进黑暗，被雾霾啃食着身躯，似要融化于之中，只留光在停留。灯柱静静地杵在那里，将一切所想通通抛于黑暗中逝去。
+
+寂静充斥于压抑的黑暗中，丝丝动静也都被黑暗所吞没。
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者:[[*user DNR1234]]
+图片:https://unsplash.com/photos/a-foggy-night-with-street-lights-on-a-bridge-T8hmaSNjTrk
+灵感来自散场之后。
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-14]]] | Level IF-15 | [[[Level IF-16]]] >>
+[[/=]]
+[[/div]]

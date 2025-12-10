@@ -1,0 +1,45 @@
+[[module CSS]]
+.warning-top-box {
+  color: #333;
+  background-color: #e3e3e3;
+  border: 2px solid #a1a1a1;
+  border-radius: 2px;
+  width: 50%;
+  margin: 0 auto 2em;
+  text-align: center;
+  padding: 10px;
+}
+
+.warning-top-box h1 {
+  color: #333;
+  margin: 0;
+}
+
+.warning-top-box p:last-of-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 479px) {
+  .warning-top-box {
+    width: auto;
+    margin: 0 0 2em;
+  }
+}
+@media (min-width: 480px) and (max-width: 580px) {
+  .warning-top-box {
+    width: auto;
+    margin: 0 0.5em 2em;
+  }
+}
+[[/module]]
+[[div class="warning-top-box"]]
+
++ 注意：
+
+本页面为//段落页//。
+
+段落页是本站文章使用的内部页面，通常为制作迭代创建。段落页不应被直接展示，而是被其父页面引用，即上方链接。
+
+[[/div]]
+
+%%content%%

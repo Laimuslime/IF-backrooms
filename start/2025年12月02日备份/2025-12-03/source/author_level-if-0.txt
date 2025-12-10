@@ -1,0 +1,195 @@
+[[include :backrooms-wiki-cn:theme:suprematism
+|collapse-sidebar-desktop=true
+|big-banner=true
+]]
+
+[[module css]]
+@keyframes rainbow2 {
+  from {
+    color: #191981;
+  }
+  10% {
+    color: #114514;
+  }
+  50% {
+    color: #893364;
+  }
+  75% {
+    color: #889464;
+  }
+  100% {
+    color: #810931;
+  }
+}
+
+.rainbow2{  
+  animation-name: rainbow2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+ }
+
+.rainbow2 a{  
+  animation-name: rainbow2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+ }
+[[/module]]
+
+[[module CSS]]
+
+:root {
+    --header-title: "THE BACKROOMS 中文维基";
+    --banner-title: "至上主义";
+    --banner-subtitle: "真理隐于几何之间";
+}
+
+:root {
+    --banner-font: "Alumni Sans Pinstripe", "Zhuque Fangsong (technical preview)", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --header-font: "Poiret One", "Noto Sans SC", "Noto Sans TC", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: "Sulphur Point", "Noto Sans SC", "Noto Sans TC", Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --body-font: "PT Mono", "Noto Serif SC", "Noto Serif TC", Consolas, monaco, monospace;
+    --ui-font: "Montserrat", "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+    --mono-font: "Barlow", "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+}
+
+[[/module]]
+[[include :backrooms-wiki-cn:component:page-subtitle
+|subtitle={{其实是**坤哥的作者页**！}}
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+@@ @@
+[[div class="owindow owait" style="width: fit-content; position: static; margin: auto;"]]
+[[div class="content"]]
+
+……
+
+[[/div]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=1
+|three=最少量实体
+]]
+
+[[=]]
+--这是**伪人的作者页**！--
+
+--这其实是**caikunzitaimei的作者页**……--
+
+--不不不，这是**CAIKUNZITAIMEI的作者页**。--
+[[/=]]
+
+**Level IF-0**是后室IF层群的--第1层--第0层。
+
++ 描述
+
+**Level IF-0**表现为一间家庭卧室，其面积为5m×10m。卧室的装修完善，家具类型丰富，并且该层级还存在流浪者的生活迹象。层级的环境总是保持着一尘不染的状态，该状态似乎无法以任何形式破坏。层级时常弥漫着大雾，其原因暂且不明。
+
+层级的地板上散落着大量纸张，多数纸张上没有任何的书写痕迹，少数的纸张上存在着书写痕迹。在这些具有书写痕迹的纸张中，有少量呈现的则是已完工的档案报告，这些档案往往都指向已被**M.E.G.**记录的实在档案。
+
+[[collapsible show="+ 展开所有实在档案" hide="- 收起所有实在档案" hideLocation="both"]]
+[[tabview]]
+[[tab 层级档案]]
+||~ 层级分类 ||~ 层级编号 ||~ 层级名称 ||
+|| 正数层级 || [[[Level IF-179]]] || 迷幻大厦 ||
+|| 正数层级 || [[[Level IF-246]]] || 未来主义建筑群 ||
+|| 正数层级 || [[[Level IF-247]]] || 绝缘层 ||
+|| 正数子层级 || [[[Level IF-247.1]]] || 深层绝缘 ||
+|| 正数层级 || [[[Level IF-249]]] || 阈限教堂 ||
+|| 正数层级 || [[[Level IF-259]]] || 粉红深处 ||
+|| 正数层级 || [[[Level IF-264]]] || 商场与否？ ||
+|| 正式层级 || [[[Level IF-266]]] || [[span class="rainbow2"]]全后室最好吃的炸鸡店！！！[[/span]] ||
+|| 正数层级 || [[[Level IF-302]]] || 电镀层 ||
+|| 隐秘层级 || [[[Level HELP]]] || ##red|救我！## ||
+[[/tab]]
+[[tab 实体档案]]
+||~ 实体分类 ||~ 实体编号 ||~ 实体名称 ||
+|| 普通实体 || [[[Entity IF-3]]] || [[span class="rainbow2"]]正在跳舞的仓鼠[[/span]] ||
+|| 普通实体 || [[[Entity IF-15|Creature IF-15]]] || 黄藻门 ||
+[[/tab]]
+[[tab 现象档案]]
+||~ 现象分类 ||~ 现象编号 ||~ 现象名称 ||
+|| 普通现象 || [[[Phenomenon IF-6]]] || 鬼哭狼嚎 ||
+[[/tab]]
+[[tab 物品档案]]
+||~ 物品分类 ||~ 物品编号 ||~ 物品名称 ||
+|| 普通物品 || [[[Object IF-9|Flesh IF-9]]] || 后室剪刀 ||
+|| 普通物品 || [[[Object IF-10|Flesh IF-10]]] || 伤口愈合带 ||
+|| 普通物品 || [[[Object IF-14]]] || 驱动器 ||
+|| 普通物品 || [[[Object IF-15|Flesh IF-15]]] || 匕刃 ||
+[[/tab]]
+[[tab 团体档案]]
+||~ 团体名称 ||~ 团体简要介绍 ||
+|| 还没有呢！ || 还没有呢！ ||
+[[/tab]]
+[[tab 设定收录]]
+||~ 设定名称 ||~ 设定简要介绍 ||
+|| 星系设定--快了！--。 || 还没有呢！ ||
+[[/tab]]
+[[tab 故事收录]]
+||~ 故事名称 ||~ 故事概括 ||
+|| 你觉得我会写故事吗？ || 我觉得不会。 ||
+[[/tab]]
+[[tab 相关人士档案]]
+||~ 相关人士名称 ||~ 相关人士真实姓名 ||
+|| 骑士-Α--快了！--。 || 右下就句真 ||
+|| --骑士-β--…… || 名字还没想好，总之是四个字。 ||
+|| --骑士-Ω--…… || 名字没想过，总之是三个字。 ||
+[[/tab]]
+[[tab 搞笑条目收录]]
+||~ 搞笑条目分类 ||~ 搞笑条目编号 ||~ 搞笑条目名称 ||
+|| 我不想写这个。 || 我不想写这个。 || 我不想写这个。 ||
+[[/tab]]
+[[tab crossover性质文章记录]]
+||~ 文章分类 ||~ 文章编号 ||~ 文章名称 ||
+|| 我懒。 || 我想等我补完坑洼后。 || 再来补上这里的…… ||
+[[/tab]]
+[[tab 艺术作品收录]]
+||~ 艺术作品性质 ||~ 艺术作品绘画对象 ||
+|| 我永远都不会弄这个的！ || 弄了我吃屎！ ||
+[[/tab]]
+[[tab 文章系列记录]]
+||~ 文章系列名称 ||~ 文章系列性质 ||
+|| 骑士文章快了！ || 快了快了！ ||
+[[/tab]]
+[[/tabview]]
+[[/collapsible]]
+
+同时，层级的一面墙壁上也存在着几张明显的贴图，贴图的外形类似于徽章，贴图内的文字内容与成就类文字内容相吻合。这些贴图的数量拥有增加的现象，该现象的发生是不规律的，无法摸测的。
+
+[[collapsible show="+ 展开贴图一览" hide="- 收起贴图一览" hideLocation="both"]]
+[[div class="achbox-plaques"]]
+[[include :backrooms-wiki-cn:component:achievement-v2
+|achieves=A-1 A-2 C-2 G-1
+]]
+[[/div]]
+[[/collapsible]]
+
+该层级的时间永驻清晨，该层级的温度恒定在25℃～26℃之间，该层级的WiFi信号极强。
+
++ 实体
+
+++ [[*user caikunzitaimei]]
+
+[[*user caikunzitaimei]]是该层级唯一的实体。该实体自称“坤哥”或“伪人”，外貌与一位**Wikidot用户名**为[[*user caikunzitaimei]]的流浪者类似。
+
+该实体通常会将未完稿的纸张或空白纸张放置在书桌上书写，每当放置在书桌上的纸张完稿，**M.E.G.**的数据库便会刚好上传一份新的报告。以上现象是否为巧合还是该实体具有神性，我们目前无法下定论。
+
++ 基地、前哨与社区
+
+鉴于该层级的性质，在该层级无法建立基地、前哨或社区。
+
++ 入口与出口
+
+++ 入口
+
+* 在任意层级内入睡即可来到该层级。
+
+++ 出口
+
+* 切入该层级的墙壁即可回到原先入睡的层级。
+@@ @@
+------
+@@ @@

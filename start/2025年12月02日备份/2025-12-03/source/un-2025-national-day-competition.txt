@@ -1,0 +1,174 @@
+[!--无意义--]
+[[include :backrooms-wiki-cn:theme:basalt hidetitle=a]]
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include :backrooms-wiki-cn:theme:better-blank]]
+[[include :backrooms-wiki-cn:component:title
+|1=UN 联合站点
+|2=2025 UN 国庆联合竞赛
+]]
+[[module CSS]]
+:root{
+--logo-image:url("https://the-backrooms-tv-wiki-cn.wikidot.com/local--files/start/un.jpg")!important;
+}
+[[/module]]
+[[div class="papernote"]]
+[[=]]
++* 2025 UN 国庆联合竞赛
+[[/=]]
+@@@@
+[[image https://hspdsandbox-tv.wikidot.com/local--files/picture/The%20Competition%202025-2]]
+@@@@
+[[size larger]]本次竞赛**主题不限**。参赛者必须在竞赛期间完成一篇文章，世界观设定可自行设计，文体不限。[[/size]]
+[[=]]
++ 竞赛正式开始，开放投稿。
+[[/=]]
+@@@@
+[[/div]]
+@@@@
+[[div class="lightblock"]]
+本竞赛的负责人为[[*user YangGuang_2024 ]]和UN站点管理层。如果您有一些疑问在本页面中未能得到解答的疑惑，都可以向他们询问。同时，本竞赛的监督人员为均为UN站点管理层成员，如果您对竞赛中的一些现象产生质疑，您可以在UN站点QQ群聊（群号：893462389）内优先与他们进行联系。
+@@@@
+@@@@
+----
++ 竞赛日程
+
+* **预备阶段：**
+各个作者可进行计划安排，包括与其他作者联系进行组队等。本阶段可以进行文章的相关构思与创作，但不能投稿作品。
+
+竞赛页发布（北京时间 2025 年 9 月 20 日）至（北京时间 2025 年 9 月 30 日 23 时 59 分）进入下一阶段。
+
+* **投稿阶段：**
+竞赛正式开始，开放投稿，可继续创作，也可对已发布的作品进行认真评分。
+
+投稿开放（北京时间 2025 年 10 月 1 日 00:00）至（北京时间 2025 年 10 月 7 日 23:59）投稿截止。
+
+* **评分阶段：**
+在投稿阶段结束后，仍有3天时间可对作品进行评分。但作者本人不可在对自己的作品进行任何修改。
+
+评分阶段从（北京时间 2025 年 10 月 8 日 00:00）至（北京时间 2025 年 10 月 11 日 23:59）
+
+* **公布阶段：**
+站务组将会在（北京时间 2025 年 10 月 12日 00:00）进行最终数据统计，并且在（当天下午3:00）公布竞赛结果。
+[[/div]]
+@@@@
+@@@@
+@@@@
+[[div class="styled-quote"]]
++ 投稿相关
+
+[[size 110%]]**一：内容**[[/size]]
+本竞赛仅接受层级、子区集（子层级和房间）、实体、物品、现象、故事、相关人士类型的投稿。在评分截止时，参赛作者个人至少要有 1 篇合格作品，最多不能超过 2 篇合格作品，如果超出限制，则取其中评分最高的前 2 个作品计分。每支队伍须至少有 1 篇合格的参赛作品，否则队伍不参与最终排名。当队伍有超过 3 篇合格作品时，只取评分最高的 3 篇计分。
+
+在投稿时，请为参赛作品添加“2025联合竞赛”标签。
+
+++ __特别声明__：
+考虑到部分站点的世界观设定创建了不同的专有名词。（如在[https://the-backrooms-tv-wiki-cn.wikidot.com/ TV分站]中，“层级”被替换成了“节目”，但其核心概念没有改变。）我们允许来自各个民分的作者在本次竞赛使用自己分站的专有名词，但请务必在文章结尾简单说明这些专有名词的大概意思，否则您的文章可能会无法参与最终计分。
+@@@@
+[[/div]]
+----
+[[div class="styled-quote"]]
+@@@@
++ 本次竞赛规则
+
+[[size 110%]]**一：赛前准备**[[/size]]
+* 本次竞赛同时允许个人参赛和团体参赛。所有参赛者都必须拥有[https://split-tilps.wikidot.com/ UN联合站点]维基网站或者其加入站点的成员资格，并且参赛时不处于封禁状态。
+
+* 每支队伍的人数为 3 ~ 5 人。
+
+* 每名参赛者最多只能加入一支队伍。
+
+* 所有参赛者应自愿参赛、选择队伍。
+
+* 每位作者至少需要一篇合格作品才可参赛。
+
+* 本竞赛不允许场外援助（但允许在作品写作阶段向他人寻求建议）。
+
+* 对于不合规的行为，站务组、主办方会先口头提醒，有关成员应立即对违规行为作出整改，消除影响。若此后 24 小时内未作出有效整改视为提醒无效，责任人将被取消参赛资格，职员将依情节严重程度予以最高为警告的站内处分。
+
+[[size 110%]]**二：赛时规则**[[/size]]
+
+* 如果您打算参与本次竞赛，您需要使用任意社交软件联系站务组人员[[*user YangGuang_2024]]（QQ：3695388263）进行登记，作为正式参赛的标志。[[footnote]]登记并非强制性的，您可以选择不登记，但这可能导致给您带来不必要的麻烦。请慎重考虑。[[/footnote]]
+[[div class="lightblock"]]
+[[=]]
+[[size 120%]]**竞赛登记模板**[[/size]]
+[[/=]]
+**你的Wikidot名：**
+
+**联系方式（写一种稳定的联系方式，如QQ、微信等）：**
+
+**代表站点（个人参赛可不填）：**
+（比如来自/代表UN站点请在之后填上“UN站”。）
+
+**其它事项（若没有不用填）：**
+[[/div]]
+* 使用UN站站点主页自带的创建页面模块创建页面，并将你的作品放在这里。参赛页面请输入“2025-national-day-competition-XXX”的形式，将“XXX”替换为带有自身特色的英文字符（如“level-un-4”），然后点击“创建”按钮。
+
+* 由于最终计分只会对在本次竞赛页面作品表内出现的作品计分，请您一定要您的作品页标签里加上“2025联合竞赛”的标签，拥有该标签的作品才会出现在这里。
+
+* 投稿阶段结束前，可以自由编辑您自己的作品，但无特殊情况不允许自删。投稿阶段结束后，如果您没有特殊原因但私自改动了您自己的作品，您的作品可能会被剥夺计分资格。
+[[/div]]
+@@@@
+----
+@@@@
+[[div class="styled-quote"]]
++ 通用竞赛规则
+
+* 允许使用已有的灵感或草稿参赛，只要它们从未在网站上发布过。
+
+* 竞赛期间所有作品将遵循正常的低分删除规则。
+
+* 除非页面崩溃，不允许自删竞赛投稿，否则投稿取消参赛资格；不允许在投稿截止后对本队的任一投稿作出任何修改。
+
+* 严禁任何不正当竞争行为，站务有权对任何已确认的不正当行为进行适当的处置，包括对不正当竞争者采取取消参赛资格、警告、取消成员资格等措施。
+
+* 考虑到本次竞赛热度较低，为吸引人流，本次竞赛允许将自己的作品发布在社交平台，但只允许发布在各个后室相关群聊中，且不允许强制他人对自己的作品进行评价。
+
+* 除参赛作品、作者页的 listpages 模块和原创作品列表之外，不得在竞赛结束之前将你的投稿链接发布在其他 Wiki 页面上，违者认定为不正当竞争。避免对竞赛期间的任意竞赛文进行二次创作，包括视频以及衍生外围故事。请来自站外视频网站的视频制作者自觉遵守规则，不要在竞赛期间随意宣传竞赛作品。
+[[/div]]
+@@@@
+----
+@@@@
+[[div class="styled-quote"]]
++ 参赛站点（排名不分先后）
+[[collapsible show="展开参赛站点" hide="收起参赛站点"]]
+# [https://osbackroom.wikidot.com/ 后室OS层群分站]
+# [https://backrooms-bz.wikidot.com 后室BZ层群分站]
+# [https://mt-backrooms.wikidot.com/ 后室MT层分站]
+# [https://split-tilps.wikidot.com/ 后室UN联合站点]
+# [https://the-backrooms-tv-wiki-cn.wikidot.com/ The Backrooms TV后室频道]
+# [https://backrooms-split-library.wikidot.com/lw-start 后室LW站点]
+# [http://backrooms-ch.wikidot.com/ The Backrooms CH分站]
+# [http://eyesimpart.wikidot.com/ 大眼珠子银帕]
+# [https://backrooms-f.wikidot.com/ The Backrooms-F分站]
+# [https://if-backrooms.wikidot.com/ 后室IF分站]
+# [https://historyroom.wikidot.com/ The Historyrooms历室分站]
+# [https://mck-backrooms.wikidot.com 后室MCK分站]
+[[/collapsible]]
+
+@@@@
+[[div class="dotted-quote"]]
++ 竞赛奖励
+第一名20元+随机[https://the-backrooms-tv-wiki-cn.wikidot.com/ TV站]站娘谷子。
+第二名13元+随机[https://the-backrooms-tv-wiki-cn.wikidot.com/ TV站]站娘谷子。
+第三名7元+随机[https://the-backrooms-tv-wiki-cn.wikidot.com/ TV站]站娘谷子。[[footnote]]请勿将TV站站娘相关产品进行二次售卖，若因任何问题产生法律纠纷，本站不负任何责任。[[/footnote]]
+[[/div]]
+[[/div]]
+
+----
+@@@@
+@@@@
++ 竞赛作品展示区
+
+[[module ListPages order="rating desc" tags="+原创 +2025联合竞赛 -竞赛" category="-deleted -system" separate="false" perPage="50" prependLine="||~ 名称 ||~ 分数 ||~ 字数 ||~ 评论数 ||~ 创建者 ||"]]
+|| %%title_linked%%⠀⠀⠀ || ⠀##green|+ %%rating%%## (+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]])⠀|| %%size%%⠀⠀ || %%comments%% ||  %%created_by%%⠀⠀ ||
+[[/module]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[!--竞赛主页于2025年9月20日10:42于TV沙盒站编辑完成，后续非必要不会出现内容变动。--]
+[!--第一次修改：竞赛规则和细节修改。--]

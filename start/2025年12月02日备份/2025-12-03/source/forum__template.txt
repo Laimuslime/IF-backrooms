@@ -1,0 +1,12 @@
+%%content%%
+[[module css]]
+.post .head .info .printuser a[href="http://www.wikidot.com/user:info/h-laimu_slime"]:nth-child(2)::after{
+color: #fff;
+border-radius: 2px;
+padding: 2px;
+font-size:80%;
+    content: "管理";
+    background: #5cb85c;
+    font-weight: bold;
+}
+[[/module]]

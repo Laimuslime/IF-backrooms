@@ -1,0 +1,504 @@
+[[include :backrooms-wiki-cn:theme:lsheafs]]
+
+[[module css]]
+
+:root{
+--logo-image: url();
+--link-color: 230, 23, 68;
+--visited-link-color: 140, 136, 126;
+--hover-link-color: 140, 136, 126;
+--swatch-secondary-color: var(--white-monochrome);
+--pale-gray-monochrome: 220, 220, 220;
+
+--white-monochrome: 255, 251, 240;
+}
+
+
+#container {
+   background-image: url("http://backrooms-wiki.wikidot.com/local--files/level-365/StormClouds3.jpg");
+}
+
+#header h1 a:before, #header h2 span::before  {
+color: rgb(255, 251, 240);
+}
+
+#main-content .page-tags span a:not([href^="/system:page-tags/tag/_"]), #main-content .page-tags span a:visited:not([href^="/system:page-tags/tag/_"]) {
+    --link-color: 230, 23, 68;
+}
+
+.lightblock {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+}
+
+.styled-quote {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+border-left: 0.5rem solid rgb(77, 74, 65);
+}
+
+.darkblock {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+}
+
+.dark-styled-quote {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+border-left: 0.5rem solid rgb(255, 251, 240);
+}
+
+:is(blockquote,.blockquote,div.blockquote,[class*=blockquote]) {
+--box-shadow: rgba(var(--swatch-menubg-black-color),0.1);
+    display: block;
+    clear: both;
+    margin: 0.5em 40px;
+    box-shadow: 0 0.0625rem 0.125em rgba(0,0,0,.1);
+    box-shadow: 0 0.0625rem 0.125em var(--box-shadow);
+    border: 0.0625rem dashed rgba(var(--swatch-border-color),.25);
+    background-color: #f4f4f4;
+    background-color: rgb(var(--swatch-secondary-color));
+    padding: 0 1em;
+    font-family: 'Merriweather', serif;
+
+[[/module]]
+
+[[div class="dark-styled-quote"]]
+[[=]]
+[http://backrooms-wiki-cn.wikidot.com/author:calf-0 中站作者页]
+[[/=]]
+
+哈喽，我是[[*user calf-0]]，是一位该网站上的译者[[footnote]]偶尔也会写写原创 :>[[/footnote]]兼管理员。
+
+关于称呼，可以叫C0、--或是[[*user shenglvehaowu]]取的烤麸零--。
+
+另外，本页面使用的[http://backrooms-wiki-cn/theme:lsheafs 版式]是出自[[*user sariastuff]]之手，修改自[[*user MC_Crafter_24_7]]。
+
+以下是我的所有作品：
+[[/div]]
+------
+
+[[tabview]]
+[[tab 原创]]
+
+[[include :scutoidbox:scrollquote image=http://if-backrooms.wikidot.com/local--files/level-if-283/banner|number=0]]
+[[=]]
+**[[size 140%]][[[level IF-283|凝冻之心]]]/Level IF-283[[/size]]**
+@@@@
+
+//“在寒冷中，我们更能体会到温暖的珍贵。”//
+//[[size 75%]]—— 佚名[[/size]]//
+作者：我 & [[*user MCMK-1234]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://otherworld-records.wikidot.com/local--files/looping-basement/L4|number=1]]
+[[=]]
+**[[size 140%]][[[The Rewrite Initiativ Canon|虚妄归档设定]]]/设定[[/size]]**
+@@@@
+
+//“简而言之，虚妄归档设定（The Rewrite Initiativ Canon）是指将那些被删除的文档**“重归数据库”**。”//
+作者：我 & [[*user MCMK-1234]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[/tab]]
+[[tab 翻译]]
+
++ 旧页面：[[footnote]]翻译旧页面不予节选。[[/footnote]]
+
+[[[old:level-3|Level 3 - “发电站”（旧）]]]
+
+[[[old:level-23|Level 23 - “杂草丛生的工厂”（旧）]]]
+
+[[[old:level-99|Level 99 - “远处的灯光”（旧）]]]
+
+[[[old:fingers-to-the-fire|指尖抵火（旧）]]]
+
+[[[old:apeshit|你就他妈不想发会癫吗（旧）]]]
+
+----
+
+[[include :scutoidbox:scrollquote image=http://praetor.wdfiles.com/local--files/level-276/55.PNG|number=2]]
+[[=]]
+**[[size 140%]][[[level 276|蜂巢]]]/Level 276[[/size]]**
+@@@@
+
+//她最后所感到的，是压在胸膛上的千斤重担渐渐消散。成百上千年来的第一次，女皇感到了平静与宁寂……而后，在蜂巢辽阔无垠的血肉废壤之中，一株花朵得以绽放。//
+
+//那是株勿忘我。//
+
+作者：[[*user Praetor3005]] & [[*user Nikuchan]]
+
+译者：我 & [[*user ThEndlessRain]] & [[*user owl4513]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://scp-sandbox-3.wdfiles.com/local--files/dragon-images/323-1|number=3]]
+[[=]]
+**[[size 140%]][[[level 323|岛屿使用政策]]]/Level 323[[/size]]**
+@@@@
+
+//“那些傻逼工作人员已经给我们的基地拆了，因为它只有95颗星，而且没人守着。”//
+
+作者：[[*user I_am_a_dragon]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/level-700/Directly_under_the_Golden_Gate_Bridge.jpg|number=4]]
+[[=]]
+**[[size 140%]][[[level 700|它很美，不是吗？]]]/Level 700[[/size]]**
+@@@@
+
+//“别无他路，痛楚已蚀骨锥心。活着不抵那摧心断肠的折磨。解脱就在眼前。它会抚平一切。也会终结一切。”//
+
+作者：[[*user CamaradeAlbabar]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://i.postimg.cc/0jKJy5cL/pexels-photo-2232917.jpg|number=5]]
+[[=]]
+**[[size 140%]][[[level 825|我将回到天上]]]/Level 825[[/size]]**
+@@@@
+
+//“而我将会说，一切都很美好……”//
+
+作者：[[*user aster_argyle]]
+
+译者：我 & [[*user JgPz E-100]]
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/level-848/backway20|number=6]]
+[[=]]
+**[[size 140%]][[[level 848|阔室]]]/Level 848[[/size]]**
+@@@@
+
+//“我们原以为要在无面部表情的情况下读懂他们的表达很难，但实际操作起来要比预想的要容易的多。为弥补无法使用面部表情和声音交流的缺陷，他们就像默片时代的演员，用特别夸张的肢体动作以表达自己。”//
+
+作者：[[*user Solomon Sam]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/level-915/barbershop1.jpg|number=7]]
+[[=]]
+**[[size 140%]][[[level 915|幻视理发店]]]/Level 915[[/size]]**
+@@@@
+
+//当寂静的深夜出现一家沙龙，门窗紧闭，从未有人踏足，最好移开目光。若它无处不在，便等同于不存在。若它根本不存在，人的认知与感官也将一同失去意义。//
+
+//切勿以表象批判荒谬之物。两股力量必须平衡它们的力矩，否则，后果迟早将彻底瓦解这静滞的假象。//
+
+作者：[[*user ForestIsWatching]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://calf-0-sandbox.wikidot.com/local--files/files/ZtBIifz.jpeg|number=8]]
+[[=]]
+**[[size 140%]][[[poziom PL-4|大理石迷宫]]]/Level PL-4[[/size]]**
+@@@@
+
+//“请务必紧急处理我的文件整理请求，我向您保证，第4号前哨站会及时向管理层通报所发现气体的调查进展。”//
+
+作者：[[*user Excel2020]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://calf-0-sandbox.wikidot.com/local--files/files/A6gLK42.jpeg|number=10]]
+[[=]]
+**[[size 140%]][[[poziom PL-7|雾中桥]]]/Level PL-7[[/size]]**
+@@@@
+
+//“在这里，一切皆是虚幻。即使祂真的存在，也非真实。祂也不曾伤害过你，对吧？”//
+
+作者：[[*user Excel2020]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://upload.wikimedia.org/wikipedia/commons/3/37/Blue_fire_of_Ijen%2C_Kawah_Ijen%2C_Java%2C_Indonesia%2C_20220821_0432_9581.jpg|number=11]]
+[[=]]
+**[[size 140%]][[[level 50-ID|赎罪之渊]]]/Level 50-ID[[/size]]**
+@@@@
+
+//“……因为心灵会因忏悔而变得柔软，而赎罪也必须通过忏悔完成。”//
+
+作者：[[*user exotichive]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://th-backrooms-wiki.wikidot.com/local--files/level-th-3/blinky%20lights|number=12]]
+[[=]]
+**[[size 140%]][[[level TH-3|昏暗微光]]]/Level TH-3[[/size]]**
+@@@@
+
+//“Level TH-3是一个延伸数百米的大型数据中心。由于电力供应不足，该层级中的大部分电器无法运行，也导致整个层级处于黑暗之中。”//
+
+作者：[[*user Guy777]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://space-time.wikidot.com/local--files/nivel-es-5-1/niveles5-1.jpeg|number=13]]
+[[=]]
+**[[size 140%]][[[nivel-es-5-1|轨道]]]/Level ES-5.1[[/size]]**
+@@@@
+
+//“唯一的出路消匿在密林深处。我的肌肤变得皲裂。体内每寸血肉都消散在空气之中，那片被遗忘的混沌之地，正啃噬着我腐朽的魂灵。”//
+
+作者：[[*user Error012]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-sandbox-2.wikidot.com/local--files/light-nate-6/Stary%20obraz|number=14]]
+[[=]]
+**[[size 140%]][[[poczta|邮局]]]/隐秘层级PL[[/size]]**
+@@@@
+
+//“邮局是波兰后室中的一个极其重要且神秘的层级，许多人利用其寄送包裹或传递信息。该层级的外观类似于一座20世纪70年代的小型邮局建筑，且可以从多个后室层级进入。”//
+
+作者：[[*user LisMatis]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://vivarium.wdfiles.com/local--files/main/argos-hack|number=15]]
+[[=]]
+**[[size 140%]][[[entity 74|阿尔戈斯]]]/Entity 74[[/size]]**
+@@@@
+
+//“匆匆扫视你的双肩。熟悉的寒意如钢针般顺着脊背爬下。而身旁的陌生人似乎只会不断地注视着你。”//
+
+作者：[[*user Spectre48]] & [[*user VivamusLudio]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wdfiles.com/local--files/fragment:entity-88-0/robot|number=16]]
+[[=]]
+**[[size 140%]][[[entity 88|机器人视界]]]/Entity 88[[/size]]**
+@@@@
+
+//“机器人视界家庭娱乐系统^^[[size 50%]]TM[[/size]]^^中，你将会成为机器人的操作员，在充满未知的阈限空间展开激战——穿梭于无尽回廊、无垠商场、幽暗洞窟、被遗忘的大都会以及更深处。”//
+
+作者：[[*user DrAkimoto]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://th-backrooms-wiki.wikidot.com/local--files/entity-th-1/Handprints|number=28]]
+[[=]]
+**[[size 140%]][[[entity TH-1|手印]]]/Entity TH-1[[/size]]**
+@@@@
+
+//“此些手印通过逐渐淡化并在邻近区域重新显现的方式移动。它们通常会向暗处移动以便更轻易地捕获猎物。当有类人实体触碰它们时会将其整个吞噬进所在表面。若成功捕获，它们将会大量繁殖并聚集成更大的群体。”//
+
+作者：[[*user Guy777]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://th-backrooms-wiki.wdfiles.com/local--files/entity-th-7/BTS%20blir%20fix|number=17]]
+[[=]]
+**[[size 140%]][[[entity TH-7|信号草]]]/Entity TH-7[[/size]]**
+@@@@
+
+//“Entity TH-7亦称信号草，是一种外观类似于电信宏基塔的实体，常见于前厅之中。”//
+
+作者：[[*user MrXac]] & [[*user Kitachi4Moon]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://pl-backrooms-wiki.wikidot.com/local--files/obiekt-pl-2/Img%20nate%202|number=18]]
+[[=]]
+**[[size 140%]][[[obiekt PL-2|跨维度邮箱]]]/Object PL-2[[/size]]**
+@@@@
+
+//“Object PL-2是波兰后室的一种异常邮箱，其功能是将信件传送至隐秘层级“邮局”，信件最终会出现在收件人附近的某个邮箱里。”//
+
+作者：[[*user LisMatis]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-pl-piaskownica.wikidot.com/local--files/obiek-10-translation/Bottle|number=19]]
+[[=]]
+**[[size 140%]][[[obiekt PL-10|冷树脂]]]/Object PL-10[[/size]]**
+@@@@
+
+//“冷树脂是一种质地类似于树胶的物品。无论所处环境如何变化，该物品始终能保持在-4°C的低温。冷树脂通常被储存在燃烧罐、保温瓶与玻璃瓶内。”//
+
+作者：[[*user Danny140]]
+
+译者：我 & [[*user JgPz E-100]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://upload.wikimedia.org/wikipedia/commons/e/e5/Pyramid_of_Snowballs_Large.png|number=20]]
+[[=]]
+**[[size 140%]][[[object TH-3|冰果]]]/Object TH-3[[/size]]**
+@@@@
+
+//“如前所述，冰果口感清甜且可安全食用。Object TH-3的糖分适中，其营养价值相当于半瓶杏仁水。该物品的低温性质有助于缓解暂时性疲劳，因而成为了流浪者常备的物品之一。”//
+
+作者：[[*user Kitachi4Moon]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/the-frontrooms/umbrella.jpg|number=21]]
+[[=]]
+**[[size 140%]][[[phenomenon 28|无端哀悼]]]/Phenomenon 28[[/size]]**[[footnote]]原文无图，此处图像源自[http://backrooms-wiki-cn.wikidot.com/the-frontrooms 前厅]。[[/footnote]]
+@@@@
+
+//“人们总对你说你会逐渐适应这里的生活。‘你总会习惯的。你总会找到属于自己的地方，开启崭新的人生。’可他们从来没提到过，那种如铅块般沉重的痛楚永远不会消散。”//
+
+作者：[[*user ReyDay]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://scp-sandbox-3.wdfiles.com/local--files/dragon-images/38-1|number=22]]
+[[=]]
+**[[size 140%]][[[phenomenon 38|希望论]]]/Phenomenon 38[[/size]]**
+@@@@
+
+//“Phenomenon 38是一种独特的现象，已被观察在多个层级上广泛且稳定的存在，并以客观规律的形式呈现。该现象于2024年12月3日经过严格调查与归档过后正式确认公布，此后已被系统收录至官方异常事件数据库。”//
+
+作者：[[*user I_am_a_dragon]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/smiley/smile2|number=23]]
+[[=]]
+**[[size 140%]][[[smiley|：）]]]/故事[[/size]]**
+@@@@
+
+//“该辆汽车撞上了23号走廊朝北的墙壁。是一辆浅蓝色的轿车；发动机舱已凹陷变形，前挡风玻璃破碎。车牌标有“新泽西 44H-11W”，车尾贴有几张贴纸。”//
+
+作者：[[*user DrAkimoto]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/karagatan-para-kay-saranay/mylove.jpg|number=24]]
+[[=]]
+**[[size 140%]][[[karagatan-para-kay-saranay|萨兰奈的海洋之约]]]/故事[[/size]]**
+@@@@
+
+//“我很抱歉，亲爱的。我忍不住翻开了我在档案馆发现的此书。若我读下了它，你还会原谅我吗？”//
+
+作者：[[*user Schulzenreich]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://brsandbox-pro.wikidot.com/local--files/open-collab:forest/Y8mklh0.jpg|number=25]]
+[[=]]
+**[[size 140%]][[[hutan-dwirupa|双貌之森]]]/故事[[/size]]**[[footnote]]原文无图，此处图像源自[http://backrooms-wiki-cn.wikidot.com/level-35-id Level 35-ID]。[[/footnote]]
+@@@@
+
+//“他点头以示理解。甚至连他的动作都洋溢着热情。”//
+
+作者：[[*user lemme]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://backrooms-wiki.wdfiles.com/local--files/spec/spec3.png|number=26]]
+[[=]]
+**[[size 140%]][[[Spec]]]/相关人士[[/size]]**
+@@@@
+
+//“后室。算是个烂透了的家园。看你怎么想，要么我是少数的幸运儿，曾经体验过外面的世界，要么我是那些被诅咒的流浪者，永远渴望着一个再也回不去的地方。给你个问题……是从来没经历过更糟，还是经历过却再也无法回去更糟？”//
+
+作者：[[*user Spectre48]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/nts|number=27]]
+[[=]]
+**[[size 140%]][[[the-b-n-t-g|B.N.T.G.]]]/团体[[/size]]**
+@@@@
+
+//“后室不结盟贸易集团，通称B.N.T.G.，是一个由多个附属基地、经济机构与监管单位构成的团体，秉持‘以繁荣促和平’的主要目标。”//
+
+作者：[[*user XRaggiX]] & [[*user DrAkimoto]] & [[*user Greggita Mahayfaio]]
+
+译者：我 & [[*user ThEndlessRain]] & [[*user bbianshu]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[/tab]]
+[[tab 其他页面]]
+
+* [[[journal:news-2025-12|后室IF层群 12月月刊（原创/合著）]]]
+* [[[art:my-entry|Blu的横幅条目（翻译）]]]
+* [[[component:preview|组件：CROM 预览（翻译）]]]
+* [[[component:rate|组件：评分（翻译）]]]
+* [[[akirooms|DrAkimoto的作者页（翻译）]]]
+* [[[art:eo-banner|Eo横幅（翻译）]]]
+* [[[art:hasike-moment|Hasike时间（翻译）]]]
+* [[[art:reydaybanner|Tesseract欢迎横幅（翻译）]]]
+* [[[uncle-nicolini-author-page|Uncle Nicolini的作者页！（翻译）]]]
+* [[[theme:aeternum-repositorium|永存资料库 版式（翻译）]]]
+* [[[i-a-a-d|一位不伟大却充满希望的作者（翻译）]]]
+* [[[theme:deep-sea|版式：深海（翻译）]]]
+* [[[theme:music|版式：音乐（翻译）]]]
+* [[[art:silvers-bannercon-entry|银色横幅参赛（翻译）]]]
+* [[[common-phenomenon-31|Phenomenon 31 - “潜在骤灭假说”（纯文档/翻译）]]]
+
+[[/tab]]
+[[tab 预告]]
+
+[[image url]]
+
+[[div class="styled-quote"]]
+= //...暂无...//
+[[/div]]
+
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+[[include :backrooms-wiki-cn:component:footnotecol]]
+@@ @@
+
+[[=]]
+++ **THE END**
+[[/=]]
+@@@@
+[[div class="licensebox"]]
+[[collapsible show="‡ 授权 / 引用" hide="‡ 隐藏授权 / 引用"]]
+
+请按如下方式引用此页：
+
+> “[[[author:calf-0|calf-0的作者页]]]”，作者 calf-0，来自[http://if-backrooms.wikidot.com/ 后室IF层群维基]。原文链接：http://if-backrooms.wikidot.com/author:calf-0。遵循 [https://creativecommons.org/licenses/by-sa/3.0/deed.en CC BY-SA 3.0] 协议。
+=====
+> 下方未列出的媒体均链自或来源于此维基上的别处或已在脚注中说明。
+
+> **文件名：** StormClouds3.jpg
+> **作者：** [[*user Robert Goerman]]
+> **协议：** [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0]
+> **来源链接：** http://backrooms-wiki.wdfiles.com/local--files/level-365/StormClouds3.jpg
+=====
+更多授权相关信息，请查阅[http://backrooms-wiki-cn.wikidot.com/licensing-guide 授权指导]。
+[[/collapsible]]
+[[/div]]

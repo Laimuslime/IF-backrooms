@@ -1,0 +1,233 @@
+[[div style="position:relative; width:100%; max-width:1400px; margin:1rem auto; display:flex; flex-direction:column;  box-shadow:0 0 10px rgba(0,0,0,0.6);"]]
+  [[div style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:0; background-image:url('https://brsandbox-mini.wikidot.com/local--files/heyiweizhinian/1.jpg'); background-size:cover; background-position:center; opacity:0.5; filter:blur(6px);"]]
+  [[/div]]
+
+  [[div style="position:absolute; top:0; right:0; width:180px; height:180px; z-index:-2; display:flex; align-items:center; justify-content:center; font-size:118pt; font-family:'IM Fell English'; font-weight:bold; color:black; line-height:1.3; text-align:center;"]]
+    0
+  [[/div]]
+  [[div style="position:relative; z-index:12; padding:5px; color:rgba(0,0,0,0.75); font-size:25px; margin-left:10px;"]]
+    生存难度：Class 0
+  [[/div]]
+[[/div]]
+
+  [[div style="position:relative; z-index:12; margin-left:30px; margin-top:5px; font-size:22px; font-weight:500;"]]
+    » 安全
+    » 稳定
+    » 无实体
+  [[/div]]
+
+++ 描述
+[[div class="marginblock" style="display: inline-flex; box-shadow: 2px 2px 6px rgba(0,0,0,0.6); width:300px; overflow: hidden; z-index: 4; position:relative; float:right; padding:0; flex-direction: column; clear:right; margin-right:0.5rem;"]]
+
+  [[div class="no-margin-p" style="margin:0; box-shadow: 0px 0px 10px rgba(0,0,0,0.6);"]]
+    [[image Dreamland.jpg width="300px" alt="梦境" title="Dreamland"]]
+  [[/div]]
+
+  [[div class="blurbehind" style="background: rgba(0,0,0,0.2); padding: 1rem 1em; position:relative; font-size:90%; font-weight: bold; text-shadow: 0px 0px 3px black; box-shadow: 0px 0px 10px rgba(0,0,0,0.6); z-index: 5; float:right; margin:0;"]]
+  街道。
+  [[/div]]
+
+[[div class="mobile-hidden" style="position:absolute; top:0; left:0; z-index:-1; width:100%; height:100%; overflow:hidden; opacity:0.5; filter:blur(6px);
+background-image:url(https://brsandbox-mini.wikidot.com/local--files/heyiweizhinian/Dreamland.jpg);
+background-size:cover;
+background-position:center;"]]
+[[/div]]
+
+[[/div]]
+* Level IF 344是层群IF的第344层。
+
+* Level ZH 344被描绘为了由云朵簇拥而成的无限延伸空间。层级内随机散落的结构、湛蓝的天，和脚下洁净而又雪白的云是该层级的主要特点，它们共同构成了流浪者初见该层级时的印象。
+
+* 与前室云层不同的是，该层级的云层始终托举着流浪者。踩在云层上，并不会陷入其中或向下坠去，即便流浪者大幅度地奔跑亦或跳跃，云朵们也仅是轻微颤动，它们近乎坚不可摧。
+
+* 云朵是洁白的，它无论如何也无法沾染任何污秽。若流浪者低下身轻抚它们，某种柔软而又冰凉的感受将顺着手臂传遍全身，这时，无论是因后室而造就的疤痕，还是身心的俱疲，都将会一一褪去，流浪者纷乱的内心也将逐渐平静。
+
+* 引力也是该层级的一大亮点。该层级存在如同前厅月球般的引力，若流浪者轻轻跃起，便会缓缓漂浮，最后轻柔地降落在云层上，有趣的是，每当流浪者进行跃起动作，其会感到莫名的愉悦，原因未知。
+
+* 层级内始终播放着一首名为《Embrace》的纯音乐曲目，其旋律优美而又宁静，无论流浪者走到何处，它也始终伴随在流浪者耳畔间。没有人知道这首曲子从何而来，它只是为该层级塑造了一种气氛，只是为流浪者提供一种难得的安宁。
+
+* 街道是该层级最显著的存在，它始终延伸着，横穿了整个云海。偶尔，云朵会将街道掩没，但不久便会在前方重新显现。沥青路面呈现出一种诡异的光滑，如同塑料玩具般的光滑，这被认为与常识相悖。洁白的车辆散落其上，车门紧紧地闭合着，车内也空无一物，它们只是停滞在那，没有任何作用。
+[[div class="marginblock" style="display: inline-flex; box-shadow: 2px 2px 6px rgba(0,0,0,0.6); width:300px; overflow: hidden; z-index: 4; position:relative; float:right; padding:0; flex-direction: column; clear:right; margin-right:0.5rem;"]]
+
+  [[div class="no-margin-p" style="margin:0; box-shadow: 0px 0px 10px rgba(0,0,0,0.6);"]]
+    [[image 1.jpg  width="300px" alt="梦境" title="建筑物"]]
+  [[/div]]
+
+  [[div class="blurbehind" style="background: rgba(0,0,0,0.2); padding: 1rem 1em; position:relative; font-size:90%; font-weight: bold; text-shadow: 0px 0px 3px black; box-shadow: 0px 0px 10px rgba(0,0,0,0.6); z-index: 5; float:right; margin:0;"]]
+  建筑物。
+  [[/div]]
+
+[[div class="mobile-hidden" style="position:absolute; top:0; left:0; z-index:-1; width:100%; height:100%; overflow:hidden; opacity:0.5; filter:blur(6px);
+background-image:url(https://brsandbox-mini.wikidot.com/local--files/heyiweizhinian/1.jpg);
+background-size:cover;
+background-position:center;"]]
+[[/div]]
+
+[[/div]]
+* 洁白的建筑漂浮在云层表面。它们往往呈现为数条走廊拼凑而成的综合体，空空荡荡而又静谧，既无窗口，也不存在其他设施，唯有走廊的尽头与两侧的门联通着外界。
+
+* 温度方面，层级的温度是清凉的，其在十至二十摄氏度之间徘徊，如同前厅北方的春日。层级内不存在昼夜更替，天空始终保持湛蓝与明亮。奇怪的是，月亮偶尔会突兀出现在该层级的天空上，它从不散发出任何的光亮，然而该层级却仍然保持明亮。
+
+* 该层级的美好与宁静吸引无数流浪者慕名而来，然而，近期该层级的失踪案例却逐渐增多，他们往往人间蒸发、杳无音信，没有人再看到他们。少数失踪者在失踪前曾在论坛上留下一段意义不明的帖子，其中一则内容如下：
+
+
+
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="tooltip-box"]]
+多美啊。
+
+云海无边无际，狂风也呼啸着，整个世界的时间也如同彻底停滞，我走着，耳边传来风轻微的呼啸，传来静谧而又美丽的旋律，除此之外，一切都归于了宁静，归于了停滞。
+
+阳光撒满了世界，也撒满了我的全身。它有些刺眼，却又让温暖裹住了我，与寒风的肆虐相互交织。恍惚间，我看到了许许多多身影，许许多多双手向我招手，它们似乎向我发出了请求——“请留在这儿”。我不愿再回到那充斥着绝望的地方，我也不愿再憋屈地踽踽独行，于是，我同意了。
+
+心中的疲倦随之化作微风，顺着寒风飘走了，我终于摆脱了牢笼——
+
+我终于自由了。
+[[div style="text-align:center; margin:1rem 0; position:relative;"]]
+
+  [[div class="marginblock" style="display:inline-flex; box-shadow:2px 2px 6px rgba(0,0,0,0.6); width:300px; overflow:hidden; z-index:4; position:relative; padding:0; flex-direction:column; margin:auto;"]]
+
+    [[div class="no-margin-p" style="margin:0; box-shadow:0 0 10px rgba(0,0,0,0.6);"]]
+      [[image 2.jpg width="300px" alt="梦境" title="建筑物"]]
+    [[/div]]
+
+    [[div class="blurbehind" style="background: rgba(0,0,0,0.2); padding:1rem 1em; position:relative; font-size:90%; font-weight:bold; text-shadow:0 0 3px black; box-shadow:0 0 10px rgba(0,0,0,0.6); z-index:5; margin:0; text-align:center;"]]
+     自由。
+    [[/div]]
+
+    [[div class="mobile-hidden" style="position:absolute; top:0; left:0; z-index:-1; width:100%; height:100%; overflow:hidden; opacity:0.5; filter:blur(6px);
+background-image:url(https://brsandbox-mini.wikidot.com/local--files/heyiweizhinian/2.jpg);
+background-size:cover;
+background-position:center;"]]
+    [[/div]]
+
+  [[/div]]
+
+[[/div]]
+
+[[/div]]
+++ 实体
+该层级似乎不存在实体，然而部分失踪者失踪前所留下的帖子似乎提到了某种“身影”，然而其尚未证实。
+++ 据点
+该层级存在孤立效应，因而无法建立。
+++ 出入口
++++ 入口
+* 在Level IF-1穿过突兀生成的云层便会来到该层级。
+* 勘探中。
++++ 出口
+* 卡入至云层中有概率来到Level IF-11。
+* 勘探中。
+[[collapsible show="作者信息" hide="关闭"]]
+**作者：**[[*user heyiweizhinian22]]
+**新人，求指点**
+图片来自于Pinterest
+[[/collapsible]]
+[[include :backrooms-wiki-cn:theme:fandom inc-comments=--]]]
+[[include :backrooms-wiki-cn:theme:fandom inc-css=--]]]
+
+[[module css]]
+#class-hexagon, #class-hexagon-text {
+    transition: 1s;
+}
+@media only screen and (max-width: 1200px)
+<style>
+#class-hexagon, #class-hexagon-text, #class-hexagon-stroke {
+    opacity: 0;
+    display: none;
+}
+#class-hexagon, #class-hexagon-text {
+    transition: 1s;
+}
+@media only screen and (max-width: 1200px)
+#class-hexagon, #class-hexagon-text, #class-hexagon-stroke {
+    opacity: 0;
+    display: none;
+}
+.tooltip-box {
+  position: relative;
+  padding: 10px;
+  background-color: hsla(210, 100%, 95%, 1); 
+  color: black;
+  border-radius: 12px 0px 0px 0px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.tooltip-box:before {
+    content: "";
+    position: absolute;
+    top: -9px;
+    left: 10px;
+    width: 0;
+    height: 0;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 9px solid hsla(210, 100%, 85%, 1);
+    display: block;
+    z-index: 2;
+}
+
+.no-margin-p p {margin: 0 0 0 0 !important;}
+
+.blurbehind{
+	width: 100%; 
+	height:100% ;
+	text-align: center; 
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+}
+
+.marginblock {margin: 1rem !important; color: white;}
+.side-block{
+  padding: 15px !important;
+  border-radius: 20px !important;
+  background-color: hsla(210, 100%, 95%, 1)!important;
+  border: 1px solid hsla(210, 100%, 85%, 1)!important; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1)!important;
+}
+#footer,#more-options-button{
+  font-weight: bold;
+  font-family: sans-serif;
+  border: 2px dashed hsla(210, 100%, 95%, 1);
+  background-color: hsla(210, 100%, 90%, 1); 
+  padding: 20px; color:black!important;
+}
+#license-area{
+  font-weight: bold;
+  font-family: sans-serif;
+  border: 2px dashed hsla(210, 100%, 95%, 1);
+  background-color: hsla(210, 100%, 90%, 1); 
+  padding: 20px;color:black !important;
+}
+#page-title,#page-options-container{
+  font-weight: bold;
+  font-family: sans-serif;
+  border: 2px dashed hsla(210, 100%, 95%, 1);
+  background-color: hsla(210, 100%, 90%, 1); 
+  padding: 20px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+:root{
+--bg-color-2:hsla(210, 100%, 95%, 1)!important;
+--bg-color-3:hsla(210, 100%, 85%, 1) !important;
+--border-color:hsla(210, 30%, 90%, 1)!important;
+--link-color-trans:hsla(210, 100%, 85%, 1) !important;
+--bg-image:url(https://brsandbox-mini.wikidot.com/local--files/heyiweizhinian/Dreamland.jpg);
+
+}
+#main-content {
+  border: solid 2px hsla(210, 100%, 90%, 1)!important;
+  color: hsla(0, 0%, 0%, 1)!important;
+  background-color: hsla(210, 100%, 95%, 1)!important;
+  padding: 20px!important;
+  border-radius: 10px!importantl
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1)!important;
+}
+
+[[/module]]

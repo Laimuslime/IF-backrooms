@@ -1,0 +1,66 @@
+[[include :brsandbox-pro:jiaoyanerlan]]
+
+[[module ListUsers users="."]]
+[[div class="sitemember"]]
+**你好啊%%title%%。**
+[[/div]]
+[[/module]]
+
+* 我是椒盐尔蓝，wd号[[*user jiaoyanerlan2]]。
+
+* 椒盐尔蓝这名字随便起的，所有平台都这名字。
+
+* 写文fvv，QQ 3696722218。
+
+* 2024年4月被[[*user junziguxianglai_a]]拉入后室，译文这里小有成就。--并且非常的低质--
+
+
+
+* 特别鸣谢：[[*user junziguxianglai_a]]，[[*user ZX6398]]，[[*user owl4513]]，[[*user booxxbpx]]
+
+
+
+
+[[=]]
++ 翻译：
+[[/=]]
+
+[[include :yeebackrooms:component:fast-switching]]
+
+
+[[=]]
++ 现象
+[[/=]]
+
+[[tabview]]
+
+[[tab 翻译]]
+* [[[Phenomenon 22]]]
+[[/tab]]
+
+
+[[/tabview]]
+
+----
+
+这是一块留言板，你可以在不违反站规的前提下随便说点什么。
+
+留言格式这样写
+↓↓↓↓↓
+@@[[div class="darkblock"]]@@
+你想说的话
+（这里要空一行，所以在写留言的时候把这里给删掉）
+@@[[>]]@@
+@@——[[*user 你的用户名放在这里]]@@
+@@[[/>]]@@
+@@[[/div]]@@
+---------------
++ 以下为留言板
+
+[[div class="darkblock"]]
+
+就像这样，这真的很简单 :D。记得每个留言之间空一行，你们绝对不会想看到一大堆留言挤在一起的，那样会抠烂你们的眼睛。
+[[>]]
+——[[*user jiaoyanerlan2]]
+[[/>]]
+[[/div]]

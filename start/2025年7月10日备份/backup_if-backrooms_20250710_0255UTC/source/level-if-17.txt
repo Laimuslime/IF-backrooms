@@ -1,0 +1,116 @@
+[[include :backrooms-wiki-cn:theme:liminal-greyspace]]
+[[include :backrooms-wiki-cn:component:nulevelclass
+|ext=2
+|env=2
+|ent=2
+|no=IF-17
+|lang=cn
+]]
+
+**Level IF-17**是IF层群的第17层。
+
++ 描述
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4128.jpeg
+|caption=**Level IF-17**的第一张图片。
+]]
+**Level IF-17**表现为一个无限延伸的巷子，巷子两旁有着门，但这些门大部分都锁着，无法打开。巷子里偶尔会出现车辆，这些车辆可以正常启动，且内部具有丰富的物资。该层级内具有昼夜循环，温度保持在炎热的30°C。
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4129.jpeg
+|caption=井盖。
+]]
+巷道两侧的墙壁通常由白色混凝土构成，其上面被粘贴或喷涂了一些与层级环境无关的事物，但喷涂在墙壁上的涂鸦有时会绘出层级内潜在实体的样貌。巷道两侧通常整齐划一的摆放着使流浪者通行困难的杂物，这些杂物被记录如下：
+* 整齐堆叠的纸箱
+* 一层层叠加的轮胎
+* 因年代久远而已经报废的摩托车
+* 一些关于别的层级的招牌
+* 一大块不知材质的零件，The M.E.G.仍在对此进行科研
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4130.jpeg
+|caption=层级内堆积的轮胎。
+]]
+**Level IF-17**的地面存在着部分井盖，这些井盖通常是可被移动的。据流浪者报告称，层级的下方拥有一个巨大的下水道系统，The M.E.G.认为那是一个全新的层级，但这仍在被考证。**Level IF-17**的巷道两侧有时也会整齐排列着货架，货架上通常摆放着前厅中流浪者能够观察到的零食，零食的中间有概率出现几瓶杏仁水。一些门前会出现一些轮胎，这些轮胎几乎都被叠在一起，且是不可被摧毁的。轮胎与前厅中的轮胎外貌一样。
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4132.jpeg
+|caption=货架。
+]]
+巷道中有概率出现被种植在地上的树木，这些树木通常是无法破坏且形状怪异的，同时，树木会阻挡流浪者的前行。值得注意的是，[[[https://backrooms-wiki-cn.wikidot.com/Entity 4|死亡飞蛾]]]似乎在树木上筑巢并不断繁殖。此外，**Level IF-17**中还可能存在着部分路灯，这些路灯在夜晚似乎是层级内唯一的照明工具，一般情况来说，路灯通常会散发出黄色的光线照耀巷道。
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4131.jpeg
+|caption=另一张层级内巷道的照片，左侧摆放了一个物资箱。
+]]
+层级内存在着一些存放物资的箱子，这些箱子大多呈现出正常纸箱的样貌。与[[[Level IF-114]]]类似，当流浪者的视野从物资箱离开再返回时，物资箱将会突然消失。物资箱内会刷新出一些较为普遍的物资，包括但不限于：
+[[div class="darkblock"]]
+* [[[https://backrooms-wiki-cn.wikidot.com/Object 1|杏仁水]]]
+* [[[https://backrooms-wiki-cn.wikidot.com/Object 5|糖果]]]
+[[/div]]
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4217.jpeg
+|caption=一个可被流浪者进入的店铺。
+]]
+值得注意的是，**Level IF-17**中巷道两侧的门虽然大部分都为封闭状态，但仍有能够被流浪者打开且进入的大门存在。这些门后大多都为一座小型店铺。店铺内通常具有无面灵的存在，它们通常扮演着店铺服务员的身份。店铺内部具有正常的食物供应，且会定时刷新，因此，流浪者可在此稍作歇息。
+++ 实体
+
+除[[[https://backrooms-wiki-cn.wikidot.com/entity-4|死亡飞蛾]]]与[[[https://backrooms-wiki-cn.wikidot.com/Entity 9|无面灵]]]以外还有一个实体。
++++ “路灯”
+
+[[include :backroomssandboxcn:kai4c:concord
+
+|number=IF17
+
+|habitat=**Level IF-17
+
+|goi-specification=IETS
+
+|danger=3
+
+|intel=A
+
+|sin=X
+
+|other-spec=X
+
+|class= 物体
+
+|properties=AGR
+
+]]
+
+**“路灯”**是只会出现在**Level IF-17**的实体。
+[[include component:image-block
+|name=http://brsandbox-mini.wikidot.com/local--files/collab:level-ac-18/IMG_4074.jpeg
+|caption=“路灯”的图片。
+]]
+**“路灯”**外观与普通的路灯相似，但**“路灯”**会发出异常的橙光。若流浪者接近**“路灯”**，层级内将转为黑夜，且会慢慢的同化流浪者，成为和它一样的**“路灯”**。**“路灯”**高约25米，宽1米。**“路灯”**总会和正常的路灯在一起，因此，很多流浪者都被转化为了**“路灯”**。若其他实体靠近**“路灯”**，**“路灯”**会转移到另一个地方，直到没有实体。
+
+++ 基地、前哨与社区
+
+暂无，但有考虑。
+
+++ 入口与出口
+
++++ 入口
+
+* 在任意层级找到一条格格不入的小巷会来到该层级。
+* 在[[[Level IF-396]]]找到一个格格不入的井盖并切入会来到该层级。
+* [[[Level IF-3]]]中的小巷有概率进入该层级。
+
++++ 出口
+
+* 切入门会来到[[[https://if-backrooms.wikidot.com/system:page-tags/tag/%E7%94%9F%E5%AD%98%E9%9A%BE%E5%BA%A62#pages|生存难度2的层级]]]。
+* 打开旁侧的门会来到[[[Level IF-7]]]，这但未被证实。
+* 切入路灯会来到IF层群任意一个层级。[[footnote]]不推荐使用该出口[[/footnote]]
+
+------
+
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+本条目的作者为[[*user woshiikun]]与[[*user haodemingzi]]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-16]]] | Level IF-17 | [[[Level IF-18]]] >>
+[[/=]]
+[[/div]]

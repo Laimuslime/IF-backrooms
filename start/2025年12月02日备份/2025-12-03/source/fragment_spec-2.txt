@@ -1,0 +1,56 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+
+[[module css]]
+#header h1 a,
+#header h1 a::before,
+#header h2 span,
+#header h2 span::before {
+  color: transparent;
+  opacity: 0;
+}
+#header::before { opacity: 0; }
+[[/module]]
+
+[[module css]]
+.textblock {
+  color: rgb(255, 255, 255);
+  background: rgb(35,35,35);
+  padding: 0.01rem 1rem;
+  margin: 0.5rem 0;
+  border: solid 5px rgb(55, 55, 55);
+}
+.textblock a { color: red; }
+.textblock a:hover { color: red; }
+.textblock a:visited { color: red; }
+[[/module]]
+
+[[div class="textblock"]]
+[[=]]
+**To do.txt**@@                                                                                                                                                                        @@[https://if-backrooms.wikidot.com/spec/offset/4 X]
+[[/=]]
+
+------
+
+{{待办事项：}}
+{{-完成对[https://backrooms-wiki-cn.wikidot.com/testing-testing-is-this-thing-even-fuckin-on| Lotka访谈]内容的编辑并保存}}
+
+{{-跟Tom+Evie+Bun确认一下电影之夜的事？}}
+
+{{-跟Nyx沟通一下和Anthony见面商讨交易研究的事}}
+
+{{-试试能不能说服Herne别在Level 11继续狩猎（最近看了很多Jon Stewart的节目，感觉这次肯定能成）}}
+
+{{-修复M.E.G.基地“警醒流浪者”以供使用（研究数据已损毁）}}
+
+{{-跟进一下[[[j-doe|勿忘我]]]的事。（说实话我有点心疼这哥们）}}
+
+{{-我就他妈有三条裤子，咋整啊}}
+
+{{-处理掉那批记忆汁库存（BNTG合成物？）}}
+
+{{-让Castellos家族的人帮我搞定失落一族，让他们相信我根本//不是//火神Vulcan。（我他妈长得很像他吗？！？？）}}
+
+{{-让[https://backrooms-wiki-cn.wikidot.com/houses-of-the-holy| Avalon]帮我弄一份关于[[[鼠父]]]的档案。}}
+
+{{-可能还有大概13件更重要的事我给忘光了}}
+[[/div]]

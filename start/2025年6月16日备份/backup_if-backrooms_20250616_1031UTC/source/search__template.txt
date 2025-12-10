@@ -1,0 +1,6 @@
+[[=]]
+**[[[search:tags|标签搜索]]] | [[[search:author|作者搜索]]] | [[[search:url|URL模糊搜索]]]**
++ **请点击上方选项进行搜索**
+[[/=]]
+
+%%content%%

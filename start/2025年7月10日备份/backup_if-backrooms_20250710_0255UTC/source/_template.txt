@@ -1,0 +1,167 @@
+[[iftags +jumpscare]]
+[[module css]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本页含有跳杀内容，可能引起不适";
+    font-weight: bold;
+    background: #424242;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+[[/module]]
+[[/iftags]]
+
+[[iftags +解密]]
+[[div style="margin: 1em 0; border: solid 3px #e57812; background: rgb(253, 253, 253);"]]
+[[div_ style="display: inline-block; padding: 0 3px; font-size: 1.5em; background: #e57812; color: #ffffff; font-weight: bold;"]]
+[[span class="fa fa-exclamation-triangle" style="font-size: 1.4em;"]]​[[/span]]分类错误！
+[[/div]]
+[[div_ style="padding: 1rem 7px; color: rgb(25, 25, 25);"]]
+
+您正在发布一篇 {{解密}} 文章。
+
+请点击页面最下方的“+ 选项”， 找到“重新命名”，将其 URL 修改为 {{declassified:解密对象 URL}}。
+
+以下是一个示例：
+
+= {{declassified:level-c-1}}
+
+[[/div]]
+[[/div]]
+[[/iftags]]
+
+[[iftags +禁止商用]]
+[[module css]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本页内容采用 CC BY-NC-SA 3.0 协议，禁止商用";
+    font-weight: bold;
+    background: #424242;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+
+#license-area a {
+    display: none;
+}
+
+#license-area::after {
+    content: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License";
+    display: inline-block;
+}
+[[/module]]
+[[/iftags]]
+
+[[module css]]
+
+ 
+.lockRW {
+    color: rgb(var(--white-monochrome));
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    margin: 1rem 0.2rem;
+    padding: 0.2rem 1rem;
+    position: relative;
+}
+ 
+.lockRW:before,
+.lockRW:after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+ 
+.lockRW:before {
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+    left: -5px;
+    top: 4px;
+    transform: rotate(-3deg);
+}
+ 
+.lockRW:after {
+    background-color: rgb(var(--dark-accent));
+    box-shadow: 0 -5px 8px rgba(0, 0, 0, 0.5);
+    right: -3px;
+    top: 1px;
+    transform: rotate(3deg);
+}
+[[/module]]
+
+[[iftags +_lockCP]]
+[[=]]
+[[div style="margin: 2em 0; border: solid 2px #FFC107;background: linear-gradient(45deg,rgba(var(--warning), 0.3) 25%,rgba(var(--warning), 0.5) 0,rgba(var(--warning), 0.5) 50%, rgba(var(--warning), 0.3) 0,rgba(var(--warning), 0.3) 75%,rgba(var(--warning), 0.5) 0);border-left: solid 0.3rem #919191;border-bottom: solid 0.5rem #919191;border-top-left-radius: 0.3rem;border-top-right-radius: 1rem;border-bottom-right-radius: 0.5rem;border-bottom-left-radius: 0.3rem 0.5rem;box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);"]]
+[[div_ style="display: inline-block; padding: 0 3px; font-size: 1.5em; background: #FFC107; color: #ffffff; font-weight: bold;"]]
+[[span class="fa fa-lock" style="font-size: 1.4em;"]]@<&nbsp;>@[[/span]]
+此页已锁定
+-------
+[[div_ style="padding: 0px 0px;"]]
+[[module listpages range="." category="-alternative"]]
+“%%title_linked%%”，因竞赛原因被职员锁定，此页面在竞赛结束前，任何人员不可对此页面进行大幅度修改，违者后果自负。
+[[/module]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/=]]
+[[/iftags]]
+
+[[iftags +_lockRW]]
+[[=]]
+[[div class="lockRW"]]
+[[size 1.5em]][[span class="fa fa-lock" style="font-size: 1.4em;"]]##red|@<&nbsp;>@##[[/span]][[/size]]
+[[size 120%]]##red|**此页已锁定**##[[/size]]
+-------
+[[module listpages range="." category="-alternative"]]
+“%%title_linked%%”，因正在重写中，被职员锁定。此页面在重写完成前，任何人员不可对此页面进行大幅度修改，违者后果自负。
+[[/module]]
+[[/div]]
+[[/=]]
+[[/iftags]]
+
+[[iftags +光敏警告]]
+[[module css]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本页面中含有令人不适的内容，请光敏患者据情况阅读。";
+    font-weight: bold;
+    background: #ff0000;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+
+
+[[/module]]
+[[/iftags]]
+
+[[iftags +宗教]]
+[[module css]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本文中涉及宗教等因素，请结合自身情况观看";
+    font-weight: bold;
+    background: #424242;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+[[/module]]
+[[/iftags]]
+
+
+%%content%%

@@ -1,0 +1,45 @@
+[[=]]
+[[div class="styled-hr"]]
+[[/div]]
++ [[size 140%]] ##6E8B47|**乌托邦**## [[/size]]
+[[/=]]
+[[div class="styled-hr"]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:theme:better-blank
+|green=a
+|header=a]]
+[[include :backrooms-wiki-cn:component:sdcsex
+|lang=cn
+|class=HA
+]]
+Level IF-1是后室IF层群的第1层。
+
++ **描述**
+
++ **基地、前哨和社区**
+
++++ 基地/前哨/社区 A
+
++++ 基地/前哨/社区 B
+
++ **入口和出口**
+
++++ 入口
+
+
++++ 出口
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user qwertyuiop1000]]
+[也请把你的图源链接至此！]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<<  Level IF-1 | [[[Level IF-2]]] >>
+[[/=]]
+[[/div]]

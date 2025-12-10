@@ -1,0 +1,109 @@
+[[include :backrooms-wiki-cn:theme:evernight]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[>]]
+[[[Common Level IF-299|点此查看 Level IF-299 纯文档版本]]]
+[[/>]]
+[[div class="white-hoverblock"]]
+[[include component:level-class
+class=5
+|lang=cn
+|three=实体绝迹
+]]
+**归途**是后室IF层群之第299层，该层级因其特殊的性质而臭名昭著。
+
++ 描述：
+
+**归途**呈现为流浪者最为熟悉的一条长度≥50km的归家路线的样貌，故其表象因人而异。层级似乎只包括这条路线左右各20m的区域。层级内永远处于黑夜，空气中的二氧化碳含量异常偏高，趋近于8%。流浪者在切入该层级时便处于路线上距家门50km处，而层级仅有的出口则位于路线的末端，即流浪者的家。**进入层级后请先确保自己充分恢复了状态再行移动，否则你将大概率殒命于此。**
+
+[[include :scutoidbox:scrollquote image=http://if-sandbox.wikidot.com/local--files/if299/lane.jpg|number=1]]
+
+
+
+方才徘徊在[[[Level IF-3|绵延之城]]]的小路上，却突然昏迷过去，来到了一片陌生之域。你打量着周围的环境，突然发现——这好像正是你尚在前厅时归家的一处必经之地。可你向远望去，几十米外便是无尽的深邃虚空。
+
+
+[[include :scutoidbox:scrollquote-2]]
+
++ 效应：
+
+[[include :backrooms-wiki-cn:component:gradient-image-block
+name=http://if-sandbox.wikidot.com/local--files/if299/road.jpg
+|caption=能走完吗？
+|align=right]]
+
+流浪者在进入**归途**后一旦开始移动便不可再次停下。流浪者需沿着该路线行走，且速度不可有明显的放缓，这意味着流浪者在层级内往往需要加速才能保证安全，这也是移动前需尽量多补充能量的原因。流浪者在行走路线时也不能产生明显的偏离路线的倾向——如突然向路边走去、在原地徘徊等，同时绝对**不要回头**。此外，在行走时补充能量亦是不可行的。
+
+我们上述层级内效应的知悉是用一百余名[[footnote]]这只是记录在案的，实际应该更多，甚至可能为数倍。[[/footnote]]流浪者的牺牲换来的。所有违反了上述任意一条的流浪者之信号都立即遗失且其人下落不明。
+
+[[include :scutoidbox:scrollquote image=http://if-sandbox.wikidot.com/local--files/if299/street.jpg|number=2]]
+
+
+你茫然地向前走去，一路打量着前方那些令人陶醉的过去。四周的景色与你过去的并没什么不同，可你却莫名的产生了一周陌生感。——也许是远离那[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 美好的过去]太久了吧，你想着。
+
+你继续茫然地向前行走，不曾逗留一步，似乎到了终点，便能饱饮过去的杜康。
+
+
+[[include :scutoidbox:scrollquote-2]]
+
++ 实体：
+
+层级内不存在任何形式的实体。
+
++ 基地、前哨与社区：
+
+显而易见，这里不可能有这类事物。
+
++ 入口与出口：
+
+++ 入口：
+
+目前进入**归途**的事件似乎均属偶然，没有发现任何特别的规律。有的人还在自己家花园里散步便被带到了这，也有人在探险时莫名地消逝于此。
+
+++ 出口：
+
+[[include :scutoidbox:scrollquote image=http://if-sandbox.wikidot.com/local--files/if299/walking.jpg|number=3]]
+
+一步，一步……你就要坚持不下去了。
+
+两侧的景色你早已习惯，不再去搭理。只有空洞的行走，大脑也不再运作去想别的事。
+
+机械地迈出左脚与右脚。
+
+左脚，右脚，左脚，右脚……
+
+麻木。
+
+两脚近乎没了知觉，只有空洞而机械的迈出。
+
+你几乎要瘫倒在地了，但依旧硬撑着走了下去。
+
+终于，你还是在筋疲力竭前抵达了你的家。你如释重负地看着那熟悉的院子与房子，嘴角露出了一抹劫后余生的苦笑。
+
+[[include :scutoidbox:scrollquote-2]]
+
+[[=]]
+[[image http://if-sandbox.wikidot.com/local--files/if299/home.jpg]]
+[[/=]]
+
+[[/div]]
+[[note]]
+[[=]]
+[[size xx-large]][https://backrooms-wiki-cn.wikidot.com/the-frontrooms 白昼终于到来。][[/size]]
+[[/=]]
+[[/note]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-298|过去的无妄之灾]]] | 终点……亦或是起点？
+------
+[[/=]]
+[[/div]]
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者：[[*user xuziqi]]
+一篇速写文，很有我个人的风格，我很喜欢这篇文。
+图均符合CC0。
+[[/collapsible]]
+[[/>]]

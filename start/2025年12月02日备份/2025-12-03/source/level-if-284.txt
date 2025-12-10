@@ -1,0 +1,270 @@
+[[include :backrooms-wiki-cn:theme:decay]]
+[[module css]]
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "liminal";
+   --theme-name: "Liminal Theme";
+ 
+   --logo-image: none;
+   --header-title: "";
+   --header-subtitle: "";
+ 
+   --body-font: 'Noto Serif SC', sans-serif;
+   --header-font: 'Noto Serif SC', sans-serif;
+   --title-font: 'Noto Serif SC', sans-serif;
+   --mono-font: ''Noto Serif SC', sans-serif;
+ 
+
+   --white-monochrome: 253, 253, 255;
+   --pale-gray-monochrome: 186, 186, 166;
+   --light-gray-monochrome: 145, 140, 120;
+   --gray-monochrome: 145, 135, 122;
+   --dark-gray-monochrome: 120, 120, 110;
+   --black-monochrome: 20, 20, 20;
+   --bright-accent: 126, 126, 93;
+   --medium-accent: 190, 190, 170;
+   --dark-accent: 120, 120, 100;
+   --pale-accent: 180, 180, 140;
+   --thing: 55, 55, 55;
+ 
+   --swatch-topmenu-border-color: var(--pale-gray-monochrome);
+ 
+   --link-color: 160, 160, 120;
+   --hover-link-color: 160, 160, 120;
+ 
+   --background-gradient-distance: 0rem;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent)) 0%,
+      rgba(var(--medium-accent), 0.90) 100%
+   );
+   --diagonal-stripes: linear-gradient(transparent 0);
+   }
+#page-title {
+    border-color: rgb(var(--light-gray-monochrome));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2rem;
+}
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #0c0c0c;
+   color: white;
+   line-height: 2;
+   font-size: 2.5rem;
+}
+.scp-image-block {
+    border: solid 0.325rem rgb(var(--dark-accent));
+    background-color: rgb(var(--dark-accent));
+}
+.lightblock {
+   background-color:rgb(39, 28, 17;);
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.8rem 1.2rem rgba(0,0,0,.25);
+      border-radius: 0.2rem 0.2rem 0.2rem 0.2rem;
+   border:    rgba(var(--text))  outset 1px;
+}
+  .scp-image-block {
+    background-color: #FFFFFF;
+}
+.scp-image-block .scp-image-caption {
+   background-color: #FFFFFF;
+}
+body {
+
+    font-size: 0.85em;
+
+}
+.background {
+    background: url("http://backrooms-wiki-cn.wikidot.com/local--files/fragment:level-132-1/36469549312_9d99c76f11_b.jpg") center;
+    margin: auto;
+    margin-top: 0px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'IM Fell English', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'IM Fell English', serif;
+}
+
+.divider:not(:empty)::before {
+    margin-right: 0.25em;
+}
+
+.divider:not(:empty)::after {
+    margin-left: 0.25em;
+}
+
+.divider::after, .divider::before {
+    content: "";
+    border: 1px double black;
+    flex: 1;
+}
+@media only screen and (max-width:768px){
+.texty:hover{
+  font-size: 2.4rem;
+}
+.texty {
+  font-size: 2.4rem;
+  padding: 2rem 1.4rem;
+}
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=3
+|lang=cn
+]]
+
+
+
+
+**Level IF-284**是后室IF层群的第284层。
+
++ 描述：
+[[include component:image-block
+    name=https://backrooms-wiki.wdfiles.com/local--resized-images/trimmed:level-138/138/medium.jpg|
+    caption=**Level IF-284**中一条小巷。
+]]
+[[include component:image-block
+|name=https://mms1.baidu.com/it/u=2040116151,241634705&fm=253&app=138&f=JPEG?w=500&h=748
+|caption=另一处小巷。
+]]
+[[include component:image-block
+|name=https://mms0.baidu.com/it/u=1560771122,2551036359&fm=253&app=138&f=JPEG?w=751&h=500
+|caption=寂静之处。
+]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1731155301624-c38d7aa42186?w=2000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUU2JTk3JUE1JUU2JTlDJUFDJTIwJUU2JUI2JUE5JUU4JUIwJUI3JTIwJUU1JUE0JTlDJUU2JTk5JTlBJTIwJUU1JUIwJThGJUU1JUI3JUI3fGVufDB8fDB8fHww
+|caption=色调黑暗的小巷。
+]]
+**Level IF-284**为一条无限延长的狭窄小巷复合体，小巷内通常包括各类日式建筑，这些建筑彼此紧密地排布，结构通常略有曲折，但通常是极度笔直的，流浪者可见小巷存在着一个“尽头”，但无法直接到达。
+
+层级其上方永久性处于夜空，可见些许耀眼星体，但夜空中的星座相较于现实世界的星座稍有扭曲。层级中霓虹灯上的文字以日文、英文和韩文书写，并遍布整个街道，最常见的入口在居酒屋酒吧、咖啡店、商店以及餐馆等层级中常见的建筑内部。
+
+层级内常见的建筑除前文已提及的类型外，还包括一些典型的日本京都建筑，例如一些传统类型的町屋，由参差不齐的石板组成的狭窄小巷，建筑中还包括一些典型的装饰物，例如暖帘或灯笼。
+
+尽管这些建筑内部存放着前厅中常见的生活用品，例如不同种类的家具、日用品、食物等，且这些物品均无任何形式上的损坏，完全可以正常且安全地使用，然而，其中一些地方依旧经常居住着许多实体，导致进入这些建筑常常是有风险的，具体的实体列表详见下文。
+
+流浪者可以用多种方式进入这些建筑内部，最常见的是通过切出[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]的方式或在[http://backrooms-wiki-cn.wikidot.com/level-34 Level 34]里找到一些矗立在建筑角落的梯子并顺着其登上高处，直至找到一扇暗门并打开。由于在各个地方都有返回**Level IF-284**的入口，因此很容易切出该层级。
+
+层级地面上偶会有水坑出现，这些水坑深度较深，层级部分区域的地面上有常被雨水冲刷过的痕迹，这表示该层级曾经历过暴风雨天气。层级中偶尔会出现一些告示牌，这些告示牌上写着诸如“小心地滑”、“近期大雨”的提示语，但至目前为止从来没有层级内暴风雨的实例。
+
+层级内气候与现实世界的日本类似，时刻处于海洋性季风气候，且具有相对分明的四季。处于春季时，层级内气温较温和，层级内部分区域盛开着一些樱花；处于夏季时，层级内的湿度会骤然增加，整体气温较为炎热；处于秋季时，温度缓降，整体环境较为凉爽；处于冬季时，层级大部分区域开始出现降雪现象，环境较为干燥。
+
+即使流浪者的附近市集或餐馆里没有食物或饮料，流浪者也能闻到满腔满腹的茶叶或肉类的温暖香气，这些香气似乎能够使流浪者产生饱腹感，即使流浪者在过程中没有摄入任何食物。带有平假名与汉字的灯笼十分常见，这些灯笼常悬挂于木质结构的传统房屋之上，这些灯笼最普遍的颜色为橙色或红色。
+
+层级中除了前文提及的传统木质民居，便是另一部分看起来像霓虹灯城市的街道，这些街道与典型的日本东京新宿、涩谷、银座地区或大阪道顿崛、心斋桥区域类似，与跟其同名的日本黄金街几乎一致，霓虹广告牌在此区域之内尤其常见，成了该区域中的常态。
+
+流浪者不应该在层级常见的停车场区域内使用所看到的自行车，因为当流浪者坐在自行车上时，自行车会在其附近生成一个敌意实体，目前尚未知晓此现象发生的具体原因。许多实体可以在空荡荡的酒吧和商店中筑巢或在街道上徘徊，尽管大多数都在建筑物内部。在该层级中最常见的实体是穿着浴衣与和服的[http://backrooms-wiki-cn.wikidot.com/entity-9 无面灵]、[http://backrooms-wiki-cn.wikidot.com/entity-8 猎犬]、[http://backrooms-wiki-cn.wikidot.com/entity-14 地栖怪]以及[http://backrooms-wiki-cn.wikidot.com/entity-43 蠕灵]。
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
++ 基地、前哨与社区：
+
++++ 神会
+该基地是层级中最富盛名的基地之一，也是层级内唯一的大型基地，该基地位于[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]中一入口附近的连接至购物与餐厅复合体中，以帮助流浪者进入[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]，并协助有需求的人在Level IF-284中探索。有趣的是，他们大部分的补给品由一个名为天照寮的小团体所提供，该团体可算为神会的一部分，因此并未算作单独团体。
+
+该团体经营着一家名为“黄金街边小吃”的餐厅，其食谱上的食材来自于[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]的厨房。该团体包括一个从该区域内分离出的基地，以便于帮助那些希望在了[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]中永久定居的流浪者。该基地内部的居住人口为15人，尽管有时会有增加或是减少。该团体首领名为Aadhira，为天照寮的领袖Irawan的妹妹。
+@@@@
+@@@@
+@@@@
+@@@@
+还是这么忙啊，Aadhira。
+[[>]]
+哥，生活如此。
+最近我也和那群从其他地方来的外来者联系好了，他们许诺将会永久保护我们所在的层级。
+这是个好消息，也就是说我们不用再怕流离失所了。
+[[/>]]
+那次灾难还真是致命，我们的基地差点就完全被吞噬了。
+但我们还是活下来了。
+[[>]]
+是啊，那真是个奇迹。
+只不过自从那次，基地的人就少了很多。
+[[/>]]
+那群人应该不会封闭消息吧…？
+[[>]]
+应该是，被封闭的滋味不好受。
+[[/>]]
+[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]怎么样了？
+[[>]]
+情况不容乐观，听说也遭受了了大清洗的袭击。
+[[/>]]
+[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]结构还稳定吗？
+[[>]]
+只能说只残存了一部分了，如果没有B.OP.，我们得饿死在这里。
+[[/>]]
+你觉得我们为了这个层级的付出都值得吗？
+[[>]]
+当然值得，这是我们的家。
+[[/>]]
+但这里并不安全欸。
+[[>]]
+但我们保护了那群来到此层级的流浪者，让他们能安适地住在这。
+一切都值得。
+[[/>]]
+@@@@
+@@@@
+@@@@
+@@@@
++ 入口与出口：
+
+++++ 入口
+
+进入Level IF-284最常用的方法是在[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]中探索几周，最终会看到一个带有出口标志的房间，该房间会通往此层级。进入后，流浪者所离开的木制结构建筑物会留在原地，整个层级散布着木制町屋，这些建筑物都通向[http://backrooms-wiki-cn.wikidot.com/level-178 Level 178]，这证明该层级的出入口具有一定的稳定性，而许多层级都缺乏这种稳定性。其他进入Level IF-284的方式是在[http://backrooms-wiki-cn.wikidot.com/level-11 Level 11]中走得足够远，并能看到一条上面挂着霓虹灯笼的小巷。若在这条小巷中走得很深的话，就会达到Level IF-284。另外还有罕见的进入方式是在[http://backrooms-wiki-cn.wikidot.com/level-34 Level 34]里找到一个通往上方舱口的梯子，将会达到Level IF-284。
+
+++++ 出口
+
+离开Level IF-284最常用的方法是找到分布在各处的木制町屋建筑物之一。由于位置固定的原因，很容易找到这些房子。其他离开Level 138的方法是找到带有日文、韩文或英文的路标，其箭头上面写着“富士”，并指向左侧方向，沿着路标方向行走后将达到[http://backrooms-wiki-cn.wikidot.com/level-183 Level 183]。另一种罕见的离开方法是进入一家便利店的员工房间，并关上身后的门。在员工房间内等待几个小时，然后打开房门，就会达到[http://backrooms-wiki-cn.wikidot.com/level-176 Level 176]。
+
+------
+
+[[>]]
+[[collapsible show="作者（们）" hide="隐藏作者"]]
+本文原作者为Fandom用户u/had86
+译者为[[*user Y Deathstroke]]
+重写者[[*user MCMK-1234]]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-283]]] | Level IF-284 | [[[Level IF-285]]] >>
+[[/=]]
+[[/div]]

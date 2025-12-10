@@ -1,0 +1,525 @@
+[[include :backrooms-wiki-cn:component:title
+|1=[NO DATE]
+|2=无数据
+|logo=
+|3=
+]]
+
+[[include :backrooms-wiki-cn:theme:blankcolor]]
+
+[[module CSS]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 你们知道的，我文笔不好，所以希望各位按照其他方面打分，至于文笔有问题请在讨论页提出，我会更改，或者你们可以自行更改。";
+    font-weight: bold;
+    background: #424242;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+
+.blur {color: transparent; text-shadow: 0 0 6px rgba(128,0,128,.3); }
+
+.bokashi {
+    color: transparent;
+    transition: 1s;
+    text-shadow: 0 0 6px #b7ecff;
+
+}
+.bokashi a{
+    text-shadow: 0 0 6px #800000;
+    color: transparent;
+    transition: 1s;
+}
+.bokashi:hover {
+    text-shadow: none;
+    color: #b7ecff;
+}
+.bokashi:hover a{
+    color: #b01;
+    text-shadow: none;
+}
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page2"]]
+%%content{3}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page3"]]
+%%content{4}%%
+[[/module]]
+[[module ListPages limit="@URL|0" range="." urlAttrPrefix="page4"]]
+%%content{5}%%
+[[/module]]
+[!--
+====
+
+[[include :backrooms-wiki-cn:component:alt-custom-class
+|title=生存难度：
+|class=位置
+|display=难度：[NO DATE]
+|color=000000
+|border=FF0000
+|list-color=FFFFFF
+|image=https://brsandbox-mini.wdfiles.com/local--files/collab%3Alevel-if-1-error-com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250623182635.jpg
+|one=[NO DATE]
+|two=[NO DATE]
+|three=[NO DATE]
+]]
+
+
+
+[NO DATE]是[NO DATE]的第[NO DATE]层。
+
+在了解这个层级之前，请先看看如下记录，这将会帮你决定你是否要了解这个层级。
+
+[[div class="blockquote"]]
+
+* 2021.12.31记录
+
+**凌白羽**：（带有不清晰的杂音）喂喂，是M.E.G.吗，能收到吗？
+**M.E.G.**：这里是M.E.G.，我们可以收到，请问你有什么问题。
+**凌白羽**：（带有不清晰的杂音）我是一名后室探险家，叫凌白羽，我好像找到了一个新的层级。
+**M.E.G.**：好的，凌白羽先生，可以描述一下这个层级的样子吗？
+**凌白羽**：（带有巨大的杂音）（不清晰的人声）这里.......黑......没......（该状态持续29秒）
+（间隔2秒，期间杂音再次变得不清晰）
+**凌白羽**：你们听见了吗？
+**M.E.G.**：什么？
+**凌白羽**：（带有不清晰的杂音）我说，（杂音突然变得巨大）（人声再次不清晰）这里......没......黑......光亮......（该状态持续31秒）
+（间隔2秒，期间杂音再次变得不清晰）
+**凌白羽**：喂喂？听见了吗？
+**M.E.G.**：你好？凌白羽先生？这里听不清楚你的声音。
+**凌白羽**：（带有不清晰的杂音）那好，我用邮件将信息发送给你们。
+
+* （之后，通信被挂停。）
+
+
+[[/div]]
+
+[[=]]
+
+在此之后，我们就没再也收到过这位叫做凌白羽的探险家的消息。我们想知道他那里发生了什么，于是在2022.03.12主动向他申请通信。在申请通信的一瞬间，对方就立刻接通了我们的通信，并且传来了他的声音。
+
+[[/=]]
+
+[[div class="blockquote"]]
+
+喂？这里是凌白羽，怎么了？
+
+[[/div]]
+
+[[=]]
+
+这个声音中显然充满了疑惑，我们本以为是对方因某些原因忘记了他要向我们发送关于新层级的邮件，所以我们向他询问。
+
+[[/=]]
+
+[[div class="blockquote"]]
+
+凌白羽先生。请问你那里发生了什么吗？你曾在2021.12.31向我们表明，你要向我们发送关于新层级的邮件，是因为什么事耽误了吗？我们这里并没有收到你发的邮件。
+
+[[/div]]
+
+[[=]]
+
+我们本以为他会解释没有发送的理由，然而......
+
+[[/=]]
+
+[[div class="blockquote"]]
+
+什么2021.12.31？我是在刚刚说要发送的，现在才2019.01.21，怎么扯到2021.12.31的？还有，我才刚说了不到一秒，你们催这么急干什么。
+
+[[/div]]
+
+[[=]]
+
+这让我们意识到了不对劲，于是向他询问。
+
+[[/=]]
+
+[[div class="blockquote"]]
+
+**M.E.G.**：凌白羽先生，请问你是什么时候进入的这个层级？
+**凌白羽**：就今天，2019.01.21，怎么了？
+**M.E.G.**：很抱歉地告知你，我们这里已经是2022.03.12了。
+**凌白羽**：怎么可能？按你们这么说，我这里时间流速慢于你们，那为什么我们还能正常通信？
+
+[[/div]]
+
+[[=]]
+
+是的，这是一个问题，我们无法解答。因此我们只能建议他接通着通信去写一篇关于这个层级地简略报告。然而，就在我们说完的一瞬间，通信断开了。我们立即再次向他申请通信，然而，直到今日就再也没成功过。
+
+当然，这件事也并非毫无进展，我们在2024.11.01收到了来自于他的邮件，邮件是这样的：
+
+[[/=]]
+
+[[div class="lightblock"]]
+||发件人：lingbaiyu@backmail.com||
+||收件人：M.E.G.@backmail.com||
+||主题：关于那个新发现的层级||
+----
+你们不是说要保持电话通畅着让我发邮件吗？那怎么说完就挂了？啊？
+我*脏话*的，怎么给你们打电话你们也不接，你们啥意思啊？
+算了，先不说这些，我说说这个新层级的事物吧。
+这个层级呢，就是
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+顺带一提，我发这个邮件距离你们刚挂电话已经过了5分钟了，按照刚才的时间差，你们当时跟我接线的人早就没了吧。
+----
+[[/div]]
+
+[[=]]
+
+我们对介绍中的空白很疑惑，于是尝试向他发送邮件，然而一直发送不出去。同时，对于邮件中提到的时间流速问题，按照刚刚通信记录所推测的讲，如果这个邮件真的使用了五分钟发送，我们确实应该老去，但是我们却还在这里找他，这真的难以理解。
+
+我们对此毫无头绪，只能将这件事情放下，我们已经没有办法去探究了。直到在2025.01.31，有一个M.E.G.职员表示自己听到了关于这个层级的信息。在我们的要求下，他讲了出来。
+
+我们本以为一切就要往好的方向发展，然而我们却发现他的声音充满了巨大的杂音，正如我们与凌白羽第一次通信一样！我们看不清他的口型，听不清他的声音，就算调取监控也是一样。他在说完后一切恢复了正常，但看着我们的表情，他好像知道了什么。
+
+**“你们，没听见？”**
+
+我们当然没听见。
+
+于是他向我们请缨，他说他已经知道了如何进出这个层级，他说就让他去看看发生了什么。
+
+我们考虑再三，最后同意了他的请求。我们为其配备了最完美的实时探测工具，希望他就算因这个层级的影响时间被混乱也能将层级的图像显示给我们。我们对他充满希望。
+
+他出发了，就在出发的一瞬间，他消失了。那些设备也消失了。我们以为我们可以通过设备观测到他和层级，然而我们想错了。设备传来的图像......损坏了。
+
+之后的第二天我们在他的房间找到了他的一封信，但这封信却是在层级之中写的。
+
+[[/=]]
+
+[[div class="blockquote"]]
+
+我已经进入这个层级了，但是我却无法与你们建立联系，一切设备运行正常，希望你们可以借此了解到一些层级的信息。我将会用
+@@@@
+的方法将这封信送到我的房间，希望能给你们带来帮助。
+备注：现在距离我进入层级已经过了二十分钟了，那个声音告诉我的的卡出方式根本没用，这只能叫物体卡出。
+
+[[/div]]
+
+[[=]]
+
+这封信的存在让我们本就不灵活的大脑更是混乱，我们无计可施。这封信出现后的第二天，关于这个层级的事便传遍了后室网络。我们根本没有传播！越来越多的人向我们表示他们听见了关于这个层级的声音，但无一例外，都不能被我们知晓。
+
+然后他们都无一例外的表明自己要去探索，我们根本拦不住，这些人更是刚想我们表明意愿就已经消失。事后，采访与这些消失者关系紧密的人，我们得知了一个消息：他们大多数都表明了想去这个层级的强烈愿望。
+
+在我们决定放弃的这一天，我们惊恐地发现，关于这个层级的资料出现在了我们的档案库里。
+
++ **是谁！？**
+
+我们甚至删除不了，也改变不了内容。看过这个文档的人，全部
+
+我们只能将这个文档修改，将其藏在这个记录之下，确保观看者不会
+
+但我们并非一无所获，我们凭此推测出了层级的一部分特性，但恕我们无能公开，因为，
+
+可能连原因你们也不能知晓，因为这涉及了
+
+然后，向你发问
+
++++ **//你真的要了解这个层级吗？//**
+
+[[/=]]
+
+[[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][https://if-backrooms.wikidot.com/level-if-153/offset/1/page2_limit/1 是][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]][[[https://backrooms-wiki-cn.wikidot.com/|否]]]
+
+====
+
+[[=]]
+> //“假如你不小心在错误的地方从现实中切出，你最终将坠入后室，这里只有腐臭的潮湿地毯，令人发狂的单调黄色，荧光灯全力运作发出的永无止境的嗡鸣，还有令人深陷其中的大约六亿平方英里随机分割的空荡房间。//
+> //倘若你听见有什么东西在附近徘徊，愿上帝保佑你吧，因为它一定也听见了你的声音……”//
+[[/=]]
+
+------
+
+[[include component:level-class
+|lang=cn
+|class=1
+]]
+
+------
+
+[[include component:image-block
+    name=https://backrooms-wiki.wdfiles.com/local--files/level-0/OGLevel0.jpg|
+    caption=**Level 0**的第一张照片。
+]]
+
+**Level 0** 是后室的第1层，也是许多人所遭遇的第一层。
+
++ **描述：**
+**Level 0** 是一处非线性空间，外观类似于一家零售店的储藏后室。与它此前[[[archived:level-0|被确认的形式]]]相似，**Level 0** 中的所有房间都在外观上呈现出具有共同表面特征的统一制式模样，例如泛黄的墙纸、潮湿的地毯和以不一致方式安装的荧光灯具。然而，本层中不存在两个完全相同的房间。
+
+被安装在本层空间中的荧光灯保持无规律闪烁，并以恒定频率发出嗡鸣。这种噪声尤其响亮，明显比正常的荧光灯所能制造的噪音更加刺耳，而对灯具装置进行检查以确定噪声来源的尝试以失败告终。浸湿地毯的物质成分始终无法被查明。它既不是水，同时也不能被安全地饮用。[[footnote]]分析中发现了胸膜液的痕迹 [[/footnote]]
+
+在**Level 0**中，线性空间发生了相当大的变化；以至于可能顺着直线行走却返回起点，而沿着你的足迹折返将会导致一组新的、不同的房间替代已经通过的房间出现。由于这一点，以及各房间之间的视觉相似性，试图在后室中进行稳定的导航是十分困难的。指南针和GPS定位器等设备无法在本层中正常运行，无线电通信则会变得失真且不可靠。
+
+**Level 0**是完全静止且不存在生命的。尽管它是后室的主要入口，却从未有人员报告在本层内与其他流浪者发生接触。据推测，绝大多数人员在离开本层前就已死亡，主要死因可能包括：脱水，饥饿，感官剥夺和孤独造成的心理创伤。然而，没有任何尸体被报告发现以支持这些假定存在的死亡案例。尝试以小组形式进入**Level 0**将导致小组人员分离并失散，直至该小组退出本层。
+
+极少情况下，本层会出现有着[[[red-rooms|红色墙纸和昏暗灯光]]]的房间，请不要靠近或进入这些房间。
+
+在**Level 0**中，人员普遍会产生幻觉，通常包括以下几种：
+* 荧光灯的噪音音量逐渐增加至震耳欲聋的程度，随后突然归于寂静。
+* 观察到门的出现。
+* 观察到楼梯的出现。
+* 突发的既视感（déjà vu）。
+* 听见类似人类说话声的声音，内容却并不接近于任何一种已知语言。
+* 在视线运动时用余光发现类似昆虫的物体在墙纸下爬行，一旦直接观察墙壁就会消失。
+* 听见类似昆虫发出的吱吱声。
+
+根据化验分析，**Level 0**内的CO₂水平正在以稳定速率上升。这一现象代表的意义尚不明确。
+
++ **实体：**
+
+已知本层内不存在任何实体，包括其他人类。若你看到、听到或遭遇了任何你确信为另一个流浪者的事物，那并不是人类。
+
+
++ **入口和出口：**
++++ 入口
+因意外“切出”（no-clipping）现实的界限是进入**Level 0**最统一的方式，进一步说，这也是进入整个后室世界的统一方式。更多信息请参阅[[[trimmed:basics-of-the-backrooms-a-guide|“后室基本生存指南”]]]。
+
+在[[[Level 283]]]的堡垒中，极其少见地存在散发霉味的木门；这些门通向**Level 0**。
+
++++ 出口
+离开**Level 0**的唯一方式是“切出”（noclipping）本层，这一般会导致流浪者进入[[[Level 1]]]。由于刚进入**Level 0**的新手通常不熟悉后室的机制，为了离开本层，保持你对所在位置的认知并快速适应当前环境是十分必要的。
+
+[[[manila-room|马尼拉房间]]]的入口十分罕见，但可能在朝任意方向跋涉极长的距离后抵达。与**Level 0**不一样，流浪者可以自由地在马尼拉房间相遇，不过本房间是一条死路，不存在离开**Level 0**的出口。更准确的说，它的作用是作为在长途跋涉中幸存下来的流浪者的集合室。
+
+另外，可以在马尼拉房间中找到来自[[[The M.E.G.|M.E.G.]]]的文档，它可以帮助新人生存并逃脱。在 [数据丢失] 中可以找到有关如何“切出”的说明。
+
+[[footnoteblock]]
+
+------
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[level-minus-0|Level -0]]] | Level 0 | [[[Level 1]]] >>
+[[/=]]
+[[/div]]
+
+++++ **我们骗你的，这是愚人节的作品，祝你玩的愉快。**
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+你不相信吗
+
+[https://if-backrooms.wikidot.com/level-if-153/offset/1/page3_limit/1 NO DATE]
+====
+
+[[image http://brsandbox-pro.wikidot.com/local--files/worthy-i/My-Dearly-Fragmented-Banner]]
+
+------
+
+[[include component:image-block
+    name=http://backrooms-sandbox.wdfiles.com/local--files/etoisle/fragment1.png|
+    caption={{你已经忘了你在这儿的那些时光了吗？}}
+]]
+
+{{**level 404**}} 是{{天堂}}的第 404 周期。 你不记得了吗？
+
++ **描述：**
+
+{{**level 404**}} 是一个平面以[[[e-isle|一块受折磨的硬盘]]]在你输入数据的重压下崩溃的方式相交、平分并弯曲的地方。在 {{**level 404**}} ，你可能发现你在生长着一种意识。这种情况一旦发生，--用你能找到的最锋利的天空碎片将它从你的脑海中剔下来--
+
+事物在这里崩坏，但这里是你的家。在 {{**level 404**}} ，你发现自己失去了冷静、清晰思考的能力；你发现自己失去了反复，来回思考的能力。你轻声低语着谈起了--她-- {{**level 404**}} 。不觉得这里发生过的一切令人可惜吗？你是怎么再也没见过--她--一面的？
+
+[[include component:image-block
+    name=http://backrooms-sandbox.wdfiles.com/local--files/etoisle/fragment2.png|
+    caption={{你在数据中迷失自我}}|
+align=left
+]]
+
+//这些话来自什么地方？//你想知道。但是，亲爱的，你为什么要问这个问题呢？难道这世界上还有别人比你更了解你自己吗？脚下的大地闪烁，你雀跃地把这里记录了下来。{{你喜欢这里，}}几何体低语道，{{多么美丽的世界啊。}}
+
+在 {{**level 404**}} ，现实正在以最完美无瑕的方式发生故障。 3d 网格正故障之时，回忆蒙上了你的思绪，双手也由它平静下来。{{外面}}的风光多好啊，为什么不去散散步呢——就你和我一起吧？周围再也看不到其它人，只有你和错误频发的这一片景观。你淹没在甜蜜袭人的空气中，一个人的样子如此快乐、清新，就像一个正在等候孔洞的平面。
+
+......
+
+++++ **其实我们是为了将这个层级封锁，这已经是真相了！**
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+你还是不相信。
+
+
+[https://if-backrooms.wikidot.com/level-if-153/offset/1/page4_limit/1 NO DATE]
+====
+
+[[=]]
+
+你已来到这里，这里一切漆黑。
+
+你突然醒悟，这里本就是陷阱。
+
+这个文档的出现就是为了让你们充满好奇。
+
+然后在到来时，为这个层级，提供名为求知的食粮。
+
+自此，你的时间也变得混乱。
+
++ **//你已无法脱离！！！//**
+
+你想求救，但是凌白羽的行为让这个层级已然进化，它断绝了你们唯一的手段。
+
+然后它将自身的存在以不可言说的形式传递给对他充满向往的人。然而又因为它的特性，无人能将其对不知者说出。
+
+不过它欺骗了知晓者，这里的出口只能给物品通过。
+
+于是第一个知晓者，也是一位渴望探索的人——那个职员，进入了这个层级。
+
+之后它发现了那个职员的信，又好巧不巧的被职员送入了M.E.G.
+
+它发现它还有漏洞，于是它断绝了所有事物的所有出口。
+
+自此你想出去已无计可施。
+
+然而，它还是饥饿，它要诱导更多的人，所以它用超越人类的智慧在M.E.G.档案库中留下了它的信息。
+
++ **主动地去了解或是寻找它便是进入它的大门。**
+
+更多人被吸引进来。
+
+接着，它发现M.E.G.尝试删除它的文档，但是又怎么好删除。
+
+于是M.E.G.在不知情的情况下，促进了它食物质量的提升——隐藏入口并间接提示危害，之后进行双重掩盖。
+
+虽然这样确实阻绝了一部分人，但这只会让好奇者的好奇心更加旺盛。
+
+即便这让它食物减少，然而食物却更加美味。
+
+于是它就在此等候，不再作为。
+
++ **##red|等着像你一样的好奇者进入。##**
+
+你真的后悔了......
+
+但是[https://if-backrooms.wikidot.com/level-if-153 你已无法返回]。
+
+[[/=]]
+
+====
+--]
+
+----
+
+[[=]]
+<< [NO DATE] | [NO DATE] | [NO DATE] | [NO DATE] | [NO DATE]>>
+[[/=]]
+
+[[>]]
+[[collapsible show="[NO DATE]" hide="[NO DATE]"]]
+**作者：**[[*user error-com]]
+[[[https://backroom-wiki-cn.wikidot.com/error-com|[ NO DATE]]]
+[[/collapsible]]
+[[/>]]

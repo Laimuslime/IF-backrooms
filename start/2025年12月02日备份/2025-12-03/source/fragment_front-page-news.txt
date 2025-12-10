@@ -1,0 +1,62 @@
+[!-- 公告，请不要往正文里放注释。 --]
+[[iftags +段落]]
+[[div style="display: none;"]]
+[[include :backrooms-wiki-cn:fragment:front-page-style]]
+[[/div]]
+[[div_ class="announceContainer"]]
+[[/iftags]]
+
+[!-- 这里是首页上方的公告。 --]
+[!-- {$announce}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年11月28日**
+12月月刊已发布！点击[[[journal:news-2025-12|此处]]]查看。
+[[/div]]
+[[div_ class="announcement"]]
+**2025年11月17日**
+网站开始新一届网站职员竞选，链接：[https://if-backrooms.wikidot.com/forum/t-17451258/the-backrooms-if-2025-11 点我]
+[[/div]]
+
+[!-- --]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+
+ --]
+
+
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+----
+[[div class="announceContainer"]]
+[[/iftags]]
+
+[!-- {$news}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年10月1日**
+[https://if-backrooms.wikidot.com/un-2025-national-day-competition UN 联合竞赛]已开始，竞赛详情可到中心页查看。
+[[/div]]
+[!-- --]
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+[[/iftags]]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+ --]

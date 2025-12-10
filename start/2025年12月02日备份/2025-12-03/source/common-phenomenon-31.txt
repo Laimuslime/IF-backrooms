@@ -1,0 +1,89 @@
+[[module css]]
+#page-title { display: none; }
+[[/module]]
+[[div class="meta-title"]]
+Phenomenon 31 - “潜在骤灭假说”（纯文档）
+[[/div]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+真的打算要走种族灭绝路线呐，哈？
+
+由[[[greggita mahayfio|Boring Talkings]]]撰写 :A
+
+由[[[author:calf-0|calf-0]]]译就 :P
+
+[[include :backroomssandboxcn:collab:ellas-pages]]
+[[include :backrooms-wiki-cn:credit:end]]
+-------------
+[[include :backrooms-wiki-cn:component:pts
+|number=5V
+|aoe=全境
+|frequency=假说
+|duration=永久
+|intensity=突发且致命
+]]
+---------------
++ 描述：
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/fragment:phenomenon-31-0/10-1comparison.jpg
+|caption=一张[[[Level 10.1]]]的图像，展示了Phenomenon 31的某次潜在发生，近乎所有后室层级皆有可能遭遇的示例。
+|align=right
+]]
+简单而言，Phenomenon 31是代指一种突发、完全无法预防且难以察觉的潜在危机，可能会瞬间席卷整个后室。此种灾难的发生主要源于[[[Phenomenon 7|阈界反响]]]与[[[Phenomenon XXX|层级演变]]]中存在的特殊性质。众所周知，后室的各个方面均会受到[[[the Frontrooms|前厅]]]的影响，并随其一同演变。基于此，有人提出了一项假说，前厅若突然发生变化，可能会对各个后室层级造成严重影响。而关于此种突然变化的具体理论表明，地球上发生的世界末日级事件，会因为上述提到的阈界反响与层级演变两种现象而在后室中产生镜像效应。一旦此种情况发生，后室和前厅的多数人将难逃死亡的命运。
+
+任何类型的末日级事件皆有可能导致Phenomenon 31的发生，但目前被推测最有可能引发该现象发生的三种情况是，小行星撞击、核战争引发的相互确保毁灭或是全球性传染病爆发，按破坏程度从高到低排序。
+-----
++++ 潜在影响
+无论引发瞬间毁灭的是什么，其最终效果大体相似，仅在破坏程度上略有差异。最直接的影响是近乎所有以人造建筑为主的层级，例如[[[Level 11]]]或[[[Level 0]]]皆会遭受损毁，或是加速崩解。在极端的末日级事件下，即便是以自然景观为主的层级也可能被焚烧殆尽，甚至变得不再宜居。而不基于地球自然景观或人造建筑的层级，例如[[[Level 202]]]或[[[Level 404]]]，或许能逃过残酷的命运，它们的物理结构可能相对完好。但若在前厅中，导致Phenomenon 31发生的灾难让人类几近灭绝，它们也会因失去人类的感知与文化维系而逐渐崩解，直至彻底消失。
+
+虽说普遍认为小行星撞击会让所有层级在数百万年间熔毁成难以辨认的岩石、沙砾与玻璃，但相互确保毁灭核战争至少还能留下部分后室区域可供栖身。甚至保留些许可辨别的地貌特征[[footnote]]前提是未来的核弹头不会变得威力倍增。[[/footnote]]。核爆冲击波预计会导致所有依赖建筑结构的层级发生演变，它们可能沦为腐朽废墟，让大量乡镇层级化作焦土，甚至理论上会将辐射扩散至近乎整个后室。由于核辐射尘（但愿）不会均匀覆盖全球，某些层级（或层级的局部区域）遭受的破坏可能会相对较轻。
+
+三者共有的事实是，如果没有人类和快速演变的世界供后室模仿，许多系统可能会崩溃。天气可能会变得更糟和更异常，天体可能会停止运转或变得更加不稳定，或者它们可能会直接停止存在。更多的“后室怪异现象”可能会从这个系统的崩溃中发展出来，导致非欧几里得特性增加或减少，后者的情况可能会导致层级在四维几何试图正常化但失败时破碎和断裂。
+
+据推测，若Phenomenon 31真的发生，后室中的大多数人均会死亡，尤其是那些身处都市层级的人们。然而，对于那些幸存下来的人来说，接下来要克服的障碍将是食物、水和庇护所。随着地球上预包装食品的供应减少，后室中的同类物资也会随之减少。随着搜寻物资变得越来越不可行，种植食物将成为必需，任何有饮用水的地方都将成为安全避难所。目前尚不清楚Phenomenon 31的余波还会夺走多少生命，但更多的人可能会死于改变后的环境，而不是最初的环境转变本身。
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/fragment:phenomenon-31-0/713comparison.jpg
+|caption=[[[Level 713]]]的一条废弃铁轨，展示了Phenomenon 31的另一种潜在影响，具体而言，就是该现象发生数年、数十年乃至数百年可能出现的景象。
+|align=right
+]]
+据推测，在Phenomenon 31发生多年乃至数代人之后，后室将随着地球一同开始复苏。很可能会导致所有层级被废弃，或是逐渐呈现出由幸存人类或潜在的第二智慧种族所建造的原始结构。陨石撞击或核末日的痕迹将消退为普通废墟，并通过层级演化逐渐消失，该过程与现实世界中的情况大致相同。
+
+只要时间足够，后室终将痊愈。除非某种未知的宇宙威胁能彻底毁灭宇宙或将地球撕成碎片。假设未发生此种情况，而人类在世界末日灾难中幸存下来，我们就会回归至一如既往的生存与生活。唯一的区别是，突然涌现的新危险和曾经依赖的系统的全面崩溃，与在前厅经历末日级事件的人们所面对的情况大同小异。
+-----
+顺带一提，人们认为缓慢发生的末日级事件，比如未能有效遏制全球变暖或太阳最终膨胀，不会造成那种突如其来的毁灭性打击，但仍会对后室的生态系统产生某种影响。其中的实体会随着后室其他部分以及各类现象的渐变而共同演化。当前厅环境逐渐恶化时，后室只会与之同步变化，而不会单独经历一场末日灾难。
+
++ 发生频率：
+除非未来的地球特别倒霉，否则Phenomenon 31在相当长的时间内只会发生一次。理论上可能会出现此种的极端连锁反应，先是瘟疫大爆发，紧急的是核战争毁灭全境，最后还要撞上小行星，但此种所有灾难一同发生的概率简直微乎其微。
+
+此外也存在另一种可能性，该现象可能永远不会发生，无论是因为阈界反响与层级演变的运作机制与假说推演不符，又或是社会终结的过程极其缓慢。此些假说之间并无高下之分，而且根据该现象的性质，其发生频率始终停留于纯粹推测的范畴。
+
++ 发现：
+关于Phenomenon 31的发现，唯有当Phenomenon 31实际发生时才有可能察觉，除非气象预报或预警系统在灾难降临前就进入了后室。不过，即便此些预警系统真的预测了灾难的发生，//__[https://if-backrooms.wikidot.com/common-phenomenon-31/offset/1 也无物可阻止其发生]__//。
+
+------
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=Greggita Mahayfaio
+|translator=calf-0
+]]
+=====
+> **文件名：** 10-1comparison.jpg
+> **名称：** A Private Lake
+> **作者：** MSVG
+> **协议：** [https://creativecommons.org/licenses/by/2.0/?ref=openverse CC BY 2.0].
+> **来源链接：** https://www.flickr.com/photos/13907834@N00/5891279010
+> **附加说明：** 图像经过了去饱和度处理，添加了颗粒滤镜效果，进行了像素化处理，还叠加了一层半透明的自身副本，最后应用了动态模糊效果。
+
+> **文件名：** 713comparison.jpg
+> **名称：** Abandoned train station Horní Slavkov zastávka
+> **作者：** Séba PRG
+> **协议：** [https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse CC BY-SA 4.0].
+> **来源链接：** https://commons.wikimedia.org/w/index.php?curid=75138795
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Phenomenon 30]]] | Phenomenon 31 | [[[Phenomenon 32]]] >>
+[[/=]]
+[[/div]]

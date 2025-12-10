@@ -1,0 +1,104 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+[[module css]]
+:root {
+--medium-accent: 134, 170, 181;
+--swatch-background: 221, 221, 221;
+--swatch-menubg-light-color: 255, 255, 255;
+}
+
+#container {
+background-image: none;
+}
+
+#side-bar:hover, #side-bar:active {
+background-color: rgba(var(--swatch-background, 255, 255, 255), 1);
+}
+
+.lightblock {
+background-color: #fff;
+}
+
+tt {
+  hyphens: none;
+  overflow-wrap: none;
+  font-size: 100%;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:translations
+|lang=pl en
+|style=float:right;
+]]
+
+[[>]]
+[[include :backrooms-wiki:component:rate ]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=梦
+|color=#86aab5
+|image=URL
+|one=祂存在着
+|two=祂等待着
+|three=祂注视着
+]]
+
+**##86aab5|Level PL-7##**是后室的第七个波兰层级。被首次发现于2002年11月3日。
+
+-----
+
+[[include component:image-block
+name=http://calf-0-sandbox.wikidot.com/local--files/files/A6gLK42.jpeg|
+caption=一张Level PL-7的图像。你能看见//祂//吗？
+]]
+
++ **描述：**
+
+##86aab5|Level PL-7##是一条据称无限延伸的桥梁，由木材和钢材构成，悬架于一处深不见底的峡谷之上。桥梁上有许多岔路，分别会通往其他方向。该层级完全被浓雾所笼罩，能见度仅限于10米范围内。##86aab5|Level PL-7##的温度始终维持在7至10摄氏度之间。
+
+在停留于##86aab5|Level PL-7##期间，你不会感到饥饿或口渴。这里不存在任何食物或水源。在##86aab5|Level PL-7##，你会感到一种不安感。后室中常见的既视感[[footnote]]**译注：**原文为法语“déjà vu”。[[/footnote]]在这里会变得愈发强烈，而此绝非偶然。你曾经绝对来过这里。就像这里的每一个人。
+
+你在这里遭遇实体的概率极低。尽管曾有流浪者目击到远处有个黑影注视着他，但##86aab5|Level PL-7##尚未确认真的存在实体。在这里，一切皆是虚幻。即使##86aab5|//祂//##真的存在，也非真实。祂也不曾伤害过你，//对吧？//
+
+在该层级不可能遇见其他流浪者，尽管多数报告称##86aab5|Level PL-7##是后室中访问最为频繁的区域之一。##86aab5|//祂//##只想见见我们。##86aab5|//祂//##正在向每个人发出邀请。
+-----
+
++ **据点与前哨**
+
+在该层级，不存在任何已知的据点或前哨。无人愿在这里驻足。
+-----
+
++ **入口与出口：**
+
+++ 入口
+
+所有人皆是无意间来到这里。无人记得自己是如何进入的。就算祂知道，也绝不会告诉别人。此事。是属于##86aab5|//祂//##的秘密。
+
+++ 出口
+
+Level PL-7不存在任何固定的出口。有时你会立即回去，有时需等上很久。有时则再也回不去了。尽管，纵身跳入桥后的那片被浓雾所笼罩的虚空像是出口，或是与其苦思冥想，不如先看清眼前？
+------
+
++ **附加内容**
+
+> +++ **波兰探险家委员会管理条例**
+> 
+> 由于对##86aab5|Level PL-7##的探索陷入停滞，现正式暂停与该区域相关的研究工作。我们必须接受一个事实，##86aab5|Level PL-7##很可能只是我们遥不可及的梦境。历经10年的研究，我们至今仍近乎一无所获。醒醒，流浪者们。这个层级根本不愿被理解。就像##86aab5|//祂//##一样。
+> 
+> ——Ryszard Czarnecki，波兰探险家委员会的主任
+-----
+
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+
+由[[*user Excel2020]]撰写、[[user Light_Nate]]译英和[[user calf-0]]译中。
+
+[https://search.creativecommons.org/photos/196ebe31-ed05-44d7-b0da-898f529d83e1 "Foggy Bridge"] by Jasona Swadleya，遵循CC BY 2.0协议。
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level PL-6]]] | Level PL-7 | [[[Level PL-8]]] >>
+[[/=]]
+[[/div]]

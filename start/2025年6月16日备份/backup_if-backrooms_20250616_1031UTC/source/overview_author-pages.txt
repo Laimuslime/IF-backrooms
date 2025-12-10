@@ -1,0 +1,152 @@
+[[=]]
+[[div class="unmargined" style="font-size: 200%; font-weight: bold; margin: 2px 0 5px; color: #600;"]]
+**欢迎来到The Backrooms-IF人事档案资料库**
+[[/=]]
+----
+[[=]]
+++* 添加标准
+
+||~ 项目||~ 点数||
+||翻译[[footnote]]翻译他站作者页、艺作页和功能页面的不计入，特殊情况（如工作量较大等）的可提前进行说明。[[/footnote]]|| 6 ||
+||合格原创[[footnote]]存在自我好评现象页面的合格线为 “{{2 + 自我好评个数}}”。[[/footnote]]|| 3 ||
+|| 机翻 || 1 ||
+
+如果你发布的页面依照上述算法累计达到6点，你可以创建属于自己的作者页。作者页的基本目的是记录和展示自己的作品，因此**至少需要包含你的作品链接或列表**（当然，具体形式没有任何限制）。除此之外，在不违反网站站规的前提下，你可以添加任何你想添加的内容。
+
+作者页的URL必须置于{{author:}}分类下，**一位作者至多只能拥有一个{{author:}}分类的页面**作为自己的作者页（但一个作者页可以拥有更多隶属于它的{{补充材料}}或{{段落}}页面）。站务会对不符合要求的作者页进行修改或删除。
+
+在作者页创建完成后，请为自己的作者页添加“作者”标签，然后按照以下格式，按照wikidot用户名首字母排序，将你作者页的链接添加到该页面合适的位置。
+
+> [[size 75%]]@@|| [[*user 你的wikidot用户名]] || @@[[[作者页URL|@@作者页标题]]]@@ ||[[/size]]
+
+如果关于作者页还有疑问或需要帮助的话，请联系任意一名站务。
+
+[[/=]]
+-----
+[[=]]
+**-索引-**
+[[/=]]
+[[div style="text-align: center; width: 100%; font-size:1.25em; font-weight: bold;"]]
+[/overview:author-pages#0AB #AB] | [/overview:author-pages#CDE CDE] | [/overview:author-pages#FGH FGH] | [/overview:author-pages#IJK IJK] | [/overview:author-pages#LMN LMN] | [/overview:author-pages#OPQ OPQ] | [/overview:author-pages#RST RST] | [/overview:author-pages#UVW UVW] | [/overview:author-pages#XYZ XYZ] | [/overview:author-pages#deleted 已删除账户]
+[[/div]]
+[[/div]]
+----
+[[=]]
+
+[[# 0AB]]
+
++ -#AB-
+
+[[# CDE]]
+
++ -CDE-
+|| [[*user calf-0]] || [[[author:calf-0|那咋了]]] ||
+[[# FGH]]
+
++ -FGH-
+
+[[# IJK]]
+
++ -IJK-
+|| [[*user Kadjwxs]] || [[[https://if-backrooms.wikidot.com/author:kadjwxs|呜呜呜死区大蛇补药入侵民分了救救我口牙呜呜呜]]] ||
+[[# LMN]]
+
++ -LMN-
+|| [[*user MCMK-1234]] || [[[https://if-backrooms.wikidot.com/author:MCMK-1234|那一天的字数水了起来，那一天的代码抄了起来，那一天的达芬改了起来，那一天的备忘录了起来]]] ||
+[[# OPQ]]
+
++ -OPQ-
+
+|| [[*user OCD-TS]] || [[[https://if-backrooms.wikidot.com/author:ocd-ts|致敬传奇分尸王]]] ||
+|| [[*user qwertyuiop1000]] || [[[author:qwertyuiop1000|飞舞的作者页]]] ||
+[[# RST]]
+
++ -RST-
+
+|| [[*user ThEndlessRain]] || [[[author:thendlessrain|1]]] ||
+[[# UVW]]
+
++ -UVW-
+
+[[# XYZ]]
+
++ -XYZ-
+
+[[# deleted]]
+
+++ 已删除账号用户
+
+[[/=]]
+
+@@ @@
+@@ @@
+
+[[module css]]
+table.wiki-content-table
+{
+    margin: 0;
+    width: 100%;
+}
+
+table.wiki-content-table td
+{
+    vertical-align: top;
+    width: 200px;
+}
+
+table.wiki-content-table td {
+    word-break: break-word;
+}
+
+table.wiki-content-table td:first-child
+{
+    width: 150px;
+}
+
+table.wiki-content-table td:last-child
+{
+    width: 100px;
+}
+
+#toc-action-bar
+{
+    display: none;
+}
+
+/* 桀桀 */
+
+/* 貌似没有长名称了，先删掉好了 */
+
+/*
+
+.wiki-content-table td:nth-child(2){
+       max-width: 20rem !important;
+}
+
+.wiki-content-table td:nth-child(2) a{
+    display: block;
+    white-space:nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+
+@media (max-width: 570px) {
+.wiki-content-table td:nth-child(1){
+       max-width: 5rem !important;
+}
+
+.wiki-content-table td:nth-child(1) a{
+  display: block;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.wiki-content-table td:nth-child(2){
+       max-width: 7rem !important;
+}
+}
+
+*/
+[[/module]]

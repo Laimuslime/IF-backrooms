@@ -1,0 +1,11 @@
+[[include :backrooms-wiki-cn:theme:hallprint]]
+**此为[[*user XiaoZi666]]之作者页，亦可称他为孝子、外星入或者孝子的厚实。**
++++++ 记住，本人大多数层级为危险层级，但主播写文速度较慢，所以不用担心出现某个民分危险层级连号的问题（确信）
+@@@@
+**本人一般看文章，可以适当给出修改建议，不过需要点时间，请耐心等待一下，感谢通融。**
+@@@@
+++++ **原创层级**[[footnote]]其中113、15、123、169、75为别人作品[[/footnote]]
+------
+[[include :backrooms-wiki-cn:component:author-page order=created_at]]
+------
+就这样，没啥好说的了

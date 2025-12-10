@@ -1,0 +1,238 @@
+起源代码
+:root,
+:root:lang(cn) {
+    --header-logo: url('https://ah-sandbox.wdfiles.com/local--files/level-c-104/meglogo2.svg');
+    --header-title: 'The Backrooms';
+    --header-subtitle: '你曾经来过这里……';
+    --main-content-width: 45rem;
+    --side-bar-width: 16rem;
+    --basalt-secondary-color: 255, 255, 200;
+    --basalt-bright-element-color: 184, 184, 76;
+    --basalt-undertone: 202, 202, 0;
+    --basalt-overtone: 60, 56, 4;
+    --basalt-tertiary-color: 255, 255, 125;
+    --basalt-dark-element-color: 150, 150, 20;
+ 
+    --diamond-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100' width='100'%3E%3Cpolygon points='50,0 0,50 50,100 100,50' style='fill:%23000;stroke:none;'/%3E%3C/svg%3E");
+ 
+    --sd-font: Poppins, Noto Sans SC, Noto Sans TC;
+    --sd-border: 0, 0, 0;
+    --sd-symbol: 0, 0, 0;
+    --sd-bullets: 0, 0, 0;
+    --sd-text: 255, 255, 255;
+    --class-0: 247, 227, 117;
+    --class-1: 247, 227, 117;
+    --class-1: 255, 201, 14;
+    --class-2: 245, 156, 0;
+    --class-3: 249, 90, 0;
+    --class-4: 254, 23, 1;
+    --class-5: 175, 6, 6;
+    --class-unknown: 38, 38, 38;
+    --class-habitable: 26, 128, 111;
+    --class-deadzone: 44, 13, 12;
+    --class-pending: 182, 182, 182;
+    --class-n-a: 38, 38, 38;
+    --class-amended: 185, 135, 212;
+    --class-omega: 25, 46, 255;
+}
+ 
+div#container-wrap {
+    background-image: url("https://backrooms-wiki-cn.wikidot.com/local--files/theme:strong-yellow/backroom-7195834_640.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+ 
+div#main-content {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 4rem;
+    color: rgb(var(--basalt-primary-color));
+}
+ 
+div#main-content::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    backdrop-filter: blur(4px);
+}
+ 
+@media (max-width: 847px) {
+    div#main-content {
+        margin: 2rem auto;
+        padding: 1rem;
+    }
+}
+ 
+/* Diamond Box */
+div.top-box {
+    border: 0.65rem solid #000 !important;
+}
+ 
+div.top-box div.gradient-box {
+    background: none;
+    background-image: linear-gradient(90deg, #000 0%, transparent 54%);
+}
+ 
+div.header-diamond {
+    background-image: url("https://ah-sandbox.wikidot.com/local--files/level-c-114/diamond-bg.svg");
+    height: calc(300.9px / 1.13);
+}
+ 
+div.header-diamond div {
+    position: absolute;
+    width: calc(300.9px / 1.13);
+    height: calc(300.9px / 1.13);
+    mask-image: var(--diamond-mask);
+    mask-position: center center;
+    mask-size: 100% auto;
+    -webkit-mask-image: var(--diamond-mask);
+    -webkit-mask-position: center center;
+    -webkit-mask-size: 100% auto;
+    top: calc(-16.4px / 4.52);
+}
+ 
+div.top-box::before,
+div.header-diamond div.diamond-pattern {
+    mix-blend-mode: normal;
+    background-image: linear-gradient(45deg, transparent 0%,  #000 0%, #000 25%, transparent 25%, transparent 50%, #000 50%, #000 75%, transparent 75%, transparent 100%);
+    background-size: 0.5rem 0.5rem;
+}
+ 
+div.bottom-box > ul > li {
+    color: rgb(var(--basalt-primary-color));
+}
+ 
+div.bottom-box > ul > li::before {
+    background-color: transparent;
+    border: solid 0.25rem rgb(var(--basalt-secondary-color));
+    box-sizing: border-box;
+}
+ 
+/* Image Block */
+ 
+div.scp-image-block {
+    background-color: rgb(var(--basalt-secondary-color));
+}
+ 
+div.scp-image-block div.scp-image-caption {
+    background-color: rgb(var(--basalt-overtone));
+}
+ 
+/* Divs */
+ 
+#toc .title {
+    color: rgb(var(--basalt-overtone));
+}
+ 
+#toc-list {
+    background-color: rgb(var(--basalt-overtone));
+}
+ 
+div.code,
+blockquote,
+div.blockquote,
+div[class*="quote"],
+div.lightblock,
+div.darkblock {
+    color: rgb(var(--basalt-overtone));
+    background-color: rgb(var(--blockquote-background-color));
+    border: solid var(--blockquote-border-width) rgb(var(--blockquote-border-color));
+    margin: 1.25rem auto;
+    padding: 0.125rem 1.45rem;
+    box-sizing: border-box;
+}
+ 
+#main-content blockquote,
+#main-content div.blockquote,
+#main-content div[class*="quote"],
+#main-content div.lightblock,
+#main-content div.darkblock {
+    max-width: calc(var(--main-content-width)*0.825);
+}
+ 
+div.styled-quote {
+    background-color: rgb(var(--basalt-secondary-color));
+    border: none;
+    border-left: 0.5rem solid rgb(var(--basalt-overtone));
+}
+ 
+div.dark-styled-quote {
+    color: rgb(var(--basalt-primary-color));
+    background-color: rgb(var(--basalt-overtone));
+    border: none;
+    border-left: 0.5rem solid rgb(var(--basalt-secondary-color));
+}
+ 
+div.lightblock {
+    background-color: rgb(var(--basalt-primary-color));
+}
+ 
+div.darkblock {
+    color: rgb(var(--basalt-primary-color));
+    background-color: rgb(var(--basalt-overtone));
+}
+ 
+div.classic-blockquote {
+    color: rgb(var(--basalt-primary-color));
+    border: dashed 0.0625rem rgba(var(--blockquote-border-color), 0.75);
+    box-shadow: none;
+    background-color: transparent;
+}
+ 
+div.hard-blockquote {
+    border: solid 0.125rem;
+    box-shadow: none;
+}
+ 
+div.rhard-blockquote {
+    border-radius: 0.75rem;
+    border: solid 0.125rem;
+    box-shadow: none;
+}
+ 
+div.blockquote-warning {
+    width: 60%;
+   min-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.75rem;
+    border: solid 0.125rem;
+    box-shadow: none;
+    background-image: url("https://ah-sandbox.wikidot.com/local--files/level-c-104/meglogo_trans.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+}
+ 
+div.sexy-box {
+    border: solid 1px rgb(var(--basalt-secondary-color));
+    padding: 0.25rem;
+    margin: 1rem;
+    background-color: rgb(var(--basalt-sub-text-color));
+}
+ 
+div.blockquote-noclipped {
+    box-sizing: border-box;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 2px;
+    transition: linear 5s;
+}
+ 
+div.blockquote-noclipped:hover {
+    background-color: rgb(var(--basalt-overtone));
+    border-width: 150px;
+}
+ 
+/* Dark Fix */
+.modalcontainer .credit,
+.bibitems .bibitem,
+.footnotes-footer .footnote-footer,
+#edit-page-form #lock-info {
+    color: rgb(var(--basalt-overtone));
+}

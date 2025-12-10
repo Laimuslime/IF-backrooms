@@ -1,0 +1,205 @@
+[[include :backrooms-wiki-cn:theme:lsheafs]]
+
+[[module css]]
+
+:root{
+--header-title:"The Rewrite Initiativ Canon";
+--header-subtitle:"让被遗忘的文档重归数据库……？";
+--logo-image: url();
+--link-color: 230, 23, 68;
+--visited-link-color: 140, 136, 126;
+--hover-link-color: 140, 136, 126;
+--swatch-secondary-color: var(--white-monochrome);
+--pale-gray-monochrome: 220, 220, 220;
+
+--white-monochrome: 255, 251, 240;
+}
+
+
+#container {
+   background-image: url("http://backrooms-wiki.wikidot.com/local--files/level-365/StormClouds3.jpg");
+}
+
+#header h1 a:before, #header h2 span::before  {
+color: rgb(255, 251, 240);
+}
+
+#main-content .page-tags span a:not([href^="/system:page-tags/tag/_"]), #main-content .page-tags span a:visited:not([href^="/system:page-tags/tag/_"]) {
+    --link-color: 230, 23, 68;
+}
+
+.lightblock {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+}
+
+.styled-quote {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+border-left: 0.5rem solid rgb(77, 74, 65);
+}
+
+.darkblock {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+}
+
+.dark-styled-quote {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+border-left: 0.5rem solid rgb(255, 251, 240);
+}
+
+:is(blockquote,.blockquote,div.blockquote,[class*=blockquote]) {
+--box-shadow: rgba(var(--swatch-menubg-black-color),0.1);
+    display: block;
+    clear: both;
+    margin: 0.5em 40px;
+    box-shadow: 0 0.0625rem 0.125em rgba(0,0,0,.1);
+    box-shadow: 0 0.0625rem 0.125em var(--box-shadow);
+    border: 0.0625rem dashed rgba(var(--swatch-border-color),.25);
+    background-color: #f4f4f4;
+    background-color: rgb(var(--swatch-secondary-color));
+    padding: 0 1em;
+    font-family: 'Merriweather', serif;
+
+[[/module]]
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div class="darkblock"]]
+**地点：**[错误]
+**时间：**2025/09/19 16:08:04
+[[=]]
+**[记录开始]**
+[[/=]]
+**大卫-豪儿松：**自从受困于这个是非之地以来，已经3年了啊！你们不觉得很可笑吗？他们M.E.G.有那个闲工夫去跟什么uec啊bfpf啊尔虞我诈，却连来救一救我们的闲心都没有！就在几天前，这儿的网络甚至也没了！我们也许注定要葬身于此了吧。
+
+**贺平：**你看吧这人还是那么颠。顺带一提，这警报声总让人睡不好觉。
+
+**朱槑：**先别说那么多有的没的了，今晚我可不想再吃那些个留下来的种类不全的罐头了，再这样下去我们迟早得死个精光。
+
+**贺平：**谁不知道呢！可这儿也实在只有这些能吃的了，不想吃你就等着死吧。
+
+**哈罗尔-卡利斯：**西边突然出来了一个陌生的人！我在这儿待了很久了，我知道这个人绝对不是本来就呆在这儿的。
+
+**贺平：**先等等，好像有新伙计来了。
+[[=]]
+**[长时间的移动]**
+[[/=]]
+
+**贺平：**你好，你是？
+
+*******：你们是M.E.G.的人吗？
+
+**贺平：**那谁，把老伙计搬上来吧，新来的，你听了就明白了。
+
+[[div class="lightblock"]]
+//##black|“您好，新来的流浪者。欢迎来到Level 14 - “战地医院”，我们是这里最主要的团体—“医院社区”，我们对所有人都友好，但是暂时只允许医学者们加入。但是放心，我们也会为您安排吃食与住所。”##//
+[[/div]]
+
+[[=]]
+**[记录结束]**
+[[/=]]
+
+[[/div]]
+------
+[[div class="styled-quote"]]
+
++ Level IF-314 - “战地医院”
+
+[[include :backrooms-wiki-cn:component:nulevelclass
+|lang=cn
+|ent=2
+|env=0
+|ext=2
+|no=IF-314
+]]
+
+[[div class="styled-quote"]]
+//“近期M.E.G.档案库之中新添加了很多层级，数据库仍在不断迭代更新之中，且内容更加丰富广泛。但同样的是，数据库中也有许多老旧层级的信息因各种原因，大多是过时原因而被删除。此层级原为那些层级之中被删除的部分，但直到近期M.E.G.才重新发现该层级的各类新信息，因此在此展示。”//
+[[>]]
+——[[[Level IF-226]]]，撰写自艾穆西-艾姆克依爵士
+[[/>]]
+[[/div]]
+
+Level IF-314 是后室IF层群的第314层。
+
++ 描述：
+
+[[include component:image-block name=http://if-sandbox.wikidot.com/local--files/collab:314/Image_1757765116272.jpg|caption=Level IF-314最为知名的一张照片，尽管照片中的场景在本层级中并不典型。]]
+
+**Level IF-314**，曾经称为**Level 14**，内部环境通常被描述为“一个废弃的战地医院，拥有着似乎相当潮湿的地板与经过打理的天花板，而其大厅内则散落着许多腐烂的大木块。墙壁被涂鸦覆盖着，而有的墙壁则受到破坏，创造了些许的并不甚宽敞的空间。每个房间好像都布满了血液，粪便与骨头。”  该段文字节选自原“Level 14”的文档，亦是所有对于该层级环境的描述中最为知名与经典的一个。
+
+**Level IF-314**中总是存在着近乎无休止的警报声。这些警报声的响度始终稳定在50dB上下。除此之外，**Level IF-314**似乎能对其中流浪者的精神造成一定影响，因为流浪者在其中能够观察到许多病人的幻影，当其靠近后便会消失。
+
+**Level IF-314**的空气中弥漫着一股夹杂着消毒水的混沌气味，除消毒水味以外还包含血液的甜腥味、生物的排泄物和生物尸骸腐败后所散发的气味。层级中无任何有害气体，但层级空气之中的消毒水气味会使流浪者逐渐陷入半清醒状态。[[footnote]]类似[[[object IF-5]]][[/footnote]]
+
++ 实体：
+
+++ “护士”
+
+“护士”是本层级中的特有实体，在过去它还被称作**Level 14**时常被目击到。在本层级的旧版本文档中，对于“护士”的描述列于下：
+
+[[div class="styled-quote"]]
+//“一名肥胖的护士是本层级内仅有的实体，她头顶着一个带有急救符号的纸袋。她失去双腿，而一辆古董自平衡踏板车则代替了它们。该实体怀抱着一个巨大的注射器。”//
+[[/div]]
+
+“护士”的外观正如其所说，但需要提醒的是：该实体无论处于何种情况下，均对流浪者怀有很大的敌意。其怀中的“注射器”，亦是其武器，总是被一种未知液体注满。该实体一旦见到了流浪者，便会尽其所能将该种液体注射入流浪者体内。这将在六小时内导致流浪者的死亡。
+
+目前我们所了解的是：**尽快服用杏仁水能够对此液体所引起的症状进行治疗。**若你的身上并未携带任何杏仁水，**请尽快前往“医院前哨”以寻求救治。**
+
+然而，这一实体在近期的目击次数因未知原因似乎开始逐渐减少，即便被目击到也不再具有从前那么严重的攻击性（但也不是说没有）。有一种理论认为，这可能是该实体近期正处于某种类似于“休憩”的行为阶段。
+
++ 基地、前哨与社区：
+
+++ “医院前哨”前哨站
+
+该前哨站在B.O.P.的援助下改组自原**Level 14**中的“医院社区”。在旧版层级文档中对此前哨的描述如下：
+
+[[div class="styled-quote"]]
+* //“由12名成员组成，所有的成员都是于1940年至2006年期间受困于的医生。//
+* //他们的目的是拯救与营救那些被护士伤害或攻击的人。//
+* //他们似乎相当关心与医院有关的问题。//
+* //他们总是随身携带有一个急救箱，以防万一有人受伤。”//
+[[/div]]
+
+以上内容对于如今的这一组织仍然适用。而在B.O.P.对其援助后，该组织在层级内拥有了一个经过精心打理并且高度整洁与卫生的空间，同时容纳了大量的物资。该片区域包含一条长走廊与15个小房间。该组织就位于层级入口的左侧不远处。
+
++ 入口与出口：
+
+该层级的入出口发生了较大的变更，以至于与曾经**Level 14**的出入口几乎没有任何的关联。我们推测这可能是其归属层群改变所导致。
+
+++ 入口：
+
+[[[Level IF-14]]]内一家倒闭医院的楼梯间可能通向**Level IF-314**。在任意一个层级的楼房内进行切出都有小概率来到**Level IF-314**。
+
+++ 出口：
+
+--暂时未知。--
+
+找到一条通向虚无的走廊会带你到[[[Level IF-226]]]。若你找到了一个墙上的凹陷，内写着“欢迎到来”，这时进行切出会使你来到[[[Level IF-14]]]中的一所医院内。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-313]]] | Level IF-314 | [[[Level IF-315]]] >>
+[[/=]]
+[[/div]]
+
+[[/div]]
+
+------
+[[=]]
+[[module Rate]]
+[[/=]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+作者为[[*user xuziqi]]与[[*user MCMK-1234]]。
+--哎我操真服了MCMK你这个逼怎么只写了一段就跑了--
+原文为[http://backrooms-arch.wikidot.com/level-14 Level 14 -“战地医院”]。
+[[include :brsandbox-mini:collab:page]]
+[[/collapsible]]
+[[/>]]

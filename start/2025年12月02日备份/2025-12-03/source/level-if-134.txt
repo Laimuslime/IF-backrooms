@@ -1,0 +1,32 @@
+[[>]]
+[[module rate]]
+[[/>]]
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+------
+
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+本条目的作者为[[*user 116jsy]]
+由[[*user woshiikun]]进行重写
+**非常鸣谢[[*user UREBA1]]为本文章二迭代提供文本描述与故事授权引用**
+搬运者[[*user haodemingzi]]已经过原作者同意搬运
+图片来源
+图1 2：未知
+[https://unsplash.com/photos/forest-during-daytime-wQImoykAwGs 图3/森林]
+[https://unsplash.com/photos/landscape-photography-of-seashore-under-cumulus-clouds-U6t80TWJ1DM 图4/沙滩]
+图5来源自群友自摄
+[https://unsplash.com/photos/gray-and-red-factory-building-under-a-calm-blue-sky-9GwMIek9jnY 图6/工厂]
+图7 9为自摄（图9为图7调滤镜）
+[https://baike.baidu.com/item/8%C2%B712%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85/18370029h 图8]
+[https://unsplash.com/photos/a-run-down-building-with-lots-of-trash-on-the-ground-_MLP8oLLa_8 图10]
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-133]]] | Level IF-134 | [[[Level IF-135]]] >>
+[[/=]]
+[[/div]]

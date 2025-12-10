@@ -1,0 +1,181 @@
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include :backrooms-wiki-cn:theme:ethereality]]
+[[module CSS]]
+:root {
+    --header-title: "The Backrooms IF";
+    --header-subtitle: "冬之伊始 霜染万物";
+    --header-bg-img: url('http://if-sandbox.wikidot.com/local--files/winter-if-5/IF');
+    --accent: 0, 225, 225; /* 主题色 */
+}
+[[/module]]
+[[div class="blockquote colored-div"]]
+[[size small]]公告栏>>[[/size]][[size large]]公告#133537[[/size]]
+近日，M.E.G.数据库收到来自多处IF层群不同层级的邮件，其无一例外皆是有关于层级内**突然下雪**的异常报告，而来自各处层级的M.E.G.基地、前哨站也有人员目击到该事件，并且暂未报告有关身体不适以及层级异常。目前，M.E.G.正在调查该事件，并呼吁流浪者们做好防护。
+[[>]]
+——M.E.G.论坛管理层
+[[/>]]
+[[/div]]
+
+
+我看着来自[[[Level IF-19]]]这一切，又低头看了看手机上的公告栏，这简直描述的一模一样……作为M.E.G.探员的我又要走访调查为高层写一篇报告了。
+
+
+[[div class="lightblock"]]
+||发件人：asdfghjkl16@backmail.com||
+||收件人：M.E.G.ceter@backmail.com||
+||主题：有关Level IF-19下雪的报告 ||
+||2025年9月7日 10：11||
+----
+[[image http://if-sandbox.wikidot.com/local--files/winter-if-5/IF2]]
+我是来自Level IF-19的M.E.G.探员Aaron，上图是来自于Level IF-19有关于最近下雪事件图片，截止目前该事件持续约2小时，我经走访居民后未获得实质性消息，居民们身体状况良好，无表现出不适，更多我将静待观察。
+----
+[[/div]]
+
+**“叮咚”**
+
+天哪，怎么又是报告，下雪下到什么时候，看得我眼睛都快瞎了，看来得编纂一个现象条目。
+
+------
+[[div class="meta-title"]]
+
+Phenomenon IF-5
+
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:plas-animation]]
+[[include :backrooms-wiki-cn:component:plas
+|number=IF-5
+|level=3
+|class=相对常见
+|area=开阔性层级以及少数室内层级
+|form=影响层级
+]]
+
+------
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/winter-if-5/IF3
+|caption=霜落
+]]
+[[=]]
+++ [[span style="opacity: 0.6;"]] / [[/span]]描述[[span style="opacity: 0.6;"]] / [[/span]]
+[[/=]]
+
+**Phenomenon IF-5**是一种较为常见的现象，其常被称作为[[span class="ruby"]]「凛冬雪穹」[[span class="rt"]]The Winter Snow Dome[[/span]][[/span]]或是[[span class="ruby"]]「落雪」[[span class="rt"]]Falling snow[[/span]][[/span]]，往往发生于开阔性层级，迄今为止，我们仅仅观测到有关于**Phenomenon IF-5**的少数事件以及危害，截至目前，我们认为**凛冬雪穹**只是一个类似于前厅下雪的自然现象复制品。
+
+[[=]]
+[[size 180%]][[span style="opacity: 0.5;"]]“[[/span]][[/size]]
+[[/=]]
+
+[[div class="pc-gridder"]]
+
+[[div class="blockquote" style="border-style: double; border-width: 4px;"]]
+
+[[span class="darkblock box"]]**有关前厅的下雪定义：**[[/span]]
+
+[[=]]
++++ //下雪/落雪//
+
++++++ [[span style="opacity: 0.8;"]]//寒冬已至, 岁月悠悠//[[/span]]
+
+[[/=]]
+
+下雪是一种自然现象，空中的水汽凝华后，又重新落到地面上的过程。由于天空中气象条件和生长环境的差异，造成了形形色色的大气固态降水。这些大气固态降水的叫法因地而异，因人而异。
+[[/div]]
+
+[[div]]
+
+然而，[[span class="ruby"]]后室[[span class="rt"]]The Backrooms[[/span]][[/span]]作为一个脱离于正常的现实世界的区域，显然与前厅有着较大的出入，不同寻常的是，本现象似乎与前厅下雪的自然现象无较大差异，甚至可以说少数。
+
+**凛冬雪穹**表现为覆盖于层级大部分的雪，并呈现出一个穹顶的状况。并且该现象不仅发生于开阔性层级，也可能发生在室内层级，而发生在室内层级的**凛冬雪穹**事件，相对与室外事件更具有危害性以及后续工作开展的困难性。不过，该现象有着类似REDE实体的事件流程，并记录其下。
+
+[[=]]
+
+[[size 180%]][[span style="opacity: 0.5;"]]“[[/span]][[/size]]
+
+[[/=]]
+
+[[/div]]
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
++ 预兆-苍穹
+
+[[/div]]
+预兆阶段是**凛冬雪穹**的初始阶段。当该阶段发生时层级环境会显现出明显的异常特征[[footnote]] 室内层级较难察觉 [[/footnote]]。
+
+本现象进入预兆阶段时，层级往往会蒙上一片乌云，后形成巨大的穹顶，并逐渐出现类似冰裂纹的发光纹路。
+
+与此同时，穹顶会发生温度变化，在天穹中心区域温度将缓慢下降，然而距离中心点约100米外的区域则保持常温。
+[[div class="styled-quote"]]
+
++ 呈现-雪落
+
+[[/div]]
+此时此刻，天空进一步暗淡，以六角结构的雪花开始从穹顶飘落，初期雪量通常为中小雪级别，温度将在15分钟内降至-5℃至-15℃区间，并伴随阵风，能见度逐渐下降。
+
+
+约30分钟后，层级逐渐步入强降雪时段，积雪以每小时2-3cm的速度累积，最终形成5-30cm厚积雪层，能见度下降至350米左右，这期间流浪者逗留室外会导致严重冻伤。
+[[div class="styled-quote"]]
+
++ 结束-归尘
+
+[[/div]]
+一段时间后，强降雪逐渐衰减，最终在1-2小时内完全停止，被遮挡的光照开始缓慢恢复，能见度以及温度逐渐回升，不同的是，积雪可在极短内完全汽化，并且消融过程不产生液态水。
+
+在这之后，层级恢复原状，仅有受到影响的物品能够证明这一切。
+
++ 应对方式
+
+++ 应当
+
+* 做好防护
+* 待在室内
+
+++ 不应
+
+* 不做防护时贸然出门
+* 长时间逗留室外
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+------
+
+[[=]]
+
+++ {{//你看呐，下雪了//}}
+
+++ {{//？！//}}
+
+[[/=]]
+------
+[[=]]
+[[module Rate]]
+[[div class="default-col bettercollap"]]
+[[collapsible show="雪径人踪" hide="冰弦月影。"]]
+
+[[*user qwertyuiop1000]] ：下篇不出意外是素律·秋
+
+[https://unsplash.com/photos/a-snow-covered-field-with-trees-in-the-background-53Y74DiuYUU 版头图]，[https://unsplash.com/photos/a-city-street-is-covered-in-snow-during-a-winter-storm-Fjcp6zxrDbg 图1]，[https://unsplash.com/photos/a-snowy-view-of-a-city-from-a-rooftop-3rIfG-vR-RA 图2]
+
+借鉴参考 [https://backrooms-wiki-cn.wikidot.com/level-11-the-city-of-praesentem 现世之城]，[https://backrooms-wiki-cn.wikidot.com/phenomenon-c-160 忘川覆雨]，[https://backrooms-wiki-cn.wikidot.com/rede-22 微风]
+[[/collapsible]]
+[[/div]]
+[[/=]]

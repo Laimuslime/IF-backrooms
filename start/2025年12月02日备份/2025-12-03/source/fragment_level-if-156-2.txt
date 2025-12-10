@@ -1,0 +1,192 @@
+[[include :backrooms-wiki-cn:theme:better-blank
+|contrast=a
+|del=a
+|font=a
+]]
+[[module css]]
+@media screen and (prefers-reduced-motion: no-preference) {
+    #page-title, #breadcrumbs, #page-content > * {
+      animation-name: fadeIn;
+      animation-duration: 5.50s;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-out;
+      animation-fill-mode: backwards;
+    }
+  }
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(0,30px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0,0);
+    }
+  }
+}
+[[/module]]
+[[module CSS]]
+:root {
+  --header-title: "";
+  --header-subtitle: "";
+   --fade-in-delay: 0.15s;
+}
+#page-title {
+    display: none;
+}
+.invisibox {
+   padding:1rem 1rem;
+   margin:1rem 2;
+   background:transparent;
+   border-radius:0;
+   box-shadow: 0px 0px 0px;
+   box-sizing:border-box;
+    width: 90%;
+    margin:auto;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+.fader {
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+:is(div.rate-box-with-credit-button div.page-rate-widget-box,div.page-rate-widget-box) :is(.rate-points,.rateup,.ratedown,.cancel) {
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+#extrac-div-1 {
+    position: fixed;
+    min-height: 100%;
+    width: 100%;
+    background: radial-gradient(ellipse, rgb(255, 255, 255, 0) 0%, rgb(255, 255, 255, 0.95) 85%);
+    pointer-events: none;
+    background-size: cover;
+    background-position: center;
+}
+#extrac-div-3 {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(255, 255, 255, 1.95) 60%, rgba(255, 255, 255,1.95) 100%);
+    opacity: 0.15;
+    mix-blend-mode: color-dodge;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 30;
+}
+[[/module]]
+@@ @@
+[[=]]
+[[div class="invisibox"]]
+日光恰到好处，也弥足珍贵。
+@@@@
+碎肉重新归一，伤痕随之四散逃逸。
+@@@@
+手指将眼球挖出，只为尽力捕捉得来不易的光明。
+@@@@
+这具遭众人鄙视的躯体，竟获这片蓝天宽容疼爱，就连那飘渺的白云也不吝惜温柔情谊。
+@@@@
+失声痛哭，任眼泪肆虐流淌；白云们陪伴着左右，给予慰藉和宽解。
+[[/div]]
+
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2025/02/15e138356351c817.jpeg]]
+@@ @@
+
+[[div class="invisibox"]]
+真棒啊……
+@@@@
+阳光在破碎的肌肤间流淌，那是失而复得的温暖。
+@@@@
+身体、感官和思想，从危机四伏的[https://backrooms-wiki-cn.wikidot.com/ 囚笼]中得到解放，也从[https://backrooms-wiki-cn.wikidot.com/the-frontrooms 无底深渊]中获得了救赎。
+@@@@
+你思考着，为何此处藏匿已久。
+@@@@
+但无人知晓。
+@@@@
+就像其他人一样，你把这些想法抛至脑后。
+@@@@
+不是很棒吗？
+@@@@
+你身处地狱般的困境已久，可无人曾对你伸出援手。
+@@@@
+如今，你不再生存于众目睽下，亦无须苟延残喘于言语之林中。只需享受，享受这来之不易的自由……
+@@@@
+[[/div]]
+
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2025/02/a46886ff86b7f71b.jpg]]
+@@ @@
+
+[[div class="invisibox"]]
+拭干眼泪，舒展肢体，手臂展开，凌驾于苍穹之上。
+@@@@
+万缕丝绳之束缚皆成虚妄，断裂坠落。
+@@@@
+光明与轻风拂拭身躯，驱散伤痕。
+@@@@
+云层轻轻拨弄大脑，将那渣滓琐事化作蛛丝，尽数拂去。
+@@@@
+灵魂从无用躯壳中挣脱，溶解在暖阳之中。
+@@@@
+大脑已全然无用，身体掌控权尽在微风和云朵之手。
+@@@@
+你已彻底挣脱往昔的束缚，与那最纯粹的**自由**，彼此相拥。
+@@@@
+你已如愿以偿——自黑暗处，寻觅光明。
+@@@@
+你或许已如愿以偿——趋光而近，得光而生。
+@@@@
+你仍未如愿以偿——于光明中，永保**自由**。
+@@@@
+
+[[/div]]
+
+[[size 350%]]。
+[[div class="fader"]]
+。
+。
+。
+[[/div]]
+[[/size]]
+
+@@ @@
+[[=image https://imgurl.diadi.cn/imgs/2024/09/a1ff2b7a5111c330.jpg]]
+@@ @@
+
+[[div class="invisibox"]]
+和煦轻柔的风突然停止，身躯顺势从高空中坠落。
+@@@@
+天空逐渐失去蔚蓝的色彩，变得苍白无力。
+@@@@
+云层变得漆黑污浊，四散躲开，对他们信任无比的灵魂与身躯，现如今却不敢触碰半分。
+@@@@
+躯体不断下坠，视野中央的希望不断缩小凝聚。
+@@@@
+黑暗再度袭来，将仅剩的光明无情碾碎。
+@@@@
+**而后，一切都消融于[https://if-backrooms.wikidot.com/level-if-156/offset/2 黑暗]之中……**
+@@@@
+[[/div]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@ 
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[/=]]

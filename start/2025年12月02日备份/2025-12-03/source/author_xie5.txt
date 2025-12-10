@@ -1,0 +1,61 @@
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]
+[[module rate]]
+[[module css]]
+.page-rate-widget-box .ratedown { display: none!important }
+
+.page-rate-widget-box .cancel { display: none!important }
+
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:title
+|1=屑5
+|2=超牛逼
+]]
+你好，我叫屑5，你也可以叫我xie5，极光，username5，奇诺比珂blazer等。
+
+我是一个比较抽象的人，口头禅是**超牛逼**和🌚。B站叫**Backrooms_屑5**--希望你能关注我--
+
+我混IF，UF，FS，UH等层群，我写的文不是很好，这是我的第一个作者页，希望大家多多支持。
+
+
+[[div class="blockquote"]]
+[[[Level IF-95]]]
+“千禧年·梦”
+
+------
+
+这是我的第一篇文章，最开始发布在ART集群，经过[[*user the space]]的修改，才有了现在的千禧年·梦。
+
+这是我觉得自己最好的一篇文，写的很用心
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-86]]]
+“时钟餐厅”
+
+------
+
+这篇文是一天晚上我失眠时写的，选用的MCK层群梦C梦卡的点子，短文，分尸，我觉得是烂文
+
+--梦C梦卡快来帮我重写--
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-203]]]
+“梅乐翁”
+
+------
+
+上补习班上疯了想出来的，娱乐性大于实际质量，烂文，棍
+[[/div]]
+
+[[div class="blockquote"]]
+[[[Level IF-221]]]
+“度假海滩”
+
+------
+
+帮[[*user 116jsy]]重写的文章，比较满意，还行，写了俩小时。
+[[/div]]
+
+嗯，目前就这么多，我会继续加油，努力写更多更好的文！

@@ -1,0 +1,140 @@
+[[include :backrooms-wiki-cn:theme:ru-theme]]
+[[include :backrooms-wiki-cn:component:toggle-sidebar]]
+[[include :backrooms-wiki-cn:component:toggle-search-top-box]]
+[[include :backrooms-wiki-cn:component:rate-bar]]
+[[include :backrooms-wiki-cn:component:level-class-animation]]
+[[include :backrooms-wiki-cn:component:level-class-animation
+|speed=1
+]]
+
+[[module CSS]]
+:root, :root:lang(cn) {
+    --merc-light-color: var(--swatch-menutxt-light-color); /*修改此变量来改变主要颜色*/
+    --merc-dark-color: var(--swatch-menubg-dark-color); /*修改此变量来改变鼠标移到链接上时链接文字颜色*/
+}
+[[/module]]
+
+[[module css]]
+.sd-container {
+   --sd-border: 90, 29, 27;
+   --sd-image: 90, 29, 27;
+   --sd-symbol: 90, 29, 27;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn/tr
+|class=1
+|one=**未发现危险物**
+|two=**欧几里德空间**
+|three=**夜间存在实体**
+]]
+
+**Level IF-4**是IF层群的第4层。
+
++ **描述：**
+
+**Level IF-4**表现为一个地铁站，其无限延伸，并不支持孤立效应 ，在该层级的所有流浪者均可相互遇见。值得注意的是，若任意两名流浪者在一堵墙两侧靠近，但并不能用肉眼观测到对方，则两名流浪者会发觉，墙体根据对方的行动轨迹变化而产生波动，这也使得**Level IF-4**成为了容易察觉到流浪者行踪的层级，目前这一现象表达的内容暂且不明。该层级表现为封闭的阈限空间，未发现任何通往地铁站向上的任何空间。
+
+**Level IF-4**的空间较为稳定，这也使得切出该层级较为容易。并且该层级的空间分割及不统一，时小时大，分布极不均匀，这会给进入该层级的流浪者产生空间被撕裂的不适感。该层级的瓷砖地面均表现为90年代的1米×1米瓷砖，瓷砖布满了极多的灰尘与划痕，似乎整个层级在90年代～至今被废弃了许久，但除了进入该层级的流浪者在其他层级将细菌以各种形式进入到身上的衣物后进入了该层级传播之外，整个层级没有任何的菌类分布，导致了该层级成为了IF层群著名的“洁核类层级”[[footnote]]洁核，以干净，整洁的极度夸张作为主体的空间，会使进入该空间的人员产生强烈的不适感与怀旧感。[[/footnote]]，且进入该层级的菌类将在进入该层级后的一分钟至10天之内被清除，这也导致了M.E.G.在该层级建立了多个无菌室，使该层级成为了继[[[https://backrooms-wiki-cn.wikidot.com/level-1-3|Level 1.3]]]之后的医学圣地[[footnote]]Level 1.3已洇灭。[[/footnote]]。值得注意的是，该层级与常识中的地铁站不同，几乎没有常识中的地铁站的任何设施，即使在极少情况下设施会存在在一些特殊的房间中，但这些设施大部分情况都是损坏的。
+
+**Level IF-4**存在各种形式的水渍，这些水渍因为无菌的原因均可直接使用，但由于这些水渍是由各种形态出现，流浪者感官感受到的水质基本为气体或固体[[footnote]]即水蒸气和冰。[[/footnote]]，因此摄取到水渍之中的能量极其艰难，在该层级之中，以液体形态出现的水渍是极其珍贵的。
+
+水渍中最常见的能量是杏仁，这些杏仁能发挥出杏仁水的作用，但这些水渍中还可能存在其他成分，腰果水，失效的驱笑剂等可能在物品列表中的液体成分，但前厅的其他化学成分也可能存在在水渍中，但这些时常对人类造成一定危害的化学成分在该层级中似乎转变成了对人类有益的能量。同时，**Level IF-4**还存在各种形式的电线，这些电线在该层级中有若干支。电线被检测到其中内含电能，因此已经有155条电线被启用，且该层级成为了IF层群前9层之中以电能为主的层级之一，这些被启用的电线旁通常有人看护。这些电线通常存在在该层级的任意地方，如通风板丢失的通风管道通道口，镶嵌在天花板上的荧光灯之中，并且由于该层级的电线通常在地板下，因此有时甚至会粗暴的撞开地板，露出地面，也有的会直接出现在水中。该层级的电线通常裸露在外，并没有任何遮挡物防止触摸，也因此，该层级的电线极容易表层破裂，但值得注意的是，该层级的电线似乎与水融合时不会爆炸起火，但并不建议流浪者直接触摸电线，而是上报[[[https://backrooms-wiki-cn.wikidot.com/the-m-e-g|M.E.G.]]]，等待对这根电线的处理。
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=https://cdn.pixabay.com/photo/2016/08/14/19/33/hamburg-1593802_1280.jpg|
+    caption=**Level IF-4**某车站的一张照片。
+]]
+
+**Level IF-4**还有一重要的部分——车站，车站内部的设施很简略，此处只有：列车动态显示屏，支撑柱，以及空荡的椅子。列车动态显示屏的外形类似于“下一列列车将从——月台出发”的显示屏，但唯一有区别的是，该层级的显示屏只会显示IF层群的层级，但这些显示屏上显示的层级无法通过地铁来到显示屏上显示的层级，并且[[[Level IF-6]]]可以直接通过该层级的地铁到达。流浪者只需到达显示屏上显示的层级站就可以到达另一站台，但有时会根据上文直接到达[[[Level IF-6]]]。
+
+[[include :backrooms-wiki-cn:component:hinc]]
+[[include component:image-block
+    name=https://img.cc0.cn/pixabay/2019101816301683694.jpg!cc0.cn.jpg|
+    caption=某辆地铁内部的照片。
+]]
+
+地铁内部极其坚固，流浪者无法通过砸碎地铁的设施以便逃离地铁，探索地铁线路，这也对该层级的地铁线路探索产生了极大的困难。值得注意的是，该层级中的地铁部分并未发现任何形式的光源，但车厢内部通常明亮，不存在黑暗，即使车厢内部设施大部分都被破坏，光源也不会停止射出，该现象的原因未知。有流浪者上报，在该名流浪者乘坐该层级的地铁时，地铁车厢内部忽然黑暗，使该名流浪者直接切入了[[[https://backrooms-wiki-cn.wikidot.com/the-dark-metro|黑暗地铁]]][[footnote]]该名流浪者目前处在该层级设立的前哨站[[/footnote]]，但该现象目前并未查实，也未调查出导致该现象的原因[[footnote]]因此该报告并未编写至入口与出口。[[/footnote]]。
+
+**暂停营业/夜间：**
+
+暂停营业时是该层级最危险的时间段，该时间段时的所有实体会统一的进入进入该层级的流浪者视线范围内[[footnote]]除非流浪者运用了可以阻挡这些实体的物品。[[/footnote]]，该层级在这一时间段内的所有灯光会陷入停滞时间，该层级会被黑暗占据，同时该层级的一切物品都将会断电，者在乘坐地铁时处于该时间段，地铁内的光源依旧会被切断，此时的流浪者需立即进入洗手间以应避实体的追击。这两种情况是流浪者需尽可能的降低声音，并将周围的一切发出声音的物体暂停。
+
+-----
+
++ **实体：**
+
+该层级的实体仅存于夜间，通常包括后室大部分实体。
+
+-----
+
++ **物资：**
+
+该层级的独有物资有水潭以及电线。最常见的物资是[[[https://backrooms-wiki-cn.wikidot.com/object-1|杏仁水]]]。
+
+-----
+
++ **基地，前哨与社区：**
+
+由于该层级物资丰富，本层级有许多的基地，前哨与社区。这些基地，前哨与社区并未被记录。
+
+-----
+
++ **入口与出口：**
+
+++ **入口**
+
+在[[[Level IF-3]]]进入一个地铁站即可切入该层级。
+
+其他入口正在探索。
+
+++ **出口**
+
+进入随机的站台，可能发现一条通往上方的阶梯，进入阶梯并向上，在发现光源时即可切入[[[Level IF-20]]]。
+
+其他出口正在探索。
+
+-----
+
+[[>]]
+
+[[collapsible show="地铁上那道身影是谁？" hide="原来是作者！"]]
+**作者：**[[*user laomaitian]]
+
+**图源链接：**
+
+[[[https://cdn.pixabay.com/photo/2016/08/14/19/33/hamburg-1593802_1280.jpg|Level IF-4某车站的一张照片。]]]
+
+[[[https://img.cc0.cn/pixabay/2019101816301683694.jpg!cc0.cn.jpg|某辆地铁内部的照片。]]]
+
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-3]]] | Level IF-4 | [[[Level IF-5]]] >>
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:footnotecol]]
+-----
+[[include :backrooms-wiki-cn:component:license-box
+|author=laomaitian
+|lang=CN
+]]
+=====
+> **图像名：**汉堡、海港城、地铁站
+> **图像作者：**fsHH
+> **授权协议：**[https://pixabay.com/zh/service/license-summary Pixabay License]
+> **来源链接：**/https://cdn.pixabay.com/photo/2016/08/14/19/33/hamburg-1593802_1280.jpg
+=====
+> **图像名：**电车、火车、新城
+> **图像作者：**redprick2001
+> **授权协议：**[https://pixabay.com/zh/service/license-summary Pixabay License]
+> **来源链接：**/https://img.cc0.cn/pixabay/2019101816301683694.jpg!cc0.cn.jpg
+-----
+=====
+-----
+[[include :backrooms-wiki-cn:component:license-box-end]]

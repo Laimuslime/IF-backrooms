@@ -1,0 +1,13 @@
+[[include :backrooms-wiki-cn:theme:aesthetic]]
+[[include :backrooms-wiki-cn:component:title
+|1=Dream
+|2=这只是一场美好的梦
+]]
+[[=]]
++ **入口与出口**
+
+++++++ **入口**
+在较为安全的层级中，睡觉时有几率会来到此层级。
+++++++ **出口**
+当流浪者产生想出去，回到原本的层级等念头，流浪者会被传送至原来的层级。
+[[/=]]

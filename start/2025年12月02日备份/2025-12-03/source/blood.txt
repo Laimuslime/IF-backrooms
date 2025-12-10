@@ -1,0 +1,463 @@
+[[module ListPages offset="@URL|0" range="."]]
+%%content{2}%%
+[[/module]]
+[[module ListPages limit="@URL|0" urlAttrPrefix="page2" range="."]]
+%%content{3}%%
+[[/module]]
+[[module ListPages limit="@URL|0" urlAttrPrefix="page3" range="."]]
+%%content{4}%%
+[[/module]]
+[!--
+====
+[[include :backrooms-wiki-cn:theme:better-blank
+|reverse=a
+|title=a
+|del=a
+]]
+
+[[div class="footerbox"]]
+[[=]]
++++ 欢迎收看新闻速报！
+[[/=]]
+[[/div]]
+[[div class="footerflavor"]]
+@@ @@
+
+[[=]]
+
+++++ **19岁大学生疑被拐骗至境外失联，家属呼吁紧急寻找**
+
+[[/=]]
+
+19岁女大学生周某，来自一所知名高校，于暑期赴∎∎市打工后失联，家人自7月5日起无法与其取得联系。近日警方通报，周某最后定位出现在境外，疑遭诱骗并被迫从事非法劳务。目前案件正在紧急调查中，家属已向社会求助，呼吁公众协助寻找其下落。
+
+@@@@
+------
+
+[[=]]
+
+++++ **10岁小学生遭拐骗至境外失联超一周，器官严重损伤引发关注**
+
+[[/=]]
+
+10岁小学生张某于7月初放学途中被陌生男子强行带走，随后被秘密转移至境外，与家人失联逾一周。经警方紧急营救后被成功救出，但身体状况堪忧。医生发现其肾脏和肝脏功能严重受损，疑遭非法器官摘除。案件正在深入调查中，警方已联合国际执法机构追查相关犯罪团伙。
+
+[[/div]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+[[=]]
+++++ 不过是想通过双手换取金钱，却被骗到了是非之地。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 不过是想玩耍，却成为了换取金钱的肉体。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++ ......
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++  正如我们所见
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 在这个从古至今皆充满利益争夺的世界
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些人，选择退让，拒绝与世俗同流合污；
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些人，站在世界的舞台上，凭借自己的实力争夺利益。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 然而，还有一些人呢？
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 他们天生平凡，无法做出伟大的事情。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 他们共同为了利益，便不计手段，强行抓捕亦或诱骗了不少人以此满足自己的无尽贪欲
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 那些被抓捕或被骗来的人一律被称之为##red|“奴隶”##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 施暴者们对“奴隶”实行了不少违背人道的事情
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些“奴隶”生来品貌端庄，成为了取悦剥削者的机器。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些“奴隶”或资质平凡，或才华出众，却都被施暴者驯化为只知机械劳作的工具。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 当这些“奴隶”的##red|利用价值##被施暴者们用尽后，便会##red|被丢弃或折磨致死##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些被丢弃的“奴隶”找到了归属，但身体也七零八落。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 一些被折磨致死的“奴隶”，幸运的会有人收尸。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 而其余的，被丢弃后自生自灭的“奴隶”也好，被折磨致死的“奴隶”也好，他们的肉身##red|彻底遗落在了这个世界。##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 最终，他们##red|对施暴者、剥削者的怨念##以及##red|他们的肉身##，都坠落到了另一个世界————“后室”
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++++ 这些怨念、器官、尸体不断堆积，最终在“后室”中，形成了一个独特的陆地————[/blood/offset/1/page2_limit/1 一个充满怨恨的世界]
+
+[[/=]]
+====
+[[include :backrooms-wiki-cn:theme:torso]]
+[[div class="custom-red-box"]]
+**今天，一切突然失控了，我的团伙，那些曾与我同流合污的人，全都离奇地消失了，食物一点也没留下。那群笨蛋奴隶低着头什么食物也没找到。于是我拿手枪杀死了他们，饥饿像某种疯狗一样啃噬着我的理智，双手颤抖着，我撕裂了那些奴隶的皮肉，冰冷的血液顺着指缝滑落，染红了地面。我只想活下去，哪怕用最可憎的方式。在我刚想把那些人的内脏吃下去时，许多扭曲的尖叫在耳畔炸裂——瘆人、绝望。后来我掉进了一个散发着腐肉与铁锈味的地方，该死的。**
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=5
+|one=不安全且不稳定
+|two=异常现象及环境危害
+]]
+
+[[=]]
+
+**魄血幽怨**是后室层群的隐秘层级。
+
+-----------------
++ **- 描述 -**
+
+------
+
+[[include component:image-block
+|name=https://s21.ax1x.com/2025/07/23/pVGRIMt.jpg
+|caption=墙体器官组织（已作模糊处理）
+]]
+
+
+[[/=]]
+
+**魄血幽怨** 是一座由血肉与器官构成的废弃工业大楼，空间不断向四周扩展。内部遍布被切割、拼接的人体残块，血液自墙角缓缓渗流。血迹斑斑的家具、封死的窗户与悬挂天花板的旧灯散落各处，整座大楼弥漫着血腥与腐臭。
+
+本层级中不存在任何通往或观测大楼外部的途径。当流浪者尝试破坏墙体时，墙体受损处将缓慢渗出大量鲜血，随后该区域将无法再次破坏。与此同时，流浪者将突感剧烈疼痛，痛感迅速增强并蔓延至全身。而此现象并不具有直接致命性。
+
+本层级的内部装修表面广泛附着结缔组织与肌肉纤维，分布无序，数量不定。器官组织会周期性地蠕动与收缩。内部装修表面持续渗出新鲜血液，血液天花板自滴落，或顺着地面微沟缓缓流动。角落与裂缝间堆积着大量不规则的器官碎片，其中部分偶尔表现出功能性活动，如微弱跳动、分泌或震颤反应。
+
+存在于本层级中器官组织均未腐败，而仍保持着新鲜状态，且组织经加热或烹调不发生结构变化，目前尚无说法解释此现象。此外，当流浪者啃食本层级中存在的器官组织时，并不存在直接导致其死亡或严重感染的可能性。
+
+[[div class="custom-red-box"]]
+**我已饥肠辘辘许久，当我目睹满地鲜血淋漓、肢体残破的器官时，内心竟生出一种无法抑制的兴奋。我几乎失去了所有理智，身心被一种难以名状的冲动支配，疯狂地扑向眼前的器官，毫无节制地吞噬着。**
+[[/div]]
+
+本层中，流浪者时而遭遇类人个体于静止状态下突然剧烈痉挛，并发生肉体自爆、撕裂自身、啃咬内脏等自毁反应。整个过程伴随大量血液喷溅、器官崩解。部分类人个体具备熟悉的面孔——亲人、旧识，甚至是曾被流浪者伤害过的人。此类生物不具备攻击性，且目前尚不知晓此类生物自毁行为的目的。
+
+本层中，流浪者遭遇类人个体发生自毁时，将随之听见各种刺耳的声音。声音多为吼叫、惨叫，且包含着流浪者熟悉的语言，其中语言内容多为对流浪者的精神攻击、索命，而此类声音持续时间不定。目前尚无法发现此类声音产生源头。
+
+[[div class="custom-red-box"]]
+**我已无法辨别自己身处何地，眼前是形色各异的人群，甚至我的父母也包含在其中，他们就在我眼前，以最痛苦的方式折磨自己：有的用手臂撕裂肌肤，痛苦的呻吟中伴随着血肉的撕裂声；有的头颅猛然炸裂，血肉横飞。血液和各种器官溅射到我的身上。我开始感到一阵恶心，然而吐出来的竟是血液。**
+[[/div]]
+
+[[=]]
+
+------
+
++ **- 实体 -**
+
+------
+[[/=]]
+**剥削者**为本层特殊类人个体，区别于上述类人个体，该实体不具有自毁行为。该实体面部构造模糊，全身被不明血液所覆盖而散发出腐臭的味道。该实体始终尾随并凝视流浪者，流浪者一切摆脱尝试均无效，而该实体在跟随过程中未表现出任何敌意，同时流浪者对该实体的攻击无效。
+
+该实体具备高度模仿能力，通常以流浪者的声音及语言方式进行复刻发声。当流浪者目击该实体，且现场存在其他类人个体时，实体将模仿流浪者生前对##red|**“奴隶”**##的折磨行为，施加于其他类人个体。该动作完成后，该实体即刻陷入静止状态，并持续凝视流浪者。整个过程中，该实体不对流浪者拥有任何敌意反应。
+
+[[div class="custom-red-box"]]
+**一个我不认识的人，一直在我眼前屠杀他人，或低头啃食他们仍带着余温的器官。每当一个人死在我面前，一些刺耳而扭曲的噪声便愈发凶狠。重复着这些，直到我再也无法承受猎杀与吞噬的折磨——但我又不想死。于是，我挖掉了自己的双眼，捅穿了耳膜。最后，我倒在冰冷的地面上，血液从眼眶和耳中缓缓渗出，直到我再也无法触感到寒意......**
+[[/div]]
+
+------
+[[=]]
+
++ [/blood/offset/1/page3_limit/1 入口与出口]
+
+
+[[/=]]
+
+====
+[[include :backrooms-wiki-cn:theme:better-blank
+|reverse=a
+|title=a
+|del=a
+]]
+
+[[=]]
+++ **入口与出口**
+@@ @@
+
++++ - 入口 -
+@@ @@
+
+[[size 1.06em]]在后室中，当你任由理智腐朽，为那遥不可及的利益不择手段，选择以扭曲的逻辑与冷漠的手法，摧毁那些被你欺骗、利用的人性与信任时，你将背离了人道的底线。最终，那些积怨与哀恸将导致你切入**魄血幽怨之地**。[[/size]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+++ ......
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ 当你背弃人道，践踏无辜之人时
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ 那些被你遗弃的怨魂，终将把你拖入于此。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ 这里充满对剥削者、压迫者的##red|怨念##。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ ##red|怨念##，将模仿你的一切——用你所用的方式，折磨你自身。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ 看来，你与##red|他们##一样，处于受尽折磨的环境时只想着##red|逃离##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ 而你越发反抗这里，这片土地赋予你的苦痛便越是深重。
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ ##red|你越发想要找到这个层级的出口##
+@@ @@
+@@ @@
+@@ @@
+@@ @@
++++ - 出口 -
+
+[[size 1.06em]]哦？你以为读完这份文档就能找到出口？若这个世界不再为利益所驱，致使众生苦难；若不再有那些冷酷无情、违背人道的人……本层级所谓的“入口”与“出口”，还有存在的意义吗？[[/size]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+-----------------
+[[module Rate]]
+
+[[collapsible show="[+]作者信息" hide="[-]隐藏"]]
+~ [[*user FNHanBao]]
+[https://unsplash.com/photos/a-large-cave-with-red-light-coming-from-the-ceiling-fj8CWtACZH8 图源]
+[/blood 第1迭代]
+
+[[/collapsible]]
+
+[[/=]]
+====
+--]
+
+
+[[module CSS]]
+:root {
+   --logo-image: url("http://gaplouelpew.wdfiles.com/local--files/ori%3Atorso/Torso.png");
+   --header-title: "The Backrooms";
+   --header-subtitle: "血肉怨念之";
+    /*深色*/--bb-black: 255, 255, 255;
+    /*浅色*/--bb-white: 0, 0, 0;
+}
+
+.custom-red-box {
+  border: 2px solid red;
+  background-color: black;
+  color: red;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.footerbox{
+    padding:0.1rem 1rem;
+    margin-top:1rem;
+    background: #48453C;
+    border-radius:0 0.6rem 0 0;
+    color:#191410;
+    border: 3px solid #FFFBF0;
+    box-sizing:border-box;
+}
+ 
+.footerbox h1{
+    color: #EDE9DF;
+}
+.footerbox h2{
+    color: #EDE9DF;
+}
+.footerbox h3{
+    color: #EDE9DF;
+}
+.footerbox h4{
+    color: #EDE9DF;
+}
+.footerbox h5{
+    color: #EDE9DF;
+}
+.footerbox h6{
+    color: #EDE9DF;
+}
+ 
+.footerflavor{
+    padding:0.5px 1rem;
+    margin-bottom:1rem;
+    background:#FFFBF0;
+    border-radius:0 0 0 0.6rem;
+    color:#191410;
+    box-sizing:border-box;
+}
+ 
+.footerspan{
+    float:right;
+    margin-top:0.2rem;
+    font-size:70%;
+}
+ 
+@media only screen and (max-width: 520px) {
+    .footerspan{
+        display:none;
+    }
+}
+
+.profilepic{
+    border-radius:0.6rem;
+    float:left;
+    max-height:13rem;
+    height:17vw;
+    margin-right:1rem;
+    box-shadow: 0px 0px 3px;
+    box-sizing:border-box;
+}
+
+
+.footerspan{
+    float:right;
+    margin-top:0.2rem;
+    font-size:70%;
+}
+ 
+@media only screen and (max-width: 520px) {
+    .footerspan{
+        display:none;
+    }
+}
+.sideline{
+    padding-left:2%;
+    border-left:2pt solid #c7c089;
+    margin:1rem 0 1rem 1%;
+}
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+/* 仅对文章正文中的链接启用下划线 */
+#page-content a:not([href*="user"]):not([href*="javascript:;"]):not([href*="#u-credit-view"]),
+#page-content .avatarhover,
+.hovertip a,
+.classic-collap a.collapsible-block-link {
+    padding: 0.15em;
+    margin: -0.15em;
+    color: rgb(var(--bb-black));
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    box-shadow: inset 0 -0.125rem 0 0rem rgb(var(--bb-black));
+    transition:
+        box-shadow 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
+        color 300ms cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+ 
+#page-content a:not([href*="user"]):not([href*="javascript:;"]):not([href*="#u-credit-view"]):hover,
+#page-content .avatarhover:hover,
+.hovertip a:hover,
+.classic-collap a.collapsible-block-link:hover {
+    box-shadow: inset 0 -1.5em 0 0 rgb(var(--bb-black));
+    text-decoration: none;
+    color: rgb(var(--bb-white));
+}
+
+[[/module]]

@@ -1,0 +1,218 @@
+[[module css]]
+@import url("data:text/css;charset=UTF-8;base64,Ym9keSBkaXYjcGFnZS1vcHRpb25zLWJvdHRvbSBhI2hpc3RvcnktYnV0dG9uLApib2R5IGRpdiNwYWdlLW9wdGlvbnMtYm90dG9tLTIgYSN2aWV3LXNvdXJjZS1idXR0b24sCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGZvcm0jaGlzdG9yeS1mb3JtLTEsCmJvZHkgZGl2I2FjdGlvbi1hcmVhIGRpdi5wYWdlLXNvdXJjZSB7CiAgICBkaXNwbGF5OiBub25lICFpbXBvcnRhbnQ7Cn0=");
+[[/module]]
+
+[[div]]
+[[div class="grid-block"]]
+[[div]]
+[[div class="style-block"]]
+通常而言，后室IF分站对文章/艺作的内容是不限制的，这意味着你可以自由创作！但是你仍然需要注意：我们的站点中仍然有非常多的未成年人，有一些内容并不适宜他们进行阅读；另外，有一些容易产生生理不适的内容，虽然可能对于你的文章创作来说是必须的，但是你仍有必要在文章开头提醒读者。同时，被站规所禁止的内容，例如针对某些政治立场进行攻击的语句，是不被允许出现在本站中的，发表包含这些内容的文章会导致你收到惩罚。
+
+在这里列举了常见的有必要进行特别标注以及受限制的内容[[footnote]]注意，这里所说的受限通常指违反站规的内容。[[/footnote]]，如果你的作品中包含了这些要素，请在这里查阅如何使用标签、注明等方式确保你的作品符合规范。关于详细的标签使用规范，请参阅[[[tag-guide#toc3|标签指导]]]。
+[[/div]]
+[[/div]]
+
+[[div]]
+[[toc]]
+[[/div]]
+[[/div]]
+
+----
+
+[[div class="style-block"]]
++ 成人内容
+
+如果你在本站多加探索，你会发现一些文章使用了掩藏页，并且不对非站点成员开放。这些文章大多包含有不适宜未成年人阅读的内容，如果你仍未成年，你会因为无法获得成员资格而无法阅读这些文章。而对于创作者来说，如果需要创作包含成人内容的文章，都需要使用到掩藏页并且打上“成人内容”标签。以下列出了一些常见的需要打上成人内容标签的内容：
+
+[[div class="quote-block"]]
+# 明显与性有关的内容，通常表现为裸体和性行为；
+# 具有性暗示且往往包含露骨的描绘性内容；
+# 极端暴力或血腥的内容。
+[[/div]]
+
+后室中文是一个开放的站点，因此上述内容都被允许在符合站规的情况下在讨论区、作品中进行讨论、写作。但禁止进行无意义的详细描写，例如用大量文字描写一段血腥暴力的内容，而该内容与讨论主题或作品并无明显关联。另，尺度过大的成人作品也是不被提倡的，例如肢解图、性虐待的具体方法等，如果你有必须涉及这方面的创作需要，请联系管理团队。
+
+另外，本站禁止发布宣扬恋童癖的内容，例如含有性暗示的儿童图片。发布这些内容会导致你受到处罚。
+[[/div]]
+
+[[div class="style-block"]]
++ jumpscare内容
+
+jumpscare，又称突发惊吓，常被用于恐怖电影和恐怖电子游戏，旨在透过影像或事件的突然转变来使观众大惊失色，在互联网上，有一些旨在吓唬使用者的图像、影片、程式使用了突发惊吓的手法，这种手法可能会以一张巨大的脸配合大声尖叫来表现[[footnote]]该段定义从维基百科中对jumpscare的定义删减而来。[[/footnote]]。你可能注意到，本站中有一些文档会注明文中存在jumpscare的情节，如果你对这种文章感到畏惧或不适，请离开这些文档页面。
+
+对于创作者而言，如果你想要在文中使用jumpscare的手法，请确保使用“jumpscare”标签，该标签会自动在页面开头呈现警告模块。
+[[/div]]
+
+[[div class="style-block"]]
++ 毒品、自杀、猎奇等其他内容
+
+有一些敏感内容尚未制作独立的警告标签，例如涉及毒品、自杀、猎奇的内容，这些内容可能会引来审查或者是令阅读者不适。我们无法将所有可能造成这些影响的内容全部总结在该文档中，但我们希望创作者在创作这些内容时想到你的文章一经发布便是对全站人员开放，因此你需要考虑到你的文章对他人造成的影响，将这些可能造成的不良影响在文中进行醒目的标注是每一个创作者应当的义务。如果你对这些内容可能造成的影响有疑惑，可以联系站务来进行进一步的讨论。
+[[/div]]
+
+[[div class="style-block"]]
++ 过度涉及现实
+
+后室IF分站**并不是**一个用于宣传或抵毁他人的平台。不应以宣传或人身攻击为目的，发布与任何现实人物强关联的内容。这也包括明确指向个人或现实团体的虚拟形象，以及恶俗的网络流行梗。
+
+
+++ 涉政内容
+
+鉴于中文环境日渐严格的审查机制以及封禁力度，本站不提倡在讨论区和文章中发表涉政内容，无论是直接提及还是隐喻。而发布带有恶劣影响的政治言论和文章将受到处罚，以下是一些常见的带有恶劣影响的政治言论的类型：
+[[div class="quote-block"]]
+* 直接提及或用隐喻的方式影射敏感的时政事件。
+* 大肆宣扬某种政治观点或立场。
+* 在讨论区公开讨论时政或历史事件/人物，而这些事件/人物与后室并无直接关联。
+* 对他人的政治立场进行批判、攻击[[footnote]]该种行为即使发生在网站成员的私聊中也是不被允许的。[[/footnote]]。
+* 其他可能的恶劣涉政言论可交由职员来进行判断。
+[[/div]]
+总而言之，后室是一个虚拟的创作平台，如非必要，不建议在本站发表涉政言论，即便你觉得该种言论是安全的。
+
+++ 他人个人信息相关
+
+使用他人经历或部分特征作为角色原型是允许的。出于隐私保护，不得将任何人的详细个人信息原样或加以无法消除特征的改编写入文中，这包括但不限于姓名、性别、年龄、身份证或其他同类证件号码、住址、学习/工作地点以及联系方式。此类行为将据严重性决定如何处理，必要时视同恶意传播个人信息行为（开盒）。
+
+++ 现实反人类组织
+
+尽管本站不干涉任何成员的政治倾向与立场，但这不并不代表你可以在本站的公开场合发表极端言论。其中的典型便是表现出对现实中极端的反人类组织的支持、宣扬或同情，也不允许在文章中出现类似的桥段，违反者将受到处罚。
+
+++ 模仿现实政府公文
+
+本站不推荐对于现实世界中政府公文进行高度模仿，这可能会为网站带来不必要的审查与麻烦。如若有必要使用类似的图片、格式或logo，请使用和现实世界中国家、地区以及各种组织不产生直接关联或不易产生联想的架空组织及这些架空组织的衍生设定，另请注明：//"本文中出现的国家、组织、团体均为虚构。”//。
+
+以下涉嫌影射的组织同样应避免使用此类形式：
+[[div class="quote-block"]]
+# 六扇门、龙组等作为前厅国家性组织出现的异常组织；
+# 国安XX局等现实国家的架空机构[[footnote]]同样地，crossover类项目也需尽量避免，哪怕它们是相应世界观下的相关组织。[[/footnote]]；
+# 华夏等明显指代现实地名的对应政府机构。
+[[/div]]
+特别地，完全架空世界观或设定下的地球组织，如[http://backrooms-wiki-cn.wikidot.com/youshixuerou 有识血肉]等可视情况对待，最终解释权归站务所有。
+[[/div]]
+
+[[div class="style-block"]]
++ 引发生理不适的CSS样式、图片与音频
+
+以上内容将引发读者在文章内容以外的生理不适，进而可能损害健康。这里给出几个典型的例子：快速闪烁的高对比度颜色[[footnote]]如高饱和度的红-蓝交替闪烁。[[/footnote]]版式或动图可能诱发光敏性癫痫，不恰当的配色方案可能导致读者双眼刺痛、流泪，尖锐刺耳或音量突变的自动播放音频则可能导致听觉受损。
+
+对于CSS版式，所有的版式必须经过审核才能发布[[footnote]]引用沙盒站的版式无需经过审核，但你仍需注意该版式是否会引起生理不适。[[/footnote]]，进一步规定详见[http://backrooms-wiki-cn.wikidot.com/css policy CSS守则]。若他站原文版式、图片或音频如此，译者可尝试与原作者交涉。
+[[/div]]
+
+[[div class="style-block"]]
++ AI生成内容
+
+AI作为新兴的辅助写作工具，可以有效的帮助创作者进行创作，你可能发现本站中不少文章使用了AI生成的图片。但使用AI生成的内容仍需注意以下几点：
+[[div class="quote-block"]]
+# 据[[[licensing-guide|授权指导]]]，本站允许使用兼容CC-BY-SA 3.0版本协议的AI生成图像作为文档或议论配图。
+# 不得将单纯的AI生成图片作为艺作发布，或在文中大段引用纯AI生成的文字内容，否则一律据[[[anti plagiarism policy|反抄袭政策]]]，按照抄袭处理。
+# 少量引用AI生成内容时，需标注文字具体来源及相应协议。
+# 对于允许使用参考图的AI绘画，所使用的的参考图应当可溯源并且亦符合CC-BY-SA 3.0及其兼容的协议。
+[[/div]]
+若创作者被发现违规使用AI生成内容，作者将被勒令限期内更改或重写，严重违规者或屡次违规者将被警告。
+[[/div]]
+[[/div]]
+[[module css]]
+:root {
+    --body-font: "Noto Sans SC", "Noto Sans TC", Arimo, Verdana, Geneva, sans-serif;
+}
+
+#page-content > p:first-of-type + div {
+    display: none;
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block p {
+    margin-top: 0.5em;
+}
+
+div.style-block h1 {
+    margin: var(--base-font-size) 0;
+    text-align: center;
+}
+
+div.style-block h2,
+div.style-block h3 {
+    display: flex;
+    margin: 1em 0 0;
+    align-items: flex-start;
+}
+
+div.style-block h2 span,
+div.style-block h3 span {
+    margin: 0;
+    --wght: 700;
+    font-size: var(--base-font-size);
+    font-family: Recursive, "Noto Sans SC";
+}
+
+div.style-block h2::after,
+div.style-block h3::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.75em;
+    border-bottom: 1.5px solid rgb(var(--white-monochrome));
+}
+
+div.style-block ul {
+    margin: 0.5em 0 2em;
+    padding-left: 0;
+}
+
+div.style-block > ul:last-of-type {
+    margin-bottom: 0;
+}
+
+div.style-block ul li:not(.folded, .unfolded) {
+    margin-bottom: 1em;
+}
+
+div.style-block ul li::marker {
+    font-size: 0;
+}
+
+div.style-block div.quote-block {
+    background: rgb(var(--white-monochrome));
+    padding: 0.1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block div.quote-block p {
+    margin: 1em 0;
+}
+
+div.style-block div.quote-block ul {
+    margin: 1em 0 1em 1.5em;
+    list-style-type: disc;
+}
+
+div.style-block div.quote-block ul li::marker {
+    font-size: 1em;
+}
+
+#page-title, div.footnotes-footer { display: none }
+
+@media only screen and (max-width: 768px) {
+    div.style-block h2 span,
+    div.style-block h3 span {
+        font-size: calc(0.9 * var(--base-font-size));
+    }
+}
+
+.grid-block {
+    display: grid;
+    grid-template-columns: auto minmax(200px, max-content);
+    column-gap: 1rem;
+}
+
+@media (max-width: 425px) {
+    .grid-block {
+        grid-template-columns: auto;
+    }
+}
+[[/module]]

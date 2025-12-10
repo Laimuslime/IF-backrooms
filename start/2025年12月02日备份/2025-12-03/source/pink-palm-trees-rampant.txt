@@ -1,0 +1,197 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |nightmare=a]]
+[[include :backrooms-wiki-cn:component:addendumblock]]
+
+[[module css]]
+
+/* SEXY HEADERS */
+.aki-header :is(h1, h2, h3) span {
+  display: flex;
+  align-items: center;
+  gap: 0.5ch;
+}
+
+/* Pseudoelements create the lines on either side */
+.aki-header :is(h1, h2, h3) span::before, .aki-header :is(h1, h2, h3) span::after {
+  content: "";
+  width: 1.3rem;
+  height: 0.15rem;
+  background-color: currentColor;
+}
+
+/* Make the right line long enough to fill all the space */
+.aki-header :is(h1, h2, h3) span::after {
+  flex-grow: 1;
+  -webkit-mask-image: linear-gradient(to left, transparent, black);
+}
+
+/* LEFT AND RIGHT ALIGNMENT */
+/* Change this width to set how wide the left and right aligned versions are */
+.aki-header.left, .aki-header.right {
+   max-width: 90%;
+}
+
+.aki-header.right {
+  margin-left: auto;
+}
+
+/* Make the left line the long one instead */
+.aki-header.right :is(h1, h2, h3) span::after {
+  flex-grow: 0;
+  -webkit-mask-image: none;
+}
+
+.aki-header.right :is(h1, h2, h3) span::before {
+  flex-grow: 1;
+  -webkit-mask-image: linear-gradient(to right, transparent, black);
+}
+
+/* SEXY Mini HEADERS */
+.aki-mini-header :is(h1, h2, h3) span {
+  display: flex;
+  align-items: center;
+  gap: 0.5ch;
+}
+
+/* Pseudoelements create the lines on either side */
+.aki-mini-header :is(h1, h2, h3) span::before, .aki-mini-header :is(h1, h2, h3) span::after {
+  content: "";
+  width: .75rem;
+  height: 0.075rem;
+  background-color: currentColor;
+}
+
+/* Make the right line long enough to fill all the space */
+.aki-mini-header :is(h1, h2, h3) span::after {
+  flex-grow: 1;
+  -webkit-mask-image: linear-gradient(to left, transparent, black);
+}
+
+/* LEFT AND RIGHT ALIGNMENT */
+
+/* Change this width to set how wide the left and right aligned versions are */
+.aki-mini-header.left, .aki-mini-header.right {
+   max-width: 60%;
+
+}
+
+.aki-mini-header.right {
+  margin-left: auto;
+
+}
+
+/* Make the left line the long one instead */
+.aki-mini-header.right :is(h1, h2, h3) span::after {
+  flex-grow: 0;
+  -webkit-mask-image: none;
+}
+
+.aki-mini-header.right :is(h1, h2, h3) span::before {
+  flex-grow: 1;
+  -webkit-mask-image: linear-gradient(to right, transparent, black);
+}
+
+[[/module]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+
+本文章的作者为[[*user user CCB]]，排版方面参考了[[[https://backrooms.fandom.com/zh/wiki/Level_ZH_-998|Level ZH -998]]] 与 [[[https://backrooms-un.wikidot.com/smiley|:)]]] 。
+
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=未知
+|three=潜在精神危害
+]]
+
+* **日光照射的棕榈树岛**是蓝色空间群岛的岛屿之一。
+
+[[div_ class="aki-header left"]]
++ **描述：**
+[[/div]]
+
+[[include component:image-block
+|name=http://thehiddenrealitysandboxcn.wikidot.com/local--files/tuchuang/premium_photo-1667754184973-b36396448a0f.png.avif
+|caption=//日光照射的棕榈树岛//
+|align=center
+]]
+
+* **日光照射的棕榈树岛**呈现出一个在感知上自相矛盾的世界。其最显著的特征是那片永恒的正午日光——天空中没有明确的太阳，光线却从四面八方均匀地洒下，如同一个巨大的、无处不在的柔光箱。这光源永不移动，也永不黯淡，彻底消除了“时间”在此地的流逝感。
+
+* 沙滩的沙粒呈现出一种不自然的纯白色，质地细腻而均匀。当流浪者行走其上时，脚步声会被环境完全吸收，使得整个岛屿陷入一种令人不安的绝对寂静之中。稀疏分布的棕榈树是此地除流浪者外唯一的立体结构，它们的树影被蓝色薄雾散射的光线彻底柔化，仅在地面投下模糊、摇曳的淡蓝色轮廓，进一步加深了空间的不真实感。
+
+* 岛屿中零星点缀的淡水湖泊异常清澈，但由于光线被雾气层层过滤，湖底显得幽深莫测。水面波澜不兴，完美地倒映着被染成蓝色的“天空”与模糊的树影，像一面面镶嵌在大地上的镜面，使得水天之间的界限变得模糊，加剧了方向的迷失感。
+
+* 统御这一切的，是那无处不在的蓝色薄雾。它并非悬浮在空气中，更像是空间本身的底色。这雾气吞噬了远处的地平线，将所有景物包裹在一种宁静而忧郁的蓝调中。它不仅是视觉上的遮蔽物，更像是一种触感冰凉、无处不在的物理存在，持续地将那份诱人沉沦的“宁静”直接渗透至流浪者的心智中。
+
+* 岛屿内的蓝色薄雾具有轻微但持续的催眠与致幻特性。暴露于雾气中超过2-4小时的流浪者将开始感受到一种深度的精神宁静与生理困倦。随着暴露时间延长，会逐渐产生具有精神危害性的幻觉。如果长期停留在**日光照射的棕榈树岛**中，会显著削弱流浪者的警惕心、决策能力及时间感知，使其丧失探索动力与离开的意愿。这是该岛屿的主要威胁，据信多数失踪案例均源于此。保持充足的杏仁水补给与定时休息被证实能有效延缓这种不良影响。
+
+[[div class="addendumblock"]]
+[[collapsible show="[+] 展开：回收的笔记" hide="[-] 隐藏：回收的笔记"]]
+[[<]]
+[[div class="blockquote"]]
+{{@@    @@当我从一阵眩晕中回过神来，发现自己已经站在了一片无垠的白色沙滩上。头顶是没有太阳的天空，却洒下永不落幕的正午光辉。四周漂浮着蓝色的薄雾，像一层柔软的丝绸，把远处的一切都染上了朦胧的蓝色调。很美，但美得让人心生寒意。}}
+
+{{@@    @@第三天，我的探索陷入了僵局。无论朝哪个方向走，景色都一模一样：沙、零星的棕榈树、镜子般的湖泊，以及那该死的、无处不在的蓝雾。孤独感像潮水般涌来，我开始不由自主地想念人群的喧嚣。}}
+
+{{@@    @@第五天，我在一个湖边有了发现。当我靠近时，水面没有映出我的脸，反而浮现出一个陌生男人的影像。他泪流满面，喃喃自语：“他们都睡着了…在树下…” 声音透过水面传来，带着空洞的回响。我猛地后退一步，湖面瞬间恢复了平静。那一刻我明白了，这些湖泊不是水源，是坟墓的墓碑。}}
+
+{{@@    @@第七天，我几乎被这片沙滩“留住”。因为疲惫，我靠着树打了个盹。惊醒时，发现双腿已被白色的沙粒覆盖，像生了根一样难以动弹。我拼命挣扎，才把腿从沙子里“拔”了出来，那感觉就像撕开黏连的胶布。从那时起，我不得不设定14分钟一次的闹钟，强迫自己不断移动。}}
+
+{{@@    @@但第九天，闹钟的电池耗尽了。时间失去了意义。我只能靠意志力强迫自己移动。可蓝色的雾气似乎看透了我的脆弱，它温柔地包裹着我，在我耳边低语：休息一下吧，就一会儿…不知又过了多久，我在雾气中看到了一名陌生的人。她站在一棵棕榈树下，微笑着朝我招手。理智告诉我那是幻觉，但我的脚步却不由自主地慢了下来。}}
+
+{{@@    @@那棵树的树影是那么温柔，沙地看起来如此柔软。}}
+
+{{@@    @@**“就坐一会儿，”**有个声音在脑海里说，**“这么美的地方，留下来又何妨呢？”**}}
+
+{{@@    @@我的笔开始拿不稳了，字迹在纸上歪歪扭扭。沙粒不知何时已经爬上了我的指尖，它们闪着微光，像是在为我铺就一张温暖的床。}}
+
+{{@@    @@最后写下这几个字时，我的手臂已经沉重得抬不起来。但奇怪的是，我心里却感到前所未有的平静。}}
+
+{{@@    @@也许，这里就是我的…}}
+@@@@
+@@@@
+@@@@
+[[>]]
+（记录在此中断。后来者发现这本日记时，它半掩在沙地里，纸张的边缘已经呈现出与沙滩相同的质感与色泽）
+[[/>]]
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/div]]
+
+[[div_ class="aki-header left"]]
+++ 入口与出口：
+[[/div]]
+
+++++ 入口
+* 在[https://backrooms-wiki-cn.wikidot.com/baiyundaoliu-tang 池流]中乘坐一辆蓝色的船并向任意方向行驶，流浪者将来到该岛屿。
+
+* 在[https://backrooms-wiki-cn.wikidot.com/island-c-kowloon-walled-city 浸水龙城]中切入一颗棕榈树将来到该岛屿。
+
+* 在[https://backrooms-wiki-cn.wikidot.com/island-c-12 游岩]中切入一块被氧化的石头将来到该岛屿。
+
+++++ 出口
+* 原路返回将回到[https://backrooms-wiki-cn.wikidot.com/liu-tang 池流]。
+
+* 抓取岛屿中接触一颗红色的棕榈树流浪者将来到[https://backrooms-wiki-cn.wikidot.com/baiyundao 白芸岛]
+
+------
+[[>]]
+[[div class="licensebox"]]
+[[collapsible show="‡ 授权 / 引用" hide="‡ 隐藏授权 / 引用"]]
+
+请按如下方式引用此页：
+
+> “[[[pink-palm-trees-rampant|日光照射的棕榈树岛]]]”，作者 user CCB，来自[http://if-backrooms.wikidot.com/ 后室IF层群维基]。原文链接：http://if-backrooms.wikidot.com/pink-palm-trees-rampant。遵循 [https://creativecommons.org/licenses/by-sa/3.0/deed.en CC BY-SA 3.0] 协议。
+[[<]]
+=====
+> **图像名：**日光照射的棕榈树岛
+> **图像作者：**Pramod Tiwari
+> **授权协议：**CC协议
+> **来源链接：***https://unsplash.com/photos/a-lone-palm-tree-in-the-middle-of-the-ocean-LaR-BOAFeLk
+[[/<]]
+=====
+更多授权相关信息，请查阅[http://backrooms-wiki-cn.wikidot.com/licensing-guide 授权指导]。
+[[/collapsible]]
+[[/div]]
+[[/>]]

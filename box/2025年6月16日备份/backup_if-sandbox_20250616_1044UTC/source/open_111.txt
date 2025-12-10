@@ -1,0 +1,52 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:theme:to-wish-upon-a-dream]]
+
+[[size 125%]]        “你在无边无际的黄色地狱不知行走了多久，死寂的空气与单调的走廊让你不由自主地崩溃起来，可回应你的只有吱吱作响的荧光灯；你眼前一黑，倒在了潮湿而发臭的地板上…… ”
+@@@@
+@@@@   
+“你睁开双眼，看到了那令你无比熟悉的天花板，你立刻掀起被子，大口大口呼吸着粗气。”[[/size]] 
+
+[[tabview]]
+[[tab 黄粱一梦 原版 ]]
+[[include component:level-class
+|class=宜居
+|one=现实
+|two=温馨
+|three=梦醒
+|lang=cn
+]]
+
+**黄粱一梦**表现为现实生活的缩影或倒影。
++ **描述**
+
++ **基地、前哨与社区**
+++ 社区A
+* 特点
+++ 基地B
+* 特点
++ **入口与出口**
+++++++ 入口
+* 进入方法
+++++++ 出口
+* 离开方法
+[[/tab]]
+[[tab 黄粱一梦 修订 ]]
+没写。。。
+[[/tab]]
+[[/tabview]]
+
+
+------
+[[>]]
+[[collapsible show="黄粱一梦" hide="梦醒时分"]]
+[[*user hszxry]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-1]]] | Level IF-XXX | [[[Level IF-XXX+1]]] >>
+[[/=]]
+[[/div]]

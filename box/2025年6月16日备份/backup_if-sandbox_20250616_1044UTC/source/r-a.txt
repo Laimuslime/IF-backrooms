@@ -1,0 +1,9 @@
+[[include :backrooms-wiki-cn:theme:speednoclippers]]
+[[module CSS]]
+:root {
+     --header-title: "速切玩家";    
+     --header-subtitle: "承因续果，寻根溯源";
+[[/module]]
+[[>]]
+[[module rate]]
+[[/>]]

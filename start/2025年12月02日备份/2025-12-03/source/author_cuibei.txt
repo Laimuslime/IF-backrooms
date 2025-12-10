@@ -1,0 +1,114 @@
+[[module css]]
+.info-box {
+  border: 1px solid #87CEFA;
+  border-radius: 5px;
+  margin: 15px 0;
+  overflow: hidden;
+}
+
+.info-box-header {
+  background: #87CEFA;
+  color: white;
+  padding: 8px 15px;
+  font-weight: bold;
+}
+
+.info-box-content {
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 15px;
+  background: #f0f5ff;
+}
+
+[[/module]]
+
+再见。
+[[collapsible show="[+] 显示：所有作品" hide="[-] 隐藏：所有作品"]]
+[[module ListPages category="*" rating=">-1" order="rating desc
+" separate="yes" tags="-段落 +原创 -艺术作品 -补充材料" perPage="100" created_by="user CCB"]]
+##003e3e|**%%title_linked%%** **{{[+%%rating%% (+[[#expr (%%rating_votes%%+%%rating%%)/2]]/-[[#expr (%%rating_votes%%-%%rating%%)/2]])]}}**##
+##003e3e|{{**创建于：**%%created_at|%Y-%m-%d %R|agohover%%}}##
+##003e3e|{{**最后更新于：**%%updated_at|%Y-%m-%d %R|agohover%%}}##
+##003e3e|{{**评论数：**%%comments%%}}##
+##003e3e|{{**最近更新：**%%updated_by%%}}##
+##003e3e|{{**最新评论：**%%commented_by%%}}##
+##003e3e|{{**标签：**%%tags%%}}##
+##003e3e|{{**编辑数：**%%revisions%%}}##
+##003e3e|{{**总字数：**%%size%%}}##
+[[/module]]
+[[/collapsible]]
+------
+[[div class="info-box"]]
+[[div class="info-box-header"]]
+[聊天群聊（假）]崔北的留言区
+[[/div]]
+[[div class="info-box-content"]]
+
+@@@@
+[[<]]
+**,,崔北/user CCB,,**
+> @@[[<]]@@
+> @@**,,昵称/user,,**@@
+> 请输入文本
+> @@[[/<]]@@
+通过这种形式留言！
+[[/<]]
+
+[[<]]
+**,,C0/calf-0,,**
+佬😭😭
+[[/<]]
+
+[[<]]
+**,,xuziqi/xuziqi,,**
+我超你怎么全是好文UV了
+[[/<]]
+
+[[>]]
+**,,崔北/user CCB,,**
+我的评分标准不高，对胃口就行啦~
+[[/>]]
+
+[[<]]
+**,,梅乐梅翁/Meilemeweng,,**
+大佬合著吗😋😋😋
+[[/<]]
+
+[[>]]
+**,,崔北/user CCB,,**
+可以。
+[[/>]]
+
+[[<]]
+**,,luckyrot1/Luckyrot1,,**
+ccb打捞👍🏻
+[[/<]]
+
+[[>]]
+**,,崔北/user CBB,,**
+//（触发关键词）冲刺，冲刺，冲，冲！//
+[[/>]]
+
+[[<]]
+**,,传奇英雄/Doctor-Legendary,,**
+你回归罢😭😭😭
+[[/<]]
+
+[[<]]
+[[*user XiaoZi666]]
+捶捶背这么厉害怎么练成的？😋
+[[/<]]
+
+[[<]]
+**,,129/Macro129,,**
+崔北别退坑😭😭😭
+[[/<]]
+
+[[<]]
+**,,fq/191,,**
+补药退坑a，我还没看够呢
+[[/<]]
+[[/div]]
+[[/div]]
+
+------

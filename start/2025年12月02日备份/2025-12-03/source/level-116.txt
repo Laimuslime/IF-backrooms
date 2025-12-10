@@ -1,0 +1,186 @@
+[[include :backrooms-wiki-cn:theme:lsheafs]]
+
+[[module css]]
+
+/* Every page technically needs a title! This
+
+hides it. */
+
+#page-title { display:none !important; }
+
+[[/module]]
+
+[[module CSS]]
+
+:root {
+
+   --logo-image: url("http://grave-box.wikidot.com/local--files/deadgod/logo");
+
+  --header-title: "以西结之日记";
+
+   --header-subtitle: "我后室旅途的见闻录";
+
+}
+
+#container {
+
+   background-image: url("http://grave-box.wikidot.com/local--files/deadgod/table");
+
+background-size: cover;
+
+background-position: center;
+
+background-repeat: no-repeat;
+
+opacity: 1;
+
+}
+
+[[/module]]
+
+[[include :backrooms-wiki:component:open]]
+
+[[=]]
+
+由[https://backrooms-wiki-cn.wikidot.com/akirooms DrAkimoto]撰写。
+
+由[[[author:thendlessrain|ThEndlessRain]]]翻译。
+
+评判鸣谢：
+
+[[*user inspectingcritters]], [[*user scutoid studios]], [[*user PrismaticMoose]]
+
+绿灯人：[[*user DivineAtlas]]
+
+----
+
+@@@@
+
+[[include :calf-0-sandbox:author-table-aki]]
+
+@@@@
+
+[[/=]]
+
+[[include :backrooms-wiki:component:close]]
+
+[[Size xx-large]]**神祇尖塔**；[[/size]] “//可怖山峦之下的虔诚乡镇。//”
+
+* 安全度；中等。
+* 奇异事；数则。
+* 人口数；众多。
+----
+[[=image http://backrooms-wiki.wikidot.com/local--files/level-116/1 height="150px" width="100%" style="object-fit: cover;"]]
+
+[[size larger]]//**古怪乡镇**//[[/size]] – 狭窄的鹅卵石街道纵横交错，其间分布着形态各异、大小不一的宁静住宅。我最常见到的住宅由木头和石头制成，从基础结构到建筑奇观都有。在我造访过的众多地点中，这里的规划算是比较有条理的；也许这座城镇是由这里的人们的祖先亲手筑成的。在这种地方，无论如何这都是一项了不起的壮举。
+
+白天阳光明媚，穿插着夜晚的凉爽清新，神祇尖塔的天气几乎无可挑剔。在我在这里的这段时间里，阵雨很少会持续超过一个小时，而且降雨的强度也令人愉悦。这些降雨是必不可少的，因为每栋建筑的阳台都有一个小花园，镇民们在那里种植食物和各种花卉，供镇上的教堂使用。
+
+循着街道前行，走过被烟灰玷污的房屋、铺有鹅卵石的小巷，以及覆满青苔的河岸石壁，直抵城镇广场，你将会找到最为奇特的建筑结构。教堂在一片漆黑中矗立，与其周遭形成鲜明对比，似是要反抗它那宁静平凡的背景。这栋阴森巨物歪斜的塔尖，远要高于周遭的建筑；这建筑着实令人叹为观止，只是有些骇人。
+
+教堂东侧有一条拱廊，它会引领你经过镇上为数不多的几家小商店，随后引向广袤的海景。
+
+[[f>image http://backrooms-wiki.wikidot.com/local--files/level-116/2 align="right" height="200px"]]
+
+[[size larger]]//**朱红汪洋**//[[/size]] – 微风中夹带着一丝淡淡的盐蚀铜味，当你走近海岸线时，这种味道将愈发浓郁。无论朝东还是朝北望去，它那壮丽的深红色都绵延无止。这片水域过于浑浊，任何 头脑清醒的人都不会涉水游泳，人们只得疑惑，那猩红的波涛之下究竟潜藏着何等残酷的可怖之物。不出所料，海岸线上并不存在公共海滩、渔场或船坞；这里的人们也很少靠近或眺望它。这很可惜，因为尽管它令人毛骨悚然，但其中也有美可寻。而西侧海岸则截然不同，在那里你几乎找不到什么教人叹为观止的东西。
+
+[[size larger]]//**空洞山峦**//[[/size]] – 在西方的地平线上，始终矗立着一座雄伟的山峰，使人联想起[https://backrooms-wiki-cn.wikidot.com/level-77 新谢南多厄]，但这里无论是外观还是用途都显得更加阴森可怕。此地于该镇的居民而言是一处圣地，他们每日三次的祷告便是对着该山叩拜而行的。尽管植被丛生，但山坡上却一片寂静，鸟儿与小动物皆不会在此栖息。循着偏僻的小径前行时，人们仅能听见位于山顶的神圣邪物发出的恶毒低鸣。
+@@@@
+----
++++ //虔诚镇民//
+
+神祇尖塔的住民虔诚而内敛；他们过着简朴的生活，崇敬着他们的女神。据我估计，有数千人在这片城镇中居住。这些人的肤色比我深几个色度，他们似乎有着共同的血统。多数人有着乌黑的头发和琥珀色的双眸；我猜他们的祖先都是地中海东部血统。
+
+与镇民会话时，我的[https://backrooms-wiki-cn.wikidot.com/object-25 巴别润唇膏]排上了不小用场。他们开口时，说的是一种独特的罗曼语族混合语言。虽然从不失礼，但除了简短的问候与告别外，他们几乎只在祷告时出声。这是否是因为我异乡人的身份使然…我也无从断言。
+
+镇上唯一的例外是自称萨尔瓦的牧师。尽管有着强大的气场，但他身材矮胖，为人和善。在我访问期间，他为我安排了住宿和饮食，并陪我在镇内游览。他从不给人以教唆之感，却总是没完没了地漫谈着他们女神的仁慈与恩泽。[[span class="ruby"]]“//梅穆尔蒂//”[[span class="rt"]]"//Mæmuerti//"[[/span]][[/span]]，这个名字极有可能是这里的人起的，倒也的确是个有趣的轶事。
+
+[[f>image http://backrooms-wiki.wikidot.com/local--files/level-116/3 height="200px"]]
+
+镇民们的饮食在口味方面实在乏善可陈。除了酸涩粗糙的面包之外，他们只会食用一种被贴切地称作“科尔”的奇异根茎类植物。它的味道苦涩，口感有嚼劲，我觉得它更适合用作配菜而非主菜。也许这是他们宗教仪式的一部分，我不敢对这些礼品嗤之以鼻。我在后室里尝过很多东西，这里的菜肴已经比大多数要可口的多了。
+
+@@@@
+----
++++ //梅穆尔蒂//
+
+[[f>image http://backrooms-wiki.wikidot.com/local--files/level-116/4 align="right" height="300px"]]
+
+神祇尖塔的方方面面中都能感受到她的存在。带有她的画像的碑文装点着近乎每一栋建筑的里里外外。尽管她的外表有些怪诞，但镇民似乎并不在意，仍带着崇敬讲述着她。镇上教堂里布道的牧师们颂扬着那些伟大的善举和仁爱之举。为村庄根除威胁，为她的追随者提供指引，这些“旧时传说”将梅穆尔蒂描绘成了在神祇尖塔早期真实存在的守护者。
+
+当我就此向萨尔瓦提出疑惑时，他阴森地笑了笑，并指向了凌于西侧山丘之上的天空。而这时我便看见了//它//，一道现实中的骨质伤痕，前所未见，也再未见过。言语难以描述我亲眼所见的一切：一个苍白的天使般的身影，碎骨与残肉杂乱地拼凑在一起，仿佛是对神圣的某种邪恶戏仿。我永远无法理解怎么会有人对这种东西表示崇敬。光是看到它，就让我全身上下的每一根神经都感到一阵恶寒。
+
+我初到时或许未曾留意她，但一旦察觉，便再也无法忽视。梅穆尔蒂未曾移动分毫，但我深知她在凝望着我。那是个无处不在的幻影，宛若一颗死星般萦绕于神祇尖塔之上。
+@@@@
+----
++++ //畸异高塔//
+
+在我远足的第八日，神祇尖塔围绕着四位所谓的“//天选之人//”举行了某种庆典活动。尽管在常人眼中这场庆典平淡无奇，但气氛却相当活跃；一个小合唱团哼唱着赞美诗，人们相互分享着食物。这是八天以来我头一回见到除了根茎和面包以外的吃的，所以我也沉浸在了这一刻里。人们纷纷谈论着那座山和梅穆尔蒂；谈话声的嗡鸣在空中弥漫不散。
+
+晌午的庆典结束后，萨尔瓦、四位天选之人和我踏上了艰险的旅途，攀上陡峭的山坡。途中，萨尔瓦解释说，每个月村内都会选出四人前去朝觐，并帮助梅穆尔蒂“搭建新家”。走到约莫半途时，恶臭开始传来。这是种糟糕透顶的腐臭气味，然而我怎么也猜不到它的来源。那气味犹如仲夏烈日下暴毙的野狗，散发着凝滞、令人窒息的腐败气息。当我们抵达顶峰时，我几乎无法处理眼前之景。当“天选之人”脱去衣物之时，我观察了周遭。
+
+空气中充斥着令人作呕的嘈杂声，痛苦的哀号相互交织，形成一种不和谐的共鸣。我花了比预期更长的时间才意识到眼前的景象为何；数百具尸躯以超出认知范畴的姿态蜷曲折叠。生疮的肌肤宛若拼布被褥一般融并在一起，紧紧地绷在那座连绵起伏的塔上。众遗体腿与肩相接，躯干与躯干相依，层层堆叠，伸展构成一个惊悚骇人的建构。最底层的人几乎被压得皮开肉绽，而很快我便明白了其中的缘由。
+
+“天选之人”，如今如同初生婴儿般赤身裸体，开始攀爬起来。他们利用一切可能的缝隙和孔洞来帮助自己向上攀爬，手脚撕扯着那团蠕动的肉团以获得支撑力。正当他们奋力向上攀登之时，散乱的臂膀疯狂地抓挠、撕扯着，在他们从头到脚的整个身躯上抓出道道伤痕。当他们抵达顶点之时，那些扭曲的身影便伸展开来迎接他们。如今在攀登中被排泄物与脏腑润滑的他们，便毫无阻滞地滑进了方尖塔。
+
+我只得以惊骇与错愕目视此景。驱使这些人抛弃人性，创造出如此令人深恶痛绝之物的，究竟为何？我无从知晓。
+
+在目击如此道德沦丧之典仪后，我向萨尔瓦道别，收拾我的东西，旋即离开神祇尖塔，此后再不折返。
+@@@@
+----
+++ //通行//
+
+在[https://backrooms-wiki-cn.wikidot.com/level-77 新谢南多厄]森林的东北部，有一条小径。若循着它前行数英里，它将带你来到神祇尖塔。道路上有许多[https://backrooms-wiki-cn.wikidot.com/entity-16 蜘蛛]，因此请务必留意。
+
+隔海东望，我目睹了远方灯火璀璨的[https://backrooms-wiki-cn.wikidot.com/level-230 滨海城邦]的轮廓，恍若热浪中的蜃楼幻景。若前去探寻，便可觅得许多尚待发现的奇观。
+
+----
+
+[[>]]
+
+[[size large]]//——以西结•墨菲//[[/size]]
+
+[[/>]]
+
+@@@@
+
+@@@@
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=DrAkimoto
+]]
+
+=====
+
+> 名称：The Anturs of Arther: Part 4
+> 作者：Giles Watson
+> 许可：CC BY-SA 2.0
+> 源链接：https://flic.kr/p/bsEcqZ
+
+> 名称：Study of men working on Mediterranean craft with studies of a warship RMG PU8361 2.jpg
+> 作者：Abraham Casembrot
+> 许可：public domain
+> 源链接：https://commons.m.wikimedia.org/wiki/File:Study_of_men_working_on_Mediterranean_craft_with_studies_of_a_warship_RMG_PU8361_2.jpg
+
+> 名称：Audio Book Icon 2
+> 作者：Sushant savla
+> 许可：CC Attribution-Share Alike 4.0
+> 源链接：https://commons.m.wikimedia.org/w/index.php?search=Book+icon&title=Special:MediaSearch&type=image
+
+> 名称：Beet (PSF).png
+> 作者：Pearson Scott Foresman
+> 许可：Public domain
+> 源链接：https://commons.m.wikimedia.org/w/index.php?search=Drawing+of++beet&title=Special:MediaSearch&type=image
+
+> 名称：Moonlight on Waves (from Scrapbook) MET ap50.130.154l.jpg
+> 作者：John Singer Sargent
+> 许可：Creative Commons Zero, Public Domain Dedication
+> 源链接：https://commons.wikimedia.org/wiki/File:Moonlight_on_Waves_(from_Scrapbook)_MET_ap50.130.154l.jpg
+
+> 名称：wood
+> 作者：royalty free
+> 许可：CC BY 2.0
+> 源链接：https://flic.kr/p/fngSTV
+
+=====
+
+[[include :backrooms-wiki-cn:component:license-box-end]]

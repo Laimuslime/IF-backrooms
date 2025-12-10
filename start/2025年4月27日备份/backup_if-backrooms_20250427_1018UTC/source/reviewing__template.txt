@@ -1,0 +1,15 @@
+[[module css]]
+#action-area-top::before {
+    color: #f1f1f1;
+    content: "ⓘ 本文原创性待查，若发现问题欢迎举报";
+    font-weight: bold;
+    background: red;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    margin: -0.5rem 0 1rem 0;
+    display: block;
+    width: fit-content;
+    padding-right: 25px;
+}
+[[/module]]
+%%content%%

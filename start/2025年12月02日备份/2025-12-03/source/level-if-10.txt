@@ -1,0 +1,29 @@
+[[>]]
+
+[[module rate]]
+
+[[/>]]
+
+[[module ListPages  category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user DielsAlder]][[*user Hinc_itur_ad_astra]]
+感谢最最最无敌帅的莱姆大帝[[*user Laimu_slime]]于代码方面的帮助
+[[*user Laimu_slime]]在经过作者授权后发布。
+图片一来自https://pixabay.com/photos/flow-waterfall-cascade-scenic-4540000/?www.cc0.cn=
+图片二来自https://pixabay.com/photos/fresh-green-river-spring-mountain-2704952/?www.cc0.cn
+图片三来自https://pixabay.com/photos/vinyl-plate-music-analog-vintage-3557749/?www.cc0.cn=
+图片四来自https://pixabay.com/photos/water-river-landscape-nature-rock-4411886/?www.cc0.cn
+图片五来自https://pixabay.com/images/search/computer+computer/
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-9]]] | Level IF-10 | [[[Level IF-11]]] >>
+[[/=]]
+[[/div]]

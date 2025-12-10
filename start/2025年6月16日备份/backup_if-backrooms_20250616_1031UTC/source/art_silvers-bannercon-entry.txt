@@ -1,0 +1,20 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[>]]
+[[module Rate]]
+[[/>]]
+ 
+[[image https://backrooms-wiki.wdfiles.com/local--files/art%3Asilvers-bannercon-entry/Bannercon_final.png]]
+
+[[div class="darkerblock"]]
+此是我为横幅竞赛提交的拙作，希望大家伙儿喜欢！
+[[/div]]
+
+
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=LaundryFan_04
+|translator=calf-0
+]]
+=====
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

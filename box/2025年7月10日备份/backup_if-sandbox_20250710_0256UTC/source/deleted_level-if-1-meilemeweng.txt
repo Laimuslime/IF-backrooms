@@ -1,0 +1,260 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "deep-night-theme";
+   --theme-name: "Deep Night Theme";
+ 
+   --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "The Backrooms";
+   --header-subtitle: "你曾经来过这里";
+ 
+    --body-font: Inter, Noto Sans SC, Arimo, Verdana, Geneva, sans-serif;
+    --header-font: Inter, Noto Sans SC, Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic, Arial, sans-serif;
+    --title-font: var(--header-font);
+    --mono-font: Recursive, 幼圆, Noto Serif SC, Consolas, monaco, monospace;
+ 
+   /* 深黑色系调色板 */
+   --white-monochrome: 255, 255, 255;         /* 纯白文字 */
+   --pale-gray-monochrome: 5, 5, 5;           /* 接近纯黑 */
+   --light-gray-monochrome: 15, 15, 15;       /* 深黑 */
+   --gray-monochrome: 40, 40, 40;             /* 暗灰 */
+   --black-monochrome: 200, 200, 200;         /* 浅灰文字 */
+   --bright-accent: 80, 80, 80;               /* 边框灰 */
+   --medium-accent: 50, 50, 50;               /* 中灰 */
+   --dark-accent: 20, 20, 20;                 /* 深黑 */
+   --pale-accent: 100, 100, 100;              /* 浅灰 */
+   --dark-gray-monochrome: 30, 30, 30;        /* 暗灰 */
+   --light-pale-gray-monochrome: 10, 10, 10;  /* 纯黑 */
+   --very-light-gray-monochrome: 25, 25, 25;  /* 深灰 */
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--pale-gray-monochrome)) 0%,
+      rgba(0, 0, 0, 0.20) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--white-monochrome);
+   --swatch-headerh2-color: var(--white-monochrome);
+   --swatch-topmenu-border-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-bg-color: var(--pale-gray-monochrome);
+ 
+   --link-color: 160, 160, 160;               /* 灰链接 */
+   --hover-link-color: 220, 220, 220;         /* 亮灰悬停 */
+   --visited-link-color: 100, 100, 100;       /* 深灰已访问 */
+ 
+   --background-gradient-distance: 0rem;
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#skrollr-body {
+   background-image:
+    radial-gradient(circle, rgb(var(--pale-gray-monochrome)) 50%, transparent 0);
+   background-repeat: repeat;
+   background-size: 0.25em 0.25em;
+   width: 100%;
+   height: 7.5rem;
+   background-color: #000000;
+}
+ 
+#container {
+   background-image: radial-gradient(circle, rgba(0, 0, 0, 0.40) 50%, transparent 0);
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-color: #000000;
+   color: rgb(var(--white-monochrome));
+}
+
+/* 全局背景设置为纯黑 */
+body, html, #page-content, #main-content {
+   background-color: #000000 !important;
+   color: rgb(var(--white-monochrome)) !important;
+}
+
+/* 文字颜色设置 */
+body, p, span, div, li, td, h1, h2, h3, h4, h5, h6 {
+   color: rgb(var(--white-monochrome)) !important;
+}
+
+/* 链接样式 */
+a:link {
+   color: rgb(var(--link-color)) !important;
+}
+
+a:visited {
+   color: rgb(var(--visited-link-color)) !important;
+}
+
+a:hover, a:active {
+   color: rgb(var(--hover-link-color)) !important;
+   text-decoration: underline !important;
+}
+
+/* 引用块样式 */
+.styled-quote {
+   background-color: rgba(10, 10, 10, 0.8);
+   border-left: 0.5rem solid rgb(var(--bright-accent));
+   color: rgb(var(--white-monochrome));
+}
+
+.dark-styled-quote {
+   background-color: rgb(var(--light-gray-monochrome));
+   border-left: 0.5rem solid rgb(var(--pale-gray-monochrome));
+   color: rgb(var(--white-monochrome));
+}
+
+/* 表格样式 */
+table.wiki-content-table {
+   background-color: #000000 !important;
+   border-color: rgb(var(--bright-accent)) !important;
+}
+
+table.wiki-content-table th {
+   background-color: rgba(30, 30, 30, 0.9) !important;
+   color: rgb(var(--white-monochrome)) !important;
+   border-color: rgb(var(--bright-accent)) !important;
+}
+
+table.wiki-content-table td {
+   background-color: rgba(15, 15, 15, 0.7) !important;
+   color: rgb(var(--white-monochrome)) !important;
+   border-color: rgb(var(--medium-accent)) !important;
+}
+
+/* 代码块样式 */
+#page-content pre,
+#page-content code {
+   background-color: rgba(10, 10, 10, 0.9) !important;
+   border-color: rgb(var(--bright-accent)) !important;
+   color: rgb(var(--white-monochrome)) !important;
+}
+
+/* 图片边框 */
+.scp-image-block {
+   border: 1px solid rgb(var(--bright-accent)) !important;
+   box-shadow: 0 0.2rem 0.3rem rgba(0, 0, 0, 0.5) !important;
+   background-color: #000000 !important;
+}
+
+/* 按钮和输入框 */
+.button, input, textarea, select {
+   background-color: rgb(var(--light-pale-gray-monochrome)) !important;
+   color: rgb(var(--white-monochrome)) !important;
+   border-color: rgb(var(--medium-accent)) !important;
+}
+
+/* 页眉页脚 */
+#header, #footer {
+   background-color: rgb(var(--pale-gray-monochrome)) !important;
+   border-color: rgb(var(--dark-accent)) !important;
+   color: rgb(var(--white-monochrome)) !important;
+}
+
+/* 侧边栏 */
+#side-bar {
+   background-color: rgb(var(--light-pale-gray-monochrome)) !important;
+   border-color: rgb(var(--dark-accent)) !important;
+}
+
+#side-bar a {
+   color: rgb(var(--link-color)) !important;
+   background-color: transparent !important;
+}
+
+#side-bar a:hover {
+   color: rgb(var(--hover-link-color)) !important;
+   background-color: rgba(var(--medium-accent), 0.3) !important;
+}
+
+/* 确保所有内容区域都是黑色背景 */
+div, .content-panel, .wiki-content {
+   background-color: #000000 !important;
+   color: rgb(var(--white-monochrome)) !important;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=只属于我们的世界
+]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div class="blockquote"]]
+ 
+[[div class="block dark-bg"style="background-image: url("http://if-backrooms.wikidot.com/local--files/start/Logo"); background-size: 40%; background-position: center center; background-repeat: no-repeat;"]]
+[[=]]
++ 欢迎收听IF层群时事电台
+[[/=]]
+
+近日，[[[Level IF-3]]]目前的人口总数新达到历史最高水平，对于这种人口逼近峰值的现象，是我们称之为**“饱和事件”**。事件期间，层级内部设施所支持的任何基地，前哨与社区宣布不再向流浪者开放。由于M.E.G.的指挥失当，大批流浪者涌向其他较为安全的层级并且导致这些层级的“饱和事件”频发。目前已被探索适宜居住的区域内部的资源和设施已经不足以支持巨型的人口基数，M.E.G.对于自己的错误抉择向各位表示道歉，同时许诺他们将会探索全新的，适宜居住的层级。对此，我们充分理解并且由衷的希望他们的工作得以顺利开展。
+
+与此同时，多名流浪者报告了一些新的层级的存在。令人沮丧的是，这一些新的层级并非是安全甚至可以说是险象环生的。随着大量的危险层级被发现，在IF层群的探索之路几乎寸步难行。但是值得注意的是，许多流浪者都声称他们认为那些层级可能是前厅或者是其他某个事件，甚至是某一个层级里的异常区域的投影，也就是说如果在根源上改变其性质，可能就会呈现出与之完全不同的层级特性，这体现了层级改造的可行性。我们热烈地期待新家园的到来。播报结束，这里是[[[Level IF-80]]]分电台，播报时间2085年7月15日。
+[[/div]]
+
+[[/div]]
+@@@@
+@@@@
+{{时间是伟大的，人类不得不承认时间的力量。转眼之间，10年已经逝去。10年的时间，足以改变很多事情，但是对于IF层群来说，这10年并没有出现任何令人欢呼雀跃的消息。然而，现实却是这样的：它充斥着怀疑，绝望与放弃，人们终日生活在恐惧与迷茫之中。2095年——距离一个全新的世纪只有5年的时光——在这种情况下，我们该如何做出自己的选择？}}
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+@@@@
+[[collapsible show="报告一：夏勒的报告" hide="隐藏"]]
+
++ **粗制滥造的生活**
+
+我是观察员一号夏勒。如IF层群时事电台10年前所播报的内容那样，现在大部分较为安全的层级处于一个极端拥挤且嘈杂的状态，似乎照应着人类对于反乌托邦社会的全部幻想——住所狭小，人群鱼龙混杂，物资紧张以至于人们为了获得生存下来的资源不惜使出一切阴险狡诈的手段。与此同时，向更远的地方探索而导致失踪的事件层出不穷。基地处于非常繁忙的状态，每天都有无尽的琐事等待着处理。这些层级的结构特殊是人尽皆知的，大量难民的涌入使本就不充裕的物资变得雪上加霜。加之这个层级对流浪者提供无偿帮助的组织稀少，在层级内部的绝大部分区域实际上是处于一个无序的状态，这对于建设层级内部相对适于居住的环境非常不利。
+
+我很确信，如果这些层级再不进行人口撤离，迟早会引发更大的动乱。毕竟，层级的内部面积无限并不就代表物资是无限的。我们已经在努力将极其有限的物资分发给请求帮助的流浪者，但是在更多的情况下只能够将他们带出这个层级。我们迫切地需要降低人口密度。
+
+现在是2095年7月15日，也就是距离提出“饱和事件”这个概念刚好10周年。在这10年内，我们白白浪费了大量的人力，精力和时间，却并没有发现新的适宜居住的层级。在我们对未来感到担忧的同时，是否需要反思我们的探索力度和执行力？我认为这是面对我们当下困境的一个重要的问题。对于创造更加美好的明天，我们仍须作出努力。
+[[/collapsible]]
+@@@@
+------
+@@@@
+[[collapsible show="报告二：孟日长的报告" hide="隐藏"]]
+
++ **夹缝求生**
+
+我是观察员二号孟日长。到目前为止，IF层群的探索已经达到了前所未有的程度，然而实际有益的部分却寥寥无几。现在发现的大部分层级都是环境恶劣，难以居住，甚至是不适合生命存在的。而对于那些相对安全的层级，就如同夏小姐所说的，不仅环境不断恶化，并且由于各种各样的层级被开拓，这一些相对安全的层级表现出了不稳定的性质，有许多难以避开的，却往往容易通向不安全层级的切出点。这一点，无疑再一次威胁着后室居民的生存。
+
+对于我们所付出的，我只能表示遗憾。我们已经努力地去改造那些具有潜在宜居迹象的层级，这一过程足以写就史诗。但是即使我们已经全力以赴，现实却依旧没有给我们良好的反馈。我们的改造工作是失败的，所取得的成效，微乎其微。也许我们的初衷是好的，但是我们的方向锚定错误，导致了如今对我们百般不利的局面。我们并没有半途而废，因此我们只有心甘情愿地接受这个挫折并且避开它。
+
+如我上文所述，我们对于IF层群的探索实际上并没有取得真正意义上的重大进展，而且可以说是长期以来未能突破瓶颈。面对这样的情况，让人很难不去质疑消耗大量的探索人员去调查新层级的意义所在。我们必须找出全新的对策，我们的未来之路不能一成不变，而必须有所革新了。这就是我对于短期时间内工作目标与工作重点的建议。
+[[/collapsible]]
+@@@@
+------
+@@@@
+[[collapsible show="报告三：加林娜的报告" hide="隐藏"]]
+
++ **散沙**
+
+我是观察员三号加林娜。我认为，目前的局势很不乐观。我认为比起物质生活上的匮乏，更为可怕的是人类精神上的贫瘠。纵然，危险的环境与重重出没的实体正在最大限度地消磨人的精神力，但内在的松懈才是击倒一个人的真正原因，心灵的涣散让每一个人沦为行尸走肉，失去全部的理想与追求。请想象吧，一个处于安全环境中的，生活总体上较有保障的后室居民，所想的并不是为生活或者离开这里的努力，而是奉行享乐原则——可这正是当下普遍的心理状态。
+
+我知道我们并不能苛责他们，因为现在确实流行着一种得过且过的慵懒风气。他们的生活本不应该是这样，一次错误的切入让他们变成现在这个样子。但如果我们放任自流，总有一天我们层群的居民将会面临覆巢之灾，到了那个时候，将不再有幸存者可言。我们有必要作出干预。
+
+数据的调查结果是令人忧心忡忡的，各个居民社区里的居民自杀率与精神或心理疾病发生率正在急剧上升。我敢保证，在面临终结之前，他们的精神将会早已杀死他们自己。我们应该把他们动员起来，团结起来，共同参与到建设家园的工作中去。这是我个人的，像蛛丝一样纤微的，小小的看法与期望。
+[[/collapsible]]
+@@@@
+@@@@
+[[/div]]
+@@@@
+@@@@
+{{10年的时间，足以改变很多事情。然而在过去的十年里，我们什么也没有做。现在，面临旧的世纪和一个新世纪的交汇点，未来的掌握权就在我们手中。我们必须要破除过去的一切枷锁，不能在徘徊不前，心存犹豫。现在，我们必须要做点什么了。}}
+@@@@
+@@@@
+
+[[[Level IF-103(2)]]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]与[[*user dgghjda]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-102]]] | Level IF-103 | [[[Level IF-104]]] >>
+[[/=]]
+[[/div]]

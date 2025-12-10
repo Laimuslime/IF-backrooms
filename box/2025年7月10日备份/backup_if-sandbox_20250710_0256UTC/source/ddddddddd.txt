@@ -1,0 +1,8 @@
+[【include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=（7级）
+|color=#FF0033
+|one=绝对不安全
+|two=非常不稳定
+|three=实体数量极多
+】]

@@ -1,0 +1,283 @@
+[[div class="side-block"]]
+
+[[div class="heading"]]
+站点导航
+[[/div]]
+
+[[div class="menu-item"]]
+[https://if-sandbox.wikidot.com/ 主页]
+[[/div]]
+
+[[div class="menu-item"]]
+[https://if-backrooms.wikidot.com/ IF层群]
+[[/div]]
+
+
+[[/div]]
+
+[[div class="side-block"]]
+[[div class="heading"]]
+快速链接
+[[/div]]
+[[div class="menu-item"]]
+[https://backrooms-wiki-cn.wikidot.com/ 后室中文] | [https://backrooms-wiki.wikidot.com/ 英文] | [http://backroomssandboxcn.wikidot.com 沙盒]
+[[/div]]
+[[/div]]
+
+[[div class="side-block"]]
+
+[[div class="heading"]]
+讨论
+[[/div]]
+
+[[div class="menu-item"]]
+[[[forum:start|讨论区]]] | [*https://xy-backrooms.wikidot.com/forum/c-8044691/ 帮助：草稿与批判]
+[[/div]]
+
+[[/div]]
+
+[[div class="side-block"]]
+
+[[/div]]
+
+[[div class="side-block"]]
+[[div class="heading"]]
+点击复制代码
+[[/div]]
+[[div class="menu-item"]]
+
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">折叠块</button><button id="button-2">多重折叠</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[collapsible show="+ 显示" hide="- 隐藏"]]\n内容\n[[/collapsible]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[include :scp-wiki-cn:component:coltop show=+ 一层折叠|hide=- 隐藏文本]]\n内容\n[[include :scp-wiki-cn:component:colend]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">插入图片</button><button id="button-2">上标文字</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include component:image-block\n|name=URL\n|caption=描述\n]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[span class="ruby"]]下面的大字[[span class="rt"]]上面的小字[[/span]][[/span]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">生存难度</button><button id="button-2">IETS组件</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include component:level-class\n|class=等级\n]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:component:iets\n|lang=cn\n|danger=威胁（0~5）\n|intelligence=智能（A~E）\n]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">评分信息</button><button id="button-2">底部导航</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:credit:start]]\n**Level C-XXX：**XXX\n**作者：**[[*user 作者]]\n**图像：**所用插图来源及许可\n更多你想告诉读者的东西\n\n可选：[[include :backrooms-wiki-cn:credit:more]]\n\n[[include :backrooms-wiki-cn:credit:end]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[div class="footer-wikiwalk-nav"]]\n[[=]]\n<< [[[Level IF-n-1]]] | Level IF-n | [[[Level IF-n+1]]] >>\n[[/=]]\n[[/div]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">分页</button><button id="button-2">引用块</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[tabview]]\n[[tab 分页1]]\n内容\n[[/tab]]\n[[tab 分页2]]\n内容\n[[/tab]]\n[[/tabview]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[div class="blockquote"]]\n内容\n[[/div]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">亮色块</button><button id="button-2">暗色块</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[div class="lightblock"]]\n内容\n[[/div]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[div class="darkblock"]]\n内容\n[[/div]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">亮样式块</button><button id="button-2">暗样式块</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[div class="styled-quote"]]\n内容\n[[/div]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[div class="dark-styled-quote"]]\n内容\n[[/div]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+[[/div]]
+[[/div]]
+[[div class="side-block"]]
+[[div class="heading"]]
+
+常用版式
+
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">暗色阈限</button><button id="button-2">M.E.G.版式</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include :u-backrooms:theme:better-blank]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:theme:meg]]"]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+
+
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">新阈限</button><button id="button-2">半新阈限</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:theme:neo-liminal]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:theme:halfnew-liminal]]"]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+
+
+[[/div]]
+[[div class="menu-item"]]
+[[html]]
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style type="text/css">
+#button,#button-2{cursor:pointer;color:#191410;transition:background-color 80ms cubic-bezier(.4,0,.2,1);font-weight:400;font-size:14px;width:50%;border:none;background-color:#ede9df;padding-left:14px;text-align:left;display:inline-block;border-right:1px solid #ddd9d0}#button-2{border-right:none;border-left:1px solid #ddd9d0}#button:active,#button:hover{color:#191410;border-right:1px solid #ddd9d0;background-color:#b4b0a7}#button-2:active,#button-2:hover{color:#191410;border-right:none;border-left:1px solid #ddd9d0;background-color:#b4b0a7}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<button id="button">飘渺愿景</button><button id="button-2">更好的空白</button>
+</div>
+<script>
+function execCopy(string){var temp = document.createElement('div'); temp.appendChild(document.createElement('pre')).textContent = string;var s = temp.style; s.position = 'fixed'; s.left = '-100%'; document.body.appendChild(temp); document.getSelection().selectAllChildren(temp); var result = document.execCommand('copy'); document.body.removeChild(temp); return result;}var button=document.getElementById('button'); var button2=document.getElementById('button-2'); button.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:theme:ethereality]]')){}else {alert('复制失败！');}}; button2.onclick = function(){if(execCopy('[[include :backrooms-wiki-cn:theme:better-blank]]"]]')){}else {alert('复制失败！');}};
+</script>
+</body>
+[[/html]]
+
+[[/div]]
+[[/div]]
+
+[[div class="side-block"]]
+[[div class="heading"]]
+管理专用
+[[/div]]
+[[div class="menu-item"]]
+[[[_admin|后台管理]]]
+[[/div]]
+
+[[div class="menu-item"]]
+[[[nav:side|侧栏]]] | [[[nav:top|顶栏]]]
+[[/div]]
+
+[[div class="menu-item"]]
+[[[system:members|成员一览]]] | [[[system:recent-changes|最近更新]]]
+[[/div]]
+
+[[div class="menu-item"]]
+[[[system:list-all-categories|分类一览]]]
+[[/div]]
+
+[[/div]]
+
+
+
+
+[[a href="###" class="close-menu"]]
+[[image https://scp-wiki.wdfiles.com/local--files/nav%3Aside/black.png style="z-index=-1; opacity: 0.3;"]]
+[[/a]]
+
+
+
+~~~~

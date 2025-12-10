@@ -1,0 +1,59 @@
+[[include :backrooms-wiki-cn:theme:better-blank |green=a]]
+[[module CSS]]
+:root {
+    --header-title: "不系舟";
+    --header-subtitle: "The Backrooms";
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=0
+|one=安全
+|two=稳定
+|three=实体绝迹
+]]
+
+**不系舟**是后室IF层群的隐秘层级。
+
++ **描述：**
+[[include :backrooms-wiki-cn:component:gradient-image-block -=-
+|name=http://brsandbox-mini.wikidot.com/local--files/user-ccb-3/IMG_20250816_010325.jpg
+|caption=一艘漂浮于湖面之上的不系舟。
+|width=680px
+|align=center
+]]
+几乎所有层级都存在着**不系舟**的入口与切行带。
+
+通常那些心里想求得快乐、幸福或安稳的流浪者，在层级中游荡时就会发现一片湖泊，湖面并无异物，清澈透底，原本刺眼的阳光逐渐变暗，直到温和不刺眼时，远处飘来一艘名为“不系舟”的船舶，一阵古筝类型的音乐徘徊与耳边。登上“不系舟”后船舶将自动向远方行驶，待船舶抵达尽头，湖面上的雾气将逐渐散去，来到一处无垠的湖面中，湖面上分布着几处岛屿。
+
+向着一处码头行驶，在木船停止后，就可来到目的地中。码头连接着一处岛屿，远处存在着一处旅馆，周旁有一个亭子与一处田地，一段时间，旅馆那边出来了几名流浪者，并向你招手。走进安静的旅馆中，地板发出阵阵“嘎吱”声，旅馆的主人将你带到了旅馆中，房间内陈列着几把椅子，一张桌子，以及一张不大不小的木床，你注意到了桌子上摆放的物品，一个茶壶与两个杯子，那盏茶壶冒出阵阵清烟，尝试一杯壶里泡的茶——清淡但又有着一股独特的味道。
+
+躺在床上，思绪飘向远方，愁绪在不知不觉中烟消云散，身上所留有的伤在沉思中愈合，疲惫不堪转变心旷神怡，对过往与将来不再有任何顾虑，享受当下在**不系舟**的每一刻，望着窗外的亭子。亭下人们有说有笑，看着好不热闹，却不知为何依然安静，亭上有鸟儿停留，它们不断的蹦跶，看着好不欢块快。人们在谈论片刻后纷纷起身向田地走去，虽看不见他们劳作的模样，但能听见他们的欢笑声，已经能想象出当时劳作的场景了。鸟儿在片刻歇息后向着天际线飞去，它们的征程是充满未知与欢乐的未来。
+
+闭上眼睛，缓缓进入梦境中，隔绝外界一切干扰，扫去内心所有杂念。在梦中，一处山水交叉的地带，人们划着属于自己的不系舟，在湖面上移动。拿出没有线的鱼竿钓鱼，看着没有一颗字的书，虽看起来没有任何意义，但也无大碍。不用去留恋过去，也不用去担忧未来，保持那颗单纯的心，让生活回归了简单，不再受到外界干扰。回到最开始我们还只是孩童的时候，天真无邪、无忧无虑……
+
+醒来后，你可以选择留下来，与那些归于平静、舍弃功名利禄的流浪者一起享受简单的生活。但如果心中依旧还有梦想，或远大的抱负，回到码头乘坐一艘**不系舟**，在不断行驶5分钟后，它将带你来到[https://backrooms-wiki-cn.wikidot.com/Level-48 黄昏时刻の海滩]。
+----
+[[div class="blockquote"]]
+[[=]]
+[[module Rate]]
+
+------
+
+[[collapsible show="作者信息" hide="隐藏"]]
+by [[user user CCB]]
+受到海豚博物馆（中站）与[[[https://backroomss.wikidot.com/level-s-11|Level S-11]]]的启发。此文章在S分也有投递，点[https://backroomss.wikidot.com/not-tied-boat 此]查阅。
+图片由盗梦师ai生成《
+[[<]]
+[[size 0.3em]]
+[[include :scp-wiki-cn:component:coltop show= . |hide=不是，怎么这都能发现呀？老实说，是不是看源代码了！]]
+[[/size]]
+好吧，你还是发现了。
+[[include :brsandbox-mini:user-ccb-is-page]]
+
+[[include :scp-wiki-cn:component:colend]]
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]

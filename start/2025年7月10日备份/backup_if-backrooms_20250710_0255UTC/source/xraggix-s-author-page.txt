@@ -1,0 +1,438 @@
+[[include :backrooms-wiki:component:rate]]
+[[=]]
+[[div class="blockquote"]]
+[[div class="lighterblock"]]
+大家好，我是[[*user XRaggiX]]，一位在Backrooms wikidot小有成就的作者。
+
+如果你对我的作品很感兴趣，希望你会觉得此页面非常有用[[footnote]]此页面的点子源自[[*user Positive123]]的作者页[[/footnote]][[footnote]][[*user Guy777]]跳杀[[/footnote]]。
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+[[=]]
++ 层级
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[level 739|Level 739 - “欲望之沙”]]]
+[[size 60%]]发布于2024年9月26日[[/size]]
+[[module ListPages name="level-739"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user MisterNemu]] [[*user BlueSkiesAbove]] [[*user The_Catgirls]]
+绿灯人：[[*user  jan Jejasa]]
+
+----
+[[div class="blockquote"]]
+//Level 739可被描述为一无垠的白色沙丘，其间交错着较浅的池塘与河流。该层级气候常阳光明媚，并伴着晴朗的铅灰色天空，其中常飘过几朵孤云。该种不发生变化的景观营造出诡异的无时感，并影响着该环境以及穿越此地的流浪者。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我首次尝试撰写后室层级，也想分享一下创作初衷。点子源自浏览维基共享资源时看到的[https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park 伦索伊斯马拉年塞斯国家公园]照片。此作品获得过不少关注，在社区里似乎是我最受欢迎的原创层级，可我仍然觉得叙事部分有点重复。
+
+此层级也开创了我的一个持续创作系列，后续还将延伸至Level 740及更多内容。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[level 740|Level 740 - “反应堆之墟”]]]
+[[size 60%]]发布于2024年12月12日[[/size]]
+[[module ListPages name="level-740"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user Super-Robot14]] [[*user MisterNemu]] Robert 無能|Incompetence red
+绿灯人：[[*user  ReyDay]]
+
+----
+[[div class="blockquote"]]
+//工作一直在给我贴标签：那时，在前厅中，这意味着交通堵塞、办公室政治，以及运达那些无人真正在意的东西。但在这里，在这无垠、腐朽的廊厅中，连空气也弥漫着历史的沉重和遗憾的嗡嗡声的地方，工作则有了别的韵味。我携带的每一个包裹都划破了隔绝，每一份快递都是脆弱的纽带，将这支离破碎的世界拴在一起。这不仅是谋生计—是忏悔，是留下重要事物的机遇。这些墙壁曾亲眼目击背叛、绝望与鲜血，但只要我仍在前行，也许，只是也许，我就能够打破那循环。这即是我的目的。这即是我的使命。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我第二次尝试撰写后室层级，也是对Level 739剧情的续写。本次的点子来得更随性一些，相比前作，构建完整的世界观居于次位，剧情本身成为了核心（实际投入的精力更少）可成品相比第一篇更加令我满意，当前故事也暂时停止于此。
+
+希望能尽快重拾对该系列的创作。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[level 306|Level 306 - “冬日小屋”]]]（未翻译）
+[[size 60%]]发布于2025年3月28日[[/size]]
+[[module ListPages name="level-306"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢
+批判者：[[*user LiminalDoctor]] [[*user Greggita Mahayfaio]] [[*user Positive123]]
+绿灯人：[[*user Red-eyes Dragoon]]
+
+----
+[[div class="blockquote"]]
+//在你生命中的至暗时刻，或许你会发现置身于Level 306：一间匿于无垠雪野中的孤寂木屋。斑驳的原木墙垣氤氲着松木清香，这气息与某种若有若无的芬芳交织——它可能唤醒你记忆深处某段尘封的往事。细心的你将会发现，此处的建筑风格恍若来自意大利阿尔卑斯山麓那些日渐消逝的山间度假屋时代。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+最初发布于2024词条竞赛期间，因其突兀的叙事节奏和用词问题收获了褒贬不一的评价。后来我决定将其重写，最终呈现出第二人称叙述视角与略带临床腔的语调相融的独特风格——就像作者正在与读者对话。
+
+当时，壁炉为我带来的童年回忆成为了点子来源。以此为基础，我刻意突破“普通安全层级”的套路，于是在LimDoc的提议下，特意将[Entity 140|Blanche]融入剧情。整体而言，我对此层级营造的氛围相当满意，也希望能得到读者的喜爱。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+[[=]]
++ 实体
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[Entity 4|Entity 4 - “死亡飞蛾”]]]
+[[size 60%]]发布于2025年4月4日[[/size]]
+[[module ListPages name="entity-4"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user AlwaysWandering]] [[*user Praetor3005]] [[*user centurys lute]] [[*user  ReyDay]] [[*user ForestIsWatching]]
+绿灯人：[[*user Praetor3005]]
+
+----
+[[div class="blockquote"]]
+//当你第一次进入后室时，你可能会遇到的最常见的实体之一便是死亡飞蛾。关于它们究竟是阈限反响的产物，还是单纯进化而成现在的样子，至今仍存争议，这也使其成为重点研究的绝佳对像。//
+
+//- N.Togliatti 博士，M.E.G. 科学部门副主管//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我首次重写且获得绿灯的页面。原内容经过大幅度删减之后，我反而从中寻得了重写的乐趣，那些精简之后的基础设定其实是构建世界观的良好基石。在此我要由衷感谢所有帮助此页面重获新生的批判者们。
+
+最搞笑的是，最终版本跟我当初重写的版本简直天差地别。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+[[=]]
++ 物品
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[Object 15|Object 15 - “火盐”]]]
+[[size 60%]]发布于2025年5月19日[[/size]]
+[[module ListPages name="object-15"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user PrismaticMoose]] [[*user MC_Crafter_24_7]] [[*user SquibbleZombie]] [[*user  Greggita Mahayfaio]] [[*user InspectingCritters]]
+绿灯人：[[*user Praetor3005]]
+
+----
+[[div class="blockquote"]]
+//八氧合铁硫化二钾，常称作火盐，是以其显著的热力学反应活性和独特的橙色色彩为特征的一种化合物。该物品的结构、组成与稳定性基于其形成方式和出现的矿物杂质而异，而杂质在决定其整体行为的方面也起着重要作用。火盐的各种性质，搭配上其诸多独特的应用，令其成为了整个后室中最为重要与实用的已知物品之一。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我第二次重写且获得绿灯的页面。起初，我打算为此构思一个庞大的背景故事，涉及多个团体势力，却在多轮批判意见中，最终决定将叙事部分与重写内容分开处理。对于这个结果我相当自豪，毕竟为此做了不少功课。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[Object 46|Object 46 - “切行雪景球”]]]（未翻译）
+[[size 60%]]发布于2025年4月17日[[/size]]
+[[module ListPages name="object-46"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user DrAkimoto]]
+
+依据经典速写免审查条例发布
+
+----
+[[div class="blockquote"]]
+//切行雪景球是一种极其罕见但相当有用的物品。Object 46 的实例表现为附着在底座上的玻璃球体，底座通常由木头或塑料制成。物品内部再现了各种背景和建筑，展示着后室中的地点，这些地点周围通常装饰着圣诞主题饰品和针叶树。如果摇晃雪景球，球体内会充满一种类似于现实世界雪花的细腻白色粉尘。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+说实话这个页面质量一般般，不过核心概念还是挺不错的。两小时速写出来的文章，说不定后续还会重写一遍。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+[[=]]
++ 翻译
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [https://backrooms-wiki-cn.wikidot.com/oggetto-i-4 Object I-4 - “天赋罐头”]
+[[size 60%]]发布于2025年4月8日[[/size]]
+[[module ListPages name="oggetto-i-4"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user Yesserning]] [[*user DrAkimoto]]
+作者：[[*user jyj_52]]
+绿灯人：[[*user ForestIsWatching]]
+
+----
+[[div class="blockquote"]]
+//Object I-4是一系列食物的统称，通常被称为“天赋罐头”。它们可作食物，亦在探险者总署的某些部门用于指导新成员。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我第二次翻译这个页面，虽然成品比较精简，但整体感觉还不错
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [https://backrooms-wiki-cn.wikidot.com/livello-i-2### Level I-2 - “列车进站”]（未翻译）
+[[size 60%]]发布于2025年3月29日[[/size]]
+[[module ListPages name="livello-i-2"]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user Yesserning]] [[*user BlueSkiesAbove]]
+作者：[[*user Nikuchan]]
+绿灯人：[[*user BlueSignet]]
+
+----
+[[div class="blockquote"]]
+//好像哪里不对劲……//
+
+//火车开的太快了。//
+
+//我看不见窗外的星星。//
+
+//我的眼前一片空白。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+此是我的第一篇译文，我认为这是意大利语维基最出色的页面。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="blockquote"]]
+[[=]]
++ 其他文章
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
+++ [[[The B.N.T.G.|B.N.T.G.]]]（未翻译）
+[[size 60%]]发布于2025年6月5日[[/size]]
+[[module ListPages name="the-b.n.t.g."]]
++++ +%%rating%%
+[[/module]]
+----
+++++ 鸣谢：
+批判者：[[*user SquibbleZombie]] [[*user InspectingCritters]] [[*user MC_Crafter_24_7]]
+
+合著者：[[*user DrAkimoto]]和[[*user Greggita Mahayfaio]]
+
+绿灯人：[[*user Praetor3005]]
+
+----
+[[div class="blockquote"]]
+//后室不结盟贸易集团，简称B.N.T.G.，是一个由附属基地、经济机构与监管机构所组成的团体，致力于“以繁荣促和平”的目标。该团体专注于建立集中化的贸易网络，积累大量其他多数团体无法获取的物资、人脉及信息。这一理念贯穿于B.N.T.G.的各项方面，我们利用这些资源和知识储备，不仅改善附属成员的生活条件，并通过后室内大多数主要团体进行贸易激励以促进和平。//
+[[/div]]
+----
+
+[[collapsible show="展开评论" hide="隐藏评论"]]
+[[div class="bluescreen"]]
+这可是一项大工程。说实话，我压根没想到原作者会同意让我们重写，不过最后总算谈成了。为此页面我可是下了不少功夫，商人之家、其他基地以及贸易伙伴都是我写的。光是筛选参考资料就费了老大劲，得从海量页面里挑出哪些只需要简单提及，哪些值得单独开辟章节详述。对当前版本我感到非常满意，希望将来还能继续完善这个团体。
+[[/div]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="blockquote"]]
+[[div class="lightblock"]]
+[[=]]
++ 正在进行
+[[/=]]
+[[/div]]
+[[=]]
+[[div class="dark-grey-frame"]]
+++ [http://backrooms-sandbox-2.wikidot.com/collab:firesaltcollab 蒙面战争的故事]
+与[[*user Positive123]]的合著。
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+[[=]]
+[[div class="dark-grey-frame"]]
+++ [http://backrooms-sandbox-2.wikidot.com/xraggix Level 21 - “编号门”（重写）]
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+@@@@
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :backrooms-wiki-cn:component:license-box
+|author=XRaggiX
+|translator=calf-0
+]]
+=====
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[include :backrooms-wiki-cn:theme:nostalgia-fullscreen]]

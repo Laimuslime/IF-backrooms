@@ -1,0 +1,238 @@
+[[module css]]
+
+body {
+    color: #000000;
+    font-family: "MS Sans Serif";
+    font-size: 14px;
+    image-rendering: pixelated;
+    word-break: unset;
+    --themeColor: #008484;
+    --accentColor: #008484;
+}
+
+:root {
+    --logo-image: url("http://backrooms-sandbox.wikidot.com/local--files/etoisle/logo.png");
+    --header-title: "the backrooms";
+    --header-subtitle: "你的存在已是注定";
+
+/* 字体 */
+    --body-font: "MS Sans Serif", sans-serif;
+    --header-font: "MS Sans Serif", sans-serif;
+    --title-font: "MS Sans Serif", sans-serif;
+    --mono-font: "Noto Serif SC", monospace;
+
+    
+    /* 标准颜色 */
+    --white-monochrome: 250, 250, 250;
+    /* 白色 */
+    --pale-accent: 220, 220, 220;
+    /* 已访问的链接 */
+    --bright-accent: 192, 192, 192;
+    /* 浅蓝绿色 */
+    --medium-accent: 132, 132, 132;
+    /* 中蓝绿色——“默认的”强调色 */
+    --dark-accent: 128, 128, 128;
+    /* 暗蓝绿色 */
+    --alt-accent: 128, 0, 0;
+    /* 通向不存在的页面的链接 */
+    --swatch-background: 255, 255, 255;
+    --swatch-topmenu-border-color: var(--pale-accent);
+    --swatch-topmenu-bg-color: var(--bright-accent);
+--swatch-border-color: var(--medium-accent);
+    --border-styling: outset 2px rgb(var(--swatch-border-color));
+ --darker-accent: 0, 132, 132;
+--link-color : 128, 0, 128;
+    --link-color-bright: 0, 0, 132;
+    --rating-module-button-color: var(--bright-accent);
+    --rating-module-text-color: var(--bright-accent);
+--newpage-color: 128, 0, 0;
+--swatch-menubg-color: 192, 192, 192;
+
+
+    /* Box-Shadow 1px Borders */
+    --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+}
+
+#skrollr-body {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("http://backrooms-sandbox.wikidot.com/local--files/etoisle/header.png");
+    background-repeat: repeat-x;
+    background-size:  inherit;
+}
+
+.scp-image-block {
+box-shadow: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    margin: 0 2em 1em;
+}
+.scp-image-block.block-right {
+    background: var(--white-monochrome);
+}
+.scp-image-block .scp-image-caption {
+background-color: var(--bright-accent);
+color: black;
+}
+
+#page-title, h1 {
+    color: #000084;
+    font-family: "Microsoft Sans Serif";
+}
+.page-rate-widget-box {
+     background-color: #C0C0C0!important;
+    border: #DFDFDF outset 2px !important;
+box-shadow: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+}
+ 
+.page-rate-widget-box .rate-points {
+     background-color: #C0C0C0!important;
+    border: none;
+    color: #000084 !important;
+}
+
+.page-rate-widget-box .rateup,
+.page-rate-widget-box .ratedown {
+    background-color: #C0C0C0;
+    border-top: none;
+    border-bottom: none;
+color: #000000;
+}
+.page-rate-widget-box .rateup a,
+.page-rate-widget-box .ratedown a {
+    background: transparent;
+background-color:  #000084;
+    color: #ffb961;
+}
+.page-rate-widget-box .cancel {
+    background: transparent;
+    background-color:  #000084;
+    border: none;
+}
+ 
+.page-rate-widget-box .cancel a {
+    color: #ffb961;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Microsoft Sans Serif";
+color: #000084;
+}
+
+#header {
+filter: drop-shadow(.01rem .01rem .01rem rgb(var(--black-monochrome)))
+}
+
+#side-bar {
+background-size: 0%
+}
+
+a:hover {
+background-color:#ffffff;
+}
+[[/module]]
+
+[[html]]
+
+<audio autoplay>
+  <source src="http://backrooms-wiki.wikidot.com/local--files/level-404/404_ambience_not_found.mp3" type="audio/mp3">
+</audio>
+
+[[/html]]
+
+> 一个人，厌倦了闲适，厌倦了动乱，厌倦了思考，厌倦了生存。终于，在深思下，绝望之人做出了他所认为的此生最后一个，也是最为疯狂的决定：与死神对赌……
+> 十分可惜，他失败了
+> 失败的代价十分简单，你将在此迎来独属于你的**##red|永   恒##**
+
+[[include component:level-class
+|class=死区/终结
+|lang=cn
+|one=永恒
+|two=存在
+|three=折磨
+|color=#0000FF
+|image=http://if-backrooms.wikidot.com/local--files/level-if-85/result_image.png
+]]
+
++ 描述：
+**既定存在**，亦或被称之为**Level IF-85**，是后室专为人类所铸就的失败。此地空无一物，又充塞万物，流浪者可以在此见到自己所有的内心所想，正面的、反面的、可能存在的、不曾出现的，在此地都只需流浪者的一个想法，不出意料来讲，**既定存在**将会极快地受到整个IF层群所有流浪者的推崇，此地在流浪者们的口中，无疑是一片真正的天堂。而进入此地的方式自然也十分简单：自杀。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+抛出的诱饵总会迎来收回的时刻，更何况这是倾注了设立者大量的心血，花费许多精心创造的完美陷阱，当美味佳肴中涌现腐肉蟑螂，糖果甜品被尝出淡淡苦涩，蒸蒸日上的事业蒸腾消散，团圆美好的家庭迎来座座冰冷的坟墓之时，捕猎者的捕兽夹已然生效，当猎物意识到铁刺扎穿腿骨的那一刻，脱身的想法便应当从大脑中被剔除。猎人正在来的路上，又怎么能让猎物跑掉呢？
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+不过，无数的猎物中总会出现几只聪明的猎犬，既然无路可逃，那么早死不如晚死，只需要自杀，便可以将猎人精心布置的陷阱，所设下的精心计划溃灭破散，更何况在此时此刻，他的眼前还悬浮着一把触手可得的手枪。低等存在的智力水平终究无法比拟高等存在的智力水平，正如野兽的智力不如人类一般。猎人不喜欢吃腐肉，又怎么可能让到手的猎物轻易地死去呢？祂更希望看到猎物在感受到子弹穿透大脑与心脏那燃烧在地狱般的痛苦后，却发现意识仍未消散，自身仍身处于此般“天堂”的惊恐与绝望，这才是祂最喜欢品味的。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+没有任何人被授予将其他存在，亦或是自身抹杀的权利，我自然也没有这样的权力，不过，对于我来说，永恒便意味着无穷无尽，在对艺术有着足够多的独到见解并能够对此付出实践的艺术家的眼中，这便是无穷的画布与无穷的色彩，足以支撑祂将一切美妙的想法倾注在这以生命为基的画布之上，在此地，你的存在是既定的，没有任何存在能够将你真正地杀死，但这也将会是你会付出的永恒的代价。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
+人类几乎全部将“存在即正义”的思想钢印坚实地烙印在他们思想永远停滞的可怜载体之上，但在此地，一切万物都将迎来彻底颠覆的命运。包括存在与不存在，实际与虚幻，真实与伪虚，理论与假定，这些空虚飘渺的概念都将会在此地，**Level IF-85**，完成它们具象化的伟大一步，并与人类想象中的美好天堂搅浑在一起，在一切存在的具象化彻底融为一体之时，真实的定理便闪烁着死寂与终末的光线展示给受困于微小肉体的可悲灵魂最后的言语……**##red|“存在即谬误”##**
+
+@@@@
+@@@@
+@@@@
+@@@@
+
++ 实体：
+以后室为生命的存在同样拥有进入此地的资格与权力，但它们并不存在人类那引以为豪并以此蔑视一切的思考能力，而祂则认为它们将会是此地的一大利器。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
++ 基地、前哨与社区：
+群体的绝望固然能够产生更多的精彩，但祂只需要最为纯粹的绝望，仅此而已。
+
+@@@@
+@@@@
+@@@@
+@@@@
+
++ 入口与出口：
++++ 入口：
+此地原本是祂用于惩戒漠视自身生命之人的地狱，但祂在此过程中发现了折磨另一存在的愉悦性。
+
++++ 出口：
+你会将已经到手的猎物放生吗？
+
+------
+[[>]]
+[[collapsible show="我愿在最后为你留下一句" hide="你不会真的以为此地存在吧？"]]
+**作者：**[[*user kadjwxs]]
+和IF-279一样，依旧发癫
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+
+<< [[[Level IF-84]]] | Level IF-85 | [[[Level IF-86]]] >>
+[[/=]]
+[[/div]]

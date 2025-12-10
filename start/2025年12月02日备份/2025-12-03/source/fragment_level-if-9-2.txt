@@ -1,0 +1,166 @@
+[[include :backrooms-wiki-cn:theme:dull-blade]]
+
+[[module css]]
+:root {
+--header-title: "自相残杀";
+--header-subtitle: "一无是处的虫子，可笑";
+--black-monochrome: 5, 5, 5;
+   --gray-monochrome: 5, 5, 5;
+   --dark-accent: 5, 5, 5;
+   --platinium-monochrome: 240, 240, 240;
+   --white-monochrome: 240, 243, 243;
+   --gray-accent: 150, 152, 156;
+   --grey-accent: 10, 10, 16;
+}
+
+html {
+  -webkit-filter: grayscale(60%);
+  filter: grayscale(70%);
+}
+
+.weekblock{
+   color: white;
+   background-color: rgb(var(--dark-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: 2px solid rgb(var(--medium-accent));
+   border-left: 8px solid rgb(var(--medium-accent));
+   position: relative;
+}
+
+.weekblock:hover {
+   cursor: hand;
+   cursor: pointer;
+   opacity: .7;
+   transform: translateX(30px);
+   transition: all 0.5s ease;
+}
+
+.weekblock .real a{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   text-decoration: none;
+   z-index: 10;
+   opacity: 0;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'Serif', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+.texty {
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0px;
+    border: 8px double;
+    color: white;
+    transition: 0.3s;
+    padding: 0.3rem 2rem;
+    font-family: 'IM Fell English', serif;
+    width: 100%;
+}
+
+.texty:hover {
+    font-size: 3rem;
+    cursor: default;
+}
+
+@media only screen and (max-width:768px){
+.texty:hover{
+  font-size: 1.8rem;
+}
+}
+.texty {
+  font-size: 1.8rem;
+  padding: 2rem 1.4rem;
+}
+ .background {
+    background: url("https://live.staticflickr.com/4428/36469549312_9d99c76f11_b.jpg") center;
+    margin: auto;
+    margin-top: 0px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+    border: solid 0.325rem rgb(var(--dark-accent));
+}
+
+.sd-container {
+--sd-bullets:255,255,255 !important;
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:level-class
+|class=死区-不适用
+|lang=cn
+|image=https://backrooms-wiki-cn.wdfiles.com/local--files/component%3Alevel-class/na.png
+|one=异常的性质
+|two=无路可逃的死亡
+|three=不适合生命存在
+|color=#000000
+]]
+
+**Level IF-9**是后室IF层群的第9层。
+
+++ 描述：
+**Level IF-9**表现为一片似乎无限的空间，其中处处充斥着支离破碎的大陆。大陆呈现白色，其上空无一物。流浪者一旦切入该层级，除了在大陆之上行走以外，便无法进行任何其他的动作。流浪者可在大陆中发现许多类似裂缝的深渊，流浪者一旦落入其中将被传送至“虚空”。而该层级的天空呈现为极深的蓝色，但流浪者因未知原因能够看清层级内的任何事物。
+
+[[include component:image-block name=http://if-sandbox.wikidot.com/local--files/chaotic-death/fragmented%20white.jpg|caption=这是哪儿？]]
+
+在流浪者进入**Level IF-9**后，其除了本身以外的任何事物将会渐渐全部化作乱码然后消失，而流浪者的体表将覆盖一层乱码。流浪者切入层级后，亦将无法进行除行走以外的任何动作。
+
+在流浪者获取到部分**Level IF-9**的信息时，流浪者的大脑将因未知原因被层级输入大量无意义信息，并可能在短时间内造成昏厥。而在信息输入到一定程度后，层级将会把流浪者除了基础行为以外的任何记忆将全部清除。随后流浪者再次在**Level IF-9**进行游荡，并在获取到**Level IF-9**的信息时再次重复以上步骤。
+
+值得一提的是，流浪者的大脑在进行一定次数的输入后，将有小概率发生突然的脑死亡，其死亡过程常见的描述有：
+> 七窍流血
+> 眼球爆裂
+> 皮肤涌出血液
+> 四肢以诡异的形式扭曲
+> 疯狂的嘶吼
+> 脊椎突然断裂
+> 被未知存在以自左肩切入，右腰切出的形式分离，全身脏器流出
+
+而在流浪者死后，其死亡的全过程录像将被尝试发送至某一电子设备或网络上，而观看此录像的流浪者最终都被认为切入了**Level IF-9**，而切入**Level IF-9**的流浪者的家人，亦或是与其有过对话的流浪者均会出现严重的精神失常以及精神错乱，难以被消除。
+
+++ 实体：
+这里不可能存在任何实体。
+
+++ 基地、前哨及社区：
+我们亦不可能在这里建立任何事物。
+
+++ 入口与出口：
+
++++ 入口：
+* 观看进入**Level IF-9**的流浪者的死亡全录像，将在一段长短不一的时间后切入**Level IF-9**。（该入口现已被基本封锁，然而某些个人计算机或服务器还是有小概率接收到这些影像）
+* 至今为止，M.E.G.都未曾知道第一批切入**Level IF-9**的流浪者是以何种方式切入。
+
++++ 出口：
+* 暂无逃出记录。
+
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-8]]] | Level IF-9 | [[[Level IF-10]]] >>
+[[/=]]
+[[/div]]
+[[=]]
+[[module Rate]]
+[[/=]]

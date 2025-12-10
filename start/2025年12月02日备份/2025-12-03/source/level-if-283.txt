@@ -1,0 +1,137 @@
+[[include :backrooms-wiki-cn:theme:true-dark]]
+
+[[module css]]
+:root{
+
+   --logo-image: url("http://backrooms-wiki.wikidot.com/local--files/theme:nuliminal/PrideLogo");
+
+}
+[[/module]]
+
+[[include :backrooms-wiki-cn:component:open-title]]
+[[div class="lightblock"]]
+[[=]]
+
+撰写自 [[*user calf-0]] [[[author:calf-0|●]]] & [[*user MCMK-1234]] [[[author:mcmk-1234|●]]]
+@@@@
+
+----
+批判者：
+
+[[*user Suesa]]
+
+[[*user Hinc_itur_ad_astra]]
+
+[[*user superintendent-V]]
+
+[[*user xuziqi]]
+----
+
+@@@@
+[[include :brsandbox-mini:collab:page]]
+[[/=]]
+[[/div]]
+[[include :backrooms-wiki-cn:component:close-title]]
+
+[[=image http://if-sandbox.wikidot.com/local--files/sheb/banner-x width="100%"]]
+
+@@@@
+@@@@
+
+[[include :backrooms-wiki-cn:component:nulevelclass
+ent=0
+|lang=cn
+|env=4
+|ext=2
+|no=IF-283
+]]
+
++ 描述
+
+Level IF-283是一处辽阔无垠的雪原，其时间点似乎永驻白昼。该层级被无尽的积雪所覆盖，值得注意的是，层级内的积雪并不会化开，而是堆积在原地，且结构极其松散，流浪者在其表面行走时极易陷入内部。层级温度稳定在-10℃以下，且常伴有飓风和暴雪，流浪者在不穿戴防护服的情况下极易被冻伤。
+
+[[include component:image-block
+
+|name=banner
+
+|caption=Level IF-283；“脚印”
+
+|width=200px
+
+|align=right
+
+]]
+
+Level IF-283内可见度极低，层级完全被白雾所笼罩，天空极其朦胧，无法看见任何天体。层级内极少出现阳光照射现象，但层级内仍然是足够明亮的。层级内的昼夜并不分明，但无论何时何地，都会有一束冷光照耀在冻土之上。
+
+Level IF-283内似乎有着稀少的建筑物分布，这些建筑物通常被积雪所掩埋。大部分建筑物呈现为无数复杂机械装置的笼统组合体，结构杂乱，齿轮、电线、橡胶履带等组织合为一体。部分建筑物联通着一些排列具有规律的白炽灯，当启动建筑物内部的装饰时，白炽灯将在雪面照射出有规律的图案。
+----
++ 发现
+[[include component:image-block
+
+|name=William
+
+|caption=W.Cromwell
+
+|align=right
+
+]]
+
+我们在[https://backrooms-wiki-cn.wikidot.com/level-22 Level 22]内找回了一位成功从Level IF-283逃出的流浪者，其名为“William Cromwell[[footnote]]以下简称“W.Cromwel”。[[/footnote]]”。但当时的流浪者已经严重冻伤，情况不容乐观，随后被运往[https://backrooms-wiki-cn.wikidot.com/level-2 Level 2]的一间病房内，最后经抢救成功将其救活。而我们则要求他提供了以下的证词：
+
+[[div class="blockquote"]]
+= **音频日志 - W.Cromwel | Level IF-283**
+@@@@
+咳咳，首先感谢你们救了我一命。
+
+接下来是重点：我似乎是从……[[[Level If-3|那座城市]]]的商场摸了一个什么球就到了那里，刚进入就一股刺骨的寒风就扑面而来。而我身上没有任何能抵御严寒的东西，这才导致了我事后的严重冻伤。
+
+我进的那个地方蒙着一层浓浓的雾气……根本看不清什么，我只知道是一片雪原而且非常冷，隐约之中好像还看到了像是电线什么的东西；里面好像还没有实体，因为在我的探索过程中没有遭遇任何实体乃至生物。
+
+正当我奄奄一息靠在一堆垃圾的时候，我突然就掉进了个[https://backrooms-wiki-cn.wikidot.com/level-22 全是垃圾的废弃停车场]。然后我就遇到了你们……我的证词就到此结束了吧。
+@@@@
+= **[日志结束]**
+[[/div]]
+
+音频日志结束后，我们便携W.Cromwel返回了[[[Level IF-3]]]。
+
+----
++ 入口与出口
+
++++ 入口
+
+目前已知唯二的入口是从[[[Level IF-3]]]的商场五楼内找到且触碰一个散发着微光的雪景球，随后周围的场景会逐渐过渡至Level IF-283。或是从[https://backrooms-wiki-cn.wikidot.com/level-35-id Level 35-ID]内切入一棵刻有“FROZEN”字样的覆雪大树，便会进入Level IF-283。但由于该层级的极寒环境，**强烈不建议流浪者进入该层级**。
+
++++ 出口
+
+可确信的出口是在该层级的深处发现一处类似于村庄的建筑群，走入后即已到达[[[Level IF-52]]]。而据W.Cromwe的证词表明，他貌似是在一堆垃圾旁歇息，随后便进入了[https://backrooms-wiki-cn.wikidot.com/level-22 Level 22]。
+----
+
+[[div class="blockquote"]]
+= //“在寒冷中，我们更能体会到温暖的珍贵。”//
+= [[size 75%]]—— 佚名[[/size]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:footnotecol]]
+@@@@
+[[div class="licensebox"]]
+[[collapsible show="‡ 授权 / 引用" hide="‡ 隐藏授权 / 引用"]]
+
+请按如下方式引用此页：
+
+> “[[[level-if-283|Level IF-283]]]”，作者 calf-0 & MCMK-1234，来自[http://if-backrooms.wikidot.com/ 后室IF层群维基]。原文链接：http://if-backrooms.wikidot.com/level-if-283。遵循 [https://creativecommons.org/licenses/by-sa/3.0/deed.en CC BY-SA 3.0] 协议。
+=====
+> **名称：** a snow covered hill with footprints in the snow
+> **作者：** [https://unsplash.com/@hansphoto Hans]
+> **协议：** [https://unsplash.com/plus/license Unsplash License]
+> **来源链接：** https://unsplash.com/photos/a-snow-covered-hill-with-footprints-in-the-snow-Fx2DvzDC35o
+
+> **名称：** man in gray crew neck t-shirt standing beside man in gray long sleeve shirt
+> **作者：** [https://unsplash.com/@gasparzaldo gaspar zaldo]
+> **协议：** [https://unsplash.com/plus/license Unsplash License]
+> **来源链接：** https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-standing-beside-man-in-gray-long-sleeve-shirt-CUJ9_OiPsYc
+> **附记：** 经过裁剪、调黑白滤镜、遮盖眼部处理。
+=====
+更多授权相关信息，请查阅[http://backrooms-wiki-cn.wikidot.com/licensing-guide 授权指导]。
+[[/collapsible]]
+[[/div]]

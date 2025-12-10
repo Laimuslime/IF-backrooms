@@ -1,0 +1,62 @@
+[!-- 公告，请不要往正文里放注释。 --]
+[[iftags +段落]]
+[[div style="display: none;"]]
+[[include :backrooms-wiki-cn:fragment:front-page-style]]
+[[/div]]
+[[div_ class="announceContainer"]]
+[[/iftags]]
+
+[!-- 这里是首页上方的公告。 --]
+[!-- {$announce}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年6月10日**
+第二届MAST竞赛已开始，点击[https://if-backrooms.wikidot.com/forum/t-17147592/the-backrooms-if-mast-2025-6 此处]查看。快来参选吧！
+[[/div]]
+[[div_ class="announcement"]]
+**2025年5月25日**
+[[[2025-level-if-1|Level IF-1竞赛]]]已开始，期待你的投稿！
+[[/div]]
+
+[!-- --]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+
+ --]
+
+
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+----
+[[div class="announceContainer"]]
+[[/iftags]]
+
+[!-- {$news}
+[[iftags +段落]]
+--]
+[[/iftags]]
+
+[[div_ class="announcement"]]
+**2025年5月25日**
+[[[2025-level-if-1|Level IF-1竞赛]]]已开始，期待你的投稿！
+[[/div]]
+[!-- --]
+[!-- 这里是首页下方的新闻归档 --]
+
+[[iftags +段落]]
+[[/div]]
+[[/iftags]]
+
+[!-- 公告模板
+[[div_ class="announcement"]]
+
+[[/div]]
+ --]

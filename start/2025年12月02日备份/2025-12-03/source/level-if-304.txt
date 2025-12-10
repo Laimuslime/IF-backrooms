@@ -1,0 +1,271 @@
+[[include :backrooms-wiki-cn:theme:danger-zone]]
+[[=]]
+[[div class="lightblock"]]
+[[image http://backrooms-wiki.wikidot.com/local--files/level-997/meg-header width="200px"]]
+[[module ListUsers users="."]]
+欢迎, %%title%%。
+[[/module]]
+
+我们对误入本层级的流浪者们感到惋惜，但若文章前的您还未误入此地，请仔细阅读本层级的所有描述和应对措施，以备不时之需。
+
+这个地方仍然在肆无忌惮的变化中，时而安全，时而艰险，若您没有做好任何措施就进入本层级，那只能祝你好运。
+
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+[[include :ah-sandbox:module:leg]]
+
+
+
+
+
+
+[[include :backroomssandboxcn:nulevelclass
+|class=变化
+|one=环境多变
+|two=信息多变
+|three=实体数量多变
+]]
+
+**Level IF-304**是后室IF层群的第304层。
+------
++ 描述
+**Level IF-304**表现为环形地下室，墙壁和地面均由坚硬的混凝土构建而成，其楼层向上向下无限延伸，而通往上下层之间的楼梯在每一层随机点位出现。每一层的环境与结构都不相同，楼层结构为迷宫或者什么都没有。
+
+**Level IF-304**在多数时间内没有任何发光源，这种现象称作为//“光源不可用”//，手电筒之类的可发光物体在**Level IF-304**的//“光源不可用”//时内也完全失效，原因未知，此时人眼所见光只有2米，探索时应随时佩戴夜视镜。
+
+[[include component:image-block
+ |name=https://images.unsplash.com/photo-1565590915406-9c386cc9391d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1740
+ |caption=在//“光源可用”//时拍摄到的大量含氢-3元素的发光地带。
+]]
+[[include component:image-block
+ |name=https://images.unsplash.com/photo-1562226581-389f14a0e1da?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687
+|caption=在//“光源可用”//时拍摄到的大量含钚-239元素的发光楼梯间。
+|width=1px
+]]
+
+而在少数时间内，**Level IF-304**的发光源会少量发光，这些光源极少数会有放射性物质射出，在探查这些有放射性物质的光源时检测出少量的__钚-239元素、钋-210元素、氢-3元素和氡-222元素__，预防被辐射照射的方法只有通过辨认灯光颜色，常见的含有辐射的光源颜色呈现为暗红色、黄绿色、深蓝色，值得注意的是：氡-222元素不产生任何颜色的光，但含氡-222元素的光源发出的光亮度会比正常光源发出的光亮要暗少许，探索时务必多加谨慎，反之，这种现象称作//“光源可用”//，在此期间，//**层级不会有任何变化和影响**//。上述内容只会在//“光源可用”//的情况下发生，在//“光源不可用”//的时间内不会产生任何影响，放射性元素会直接消失（氡-222元素会在//“光源不可用”//开始时1小时内消失，并不会发衰变）。
+
+**Level IF-304**的环境污染多变，在//“光源不可用”//且本层级状态正常时，实体会少量出现；在//“光源可用”//时实体也会极少量出现，多数实体因放射性元素导致它们只会聚集在正常光源处，含有放射性元素的光源可有效阻挡实体前进。在//“光源可用”//时所产生的放射性元素导致部分实体身上残留放射性元素，目前发现的实体中只有[*https://backrooms-wiki-cn.wikidot.com/entity-3 笑魇]对放射性元素不产生任何影响，而其他被发现的实体均会被放射性元素产生影响，被放射性元素照射到的实体均无法长时间存活，被放射性物质照射到的实体存活时间大约为12小时~18小时之间（只有[*https://backrooms-wiki-cn.wikidot.com/entity-1 流浪者]在放射性元素的“容忍间隔​”内不受影响）。
+此外，**Level IF-304**环境潮湿，地上常有黏糊糊的水滩，水滩中有检测到__异丙醇​​__或__甲基乙基酮__，与皮肤长时间接触会导致一些列的__干燥、过敏、龟裂和溃烂__，因此流浪者必须对皮肤做好防护措施，如果不小心沾上一些水滩中的水渍请务必立即清理。这些水滩也是处理实体的最佳选择，这些水滩会对实体造成威胁（[*https://backrooms-wiki-cn.wikidot.com/entity-3 笑魇]除外），实体一旦接触水滩会因为刺激到自身而选择逃跑，并在短时间内不会对流浪者造成任何威胁，若流浪者不慎被实体追逐，尝试让这些实体走上水滩也是一种不错的选择。
+**Level IF-304**的空气中会有极少量臭味，其中含78%的氮气，21%的氧气，0.96%的氩气，小于 0.01%的其他微量气体，剩下0.03%均为//“光源可用”//发生时产生的气体。
+
+------
+
++ 实体
+**Level IF-304**所被发现的实体均有：[*https://backrooms-wiki-cn.wikidot.com/entity-3 笑魇]、[*https://backrooms-wiki-cn.wikidot.com/entity-4 死亡飞蛾]、[*https://backrooms-wiki-cn.wikidot.com/entity-8 猎犬]和[*https://backrooms-wiki-cn.wikidot.com/entity-5 肢团]。其中，[*https://backrooms-wiki-cn.wikidot.com/entity-3 笑魇]被发现的数量最少，[*https://backrooms-wiki-cn.wikidot.com/entity-8 猎犬]被发现的数量最多。
+
+------
+
++ 基地、前哨战与社区
+由于本层级的**特殊现象**，本层级无法建立任何基地。
+
+------
+
+[[=]]
+[[span style="color: red;"]]以上文档均为常规描述，下文即对非常规时的描述，请您务必仔细阅读[[/span]]
+[[/=]]
+
+
+[[collapsible show="+ 过去的文档与记录" hide="- 过去的文档与记录" hideLocation="both"]]
+
+[[div class="lightblock"]]
+
+[[/div]]
+
+[[=]]
++ 历史
++++ ##gray|意外发现##
+[[/=]]
+------
+[[div class="dark-styled-quote"]]
++ 近期异常现象记录
+[[div class="notepaper wide"]]
+++++  **一次偶然的记录**
+
+**日期：**2019年10月24日
+**位置：** **Level IF-304**与[*https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]
+**记录人员：** 探员：宗霖     探员上属：千鸠
+[[size 1.1em]]
+宗霖：//感谢我敬爱的上属大人给了我一次自由探索的机会！//
+
+千鸠：//别废话，我们所管辖[*https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]的地区还未勘探完全，这是M.E.G.下达的指令，请保持联系。//
+
+宗霖：//所以说，M.E.G.为什么要让我们主管IF层群的探员来管辖这里？//
+
+千鸠：//M.E.G.相关人员告诉我这块地方有多数会切入到IF层群，要求我找到一位合适的探员去调查这里，上报完整信息。//
+
+宗霖：//好吧好吧，话说你来这里的时候有关注过这里的地下室吗，好黑一块，可能我发现了新的切入点。//
+
+千鸠：//如果你对这里保持怀疑的话可以直接探索，应对好未知风险的措施你都准备完毕了吧？//
+
+宗霖：//没问题，杏仁水，手电筒，夜视镜，温度计，关于收集物质的一些瓶瓶罐罐，还有防护服，一切准备就绪！//
+
+千鸠：//没问题就出发吧，我会随时通信。//
+
+//（探员宗霖进入的地下室，随后通信连接有所卡顿，经过大约10秒后回复正常）//
+
+宗霖：//天哪，这还是我认识的[*https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]吗，这简直是地狱！//
+
+千鸠：//你能描述一下当前状况吗？//
+
+宗霖：//这里很黑，但是有很多霓虹灯，而且这里温度有点高，大约在32℃~35℃左右吧，热热的，而且这里水滩怪多的，穿着防护服脚踩在上面黏糊糊的，我不知道这都是些什么东西，这里还散发着奇怪的味道！//
+
+千鸠：//感觉不好的话，就回去吧，这些水和空气都有收集的必要，一切就绪就走吧！//
+
+宗霖：//我真的不该走到这地下室的，现在出现了非常不好的事，我来到这里的入口它消失了！//
+
+千鸠：//那就立马寻找显眼的出口立马切出，不要过久停留！//
+
+宗霖：//道理我都懂，但是我发现这层的灯光好像有什么神力，这些眼前的实体不攻击我，是这些五颜六色的灯阻挡它们前行了吗？//
+
+//（在此期间探员信号逐渐变得不稳定）//
+
+千鸠：//你那边信号很差，怎么回事？//
+
+宗霖：//这里有好多实体的尸体，他们为什么会在这，而且都是腐烂掉的，我想吐！//
+
+//（该探员说完这句话后，通信信号直接被阻断）//
+
+千鸠：//喂！听得到吗？！你还在吗？！//
+
+//（自此，这位探员失去了联系）//
+
+
+[[/size]]
+[[/div]]
+------
+[[div class="notepaper wide"]]
+++++ **继上一次突发事件**
+**日期：** 2020年11月2日
+**位置：** **Level IF-304**
+
+在这一年内，有绝大多数流浪者和团队干员在[*https://backrooms-wiki-cn.wikidot.com/level-1 Level 1]和[*https://backrooms-wiki-cn.wikidot.com/level-11 Level 11]中离奇失踪，而幸存者们都在逃出**Level IF-304**后因辐射原因全部去世，为了不让其他流浪者再次进入**Level IF-304**，于今日封锁目前已知的入口。
+
+实验人员A：涅尔金·泰托  实验人员B：坦斯金·莱茵
+
+日志1-发现：由坦斯金研究受害流浪者全部都有脱发现象，浑身出血，皮肤脱落，受辐射较底的人全都患癌致死。这些死者身上都含有大量的放射性元素，原因未知，猜测与**Level IF-304**内环境因素相关
+//坦斯金·莱茵因为长时间接触带有放射性元素的尸体导致患癌，于2021年2月初病逝//
+
+日志2-探索：负责人员涅尔金·泰托，带领4名探员探查**Level IF-304**，此行装备充足，并随时佩戴记录仪，以下为记录仪所记录的语音：
+[[div class="blockquote"]]
+涅尔金：//他娘的，刚进入这里盖格就不停的响，可见这里辐射量多高啊！//
+
+探员1：//看样子辐射来源应该是来自这些五颜六色的光源了，一年前误入这里的探员听说就是死在这里。//
+
+涅尔金：//神他妈的，这里简直就是地狱，一个不该存在的层级，这里尸横遍野，猎犬数量是最多的，还有好多腐烂掉的流浪者尸体，恶心至极！//
+
+探员2：//泰托博士，这些尸体用盖格靠近以下，示数几乎要爆炸。//
+
+涅尔金：//这里很有研究的必要，我记得你们的上属好像说过怎么出去了吧？//
+
+探员1：//是的没错，但是这要花上好多时间，我们必须要尽快找到，出口的样子就是类似逃生通道的出口标志位，从那可以到达[*https://backrooms-wiki-cn.wikidot.com/level-2 Level 2]//
+
+（探索过程到了一半貌似出现了一些事故……）
+
+涅尔金：//啊？！这灯毫无征兆的就熄灭了，还有为什么会出现这么多实体啊？！//
+
+探员3：//我要回去！赶紧寻找出口！实验物品我们都找齐了！//
+
+（直到他们伤痕累累，筋疲力竭的走到不知哪里的地方，涅尔金和其中一个似乎是探员2的人切出了这里，其他三人再无音讯）
+[[/div]]
+
+日志3-实验：//**我们为那次旅途中遇难的探员表示深痛的哀悼。**//在收集到的气体和液体中发现了大量放射性元素，其中气体中收集到量最多的放射性元素是__氡-222元素__，液体中含有大量__甲基乙基酮__。第一次实验结果得知，该层级含有大量辐射。
+
+[[=]]
+[[span style="color: red;"]]请相关组织立即封锁关于**Level IF-304**所有相关入口！！！[[/span]]
+[[/=]]
+
+[[/div]]
+------
+[[div class="notepaper wide"]]
+++++ **畸变的首次发现**
+**日期：**2024年9月5日
+**研究地点：** **Level IF-304**
+直至今日，多数探员在到达**Level IF-304**时都在通信被阻断后再无得到联系，目前已知死因（如被实体攻击，核辐射等）均无与通信突然阻断有任何关系，我们仍在探究**Level IF-304**的其他层级性质，在我们启用机械装置探索层级时，也多次出现直接断连的情况，而在我们不断提升技术时，在偶然的一次使用无人机失灵前拍摄到的画面：[[=image Level%20IF-304 size="medium"]]
+
+经过多次探测，最终将这种现象称为//“畸变”//，导致这种现象的发生的原因仍是一个谜，随着//“畸变”//的变化，**Level IF-304**的生存难度也会随之改变，//“畸变”//现象发生的周期不定，但可以确定的是，只有在部分时候**Level IF-304**内//“光源不可用”//发生时有概率会发生这种情况，**Level IF-304**的实体与在//“畸变”//前遗留的物质全部被清除。//“畸变”//后**Level IF-304**的构造也会发生改变（分层构造不变）。
+
+总结：
+//“畸变”//现象发生时生存难度为
+[[include :backroomssandboxcn:nulevelclass
+|class=不适用
+]]
+//“光源可用”//时
+[[include :backroomssandboxcn:nulevelclass
+|class=死区
+|one=辐射危害
+]]
+//“光源不可用“//时
+
+[[include :backroomssandboxcn:nulevelclass
+|class=5
+]]
+------
+
++ 入口与出口
+
++++ 入口
+已知的所有入口均被封闭，但在一些有地下室标志物（停车牌，配电室，送风房等）的层级附近会出现一扇门，样式随机，探索时务必加强谨慎，若流浪者误入**Level IF-304**，只能祝你好运。
+
++++ 出口
+* 一扇带“High-temperature Area”的铁门进去可以直接到[*https://backrooms-wiki-cn.wikidot.com/level-127 Level-127].
+* 辐射照射量超过2 Sv会被切入至[*https://backrooms-wiki-cn.wikidot.com/level-924 Level-924].
+* 在用无人机多次探测楼梯间时无人机被切入至[*https://backrooms-wiki-cn.wikidot.com/level-432 Level-432]，推测在楼梯间内长时间运动会切入[*https://backrooms-wiki-cn.wikidot.com/level-432 Level-432]。
+
+[[=image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo style="width:100px;"]]
+[[=]]
+++++++ {{M.E.G. - Bettering Humanity}}
+[[/=]]
+@@@@
+[[/div]]
+[[/collapsible]]
+@@@@
+[[>]]
+[[collapsible show="作者信息" hide="隐藏作者"]]
+作者：[[*user TACHibN]]
+[[/collapsible]]
+[[/>]]
+
+[[module CSS]]
+.page {
+    display: block;
+    overflow: hidden;
+    font-family: "Monotype Corsiva", "Bradley Hand ITC", sans-serif;
+    font-style: normal;
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);
+    background-origin: padding-box;
+    background-position: 0px 8px;
+    background-repeat: repeat;
+    background-size: 100% 20px;
+
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)
+    }
+.page p,
+.page ul {
+    line-height: 20px;
+    margin: 0;
+}
+[[/module]]
+
+
+[[module CSS]]
+.fakeprot .mailform-box .buttons{display:none;}
+.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}
+.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}
+.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}
+.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}
+.mailform-box td:first-child {width: 80px;}
+[[/module]]

@@ -1,0 +1,53 @@
+[[include component:list grid='in others' 'in others' 'toc toc'|mgrid='in' 'others' 'toc']]
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是“物品”？
+//物品//，也被称为道具或人工制品，是人们在Backrooms中使用的工具、武器、消耗品和其他物品。它们大部分都遵循现实法则。其他则由Backrooms改变或影响，另一些则是被Backrooms创造（或在其内发现）。这些物品有些很危险，有些则对你的生存至关重要。实体和物品之间的最大区别就是：//实体是有生命的//。
+[[/div]]
+[[div class="intro-others intro-block"]]
+++* 更多文章[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:normal-levels|普通层级]]]**
+* **[[[overview:entities|普通实体]]]**
+* **[[[overview:phenomena|现象]]]**
+* **[[[random:random-object|随机物品]]]**
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 Object IF-1-15]
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
+++ Object IF-1-15[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+* [[[Object IF-1]]] - “无数据”
+* [[[Object IF-2]]] - **--那些我们创造的故事--“黑之书”**
+* [[[Object IF-3]]] - “万维聊天室维基”
+* [[[Object IF-4]]] - “层级探索器”
+* [[[Object IF-5]]] - “清醒梦药水”
+* [[[Object IF-6]]] - “地图纸”
+* [[[Object IF-7]]] - **//“袋装冰瓜”//**
+* [[[Object IF-8]]] - **“效应清除装置”**
+* [[[Object IF-9|Flesh IF-9]]] - “后室剪刀”
+* [[[Object IF-10|Flesh IF-10]]] - “伤口愈合带”
+* [[[Object IF-11]]] - “解忧罐头”
+* [[[Object IF-12]]] - “无数据”
+* [[[Object IF-13]]] - “无数据”
+* [[[Object IF-14]]] - “驱动器”
+* [[[Object IF-15]]] - “实态痛苦”
+[[/div]]
+
+
+
+
+
+
+[!-- ↓↓↓ --]
+[!-- 以下为用户自定义区，请译者标注不同字体 / 样式所对应的层级。 --]
+[[module CSS]]
+/* 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+
+[[/module]]

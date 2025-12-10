@@ -1,0 +1,64 @@
+[[include :backrooms-wiki-cn:theme:backrooms-remodeling-co]]
+
+[[module css]]
+:root {
+   --header-title: "ThEndlessRain";
+   --header-subtitle: "雨落无声";
+[[/module]]
+
++ **描述**
+* [[*user ThEndlessRain]]
+* 男
+* 可以直接叫ter或者无尽雨--以及各种谐音--（
+* mc人
+* 引诱人
+* 译者
+* 口语化大师
+* 原创没有，拉不出来（悲
+* --怎么这么水（--
+
+
++ 译作
+[[tabview]]
+[[tab 总]]
+
++++ **层级**
+* [[[level-116|Level 116——神祇尖塔]]]
+* [[[level-117|Level 117——伊莎贝尔之峡]]]
++++ **实体**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **物品**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **现象**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **故事**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
+[[/tab]]
+
+[[tab 111]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/level-116/1|number=1]]
+[[=]]
+**[[size 140%]][[[level 116|神祇尖塔]]]/Level 116[[/size]]**
+@@@@
+
+//我只得以惊骇与错愕目视此景。驱使这些人抛弃人性，创造出如此令人深恶痛绝之物的，究竟为何？我无从知晓。//
+作者：[[*user Drakimoto]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://backrooms-wiki.wdfiles.com/local--files/level-117/maw|number=17]]
+[[=]]
+**[[size 140%]][[[level 117|伊莎贝尔之峡]]]/Level 117[[/size]]**
+@@@@
+
+//尽管湿气已将尸体损伤，却仍能望见某种未知猎手造成的致命创伤。啃噬之痕与破碎之骨，勾勒出其弥留之际最骇人的图景。//
+
+作者：[[*user Drakimoto]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[/tab]]
+[[/tabview]]

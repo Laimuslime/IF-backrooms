@@ -1,0 +1,383 @@
+[[module css]]
+.page-tags::before{
+  content: "标签>" !important;
+[[/module]]
+
+[[=]]
+[[module rate]]
+[[/=]]
+
+[[tabview]]
+[[tab 自我介绍]]
+[[=]]
+哈喽！我是[[*user calf-0]]，可以称我为C0亦或calf，男性，爱听纯音乐，有问题到IFQ群里问。
+[[/=]]
+[[/tab]]
+[[tab 文章]]
+[[div class="episode translation-old:level-16" style="background: radial-gradient(circle, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 100%), url(http://if-backrooms.wikidot.com/local--files/translation-old:level-16/Level16_cc.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[div class="episode-number"]]
+##white|THE BACKROOMS##
+[[/div]]
+[[div class="scp-number"]]
++ Level 16（旧/译）
++++ J. Barry精神病院
+[[/div]]
+[[div class="episode-title"]]
+[[/div]]
+[[div class="director"]]
+[[size 80%]]##white|//“直接穿透地面，下方空无一物”//##[[/size]]
+[[/div]]
+[[a href="https://if-backrooms.wikidot.com/translation-old:level-16" style="display: block; background: linear-gradient(180deg, rgba(20, 20, 20, 1) 0%, rgba(0, 0, 0, 1) 100%), rgb(10, 10, 10); border: solid 2px rgb(40, 40, 40); margin: 0rem 1.7rem 0 1.7rem; text-align: center; font-family: 'Work Sans', sans-serif; font-weight: 700; letter-spacing: 1px; padding: 0 0 1.25rem 0; text-decoration: none; transition-duration: 0.4s;"]]
+点击查看
+[[/a]]
+[[/div]]
+
+[[div class="episode level-323" style="background: radial-gradient(circle, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 100%), url(http://scp-sandbox-3.wikidot.com/local--files/level-323/island); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[div class="episode-number"]]
+##white|THE BACKROOMS##
+[[/div]]
+[[div class="scp-number"]]
++ Level 323（译）
++++ 岛屿使用政策
+[[/div]]
+[[div class="episode-title"]]
+[[/div]]
+[[div class="director"]]
+[[size 80%]]##white|//“经M.E.G.内部讨论决定，现颁布《岛屿使用政策》”//##[[/size]]
+[[/div]]
+[[a href="https://if-backrooms.wikidot.com/level-323" style="display: block; background: linear-gradient(180deg, rgba(20, 20, 20, 1) 0%, rgba(0, 0, 0, 1) 100%), rgb(10, 10, 10); border: solid 2px rgb(40, 40, 40); margin: 0rem 1.7rem 0 1.7rem; text-align: center; font-family: 'Work Sans', sans-serif; font-weight: 700; letter-spacing: 1px; padding: 0 0 1.25rem 0; text-decoration: none; transition-duration: 0.4s;"]]
+点击查看
+[[/a]]
+[[/div]]
+
+[[div class="episode nivel-es-5-1" style="background: radial-gradient(circle, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 100%), url(http://space-time.wikidot.com/local--files/nivel-es-5-1/niveles5-1.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[div class="episode-number"]]
+##white|THE BACKROOMS##
+[[/div]]
+[[div class="scp-number"]]
++ Level ES-5.1（译）
++++ 轨道
+[[/div]]
+[[div class="episode-title"]]
+[[/div]]
+[[div class="director"]]
+[[size 80%]]##white|//“别走。别去。一切都太晚了”//##[[/size]]
+[[/div]]
+[[a href="https://if-backrooms.wikidot.com/nivel-es-5-1" style="display: block; background: linear-gradient(180deg, rgba(20, 20, 20, 1) 0%, rgba(0, 0, 0, 1) 100%), rgb(10, 10, 10); border: solid 2px rgb(40, 40, 40); margin: 0rem 1.7rem 0 1.7rem; text-align: center; font-family: 'Work Sans', sans-serif; font-weight: 700; letter-spacing: 1px; padding: 0 0 1.25rem 0; text-decoration: none; transition-duration: 0.4s;"]]
+点击查看
+[[/a]]
+[[/div]]
+
+[[div class="episode entity-th-7" style="background: radial-gradient(circle, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 100%), url(https://th-backrooms-wiki.wdfiles.com/local--files/entity-th-7/BTS%20blir%20fix); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[div class="episode-number"]]
+##white|THE BACKROOMS##
+[[/div]]
+[[div class="scp-number"]]
++ Entity TH-7（译）
++++ 信号草
+[[/div]]
+[[div class="episode-title"]]
+[[/div]]
+[[div class="director"]]
+[[size 80%]]##white|//“嘿……你在这儿干嘛呢？”//##[[/size]]
+[[/div]]
+[[a href="https://if-backrooms.wikidot.com/entity-th-7" style="display: block; background: linear-gradient(180deg, rgba(20, 20, 20, 1) 0%, rgba(0, 0, 0, 1) 100%), rgb(10, 10, 10); border: solid 2px rgb(40, 40, 40); margin: 0rem 1.7rem 0 1.7rem; text-align: center; font-family: 'Work Sans', sans-serif; font-weight: 700; letter-spacing: 1px; padding: 0 0 1.25rem 0; text-decoration: none; transition-duration: 0.4s;"]]
+点击查看
+[[/a]]
+[[/div]]
+
+[[div class="episode hutan-dwirupa" style="background: radial-gradient(circle, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 100%), url(http://brsandbox-mini.wikidot.com/local--files/author:calf-0/OIP-C.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center;"]]
+[[div class="episode-number"]]
+##white|THE BACKROOMS##
+[[/div]]
+[[div class="scp-number"]]
++ 故事（译）
++++ 双面森林
+[[/div]]
+[[div class="episode-title"]]
+[[/div]]
+[[div class="director"]]
+[[size 80%]]##white|//“他点头以示理解。甚至连他的动作都洋溢着热情”//##[[/size]]
+[[/div]]
+[[a href="https://if-backrooms.wikidot.com/hutan-dwirupa" style="display: block; background: linear-gradient(180deg, rgba(20, 20, 20, 1) 0%, rgba(0, 0, 0, 1) 100%), rgb(10, 10, 10); border: solid 2px rgb(40, 40, 40); margin: 0rem 1.7rem 0 1.7rem; text-align: center; font-family: 'Work Sans', sans-serif; font-weight: 700; letter-spacing: 1px; padding: 0 0 1.25rem 0; text-decoration: none; transition-duration: 0.4s;"]]
+点击查看
+[[/a]]
+[[/div]]
+[[/tab]]
+[[tab 预告]]
+[[=]]
+[[image http://backrooms-sandbox-2.wikidot.com/local--files/fragment:spectre48specrewrite-0/Screenshot%202025-03-12%20182131-modified.png]]
+
++ Spec
+
+[[a href="https://brsandbox-mini.wikidot.com/collab:spec" class="button btn"]]登录 -->[[/a]]
+[[/=]]
+[[/tab]]
+[[/tabview]]
+
+[[include :backrooms-wiki:component:nuliminal]]
+[[module CSS]]
+.admonition {
+margin: 0 auto 0 auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-content: center;
+justify-content: center;
+align-items: center;
+}
+
+.episode {
+background: transparent;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;
+border: solid 2px rgb(70, 70, 70);
+margin: 1rem 1rem 1rem 1rem;
+width: 17.7rem;
+height: 31rem;
+cursor: default;
+transition-duration: 0.4s;
+z-index: 5;
+}
+
+.episode:hover {
+transform: scale(1.05);
+border-color: #EDEDED !important;
+transition-duration: 0.4s;
+}
+
+.episode-number {
+text-align: center;
+font-family: 'Work Sans', sans-serif;
+font-weight: 600;
+font-size: 90%;
+letter-spacing: 5px;
+}
+
+.scp-number {
+color: rgb(220, 220, 220);
+margin-top: 5rem;
+text-align: center;
+font-family: 'Work Sans', sans-serif;
+font-weight: 700;
+letter-spacing: 3px;
+}
+
+.episode-title {
+margin-top: -1.5rem;
+text-align: center;
+font-family: 'Work Sans', sans-serif;
+font-weight: 900;
+font-size: 200%;
+line-height: 1px;
+}
+
+.director {
+margin-top: 7rem;
+text-align: center;
+font-family: 'Work Sans', sans-serif;
+font-weight: 500;
+font-size: 80%;
+letter-spacing: 2px;
+}
+
+.episode a {
+color: #EDEDED;
+}
+
+.episode a:hover {
+border-color: rgb(20, 20, 20) !important;
+transform: scale(1.1);
+letter-spacing: 4px !important;
+transition-duration: 0.4s;
+}
+
+@media (min-width: 1290px) {
+    .customX {
+        width: 50% !important;
+    }
+}
+
+.episode.terminationattempt:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/02/20/pSXecL9.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+.episode.chaostheory:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/04/10/ppbRnrn.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+
+.episode.metagnostic:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2022/08/31/v5ixhT.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+.episode.ec248:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2022/11/20/zM6SoD.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+.episode.lc268:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://www.helloimg.com/images/2022/09/18/Z6wPmg.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+.episode.lc382:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/04/10/ppqN1W6.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+.episode.lc446:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/02/19/pSOFFYQ.png) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+
+
+.episode.ec121:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/04/10/ppbj29J.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+
+.episode.lcth:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/02/24/pSzI9kq.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+.episode.lc911:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/02/26/pp9iNOe.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+
+
+
+.episode.lc303:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/04/05/ppISRKK.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+[[/module]]
+
+[[module CSS]]
+
+.episode.end:hover {
+
+background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), url(https://s1.ax1x.com/2023/04/18/p9iBQoQ.jpg) !important;
+
+background-position: center !important;
+
+background-size: cover !important;
+
+background-repeat: no-repeat !important;
+
+}
+[[/module]]
+
+
+[[module css]]
+body{
+   letter-spacing: 1px;
+}
+
+#skrollr-body {
+   background-image: none;
+}
+
+#container{
+   background-image: none;
+}
+ 
+:root {
+   --firstAccent: 0, 100, 100;
+  --secondAccent: 0, 0, 0;
+
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+|1=THE BACKROOMS
+|2=你 曾 经 来 过 这 里]]

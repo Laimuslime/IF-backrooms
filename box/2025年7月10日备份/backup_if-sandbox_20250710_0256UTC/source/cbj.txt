@@ -1,0 +1,16 @@
+[[include :backrooms-wiki-cn:theme:watch-your-back
+|banner=https://backrooms-wiki.wdfiles.com/local--files/level-0/OGLevel0.jpg|
+|pale-accent=112,126,125
+|visited-link-color=215, 193, 246
+|bright-accent=255, 170, 0
+|medium-accent=143, 150, 160
+|dark-accent=87, 91, 96
+|alt-accent=255, 125, 125
+]]
+
+[[=]]
+**莱姆老师，安逸的生活的太久了。**
+
+**今天他，就像往常一样，他早早地在房间中醒来，然后拖着想睡但睡不着的身子下了楼，在楼下那家冯叔叔开的包子店里买了两个包子，接着又快速地上楼，坐在沙发上，面对着空白的墙壁，开始吃手里的。**
+
+**他吃完拿起手机，“莱姆老师，还没上班？”“我今天请一天假了。”对面挂断了。**

@@ -1,0 +1,490 @@
+[[div class="blockquote"]]
+如果你是在为加入网站而阅读本页面的话，恭喜你本页面没有暗号，请去其他含有{{必读}}标签的页面寻找吧。然而，还是推荐你至少眼熟本页的所有职员，并找时间通读本页面。
+[[/div]]
+
+[[div class="meta-title"]]
+**会见职员**
+[[/div]]
+
+= 本页面旨在列出负责网站管理等事务的职员名单，你可以通过本页面认识并了解他们。
+= 各站务已在自我介绍中说明了常用的联系方式。如果你有任何和本维基有关的问题，欢迎联系一名职员。
+
+[[collapsible show="▶ 职员分工详情 ◀" hide="▼ 职员分工详情 ▼"]]
+
+[[div class="jobblock"]]
+[[div class="job"]]
+[[span class="staff main-admin"]]站长[[/span]][[span class="staff admin"]]管理员[[/span]]
+[[/div]]
+[[div class="work"]]
+管理员是网站上拥有最高权限的职员，他们可以处理绝大部分的网站事务。如果你发现某些较为严重的问题，建议优先联系管理员。特别地，无论你是否是网站成员，和本维基无关但确定有本维基成员参与的骚扰事件可向下列管理员中的任何一位举报。
+
+管理员的工作是：
+* 审核入站申请书
+* 对有关人员的违规行为作出并执行处分决定
+* 移除低分作品和作者决定自删的页面
+* 管理和追踪页面的重写
+* 组织竞赛和站点活动
+* 联络外站及处理社群间关系
+* 其他与网站运营与管理相关的事务
+
+特别的是，站长除了以上工作以外，还最终负责网站的职员任免。
+[[/div]]
+[[div class="job"]]
+[[span class="staff mod"]]版主[[/span]]
+[[/div]]
+[[div class="work"]]
+版主在Wikidot架构上具有的权力较管理员少些，但在实际管理工作中，版主和管理员之间的界限并不那么分明。部分工作因Wikidot的限制不能由版主完成，比如审核申请书和移除或封禁成员。
+
+版主的工作是：
+* 对有关人员的违规行为作出处分决定
+* 移除低分作品和作者决定自删的页面
+* 管理和追踪页面的重写
+* 组织竞赛和站点活动
+* 联络外站及处理社群间关系
+* 其他与网站运营与管理相关的事务
+[[/div]]
+[[div class="job"]]
+[[span class="staff mast"]]网站维护协理职员团队（MAST）[[/span]]
+[[/div]]
+[[div class="work"]]
+[[span class="ruby"]]网站维护协理职员团队[[span class="rt"]]Maintenance and Ancillary Staff Team, MAST[[/span]][[/span]]由负责协助管理员和版主参与网站的维护工作的职员组成，他们通常只负责处理特定事件，并且在Wikidot的基础架构上没有高于普通用户的权限。
+
+他们负责：
+* 为原创作品添加标签
+* 审查含图片的页面用图或者音频是否符合[[[licensing-guide|授权指导]]]
+* 协助管理员和版主对轻微不当行为予以警告并通知管理员和版主
+* 其他经管理员和版主审定认为可由MAST职员协理，且MAST职员同意接手的工作
+
+关于MAST工作的更具体信息，请见[[[mast-intro|此处]]]。
+[[/div]]
+[[div class="job"]]
+[[span class="staff tech"]]技术职员[[/span]]
+[[/div]]
+[[div class="work"]]
+技术职员负责维护代码、制作组件等工作。除非拥有其他职员标签，否则技术职员不负责参与网站的维护工作，也没有高于普通用户的权限。
+
+他们负责：
+* 监控网站运行，修复漏洞
+* 制作、修复组件
+* 解答其他网站成员的技术性问题
+* 其他与技术有关的事务
+[[/div]]
+[[div class="job"]]
+[[span class="staff art"]]美术工作职员（美工）[[/span]]
+[[/div]]
+[[div class="work"]]
+美术工作职员（简称美工）负责美术设计、插画绘制等工作。除非拥有其他职员标签，否则美术工作职员不负责参与网站的维护工作，也没有高于普通用户的权限。
+
+他们负责：
+* 提出、落实美术设计
+* 绘制插图、Logo
+* 在需要时进行创作
+[[/div]]
+[[div class="job"]]
+[[span class="staff inactive"]]不活跃[[/span]]
+[[/div]]
+[[div class="work"]]
+这些职员因为各种原因暂且不活跃，待其时间充沛后可申请回归正常的网站管理工作。
+[[/div]]
+[[div class="job"]]
+[[span class="staff quit"]]已离职[[/span]]
+[[/div]]
+[[div class="work"]]
+这些职员因各种原因离开了网站的管理团队。
+[[/div]]
+[[/div]]
+
+[[/collapsible]]
+
+++ 管理员
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user Laimu_slime]]
+[[div class="text"]]
+可以叫我莱姆、一坨莱姆，哪个都可以。负责网站的基本运行，最后附上我的QQ：86599608。
+[[/div]]
+[[/div]]
+
+[[span class="staff main-admin"]]站长[[/span]][[span class="staff admin"]]管理员[[/span]][[span class="staff tech"]]技术职员[[/span]]
+[[/div]]
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user lanbaoshi1145]]
+[[div class="text"]]
+建站器Pro/沙盒Mini的站长，叫我蓝宝石就好，CSS和维基语法问题可以找我（建议优先找星河，他是大佬）其他问题也可以找我。每天大多数时候活跃，无论放不放假，偶尔会批申请书。qq群和wd私信联系我。推荐QQ群。
+[[/div]]
+[[/div]]
+
+[[span class="staff admin"]]管理员[[/span]][[span class="staff tech"]]技术职员[[/span]]
+[[/div]]
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user qwmike1145]]
+[[div class="text"]]
+网站中的管理员，叫宇哥或者贝利亚就行。负责网站的管理。要联系直接用QQ私信。
+[[/div]]
+[[/div]]
+
+[[span class="staff admin"]]管理员[[/span]][[span class="staff tech"]]技术职员
+[[/span]]
+[[/div]]
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user sjdkd_lsk]]
+[[div class="text"]]
+我是sjdkd_lsk，亦被称为sjdkd、sjdkdlsk或sj。本人是 ST 分站的主要管理员，通常被认为于周末较活跃，主要负责写文、宣传和编写站规或类似文档，有时会批申请书。
+[[/div]]
+[[/div]]
+
+[[span class="staff admin"]]管理员[[/span]]
+[[/div]]
+
+
+
+++ 版主
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user Spocpa619]]
+[[div class="text"]]
+等待添加。
+[[/div]]
+[[/div]]
+
+[[span class="staff mod"]]版主[[/span]]
+[[/div]]
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user unluck me]]
+[[div class="text"]]
+是TO-DV FR的站长，割裂室的管理员，Getrooms管理员及异化世界管理员，做过多个组件。
+[[/div]]
+[[/div]]
+
+[[span class="staff mod"]]版主[[/span]][[span class="staff tech"]]技术职员[[/span]]
+[[/div]]
+
+
+
+
+++ 网站维护协理职员团队（MAST）
+
+
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user Suesa]]
+[[div class="text"]]
+我是蛋白质，不是很活跃，上线时间不定，可能会帮别的文章修排版和标签。若有代发需求可私信本人，我会定时登录[[*user IF_Bot]]发布。
+[[/div]]
+[[/div]]
+
+[[span class="staff mast"]]MAST[[/span]][[span class="staff inactive"]]不活跃[[/span]]
+[[/div]]
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user calf-0]]
+[[div class="text"]]
+你可以叫我calf又或者c0，有意者Q私或者wd私信。最后附上我的QQ号：3934869840
+[[/div]]
+[[/div]]
+
+[[span class="staff mast"]]MAST[[/span]]
+[[/div]]
+++ 其他职员
+
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user Laimu42]]
+[[div class="text"]]
+我是莱姆的精神灵魂，和站长是两个人，可以叫我莱姆一坨，本人主要负责站内的总宣传，总美工。附上本人b站账号Laimu_slime。
+[[/div]]
+[[/div]]
+
+[[span class="staff mod"]]版主[[/span]][[span class="staff art"]]美工[[/span]]
+[[/div]]
+
+----
+= **以上为所有现任职员。**
+
+[[collapsible show="▶ 展开：离职职员名单 ◀" hide="▼ 展开：离职职员名单 ▼"]]
+
+这里列出了曾经担任网站职员的用户，他们因各种原因离开了网站的管理团队。谨此记录，感谢他们的付出。
+
+[[div style="border-bottom: 1px solid rgb(var(--white-monochrome));"]]
+[暂无]
+
+[[/div]]
+[[div class="pnm"]]
+[[span class="staff quit"]]已离职[[/span]]
+[[/div]]
+[[/collapsible]]
+
+[[collapsible show="▶ 附录：添加职员格式 ◀" hide="▼ 附录：添加职员格式 ▼"]]
+
+[[code]]
+[[div class="style-block"]]
+[[div class="grid"]]
+[[*user 用户名]]
+[[div class="text"]]
+自我介绍。
+[[/div]]
+[[/div]]
+
+[[span class="staff xxx"]]身份组1[[/span]][[span class="staff xxx"]]身份组2[[/span]]
+[[/div]]
+[[/code]]
+
+**注意：**此处的空行不可删除。
+
+所有身份组：
+
+[[code]]
+[[span class="staff main-admin"]]站长[[/span]]
+[[span class="staff admin"]]管理员[[/span]]
+[[span class="staff mod"]]版主[[/span]]
+[[span class="staff mast"]]MAST[[/span]]
+[[span class="staff tech"]]技术职员[[/span]]
+[[span class="staff art"]]美工[[/span]]
+[[span class="staff inactive"]]不活跃[[/span]]
+[[span class="staff quit"]]已离职[[/span]]
+[[span class="staff rainbow"]]？[[/span]]
+[[/code]]
+
+[[/collapsible]]
+
+[[module CSS]]
+span.staff {
+    --staff-bg-color: 255, 184, 189;
+    --staff-text-color: 148, 19, 30;
+    /* Golden Color */
+    --staff-bg-color: 255, 234, 190;
+    --staff-text-color: 156, 98, 40;
+    display: inline-block;
+    padding: 0.35em 0.5em 0.3em;
+    line-height: 1;
+    margin: 0 0.25em 0.25em 0;
+    border-radius: 0.2em;
+    background-color: rgba(var(--staff-bg-color), 1);
+    color: rgba(var(--staff-text-color), 1);
+    font-size: 0.86em;
+}
+
+span.main-admin {
+    padding-right: 0.3em;
+}
+
+span.main-admin::after {
+    content: '★';
+    padding-left: 0.2em;
+    margin
+}
+
+span.admin {
+    --staff-bg-color: 255, 205, 197;
+    --staff-text-color: 155, 40, 48;
+}
+
+span.mod {
+    --staff-bg-color: 255, 218, 197;
+    --staff-text-color: 136, 77, 34;
+}
+
+span.mast {
+    --staff-bg-color: 212, 233, 180;
+    --staff-text-color: 29, 117, 44;
+}
+
+span.tech {
+    --staff-bg-color: 197, 213, 255;
+    --staff-text-color: 34, 74, 135;
+}
+
+span.art {
+    --staff-bg-color: 255, 197, 218;
+    --staff-text-color: 123, 34, 136;
+}
+
+span.inactive {
+    --staff-bg-color: 220, 220, 220;
+    --staff-text-color: 89, 89, 89;
+}
+
+span.quit {
+    --staff-bg-color: 192, 192, 192;
+    --staff-text-color: 23, 23, 23;
+}
+
+span.rainbow {
+    background: linear-gradient(to right, red, orange, rgb(254, 237, 1), green, blue, purple);
+    color: white;
+}
+
+div.style-block {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    margin: 1em 0;
+    border-radius: 0.6em;
+}
+
+div.style-block > p,
+.pnm > p {
+    margin: 0.5em 0 0.25em;
+}
+
+div.style-block div.grid {
+    display: grid;
+    grid-template-areas: 'icon name .' 'icon txt txt';
+    grid-template-columns: max-content max-content 1fr;
+    padding: 0.5em 0;
+    border-bottom: 1px solid rgb(var(--white-monochrome));
+}
+
+div.style-block div.grid p:first-child,
+div.style-block div.grid > p:first-child .printuser {
+    display: contents;
+}
+
+div.style-block div.grid > p:first-child .printuser a:first-of-type {
+    grid-area: icon;
+    align-self: flex-start;
+}
+
+div.style-block div.grid > p:first-child .printuser a:first-of-type img {
+    box-sizing: border-box;
+    width: 3em;
+    height: 3em;
+    background-image: none !important;
+    padding: 0;
+    border-radius: 50%;
+    margin-right: 0.75em;
+    border: 2px solid rgb(var(--medium-accent));
+    object-fit: cover;
+}
+
+div.style-block div.grid > p:first-child .printuser a:last-of-type {
+    grid-area: name;
+    margin: 0.3em 0;
+    --wght: 700;
+    font-weight: 700;
+}
+
+div.style-block div.grid > div.text {
+    grid-area: txt;
+}
+
+.avatar-hover {
+    display: none !important;
+}
+
+#page-title {
+    display: none;
+}
+
+.meta-title {
+    --wght: 700;
+    display: flex;
+    align-items: center;
+    min-height: 1em;
+    margin: 1em 0 0.5em;
+    padding: 0;
+    border: none;
+    color: rgb(var(--swatch-text-general));
+    font-weight: var(--wght);
+    font-size: 2em;
+    line-height: 1;
+    font-family: var(--title-font);
+    font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
+    text-align: left;
+}
+
+.meta-title p,
+.jobblock .job p {
+    margin: 0;
+}
+
+.meta-title::after,
+.meta-title::before{
+    content: "";
+    flex-grow: 1;
+    height: 1px;
+    margin: auto auto auto 1rem;
+    background: rgb(var(--swatch-primary));
+}
+
+.meta-title::before{
+    margin: auto 1rem auto auto;
+}
+
+div.collapsible-block {
+    margin: 1em 0 2em;
+}
+
+a.collapsible-block-link {
+    --wght: 700;
+    display: block;
+    background-color: rgb(var(--medium-accent));
+    text-align: center;
+    color: rgb(var(--white-monochrome));
+    padding: 0.3em 0.5em;
+    border: 2px solid rgb(var(--medium-accent));
+}
+
+.collapsible-block-content {
+    background-color: rgb(var(--pale-gray-monochrome));
+    padding: 1px 1em;
+    border-bottom-right-radius: 0.6em;
+    border-bottom-left-radius: 0.6em;
+}
+
+.code {
+    border-style: solid;
+    background: rgb(var(--white-monochrome));
+    margin: 1em 0;
+}
+
+.jobblock {
+    margin: 1em 0;
+}
+
+.jobblock .job {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.jobblock .job::after {
+    content: "";
+    flex-grow: 1;
+    height: 0;
+    margin: auto auto auto 0.5em;
+    border-bottom: 1px solid rgb(var(--white-monochrome));
+}
+
+.jobblock .work {
+    margin-left: 1em;
+}
+
+h2 {
+    margin: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    div.style-block div.grid {
+        grid-template-areas: 'icon name .' 'txt txt txt';
+        grid-template-columns: max-content max-content 1fr;
+    }
+
+    div.style-block div.grid > p:first-child .printuser a:first-of-type img {
+        width: 2em;
+        height: 2em;
+        margin-bottom: 0.5em;
+    }
+}
+[[/module]]

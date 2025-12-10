@@ -1,0 +1,574 @@
+[[iftags +版式 +原创]]
+[[>]]
+[[module rate]]
+[[/>]]
+此版式由[[*user Meilemeweng]]制作。
+
+希望大家能够喜欢！没了么翁真的花了很多时间来调试颜色以及后续代码。一部分代码参考了**排版工具组**，大家可以看一下，那是一个非常厉害且非常好用的组件，强烈推荐。
+
+若需将本版式引入到你的页面中，请将以下文本放到任意位置：
+
+[[div class="styled-quote";]]
+
+@@[[include :if-backrooms:theme-ancient-rock]]@@
+
+[[/div]]
+
++ 示例
+
+可通过五个连字符“@@-----@@”创建水平分割线。若它未被放在其他部件（诸如引用块）中，则会左右延伸贯穿页面。这种将文件分割为多个部分的线就是分割线。
+
+-----
+
+标题可通过在一行字起始处输入 1 至 6 个加号“+”来创建。
+
+[[collapsible show="+ 标题" hide="- 标题"]]
++ 1 级标题
+
+++ 2 级标题
+
++++ 3 级标题
+
+++++ 4 级标题
+
++++++ 5 级标题
+
+++++++ 6 级标题
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab 分页]]
+此为分页（tab view）。
+[[/tab]]
+[[tab 分页]]
+看，这有更多文字。
+
+[[div class="blockquote"]]
+
+[[=]]
+**某个小剧场**
+[[/=]]
+
+**Meilemeweng-1**：//“我原本想在这里展示一下生存难度模块的，但是调试草稿的时候出了bug，直接将组件代码展示出来了。因此我只好删除这个部分。”//
+
+**Meilemeweng-2**：//“噢，那真是让人遗憾。”//
+
+[[/div]]
+[[/tab]]
+[[tab 长 Tab]]
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+
+这是一个长的 tab，它有很多文字。
+[[/tab]]
+[[tab 由于一些奇怪的原因，这个空 tab 有一个很长的名字。甚至可以更多。]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[tab 空 Tab]]
+[[/tab]]
+[[/tabview]]
+
+> 这是一个引用块，在一行字的起始处加上“> ”来创建。
+>
+> 更多文字
+> -----
+> 一条分割线
+>
+>> 嵌套引用块
+
+[[div class="blockquote"]]
+这是一个起点。
+[[div class="blockquote"]]
+我们正在深入。
+[[div class="blockquote"]]
+渐入佳境。
+[[div class="blockquote"]]
+居然可以这么远。臻于圆满。
+[[/div]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+||~ 这是 ||~ 表格 ||
+|| 你应该老早 || 就知道怎么 ||
+|||| 做这个了吧 ||
+
+--这是一段删除文本--
+__这是一段划线文本__
+//这是一段斜体文本//
+**这是一段加粗文本**
+{{这是一段等宽字}}
+这是^^上标^^
+这是,,下标,,
+
+[[[Level IF-1|我存在。]]]
+[[[我不存在。]]]
+
+
+一个[[footnote]] 脚注。 [[/footnote]]
+
+
+----
+
+[[div class="lightblock";]]
+
+@@[[div class="lightblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="darkblock";]]
+
+@@[[div class="darkblock"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+@@[[div class="styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="dark-styled-quote"]]
+
+@@[[div class="dark-styled-quote"]]@@
+
+@@[[/div]]@@
+
+[[/div]]
+
+[[div class="blockquote"]]
+自定义引用块
+[[/div]]
+
+
+[[div class="reportblock"]]
++* 标题
+
+[[code]]
+[[div class="reportblock"]]
++* 标题
+**研究人员：**XXX
+**报告时间：**XXX
+------
+正文内容
+------
+结尾内容
+[[/div]]
+[[/code]]
+
+------
+正文内容
+------
+结尾内容
+[[/div]]
+
+[[div class="bettercollap styledcollap"]]
+[[collapsible show="展开内容" hide="收起内容"]]
+
+[[code]]
+[[div class="bettercollap styledcollap"]]
+[[collapsible show="展开内容" hide="收起内容"]]
+被折叠的内容
+[[/collapsible]]
+[[/div]]
+[[/code]]
+
+p.s.我准备制作一个这个版式的绿色版本。
+“瞻彼淇奥，绿竹猗猗。”
+相信我，那个会清爽很多。
+[[/collapsible]]
+[[/div]]
+
+[[div class="bettercollap styledcollap"]]
+[[collapsible show="代码" hide="收起"]]
+
+[[module css show="true"]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "ancient-rock";
+    --theme-name: "ancient-rock Theme";
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾经来过这里";
+
+    --white-monochrome: 213,196,161;
+    --pale-gray-monochrome:240,217,171;
+    --light-gray-monochrome: 160, 160, 160;
+    --gray-monochrome: 154,122,94;
+    --black-monochrome: 25, 20, 16;
+    --bright-accent: 186,134,81;
+    --medium-accent: 158,139,102;
+    --dark-accent: 181,118,70;
+    --pale-accent: 186,134,81;
+    --link-color: 206,99,66;
+    --hover-link-color: 187, 0, 34;
+    --visited-link-color: 153,102,102;
+    --component-bg-dark:137,98,69 ; 
+    --component-bg-light:137,98,69;
+
+
+    --body-font: Inter, "Noto Serif SC", Courier New, serif;
+    --header-font: Inter, "Noto Serif SC", Courier New, serif;
+    --mono-font: Recursive, "Noto Sans SC", Consolas；
+
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --background-gradient-distance: 0rem;
+
+    
+
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.9) 0%,
+        rgba(var(--dark-accent), 0.9) 100%);
+
+
+#container {
+    background-image: radial-gradient(circle,
+        rgba(var(--pale-accent), 0.1) 50%,
+        transparent 0);
+}
+
+    --lh-red: #c0392b;
+    --lh-blue: #2980b9;
+    --lh-green: #27ae60;
+    --lh-dark-green: #16a085;
+    --lh-purple: #8e44ad;
+    --lh-orange: #e67e22;
+    --lh-yellow: #f1c40f;
+ 
+    --lh-paper-bg: 255, 251, 240;
+    --lh-string-color: 192, 57, 43;
+    --lh-book-color: var(--gray-monochrome);
+    --lh-tape-color: 90,90,90,0.3;
+    --lh-white-bg: 249,249,249;
+    --lh-dark-bg: 50, 50, 50;
+    --lh-highlighter: var(--bright-accent);
+    --lh-border-color: var(--gray-monochrome);
+    --lh-wiki-note-color: var(--bright-accent)
+}
+ 
+
+.grid-container{display:flex;flex-direction:row;flex-wrap:wrap;width:100%}.grid-container,.grid-container [class*=grid]{box-sizing:border-box}[class*=grid]{padding:5px}.grid{width:100%}.grid-large{width:75%}.grid-big{width:50%}.grid-medium{width:33.33%}.grid-small{width:25%}@media screen and (min-width:768px){.wd-grid-large{width:75%}.wd-grid,.wd-grid-big{width:50%}.wd-grid-medium{width:33.33%}.wd-grid-small{width:25%}}.text-hover-hide{opacity:0;transition:opacity .3s}.text-hover-hide:hover{opacity:1}.text-block-hide{background:rgb(var(--black-monochrome));color:rgb(var(--black-monochrome));transition:background .3s}.text-block-hide:hover{background:0 0}.text-blur-hide,.text-blur-hover-hide{filter:blur(.3rem);-webkit-filter:blur(.3rem) transition: blur .3s}.text-blur-hover-hide:hover{filter:blur(0);-webkit-filter:blur(0)}.lyric-box{text-align:center;font-size:1.05rem;display:flex;flex-direction:column;flex-wrap:wrap;justify-content:center}.lyric-box p{margin:1.5em auto}.lyric-box.with-bigger-line p{margin:3em auto}
+
+
+.reportblock,
+.reportblock-dark {
+    border: 2px solid rgb(var(--lh-border-color));
+    box-shadow: 0 0.1rem 0.2rem rgba(0,0,0,0.3);
+    background: rgb(var(--white-monochrome));
+    padding: 0.8rem 1.5rem;
+    padding-bottom: 0.4rem;
+    margin: 1.5rem auto;
+    margin-bottom: 1rem;
+    position: relative
+}
+ 
+.reportblock hr,
+.reportblock-dark hr {
+    background-color: rgb(var(--lh-border-color));
+    margin-left: -1.5rem;
+    margin-right: -1.5rem
+}
+ 
+.reportblock h1:first-child,
+.reportblock-dark h1:first-child {
+    position: absolute;
+    top: -1rem;
+    left: 1.5rem;
+    font-size: 110%;
+    font-weight: 600;
+    background: rgb(var(--lh-border-color));
+    color: #fff;
+    padding: 0.2rem 0.5rem;
+    margin: 0;
+}
+ 
+.reportblock-dark,
+.reportblock-dark h1 {
+    border-color: rgb(var(--lh-white-bg));
+    background: rgb(var(--lh-dark-bg));
+    color: #fff
+}
+ 
+.reportblock-dark hr {
+    background-color: rgb(var(--lh-white-bg));
+}
+ 
+.bettercollap {
+  margin: 1em 0;
+}
+ 
+.bettercollap .collapsible-block {
+  width: auto;
+  overflow: hidden;
+  border: 1px solid rgb(var(--lh-border-color))
+}
+ 
+.bettercollap .collapsible-block-content,
+.bettercollap .collapsible-block-link {
+  background: rgb(var(--white-monochrome));
+  padding: 0.5em
+}
+ 
+.bettercollap .collapsible-block-content {
+  padding-left: 1em;
+  padding-right: 1em
+}
+ 
+.bettercollap .collapsible-block-link {
+  color: rgb(var(--lh-border-color));
+  background: rgb(var(--white-monochrome));
+  transition: .3s;
+  display: block;
+}
+.bettercollap .collapsible-block-link:hover,
+.bettercollap .collapsible-block-unfolded .collapsible-block-link,
+.styledcollap.bettercollap .collapsible-block-link {
+  color: rgb(var(--white-monochrome));
+  background: rgb(var(--lh-border-color))!important;
+  text-decoration: none
+}
+ 
+.bettercollap .collapsible-block-link:hover a { color: rgb(var(--white-monochrome)) }
+ 
+.bettercollap .collapsible-block-link::before {
+  content: "\25BC";
+  display: inline-block;
+  margin-right: 0.5em;
+  transform: rotate(-90deg) scale(0.9)
+}
+.bettercollap .collapsible-block-unfolded .collapsible-block-link::before {
+   transform: rotate(0) scale(0.9)
+}
+ 
+.bettercollap .collapsible-block + .collapsible-block { border-top: none }
+ 
+.styledcollap.bettercollap .collapsible-block {
+  border-radius: 2px;
+  box-shadow: 0 0.1rem 0.2rem rgba(0,0,0,0.3)
+}
+ 
+.styledcollap.bettercollap .collapsible-block-content {
+  background-color: rgb(var(--pale-gray-monochrome));
+  border-width: 3px
+}
+ 
+.styledcollap.bettercollap .collapsible-block-link:hover {
+  background: rgba(var(--lh-border-color),0.95)!important;
+}
+[[/module]]
+[[/collapsible]]
+[[/div]]
+
+------
+
+[[/iftags]]
+
+[[iftags -版式]]
+[[/iftags]]
+[[module CSS]]
+:root {
+    --theme-base: "black-highlighter";
+    --theme-id: "ancient-rock";
+    --theme-name: "ancient-rock Theme";
+    --header-title: "The Backrooms";
+    --header-subtitle: "你曾经来过这里";
+
+    --white-monochrome: 213,196,161;
+    --pale-gray-monochrome:240,217,171;
+    --light-gray-monochrome: 160, 160, 160;
+    --gray-monochrome: 154,122,94;
+    --black-monochrome: 25, 20, 16;
+    --bright-accent: 186,134,81;
+    --medium-accent: 158,139,102;
+    --dark-accent: 181,118,70;
+    --pale-accent: 186,134,81;
+    --link-color: 206,99,66;
+    --hover-link-color: 187, 0, 34;
+    --visited-link-color: 153,102,102;
+    --component-bg-dark:137,98,69 ; 
+    --component-bg-light:137,98,69;
+
+
+    --body-font: Inter, "Noto Serif SC", Courier New, serif;
+    --header-font: Inter, "Noto Serif SC", Courier New, serif;
+    --mono-font: Recursive, "Noto Sans SC", Consolas；
+
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --background-gradient-distance: 0rem;
+
+    
+
+    --gradient-header: linear-gradient(to top,
+        rgba(var(--medium-accent), 0.9) 0%,
+        rgba(var(--dark-accent), 0.9) 100%);
+
+
+#container {
+    background-image: radial-gradient(circle,
+        rgba(var(--pale-accent), 0.1) 50%,
+        transparent 0);
+}
+
+    --lh-red: #c0392b;
+    --lh-blue: #2980b9;
+    --lh-green: #27ae60;
+    --lh-dark-green: #16a085;
+    --lh-purple: #8e44ad;
+    --lh-orange: #e67e22;
+    --lh-yellow: #f1c40f;
+ 
+    --lh-paper-bg: 255, 251, 240;
+    --lh-string-color: 192, 57, 43;
+    --lh-book-color: var(--gray-monochrome);
+    --lh-tape-color: 90,90,90,0.3;
+    --lh-white-bg: 249,249,249;
+    --lh-dark-bg: 50, 50, 50;
+    --lh-highlighter: var(--bright-accent);
+    --lh-border-color: var(--gray-monochrome);
+    --lh-wiki-note-color: var(--bright-accent)
+}
+ 
+
+.grid-container{display:flex;flex-direction:row;flex-wrap:wrap;width:100%}.grid-container,.grid-container [class*=grid]{box-sizing:border-box}[class*=grid]{padding:5px}.grid{width:100%}.grid-large{width:75%}.grid-big{width:50%}.grid-medium{width:33.33%}.grid-small{width:25%}@media screen and (min-width:768px){.wd-grid-large{width:75%}.wd-grid,.wd-grid-big{width:50%}.wd-grid-medium{width:33.33%}.wd-grid-small{width:25%}}.text-hover-hide{opacity:0;transition:opacity .3s}.text-hover-hide:hover{opacity:1}.text-block-hide{background:rgb(var(--black-monochrome));color:rgb(var(--black-monochrome));transition:background .3s}.text-block-hide:hover{background:0 0}.text-blur-hide,.text-blur-hover-hide{filter:blur(.3rem);-webkit-filter:blur(.3rem) transition: blur .3s}.text-blur-hover-hide:hover{filter:blur(0);-webkit-filter:blur(0)}.lyric-box{text-align:center;font-size:1.05rem;display:flex;flex-direction:column;flex-wrap:wrap;justify-content:center}.lyric-box p{margin:1.5em auto}.lyric-box.with-bigger-line p{margin:3em auto}
+
+
+.reportblock,
+.reportblock-dark {
+    border: 2px solid rgb(var(--lh-border-color));
+    box-shadow: 0 0.1rem 0.2rem rgba(0,0,0,0.3);
+    background: rgb(var(--white-monochrome));
+    padding: 0.8rem 1.5rem;
+    padding-bottom: 0.4rem;
+    margin: 1.5rem auto;
+    margin-bottom: 1rem;
+    position: relative
+}
+ 
+.reportblock hr,
+.reportblock-dark hr {
+    background-color: rgb(var(--lh-border-color));
+    margin-left: -1.5rem;
+    margin-right: -1.5rem
+}
+ 
+.reportblock h1:first-child,
+.reportblock-dark h1:first-child {
+    position: absolute;
+    top: -1rem;
+    left: 1.5rem;
+    font-size: 110%;
+    font-weight: 600;
+    background: rgb(var(--lh-border-color));
+    color: #fff;
+    padding: 0.2rem 0.5rem;
+    margin: 0;
+}
+ 
+.reportblock-dark,
+.reportblock-dark h1 {
+    border-color: rgb(var(--lh-white-bg));
+    background: rgb(var(--lh-dark-bg));
+    color: #fff
+}
+ 
+.reportblock-dark hr {
+    background-color: rgb(var(--lh-white-bg));
+}
+ 
+.bettercollap {
+  margin: 1em 0;
+}
+ 
+.bettercollap .collapsible-block {
+  width: auto;
+  overflow: hidden;
+  border: 1px solid rgb(var(--lh-border-color))
+}
+ 
+.bettercollap .collapsible-block-content,
+.bettercollap .collapsible-block-link {
+  background: rgb(var(--white-monochrome));
+  padding: 0.5em
+}
+ 
+.bettercollap .collapsible-block-content {
+  padding-left: 1em;
+  padding-right: 1em
+}
+ 
+.bettercollap .collapsible-block-link {
+  color: rgb(var(--lh-border-color));
+  background: rgb(var(--white-monochrome));
+  transition: .3s;
+  display: block;
+}
+.bettercollap .collapsible-block-link:hover,
+.bettercollap .collapsible-block-unfolded .collapsible-block-link,
+.styledcollap.bettercollap .collapsible-block-link {
+  color: rgb(var(--white-monochrome));
+  background: rgb(var(--lh-border-color))!important;
+  text-decoration: none
+}
+ 
+.bettercollap .collapsible-block-link:hover a { color: rgb(var(--white-monochrome)) }
+ 
+.bettercollap .collapsible-block-link::before {
+  content: "\25BC";
+  display: inline-block;
+  margin-right: 0.5em;
+  transform: rotate(-90deg) scale(0.9)
+}
+.bettercollap .collapsible-block-unfolded .collapsible-block-link::before {
+   transform: rotate(0) scale(0.9)
+}
+ 
+.bettercollap .collapsible-block + .collapsible-block { border-top: none }
+ 
+.styledcollap.bettercollap .collapsible-block {
+  border-radius: 2px;
+  box-shadow: 0 0.1rem 0.2rem rgba(0,0,0,0.3)
+}
+ 
+.styledcollap.bettercollap .collapsible-block-content {
+  background-color: rgb(var(--pale-gray-monochrome));
+  border-width: 3px
+}
+ 
+.styledcollap.bettercollap .collapsible-block-link:hover {
+  background: rgba(var(--lh-border-color),0.95)!important;
+}
+ 
+[[/module]]

@@ -1,0 +1,108 @@
+[[include :backrooms-wiki-cn:theme:newspaper |base = --]
+|color=grey
+]]
+
+[[include component:level-class
+|lang=cn
+|class=0
+|three=无害实体
+]]
+**Level IF-286**是后室IF层群的第286层。
+
++ **描述：**
+[[div class="NP-image-tape"]]
+[[include component:image-block
+|name= http://liminaldoctor.wdfiles.com/local--files/gallery/shelf
+|caption=**Level IF-286**内众多货架中的一个。
+]]
+[[/div]]
+**Level IF-286**表现为一家零食店，零食店内有许多的货架，货架上摆放着许多零食，偶尔会有[https://backrooms-wiki-cn.wikidot.com/object-1 杏仁水]、[https://backrooms-wiki-cn.wikidot.com/object-5 糖果]、[https://backrooms-wiki-cn.wikidot.com/object-28 幸运豆奶]和[https://backrooms-wiki-cn.wikidot.com/object-51 一些口袋]，这些零食的包装上基本都是英文，小概率包装上会出现日文。层级内十分凉爽，其温度保持在0～10°C之间。该层级内的天花板上每隔2米将会出现一个灯，这些灯永远不会熄灭，暂不知晓其能源从何而来。若流浪者拿走了货架上的零食，零食将会在1秒后自动补充。
+[[div class="NP-image-tape"]]
+[[include component:image-block
+|name=https://images.unsplash.com/photo-1691926495391-73c7cb90418a?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+|caption=**Level IF-286**中的购物车。
+]]
+[[/div]]
+该层级内偶尔会出现大量的购物车，这些购物车整整齐齐的排列在一起，若流浪者推走一辆购物车且把物品放在了购物车里，则放在购物车里的物品的数量将会多出原来的一倍。
+
+该层级内存在窗户，这些窗户大部分都是受11效应影响的[https://backrooms-wiki-cn.wikidot.com/entity-2 Entity 2]，小部分则为普通窗户。从普通窗户向外看会看到一座下着暴雨的城市[[footnote]] 有人推测窗外的景象是暴雨状态的[https://backrooms-wiki-cn.wikidot.com/level-c-28 Level C-28]但未被证实 [[/footnote]]。
+
+在该层级内偶尔也可见到[[[http://backrooms-wiki-cn.wikidot.com/level-11|Level 11]]]中的无面灵在这里四处购物，这些无面灵似乎感受不到流浪者的存在，若无面灵撞到了流浪者无面灵则会十分疑惑随后继续购物。
+
+在该层级内可能会听到物品从货架上掉下的声音、风声、雨声、雷雨声、手推车声，以及跟踪着你的脚步声，有时你会感觉有人在注视着你，但周围却空无一人。收银台是空的，里面没有工作人员。在头顶的扬声器上经常会传出内容随机的公告声，标识牌上也可以看到写着随机的单词。
+[[div class="NP-image-tape"]]
+[[include component:image-block
+|name=http://backrooms-wiki.wikidot.com/local--files/trimmed:level-176/Level-176.jpg
+|caption=一个特殊的饼干。
+]]
+[[/div]]
+在**Level IF-286**内，有小概率会出现特殊的零食，这些零食与普通的零食一模一样，唯一不同的是，包装上必会有“176”这个数字。以下是吃完这类食物发生的事情与发生的概率：
+
+|| 发生的事件 || 发生的概率 ||
+|| 切入安全层级 || 50% ||
+|| 体能增强 || 15% ||
+|| 传送到休息区 || 25% ||
+|| 传送到生存难度3的层级 || 9% ||
+|| 到达Level 176 || 1% ||
+
++++ 休息区
+
+[[div class="NP-image-tape"]]
+[[include component:image-block
+|name= https://images.unsplash.com/photo-1609587611471-be23d7344d81?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+|caption=休息区中的床。
+]]
+[[/div]]
+
+若你打开了一个贴着“仅限员工”的门，你将进入休息室。休息室是Level IF-286中的一个区域，里面有众多沙发、桌子和，看上去是一间无尽的大厅。大厅内的沙发和床可以安全使用，有时你可以听到背景中传来对话声。在这个地方生活是安全的，建立团体也是如此。当流浪者在床上睡觉，将会感到惬意以及舒适，据流浪者报告称，这种感觉是前所未有的。
+
+床的旁边通常摆放着一个书柜，书柜上的书一般只有寥寥几本，其中包括：《三体》、《活着》、《沙丘》、《骆驼祥子》和《朝花夕拾》等。
+
+[[div class="NP-image-tape"]]
+[[include component:image-block
+|name=http://if-sandbox.wikidot.com/local--files/open:level-if-286/IMG_7311.jpeg
+|caption=Backbili上用户“梦C梦卡-”拍摄的关于Level IF-286的视频，标题为“B.O.P.占领虚妄归档😱”
+|align=center
+|width=500px
+]]
+[[/div]]
+
++ 基地，前哨和社区
+
+++++ B.O.P - “购物”基地
+
+B.O.P是唯一在该层级内建设大型基地的组织。该基地设建在休息室内通往[[[http://backrooms-wiki-cn.wikidot.com/level-5|Level 5]]]的木门附近，以指引流浪者到达[[[http://backrooms-wiki-cn.wikidot.com/level-5|Level 5]]]。该基地的常驻人员有1000多人，这些人经常收集该层级内的特殊零食并在其他层级售卖。
+
++ **入口和出口**
+
+++++++ 入口
+
+* 在[[[http://backrooms-wiki-cn.wikidot.com/level-11|Level 11]]]找到一个关于新食品店开张的广告牌并切入。
+* 在[[[http://backrooms-wiki-cn.wikidot.com/level-29|Level 29]]]中找到一张关于**Level IF-286**的画并切入。
+* 在[[[http://backrooms-wiki-cn.wikidot.com/level-20|Level 20]]]找到一箱食物，然后吃掉里面的东西。
+* 在[[[Level IF-284]]]中进入一家便利店并在员工室等待几小时。
+
+++++++ 出口
+
+* 在洗手间找到一个洞口，它会使你来到[[[http://backrooms-wiki-cn.wikidot.com/level-34|Level 34]]]。
+* 找到一扇有着黑色粘稠物质的门将使你来到[[[http://backrooms-wiki-cn.wikidot.com/level-20|Level 20]]]。
+* 如果你在本层中探索了100英里，商店将会不知不觉中转变为[[[http://backrooms-wiki-cn.wikidot.com/level-177|Level 177]]]。
+* 在休息室中找到一扇木门会来到[[[http://backrooms-wiki-cn.wikidot.com/level-5|Level 5]]]。
+
+------
+
+[[=]]
+[[collapsible show="作者信息" hide="隐藏作者"]]
+作者为[[*user HxneyBee]]。
+译者：[[*user DigIntoGrave]]
+重写者[[*user haodemingzi]]
+批评与建议[[*user caikunzitaimei]]、[[*user Aaaaaaak820max]]
+
+[[/collapsible]]
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-285]]] | Level IF-286 | [[[Level IF-287]]] >>
+[[/=]]
+[[/div]]

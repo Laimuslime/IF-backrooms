@@ -1,0 +1,75 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|lang=cn
+|class=0
+]]
+**Level IF-86**是后室IF层群的第86层。
+
++ **描述：**
+**Level IF-86**表现为一个占地面积约500㎡的餐厅。该层级是一个可供流浪者暂时休憩的好地方。**Level IF-86**餐厅的装修风格类似于前厅21世纪的现代餐厅，部分流浪者声称待在该层级有种**回到家**的感觉，目前已证实这是**Level IF-86**中的一种对人体无害的精神影响。
+
+[[include component:image-block
+ |name=http://mck-backrooms.wikidot.com/local--files/level-mck-86/chaoniubi
+ |caption=**Level IF-86**的餐厅
+]]
+**Level IF-86**中的环境总是保持着“一尘不染”，流浪者待在本层级会时刻有着一种**舒适**的感觉。当流浪者坐在座位上时，**“服务员”**会主动靠近流浪者并拿出菜单让流浪者点菜，当流浪者在菜单上勾出所选菜品后，**“服务员”**会将菜单拿到后厨处。大约20分钟后，无论流浪者点了多少菜，均会全部上齐。
+
+**Level IF-86**中的菜品大多为前厅中常见的家常菜，但该层级中也含有独有的菜，如：
+
+++ 时钟堡
+类似普通的汉堡，只不过顶层的面饼上有着类似时钟的纹理，味道同普通汉堡。有流浪者声称吃完这个汉堡后似乎能短暂的回到流浪者的童年时期。
+
+++ 时钟蛋糕
+蛋糕胚与普通蛋糕一模一样，顶上由白色奶油与巧克力酱做成类似时钟表盘的图案，味道甜而不腻，是**时钟餐厅**的招牌菜。流浪者吃完蛋糕会随机的回忆起令自己难忘的事。
+
+[[include component:image-block
+ |name=http://mck-backrooms.wikidot.com/local--files/level-mck-86/fe5d537b63c92030.jpg
+ |caption=**Level IF-86**里的时钟
+]]
+**Level IF-86**的餐厅的墙面上有着许多时钟，这些时钟的转动速度与前厅中的时钟一模一样，--并且与前厅的时间一模一样！--**未被证实**。**Level IF-86**中的时钟能够无限转动，表盘不会被弄脏，无法被破坏。
+
+**Level IF-86**有着窗户，窗户外是一片城市，因此，**The M.E.G.**猜测**Level IF-86**实际为一片现代城市，但当流浪者走出**Level IF-86**餐厅的大门后，不久后又莫名回到了餐厅内部。**Level IF-86**似乎存在着一种**时间循环**能力，虽然流浪者能够离开餐厅，但时间总是像有某种规律似的，阻止着流浪者深入该层。最终，**The M.E.G.**放弃了开发**Level IF-86**的想法。
+
++ **实体**
+**Level IF-86**中仅有一些友善的无面灵及无面灵服务员
+
++ **基地，前哨和社区**
+
+++ **The M.E.G.**“Time Restaurant”基地
+* 10-15人
+* 友好
+* 多待在大门处，指引流浪者离开该层级
+
+++ **The M.E.G.**“Clock City”探索基地
+* **位置信息封锁**
+* 10人
+* 研究**Level MCK-86**的性质与计划开发**Level IF-86**餐厅外的城市
+
++ **入口和出口**
+
+++++++ 入口
+* 在任何一个城市层级看到一个挂着**时钟餐厅**招牌的餐厅建筑时，进入该建筑即可来到**Level IF-86**
+++++++ 出口
+* 从大门走出执行直行100米会回到来时的层级
+* 在本层级入睡会来到随机一个安全层级
+
+
+          **“时钟转着前厅的时间，汉堡藏着童年，门后是循环——这餐厅，是后室难得的温柔，也是走不出的城。”**
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+作者 [[*user xie5]]，新出炉的烂文
+第一张图片图源感谢[[*user algodoo]]
+餐厅https://pixabay.com/photos/jifeng-restaurant-restaurant-6958890/
+时钟https://unsplash.com/photos/a-white-clock-with-black-hands-on-a-wall-QvdXiVzRFGk
+[[/collapsible]]
+[[/>]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-85]]] | Level IF-86 | [[[Level IF-87]]] >>
+[[/=]]
+[[/div]]

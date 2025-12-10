@@ -1,0 +1,344 @@
+[[module CSS]]
+:root {
+   --theme-base: "black-highlighter";
+   --theme-id: "brown-theme";
+   --theme-name: "Brown Theme";
+ 
+   logo-image: url("http://backrooms-wiki.wikidot.com/local--files/component:theme/logo.svg");
+   --header-title: "The Backrooms";
+   --header-subtitle: "你曾经来过这里";
+ 
+   --header-font: 'CKTKingKong', 'Staatliches';
+   --title-font: 'CKTKingKong', 'Staatliches';
+   --body-font: 'Noto Serif SC', 'Noto Serif SC', PT Serif;
+   --mono-font: 'Fantasque Sans Mono', '等线', monospace;
+ 
+   --white-monochrome: 245, 243, 237;
+   --pale-gray-monochrome: 255, 253, 250;
+   --light-gray-monochrome: 199, 186, 160;
+   --gray-monochrome: 47, 38, 24;
+   --black-monochrome: 40, 26, 13;
+   --bright-accent: 225, 161, 27;
+   --medium-accent: 175, 124, 19;
+   --dark-accent: 163, 75, 21;
+   --pale-accent: 159, 146, 120;
+   --alt-accent: 196, 74, 38;
+ 
+   --gradient-header: linear-gradient(to top,
+      rgba(var(--medium-accent),1) 0%,
+      rgba(var(--dark-accent), 1) 100%
+   );
+ 
+   --swatch-headerh1-color: var(--pale-gray-monochrome);
+   --swatch-headerh2-color: var(--pale-gray-monochrome);
+   --swatch-topmenu-border-color: var(--black-monochrome);
+   --swatch-topmenu-bg-color: var(--black-monochrome);
+ 
+   --link-color: 210, 105, 30;
+   --visited-link-color: 139, 69, 19;
+   --new-page-color: 101, 67, 33;
+   --hover-link-color: 47, 38, 24;
+ 
+   --rating-module-button-color: 187, 75, 21;
+   --rating-module-text-color: 187, 75, 21;
+ 
+   --background-gradient-distance: 6rem;
+ 
+   --diagonal-stripes: linear-gradient(transparent 0);
+}
+ 
+#side-bar .side-block div a img {
+   filter: grayscale(100%);
+}
+ 
+#skrollr-body {
+    background-image: none;
+}
+ 
+#container {
+   background-image: none;
+   background-size: 0.25em 0.25em;
+   background-repeat: repeat;
+   background-attachment: fixed;
+}
+ 
+div#page-options-bottom-2 > a, div#page-options-bottom > a {
+   border-radius: 0em;
+   -moz-border-radius: 0em;
+   border: none;
+}
+ 
+div#page-options-bottom-2 > a:active, div#page-options-bottom-2 > a:hover, div#page-options-bottom > a:active, div#page-options-bottom > a:hover {
+   border: none;
+}
+ 
+#header, #top-bar {
+   background-attachment: scroll;
+}
+ 
+#header {
+   background-image: none;
+}
+ 
+#header::before {
+   content: "";
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   left: 0;
+   top: 0;
+   background-image: var(--logo-image);
+   background-size: auto 16rem;
+   background-position: center;
+   background-repeat: no-repeat;
+   opacity: 0.4;
+}
+
+#header h1, #header h1 a {
+   position: absolute;
+   top: 1rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   z-index: 0;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+   position: absolute;
+   top: 2rem;
+   margin: 0;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+ 
+#header h1 a::before, #header h2 span::before {
+   text-shadow: .063rem 0.1rem 0.1rem #6c4d21;
+}
+ 
+#footer{
+   color: rgb(var(--medium-accent));
+}
+ 
+a.newpage {
+   background: transparent;
+   text-decoration: none
+}
+ 
+a.newpage {
+   color: rgb(var(--newpage-color))
+}
+ 
+#search-top-box-input:hover,
+#search-top-box-input:focus {
+    background: rgba(var(--medium-accent), .85);
+}
+ 
+#top-bar div.top-bar > ul > li > a,
+#top-bar div.mobile-top-bar > ul > li > a {
+   color: rgb(var(--white-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li > a:hover,
+#top-bar div.mobile-top-bar > ul > li > a:hover {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#top-bar div.top-bar > ul > li:hover > a,
+#top-bar div.mobile-top-bar > ul > li:hover > a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#login-status {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status a {
+    color: rgb(var(--black-monochrome));
+}
+ 
+#login-status ul a {
+    color: rgb(var(--pale-gray-monochrome));
+}
+ 
+#account-topbutton {
+    color: rgb(var(--black-monochrome));
+}
+ 
+table.wiki-content-table th {
+   background-color: rgb(var(--pale-gray-monochrome)) !important;
+   color: rgb(var(--black-monochrome));
+   border-color: rgb(var(--black-monochrome));
+}
+
+.scp-image-block {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+blockquote,
+div.blockquote {
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.styled-quote {
+   background-color:rgb(var(--pale-gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--bright-accent),1);
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+ 
+.dark-styled-quote {
+   background-color:rgb(var(--gray-monochrome));
+   border-left: 0.4rem solid rgba(var(--dark-accent),1);
+   color:rgb(var(--white-monochrome));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+.dark-styled-quote hr{
+   color: rgb(var(--dark-accent));
+}
+ 
+.shadeblock {
+   background-color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(76,35,0,.25);
+}
+.darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(76,35,0,.25);
+   color: rgb(var(--black-monochrome));
+}
+ 
+.float-darkerblock {
+   background-color:rgb(var(--gray-monochrome));
+   color:rgb(var(--white-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.4rem 0.4rem rgba(225,161,27,1);
+}
+.float-darkblock hr {
+   color: rgb(var(--pale-gray-monochrome));
+}
+ 
+.float-lightblock {
+   background-color:rgb(var(--pale-gray-monochrome));
+   color:rgb(var(--black-monochrome));
+   padding: 0.01rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.3rem 0.3rem rgba(12,11,0,1);
+}
+ 
+.bd-lightblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--black-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--pale-gray-monochrome));
+    border: solid 0.3rem rgb(var(--bright-accent));
+}
+.bd-lightblock hr {
+   background-color:rgb(var(--bright-accent))
+}
+ 
+.bd-darkerblock{
+    padding: 0.01rem 1rem;
+    box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+    color:rgb(var(--white-monochrome));
+    margin: 0.5rem 0 0.5rem 0.25rem;
+    display: block;
+    position: relative;
+    background-color: rgb(var(--gray-monochrome));
+    border: solid 0.3rem rgb(var(--dark-accent));
+}
+.bd-darkerblock hr {
+   background-color:rgb(var(--dark-accent))
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:title
+
+|1=变色龙
+
+|2=你欣赏我，我欣赏你
+
+]]
+[[>]]
+[[module Rate]]
+[[/>]]
+[[include component:level-class
+|class=3
+|color=#d78900
+|one=不安全
+|two=不稳定
+|three=潜在精神影响
+|lang=cn
+]]
+**Level IF-38**是后室IF层群的第38层。
++ **描述**
+Level IF-38是一处非线性空间，其已经探明的大小约为2300平方千米，当然理论上的面积比这个数据要更大。想要进入该层级是十分困难的，加之的层级存在的特殊环境对于我们的探索工作产生了阻碍，因此我们对于该层级所了解的信息较少，这个层级并没有被探索完全。
+
+这个层级的外观类似于一个艺术画作展览馆，内部面积相当大，远远超过了正常艺术展览馆的面积。当然这个面积数值并没有上限，由于之前所解释过的原因，这个层级应该在四个方向上无限延伸。地板用白色瓷砖铺成，表面明显被打磨过，呈现出磨砂质感。墙壁似乎被粉刷完不久，浓郁的油漆味充斥着这里。构成层级内部的走道或者展厅面积都非常大，白色墙壁上所放置的展览品显得分布的有些稀疏。
+
+[[include component:image-block
+|name=https://file.ahelpers.com/convert/outputs/image/2025-06-01/f4v5syybxjj_1748764969920.jpg
+ |caption=**Level IF-38** 里所摄下的第一幅照片。
+]]
+
+当流浪者在层级内探索时，常常因为宽敞的空间而产生不安全的感觉。但是由于这个层级内部只有走道或者展厅这两种结构，会使人产生无处可逃的不快感。日光灯由交错在走廊和展厅上方的金属框架所固定，电源异常而无法关闭。这些日光灯在工作时不会发出任何的声音，单调无味地向下射出洁白的光线。过于强的亮度常常使流浪者间歇性失明。
+
+Level IF-38内部的所有物体都表现出极其坚固的特性，它们无法破坏，仅仅只会在相互碰撞的时候发出一点响声，之后迅速消散于安静的空气之中。实际上，本层极少有可以被观测到的声源，即使是流浪者本身发出来的声音也会迅速被本层级的建筑材料吸收。强光以及死寂将会逐渐消磨流浪者的理性感知，随着时间的流逝流浪这将会出现狂躁或者局促不安的症状。
+
+本层级也具有不稳定的性质，之前已经说过本层级是一个非线性空间。地形形态转化在Level IF-38相当常见，更像是不同结构的随机组合。在绝大多数情况下，这种组合并不符合逻辑。比较典型的例子是，一条走廊上所标注的备注是“通往A展厅”，但实际上这条走廊可能会通向B展厅甚至是另一条走廊。贸然相信本层级自发产生的方向指引是不可取的，这会将人带到更深层的区域并且加速迷失，流浪者应该避免这类行为。
+
+指南针，GPS之类的导航系统在本层级之内无法使用。通讯设备在本层级内这会受到更加严重的影响，它们传递的信息将会被本层级自发的篡改，这些被污染过的信息将会继续污染流浪者的理智并且增加他们切出本层级的难度。本层级同时存在孤立效应，即使两名流浪者能同时切入该层级，他们能够相遇的概率也微乎其微。最为安全的做法是，层级内的流浪者应当独自行动。
+
+**“画作”**：
+小心这些画作。它们并非画作。
+之前已经说过，本层级表现为一个艺术展览馆。在每一面墙上都会陈列着一些画作。但如果流浪者仔细观察就会发现，这些所谓的画作其实是不同人物的照片。这些照片都为人物的肖像照，上面的人物类型多样，从不同人种的人物到不同年龄的人物，在Level IF-38内部都被观测过。
+
+当流浪者在这些肖像的面部范围内移动时，常常会产生一种被注视的感觉，即使这些肖像的眼睛部位似乎都被人恶意涂黑了。每一副肖像的眼睛都被涂黑过，这些黑色颜料经过化学成分分析含有人体组织。肖像的下半部分表情极度夸张，保持着不正常幅度的笑容并且令人不安。当流浪者不去观察它们时，这些肖像的面部表情会发生微妙的变化，重新恢复观察时这种变化仍会持续一个非常短的时间，产生一种类似于定格动画的效果。
+
+流浪者在肖像周围时，将会产生幻觉。绝大多数都是听见这些肖像所发出来的呼吸声。这些呼吸声和肖像的身份是吻合的，例如老人的肖像会发出嘶哑而低沉的呼吸声。这些呼吸声也对应着肖像的口型，其存在着类似于吹气声，叹息声或喘气声等不同的种类。这时流浪者应该保持理智，不要惊慌失措。
+
+随着流浪的逐渐深入，这些肖像的外观将会逐渐发生变化。这些肖像就会逐渐转化为流浪者所熟悉的对象，包括在前厅的家人或者朋友。一旦进入理智丧失的最终阶段，肖像的数量将会迅速增多，并且全部转化为流浪者的面部外貌。这种现象产生时，流浪者将会在短时间内失联。我们暂时不知道这些流浪就得下落在何处，可能已经在Level IF-38的深处死亡，但是人类的尸体从未在本层级被发现过。
+
++ **基地、前哨与社区**
+由于层级的孤立效应，流浪者们难以形成大型的聚集，同时由于资源匮乏，任何尝试建立据点的行为都将失败。故层级内不存在已知的基地，前哨站与社区。
+
++ **入口与出口**
+++++++ 入口
+* 想要进入Level IF-38是极为困难的。绝大多数流浪者都是在某个层级内因为突然感受到一阵被注视着的感觉后来到这里的。比较常见的入口可能位于[[[Level IF-6]]]。
+++++++ 出口
+* 与之相反的，离开这个层级较为容易。游荡足够长的时间，在墙上发现一扇门，进入这一扇门将会切[[[Level IF-39]]]。
+
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user Meilemeweng]]
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-37]]] | Level IF-38| [[[Level IF-39]]] >>
+[[/=]]
+[[/div]]

@@ -1,0 +1,139 @@
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+
+
+[[module css]]
+:root {
+   --logo-image: url("https://imgurl.diadi.cn/imgs/2025/08/2196b9acef0caeb8.png");
+   --header-title: "自是草池坝";
+   --header-subtitle: "向着梦核与妄想进发";
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:level-class
+|lang=cn
+|class=0
+|one=宁静
+|two=倘若梦
+|three=触达天堂
+]]
+**Level IF-100**是后室 IF 层群的第 100 层。
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/6536e99ddf8380cf.jpeg
+|caption=关于 **Level IF-100** 一张最流行的图片，拍摄者不明。
+|align=center
+]]
++ **描述：**
+
+任何流浪者在切入**Level IF-100**均将抵达层级中央的房屋中，房屋的墙壁由混泥土构成，整体结构类似于刚翻新或刚修建完的样子，但流浪者触摸时又会像是光滑的玻璃瓷砖，任何破坏的尝试均无法对房屋造成任何损害。在流浪者意识清醒时摆在面前的就是通往层级之外的通道，房间内虽昏暗，但只需流浪者往自己左手边走就可看见灯光开关，在打开后房屋内的灯光将会亮起，此时流浪者手上就会多出一张纸条，纸条与前厅中的书写纸张无异，纸条上写着[[span class="ruby"]]这是你曾经的梦[[span class="rt"]]This is the dream you once had.[[/span]][[/span]]，每一名拿到该纸条的流浪者，纸条上的内容均相同。
+
+在打开房屋内的灯光开关后，整个层级将从白天转变为黑夜，在关上开关后层级内部将恢复至白天之景。在切入**Level IF-100**后，于所处原点向后转，可以在一张崭新的桌子上拿取两瓶口感类似于西瓜汁或苹果汁[https://backrooms-wiki-cn.wikidot.com/Object-1 杏仁水]，通过测验：这些杏仁水的效果是常规杏仁水的 5.2~10.6 倍左右，且不存在副作用，暂未探测到食毒存在。房屋内部存在着多个房间，每一个房间都有着**非欧几里得空间**属性，以流浪者视角而言简称 “里面比外面大” ，但异常的是房间存在多处人造痕迹，就说明**这些房间很有可能是某位流浪者制造**，暂未调查清楚此情况。
+------
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/3fec0e44867e470a.jpg
+|caption=**Level IF-100**内，一条通往其他空间的途径，
+|align=center
+]]
+
+**Level IF-100**向原点四面八方处无限延伸，在延伸到一定程度就会出现断层，断层会将一处完整空间分裂成两处新空间，因层级特殊效应，不同的空间会发展出不一样的景象，因此**层级的景象是割裂的**，就如同梦景般，但即使是割裂，区域与区域之间的断层带会出现一种“过渡状态”，完美锲合两处不同的空间，因此**层级的景象是接合的**，就像是看似两个毫无相关的音乐，但于重合后却创造出非凡的效果。**这就是割裂之梦的核心，不失真的梦境，真实的幻想。**
+
+如果流浪者想要前往这些割裂的区域，就需要通过本层级特有的的“桥梁”——**[[span class="ruby"]]「途径」[[span class="rt"]]“The road you have traveled.”[[/span]][[/span]]**。就如前文所述，「途径」就像是桥梁，将两处“岛屿”相互连接，流浪者就可以通过“桥梁”来横跨岛屿之间的“水域”，如果不借助「途径」，流浪者将无法跨越区域之间的断层，强行接近会被一道看不见的空气墙阻拦，任流浪者使用何种手段都无济于事。
+
+------
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/82795662258db791.jpg
+|caption=**Level IF-100**所发现的第一处建筑型空间，此时该空间处于接近降雨的状态。
+|align=center
+]]
+
+在流浪者成功通过「途径」穿越“断层带”后，通常会将流浪者来到一处无限重复的小镇，这里我们以第一个被发现的建筑型空间为例：小镇向前后无限延伸，道路呈现出坑洼、荒废的景象，且地面上的水永远不会干涸，流浪者在走过这些水坑后，水坑会恢复原状，任流浪者如何踩踏都不会有所影响。进入道路两旁的建筑物中，建筑物与街道一样无限重复并向前后无限延伸。
+
+建筑物内部均为空房间，从外处观测房屋就像是年 久失修或荒废已久 的老房屋，内部景象却呈现出 刚装修完/刚翻新完 之景，如果将物品放入房屋内，物品则不会发生任何改变，这说明房屋是可以正常供流浪者居住，但由于层级仅供一名流浪者停留，因此无人会在本层级的房屋内生活。
+
+每隔一段时间，层级就会发生前厅中的天气之景，少见的有 降雨、降雪、冰雹 ，往往会出现的则是一些自然灾害，例如 台风、龙卷风 等，由于特殊效应，这些天气/灾害 并不会影响流浪者自身，并且巧妙的规避流浪者。
+
+------
+
+++ **实体：**
+该层级不存在任何实体。
+
+++ **入口与出口：**
+
++++ 入口
+所有进入该层级的流浪者都于偶然间切入该层级。
+
++++ 出口
+[[tabview]]
+[[tab 水域型]]
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/d87f7ac2aad6e4ee.jpeg
+|caption=海洋之景。
+|align=center
+]]
+流浪者如果猛得跳入水坑中，就会突然进入一片海洋并昏迷，此刻流浪者可能会来到——
+[[div class="blockquote"]]
++++ [[[https://backrooms-wiki-cn.wikidot.com/Level-7|Level 7]]]
+++++ 生存难度 等级4
+[[/div]]
+
+[[div class="blockquote"]]
++++ [[[https://backrooms-wiki-cn.wikidot.com/Level-37|Level 37]]]
+++++ 生存难度 等级0
+[[/div]]
+
+[[div class="blockquote"]]
++++ [[[Level IF-97]]]
+++++ 生存难度 等级3
+[[/div]]
+
+[[/tab]]
+[[tab 厕所型]]
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/633cf3fe007ff1ec.jpeg
+|caption=净之美。
+|align=center
+]]
+在探索任意一处建筑时，流浪者可能会偶尔发现一间显得格格不入的厕所，在 进入/切入 房间以后，流浪者将会来到——
+[[div class="blockquote"]]
++++ [https://backrooms-wiki-cn.wikidot.com/level-189 Level 189]
+++++ 生存难度 等级2
+[[/div]]
+[[/tab]]
+[[tab 通道型]]
+[[include component:image-block
+|name=https://imgurl.diadi.cn/imgs/2025/08/fcb74012e04f5232.jpeg
+|caption=未知之美
+|align=center
+]]
+如果流浪者幸运，在建筑中探索时看见一处异常的通道，沿着通道走流浪者将会来到——
+[[div class="blockquote"]]
++++ [https://backrooms-wiki-cn.wikidot.com/Level-13 Level 13]
+++++ 生存难度 等级2e
+[[/div]]
+[[/tab]]
+[[/tabview]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-99]]] | Level IF-100 | [[[Level IF-101]]] >>
+[[/=]]
+[[/div]]
+[[>]]
+[[collapsible show="作者信息" hide="折叠"]]
+**作者：**[[*user user CCB]]
+此文章在S分也有投递，点[https://backroomss.wikidot.com/level-s-190 此]查看。
+看看我的其他作品吧。
+[[include :brsandbox-mini:user-ccb-is-page]]
+[[/collapsible]]
+[[/>]]
+
+[[include :backrooms-wiki-cn:component:license-box
+|lang=CN
+|author=user CCB
+]]
+=====
+
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

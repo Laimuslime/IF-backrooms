@@ -1,0 +1,31 @@
+[[include component:level-class
+|class=1
+|lang=cn
+|one=安全
+|two=不稳定
+|three=实体绝迹
+]]
+**Level IF-XXX**是后室IF层群的第XXX层。
++ **描述**
+描述正文
++ **基地、前哨与社区**
+++ 社区A
+* 特点
+++ 基地B
+* 特点
++ **入口与出口**
+++++++ 入口
+* 进入方法
+++++++ 出口
+* 离开方法
+------
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+在此处添加作者信息（如果有），使用[[*user 你的wikidot用户名]]来标注作者
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-1]]] | Level IF-XXX | [[[Level IF-XXX+1]]] >>
+[[/=]]
+[[/div]]

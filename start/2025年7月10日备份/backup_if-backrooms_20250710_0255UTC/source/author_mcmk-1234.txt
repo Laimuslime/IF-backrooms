@@ -1,0 +1,243 @@
+[[module CSS]]
+:root {
+    /* S-CSS-P Integration */
+    --theme-base: "black-highlighter";
+    --theme-id: "foj-theme-modified";
+    --theme-name: "后室观测极点主题";
+ 
+    /* Header */
+    --header-title: "MCMK-1234";
+    --header-subtitle: "水文与水文";
+ 
+    /* 浅蓝白色配色方案 */
+    --white-monochrome: 255, 255, 255;
+    --pale-gray-monochrome: 245, 249, 252;
+    --light-pale-gray-monochrome: 220, 238, 255;
+    --very-light-gray-monochrome: 235, 245, 255;
+    --light-gray-monochrome: 200, 220, 240;
+    --gray-monochrome: 180, 200, 220;
+    --dark-gray-monochrome: 150, 180, 210;
+    --black-monochrome: 50, 100, 150;
+    
+    /* 蓝色系配色 */
+    --pale-accent: 200, 230, 255;
+    --bright-accent: 100, 180, 255;
+    --medium-accent: 70, 150, 230;
+    --dark-accent: 40, 120, 200;
+    --alt-accent: 120, 190, 255;
+ 
+    /* 背景和头部颜色 */
+    --background-gradient-color: var(--very-light-gray-monochrome);
+    --header-gradient-color-bottom: var(--medium-accent);
+    --header-gradient-color-middle: var(--bright-accent);
+    --header-gradient-color-top: var(--pale-accent);
+ 
+    /* 主要主题颜色 */
+    --swatch-background: var(--white-monochrome);
+    --swatch-primary: var(--bright-accent);
+    --swatch-primary-darker: var(--medium-accent);
+    --swatch-primary-darkest: var(--dark-accent);
+    
+    /* 文字颜色 */
+    --swatch-text-dark: var(--dark-accent);
+    --swatch-text-light: var(--white-monochrome);
+    --swatch-important-text: var(--bright-accent);
+    
+    /* 链接颜色 */
+    --link-color: var(--dark-accent);
+    --visited-link-color: var(--medium-accent);
+    --hover-link-color: var(--bright-accent);
+    --newpage-color: var(--alt-accent);
+}
+
+/* 保持其余CSS规则不变，颜色会自动应用新的配色方案 */
+#page-title {
+    border-color: rgb(var(--bright-accent));
+    color: rgb(var(--dark-accent))!important;
+    font-size: 2.2rem;
+    text-shadow: 1px 1px 3px rgba(var(--pale-accent), 0.5);
+}
+
+#header h2, #header h2 span {
+    font-size: 1.4rem;
+    color: rgb(var(--medium-accent));
+}
+
+/* 调整背景渐变使其更柔和 */
+body, #skrollr-body {
+    background-image:
+     linear-gradient(to top,
+       rgba(var(--header-gradient-color-bottom), 0.8) 0%,
+       rgba(var(--header-gradient-color-middle), 0.6) 50%,
+       rgba(var(--header-gradient-color-top), 0.4) 100%
+     ),
+     var(--gradient-background)!important;
+}
+
+/* 使块引用看起来像蓝色便签纸 */
+div.blockquote, blockquote {
+    background-color: rgba(var(--pale-accent), 0.7);
+    border-left: 4px solid rgb(var(--bright-accent));
+    box-shadow: 0 2px 5px rgba(var(--dark-accent), 0.1);
+}
+
+/* 表格样式调整 */
+table.wiki-content-table th {
+    background-color: rgba(var(--medium-accent), 0.8);
+    color: rgb(var(--white-monochrome));
+}
+
+/* 悬停效果 */
+a:hover {
+    color: rgb(var(--white-monochrome)) !important;
+    background-color: rgba(var(--medium-accent), 0.7);
+    text-decoration: none;
+    border-radius: 3px;
+}
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+--你好--**他好**//她好//##red|祂好####orange|它好####yellow|你们好####green|他们好####blue|她们好####grey|祂们好####black|它们好##各位##brown|早上####purple|中午####black|下午####pink|晚上##凌晨好，我是[[*user MCMK-1234]]，算了编不下去说什么了，别称梦C梦卡-/MCMK-，头像自己用创游世界画的，还有我不会代码，代码都是抄的，没错连这个版式都是用AI改的
+[[include :backrooms-to-dv:component:achievement
+|code=A-1
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-2
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-6
+]]
+[[tabview]]
+[[tab 层级]]
+= [[[Level IF-14|Level IF-14 - “玻璃制空中立方组合体”]]]
+入机一样的对话，平淡的正文 **##purple|紫##**
+----
+= [[[Level IF-30|Level IF-30 - “你赢了”]]]
+写的时候想的一堆典型场景结果没用上，不够详细惨遭肘击，复活用资料之力总算凑到几千字。**##grey|灰##**
+----
+= [[[Level IF-31|Level IF-31 - “木质结构”]]]
+平淡对吧，那就对了，做梦的时候梦到的。
+----
+= [[[Level IF-32|Level IF-32 - “深雾城区”]]]
+根据[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]的照片写出来的，出入口也是[[[https://backrooms-wiki-cn.wikidot.com/level-147|Level 147]]]。
+----
+= [[[Level IF-33|Level IF-33 - “太空前哨”]]]
+神秘朋友的AI文（疑似，也有点像真人），改了半天才写上去。
+----
+= [[[Level IF-36.1|Level IF-36.1 - “雾山废城”]]]
+与[[*user Suesa]]的合著文，之后可能有更多
+----
+= [[[Level IF-39|Level IF-39 - “黑暗之房”]]]
+到底写的时间有多短才能赶出这样的文章，，，**##black|黑##**
+----
+= [[[Level IF-43|Level IF-43 - “禁闭回廊”]]]
+云分N年前投的文章，写的时间不超过半小时。
+----
+= [[[Level IF-45|Level IF-45 - “甜蜜致死或是落寞永生”]]]
+勾式正文和勾式故事 **白**（当然因为版式原因用不了白）
+----
+= [[[Level IF-46|Level IF-46 - “黄昏之港”]]]
+我不会写 **##orange|橙##**
+----
+= [[[Level IF-47|Level IF-47 - “死之校垣”]]]
+哎呦我滴妈你别笑 **##brown|棕##**
+----
+= [[[Level IF-49|Level IF-49 - “饱满之房”]]]
+你们在伤害我。 **##orange|不是很黄的黄##**
+----
+= [[[Level IF-52|Level IF-52 - “冰镇”]]]
+冰镇可乐，钟摆式可乐。 **###70f3ff|青##**
+----
+= [[[Level IF-54|Level IF-54 - “森林”]]]
+好看的版式，爱来自暮色马克杠壹贰叁肆。 **##green|绿##**
+----
+= [[[Level IF-59|Level IF-59 - “简易空间”]]]
+哇，这是一个好的版式，即使是我也感到心潮澎湃，随便写的 **白**（版式原因！！！）
+----
+= [[[Level IF-61|Level IF-61 - “霞滨静城”]]]
+睡觉去吧 **##orange|橙##**
+----
+= [[[Level IF-63|Level IF-63 - “暗空悬房”]]]
+梦游的时候写的
+----
+= [[[Level IF-64|Level IF-64 - “晌午默景”]]]
+有一种正午带皮整榨的静谧感
+----
+= [[[Level IF-65|Level IF-65 - “林地之域”]]]
+经典塞小作文 **##green|绿##**
+----
+= [[[Level IF-66|Level IF-66 - “忆事之晚”]]]
+我怎么看不见小猫了😨😨😨厚实才是真实世界😱😱😱
+----
+= [[[Level IF-69|Level IF-69 - “影覆径道”]]]
+对不起Silver
+----
+= [[[Level IF-74|Level IF-74 - “暗无天日的街道”]]]
+没旧的好
+----
+= [[[Level IF-75|Level IF-75 - “移动与相交的无尽迷宫”]]]
+10分钟速写😎😎😎
+----
+= [[[Level IF-76|Level IF-76 - “NO DATA…？”]]]
+勾式原文和重写
+----
+= [[[Level IF-77|Level IF-77 - “过道”]]]
+代替了牢[NO DATA？]的新IF-77，感觉很普通。
+----
+= [[[Level IF-79|Level IF-79 - “循环走廊门”]]]
+乐吧
+----
+= [[[Level IF-81|Level IF-81 - “孤寂乡村”]]]
+暗黑心理学
+----
+= [[[Level IF-83|Level IF-83 - “无菌地狱”]]]
+人性的秘密
+----
+= [[[Level IF-87|Level IF-87 - “亮度节点”]]]
+不是你能别这样吗
+----
+= [[[Level IF-89|Level IF-89 - “车站走廊”]]]
+我有玉玉症
+----
+= [[[Level IF-90|Level IF-90 - “反重力等候厅”]]]
+玉玉症治好了
+----
+= [[[Level IF-93|Level IF-93 - “黑白展览馆”]]]
+你知道的原本我是想写一个0级的
+----
+= [[[Level IF-94|Level IF-94 - “无聊的门廊”“请注意观察”]]]
+请输入文字
+----
+= [[[Level IF-104|Level IF-104 - “空荡荡的商场”]]]
+眼花文
+----
+= [[[Level IF-105|Level IF-105 - C H A O S]]]
+批量甩卖流水线文
+----
+= [[[Level IF-106|Level IF-106 - “宁静沙滩”]]]
+傻子写的
+----
+= [[[Level IF-107|Level IF-107 - “极寒墓园”]]]
+失败作层级
+----
+= [[[Level IF-197|Level IF-197 - “永恒日常”]]]
+老文
+----
+= [[[Level IF-198|Level IF-198 - “半开放仓库”]]]
+为了图片写的层。
+----
+= [[[Level IF-199|Level IF-199 - “观测极点”]]]
+我是飞舞你们都来骂我。 **##blue|蓝##**
+= [[/tab]]
+[[tab 物品]]
+= [[[Object IF-4|Object IF-4 - “层级探索器”]]]
+我瞎写。
+----
+[[/tab]]
+[[tab 机翻润色层级]]
+= [[[Level 992|Level 992 - “体验”]]]
+原作者写的太好了。
+----
+[[/tab]]
+[[/tabview]]

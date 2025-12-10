@@ -1,0 +1,112 @@
+[[include :backrooms-wiki-cn:theme:super-liminal |nightmare=a]]
+[[include :backrooms-wiki-cn:theme:phobia |megalo=true]]
+[[module CSS]]
+:root {
+    --header-title: "暗影序章";
+    --header-subtitle: "Aluminum Rain City.";
+
+    --background-color: 0, 0, 0; /* 版式背景色 */
+
+   --link-color: 205, 204, 209;
+   --hover-link-color: 205, 204, 209;
+   --visited-link-color: 205, 204, 209;
+   --newpage-color: 205, 204, 209;
+}
+
+html {
+   -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+}
+
+.sd-container {
+
+    --sd-text: var(--text-color) !important; /* 顶部框文本颜色 */
+
+    --sd-bullets: var(--text-color) !important; /* 点句符文本颜色 */
+
+}
+[[/module]]
+
+[[=image http://scpsandboxcn.wikidot.com/local--files/bi1/LC1921-2.jpg]]
+
+> = {{永刑无休，铝潮葬灭。}}
+
+[[div class="lightblock"]]
+
+= {{**铝雨城**，一匿于后室之中邪恶而荒凉的永恒，其将无数无名客的生命定于同一条绳索——一人之痛，众人皆承。当外来者涉足此境，其鲜活生命将永不消逝，并与亿万魂灵为这城再添一砖一瓦。}}
+
+[[/div]]
+@@@@
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=死区
+|image=http://brsandbox-pro.wikidot.com/local--files/arc/sddz-mega.jpg
+|one=命运相连
+|two=痛苦分摊
+|three=浇铝成筑
+]]
+@@@@
+[[div class="blockquote"]]
+
+当某人跨过进入**铝雨城**的门槛，高温将吞噬其所处之地，地面渐渐软化塌陷，连带其上的一切坠入失色天空。黑云翻涌，雷电交加，无数残骸在坠落中崩解熔化，与无数铝液液滴交织下落。对于那些不幸的人来说，这一变量的突然出现不亚于羊入虎口——在这场不期而至的遭遇中，成为这生死乐章中的一个音符。
+
+铝液触物即凝，并彼此相融，化作血肉，将受害者在空中裹成银茧，并落入下方的失色楼群中。随后，茧蛹在铝雨的不断浇灌下重获新生，枝芽从中破出，在风雨中疯长，最终枝干化作摩天大楼，以无数无名客的血肉为基础刺向天空——宛如雨林中拔地而起的巨树，只不过这棵树是受害者的肉体。
+
+大厦即身躯，门窗即眼球——受害者同一个监控中心，同时拥有数十个视野，届时，深渊之景便在视野中尽数显露：乌云密布的天穹下，无数各式各样的失色高楼泛滥成灾，其彼此之间相互依附，或凌驾于其他高楼之上；铝飓风摧残着高楼，其上脱落的无数铝块和铝液在风中翻卷，将雨中之物全数伤透。
+
+[[/div]]
+
+[[=image http://scpsandboxcn.wikidot.com/local--files/bi1/LC1921-1.jpg]]
+
+> = {{风暴恒远呼啸，众生哀嚎如歌。}}
+
+[[div class="blockquote"]]
+
+即便受害者遭遇此等折磨，这片炼狱仍不满足于此：其将受害者的血脉经络强行延长，在铝制血肉中穿梭，与无数同类相互焊接。至此，整片炼狱，更具体的是无数无名客的肉体，都一并成为受害者的感官：铝液持续浇灌肉体的灼烧感、铝制血肉不断毁灭增生的剧痛、无数视野在无数片脑海中混沌排列、无数独立的自我意识相互碰撞，理性早已不堪重负。
+
+肉体不断被高温缓慢汽化，蒸气在空中凝成雨滴落下，更多高楼大厦在彼此的身躯上飞速生长，终有一日，这杂乱无章的城市群必将崩溃。即便如此，新的城市群也会在铝雨的浇灌下迅速拔地而起，以全新的面貌将下一位受害者吞噬入腹。
+
+这种身心交瘁的折磨永无止境，其苦痛随光阴流转愈演愈烈，纵使是最坚韧的意志亦将土崩瓦解，面对这**钢铁洪流**，任何防御措施都形同虚设。炼狱的阴谋囚禁万物，众生困于无数「自己」的视角，被迫旁观过去的自己遭受连环折磨，肉身之存在不仅让自己的灵魂永堕苦海，更为众生铺就一条避无可避的黄泉路——一人之痛，众生皆承。万物在**铝雨城**中如同胃囊中的食糜，经历无数次的解体重构，与彼此不可分离地永远相拥。
+
+[[/div]]
+
+[[=image http://scpsandboxcn.wikidot.com/local--files/bi1/LC1921-4.jpg]]
+
+> = {{风雨渐渐归于沉寂，万物得以喘息之机。}}
+
+[[div class="blockquote"]]
+
+暴雨暂歇，天地间迎来一阵短暂的喘息。这寂静并非安宁，而是灾难再次降临前的诡谲宁静，仿佛命运深吸一口气，准备发出更沉重的怒吼。不过短短十几分钟，新的风暴便撕裂云层，裹挟着[https://backrooms-wiki-cn.wikidot.com/random:random-level-cn 新世界]的狂暴倾泻而下——那不是雨，是世界的碎片，是毁灭的先锋。
+
+惨叫声此起彼伏——才刚挣脱喉咙，就被密实的雨幕绞碎、吞没。[[[level-352|希冀]]]，那些曾经照亮无数生命的星光，在这一刻被碾作齑粉，飘散在混沌的风中，成为那些摧残众生的无数铝液液滴。
+
+注视吧，昔日的无数个「自己」正一步步坠入这条熟悉的道路，坠入生与死的界限，与先来者还拥；倾听吧，他者的哀嚎在此地裂解、重组，化成更空洞、更幽深的回响；屈服吧，这不是懦弱，而是走向新生活的前兆——以铝化的血肉之躯和灵魂，为后来者铸就一片坚不可摧的铝制深渊。它温暖，它永恒，它将无止息地演奏这生死乐章，传入下一个迷途者的耳中，并将其纳入乐章的曲谱中。
+
+[[/div]]
+
+[[=image http://scpsandboxcn.wikidot.com/local--files/bi1/LC1921-3.jpg]]
+
+> = {{向命运俯首并非耻辱，因众生终将于此环拥。}}
+
+[[div class="blockquote"]]
+
+待到连「绝望」一词都已无法承载这片铝制深渊所蕴含的沉重与荒芜时，世间万物便都将在此处中找到自身之归宿——无论是深渊之外的[https://backrooms-wiki-cn.wikidot.com/ 地狱]，还是每个人心中珍藏的那一处[[[the-frontrooms|家园]]]，都将成为一个个破碎而完美的音符。所有界限都将模糊，所有意义都将重组；众生不分你我地彼此相拥，与此共同编织着，这一首永不终止的生死乐章。
+
+[[/div]]
+
+@@ @@
+@@ @@
+-----
+@@ @@
+@@ @@
+[[=]]
+[[module Rate]]
+[[collapsible show="著作信息" hide="隐藏著作信息"]]
+
+由 [[[author:wbzdzssm|Destitute]]] 写就。
+很大一部分上受了 [[[Level 9.3]]] 与 [[[Level 18.1]]] 的启发。
+
+[https://unsplash.com/photos/grayscale-photography-of-high-rise-buildings-vLnboAvXH7k 图1]，[https://unsplash.com/photos/cars-on-road-near-bridge-during-daytime-jFr0pmCqOpM 图2]，[https://unsplash.com/photos/a-couple-of-tall-buildings-next-to-each-other-EvWvw6Hdde4 图3]和[https://unsplash.com/photos/black-and-white-concrete-building-k8J-LDhFIBU 图4]，均经本人二次编辑。
+
+[[/collapsible]]
+[[/=]]

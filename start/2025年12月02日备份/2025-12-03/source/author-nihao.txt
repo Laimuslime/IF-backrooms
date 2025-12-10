@@ -1,0 +1,110 @@
+[[include :backrooms-wiki-cn:theme:blankcolor]]
+
+[[module css]]
+:root{
+   --header-title: "这个作者页";
+   --header-subtitle: "真好";
+[[module css]]
+
+.page-rate-widget-box .rateup { display: none!important }
+
+
+#prw54355, .prw54354 {font-size: 0!important;height: 0;}
+
+#prw54355:after {font-size: .9rem;}
+
+.prw54354:after {font-size: 1.05rem;}
+
+#prw54355:after, .prw54354:after {content: "+114514";}
+
+[[/module]]
+[[/module]]
+[[include component:level-class
+|class=999
+|lang=cn
+|color=#666600
+|one=极端生存难度
+|two=极度危险
+|three=监督者-A直接被吓死了😱
+]]
++ **描树**
+@@@@
+@@@@
+@@@@
+[[=]]
+树
+@@@@
+@@@@
+@@@@
+这是棵歪脖子树
+@@@@
+@@@@
+@@@@
+树上挂着个入
+@@@@
+@@@@
+@@@@
+左手上纂了张纸
+@@@@
+@@@@
+@@@@
+上面写着
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
++ **傻逼豆包不是入**
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+右手上攥了张纸
+@@@@
+@@@@
+@@@@
+上面写着
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[/=]]
+[[tabview]]
+[[tab 层级]]
+[[[Level IF-122]]]
+[[[Level IF-114]]]
+[[[Level IF-72]]]
+[[[Level IF-320]]]
+[[/tab]]
+[[tab 实体]]
+[[[Entity IF-10]]]
+[[[bukemingzhuangzhe|不可名状者]]]
+[[[Entity IF-0-J]]]
+[[/tab]]
+[[tab 物品]]
+[[[Object IF-2]]]
+[[/tab]]
+[[tab 故事]]
+[[[tanming|探明]]]
+[[/tab]]
+[[tab 成就]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-1
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-2
+]]
+[[include :backrooms-to-dv:component:achievement
+|code=A-3
+]]
+[[/tab]]
+[[/tabview]]
+我知道我可能应该在文档的下面评论些什么，但是，我已经懒到“骨子”里了

@@ -1,0 +1,106 @@
+[[include :backrooms-wiki-cn:theme:eba]]
+
+
+[[module Rate]]
+
+[[include :backrooms-wiki-cn:component:level-class-animation]]
+[[include component:level-class
+|lang=cn
+|class=4
+|color=#008000
+|one=安全性缺乏
+|two=稳定性较低
+|three=中量生物危害
+]]
+[[div class="blockquote square-quote"]]
++  **描述**
+**Level IF-253**是一片被巨大的遮光玻璃罩遮盖的热带林地貌，且该层级的地形主要以平原为主，靠近玻璃罩的地区以丘陵地形为主，玻璃罩内外的景象有着显著差异。
+
+玻璃罩外的光照异常的弱，且时间永远处于傍晚，目前没有在此观察到任何的植被和水源。据测量数据显示，玻璃罩外的气温维持在 －206.93°C ~ －65.06°C 之间，地面温度最低可达－223.5°C。因此，玻璃罩外的区域被认定为生存难度 死区，强烈建议流浪者在任何情况下都不要离开玻璃罩。
+
+玻璃罩内的温度恒定在20℃~33℃之间，并且存在着正常的昼夜交替，层级中的草丛和灌木多呈现出一种青绿的色彩。**Level IF-253**中的杂草含有大量毒素，是不能食用的，流浪者食用此植物，大脑将会被毒素麻痹致死。
+
+因玻璃罩存在密封性，雨林通过光合作用产生的氧气无法排出，因此E.B.A.在此层级玻璃罩的顶部开设了天窗，在氧气含量多的时候会开启，以保持层级内正常的浓度平衡，因此流浪者在此层级并不需要氧气瓶之类的物品来提供氧气。
+
+该层级的树木种类丰富，大概为棕榈树，龙血树，香坡垒，桃花心木等，且在该层级的灌木丛中会发现少量野果，检测后未发现有害物质，因此可以用来充饥。
+
+[[/div]]
+[[include component:image-block
+|name=http://uf-sandbox.wikidot.com/local--files/level-uf-43/%E6%96%B0%E5%9B%BE
+|caption=绿林葱郁
+|align=center
+]]
+------
+
+
++  **实体**
+[[tabview]]
+[[tab 鏊金翅翼蝇]]
+[[include :backrooms-wiki-cn:component:ebcs
+|name=鏊金翅翼蝇
+|number=Entity IF-253.1
+|art=01
+|iets=4B+
+|project=野生
+|biology=类前厅节肢动物
+|description=鏊金翅翼蝇(Golden Hymenoptera Fly)是本层级的特有实体之一，外形与前厅中的苍蝇形态类似，大部分鏊金翅翼蝇体长不超过10mm，少数情况下实体有变异的可能性，据E.B.A.调查发现该实体似乎携带着某种未知病毒，因此流浪者应当远离该实体。
+|img=http://uf-sandbox.wikidot.com/local--files/level-uf-43/35d2a264815cf53875556036731ee69b7ac0db5c844d9477e65b5d4f76540283.0.JPG
+]]
+[[/tab]]
+[[tab 西瓜甲虫]]
+[[include :backrooms-wiki-cn:component:ebcs
+|name=西瓜甲虫
+|number=Entity IF-253.2
+|art=02
+|iets=4C-
+|project=野生
+|biology=类前厅节肢动物
+|description=西瓜甲虫(Watermelon beetle)是本层级的特有实体之一，外形类似于前厅中甲虫，体长通常不超过60mm，据调查该实体体内携带能够麻痹流浪者大脑的毒素，使流浪者的大脑永久性损伤，因此流浪者应当避开这些昆虫。
+|img=http://uf-sandbox.wikidot.com/local--files/level-uf-43/%E8%A5%BF%E7%93%9C%E7%94%B2%E8%99%AB
+]]
+[[/tab]]
+[[/tabview]]
+------
+
+[[include component:image-block
+|name=http://uf-sandbox.wikidot.com/local--files/level-uf-43/%E8%97%A4%E8%94%93
+|caption=捆绑藤蔓
+|align=right
+]]
++ **特殊植物**
+**捆绑藤蔓**是本层级的一种特殊植物，主要处于本层级的边境地带，一旦靠近该植物，流浪者将承受该实体5个成年人左右的拉力，直至将流浪者勒到窒息而死，尚不清楚该植物拉力为何如此高，因此建议流浪者不要靠近边境地带。
++  **基地、前哨与社区**
+++ M.E.G.驻**Level IF-253**前哨
+* 收集**Level IF-253**的资源
+* 接纳此层级的流浪者
+* 常驻成员约35人
+* 开放交易
+++ E.B.A. 蛇夫座基地
+* 不开放交易
+* 常住成员约300人
+* 实体生物学家协会在IF层群的最大基地
+* 采集实体样本研究
+
+
++ **入口与出口**
++ **入口**
+* 在任意层级中吃下昆虫时有概率来到**Level IF-253**
+* 更多入口正在探寻中
++ **出口**
+* 切入玻璃罩会来到[https://if-backrooms.wikidot.com/level-if-253.1 Level IF-253.1]
+* 被西瓜甲虫叮咬后有概率来到[https://if-backrooms.wikidot.com/level-if-243 Level IF-243]
+* 更多出口正在探寻中
+[[>]]
+[[collapsible show="作者信息" hide="隐藏"]]
+[[*user rosil006]]
+层级图https://www.pexels.com/zh-cn/photo/975771/
+藤蔓图https://pixabay.com/zh/photos/ivy-plant-vine-creeper-foliage-3194557/
+实体一https://pixabay.com/zh/photos/fly-insect-bug-entomology-close-up-4417790/
+实体二https://pixabay.com/zh/photos/beetle-bug-insect-8403460/
+[[/collapsible]]
+[[/>]]
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [https://if-backrooms.wikidot.com/level-uf-252 Level IF-252] | Level IF-253 | [https://if-backrooms.wikidot.com/level-uf-254 Level IF-254] >>
+[[/=]]
+[[/div]]

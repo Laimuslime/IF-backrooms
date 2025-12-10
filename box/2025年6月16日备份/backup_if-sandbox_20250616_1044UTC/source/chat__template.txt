@@ -1,0 +1,78 @@
+[[include :backrooms-to-dv:component:bml-copy]]
+
+[[include :backrooms-to-dv:system:theme]]
+
+[[include staff:css]]
+[[module CSS]]
+
+#history-form-1{
+display:none !important;
+}
+
+#page-options-container,.page-source{
+display:none !important;
+}
+
+[[/module]]
+
+[[div id="computer"]]
+[[div class="chat-body"]]
+[[module ListPages category="chat" perPage="50" separate="no" order="created_at decs"]]
+
+[[div id="computer"]]
+[[div class="left" style="transform:rotateX(180deg);"]]
+[[*user %%created_by%%]]:%%form_data{name}%%
+[[image %%form_raw{img}%%]]
+
+[[div style="height:3px;"]]
+[[/div]]
+[[/div]]
+
+[[div style="transform:rotateX(180deg);"]]
+//[[size 60%]]##gray| %%updated_at|%Y/%m/%d %R|agohover%%##[[/size]]//
+[[/div]]
+[[/div]]
+
+[[/module]]
+[[/div]]
+[[/div]]
+[[div class="chat-body-2"]]
+[[=]]
++ [http://if-sandbox.wikidot.com/chat:new/edit/true/title/聊天室内容输入 内容输入]
+[[/=]]
+[[/div]]
+
+[[include :backrooms-to-dv:component:join
+|text=避免有违规内容发布，需点击本按钮后方可发表言论
+|text-color=#000
+|box-color=#fff
+|font-size=80%
+|margin=5px
+|padding-ud=0.5em
+|padding-lr=1em
+|border-radius=3px
+]]
+[[>]]
+[[size 80%]][[[chat|一个没什么用的刷新按钮]]][[/size]]
+[[/>]]
+
+注意：图片模式目前为试用，如果有大量发布色图/鬼图的信息会考虑删除该功能。
+同时禁止发二维码等内容（难以鉴别，见二维码消息也会编辑）想宣站自己发站点链接就得了
+
+[[div style="display:none;"]]
+[[/code]]
+[[/div]]
+
+[[div style="display:none"]]
+[[form]]
+fields:
+    name:
+        type: wiki
+        label: "输入内容："
+        hint: "你要输入的内容"
+        minLength: 1
+        maxLength: 30
+        rows: 10
+        multiline: true
+[[/form]]
+[[/div]]

@@ -1,0 +1,73 @@
+[[include :backrooms-wiki-cn:theme:aero-glass]]
+
+[[div class="ufgblock"]]
+你在一座画廊中醒来 //
+@@@@
+// 画框里的眼睛跟随着你 //
+@@@@
+// 那些颜料...在流动 //
+@@@@
+// 你看到自己的脸出现在一幅未完成的肖像上 //
+@@@@
+// 画布开始渗出血泪 //
+@@@@
+// 画廊的规则与常识无关
+@@@@
+[[=]]
+**欢迎来到 Level UF-119 - "自反画廊"**
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+由 [[*user UECYYDS]] 主笔 | 2025年第1作
+[[include :backrooms-wiki-cn:credit:end]]
+
+[[div class="dark-block"]]
+@@ @@
+**Level UF-119** 是后室UF层群的第199?层。
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|color=#error
+|class=amended
+|one=文件被
+|two=篡
+|three=改
+]]
+
++ 描述：
+Level UF-119 表现为一座无限延伸的现代艺术画廊，具有以下异常特性：
+
+* 墙壁由半固态油画颜料构成（莫氏硬度3.2），触碰会留下持续24小时的指纹状凹痕
+* 地面材质呈现梯度变化：  
+  大理石 → 亚麻画布 → 未干燥油彩（危险区）
+* 光源完全依赖画作荧光，亮度与观察者肾上腺素水平呈正相关
+
+
++ 实体：
+
+暂无
+
++ 基地与前哨：
+=== M.E.G."单色仪"前哨 ===
+* 成员：9名戴全波段滤镜的武装人员
++ __入口__与出口：
+++++++ ERROR
+
+* 在level UF-0或Level 10.5切入找到门上有三重叠加的"188"涂鸦
+* 于level-81或Level 81连续破坏三面自反射镜
+* 从level-189或Level 189调色盘湖下潜（需闭气>2分钟）
+
+++++++ Exit
+__暂无__/不可用
+
+[[collapsible show="+ 修复文件" hide="- 文件已修复"]]
+**Level UF-119** 是后室UF层群的第200层。
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=deadzone
+|one=极度不安全
+|two=无出口
+|three=实体危害
+]]
+[[/collapsible]]

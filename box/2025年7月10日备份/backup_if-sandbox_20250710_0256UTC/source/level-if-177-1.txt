@@ -1,0 +1,9 @@
+[[include :backrooms-wiki-cn:theme:danger-zone]]
+[[include component:level-class
+|class=死区
+|lang=cn
+]]
+[[div class="lightblock"]]
+"界限之外"
+[[/div]]
+**界限之外**泛指该层级位于**划定的安全区域**之外的所有区域。尽管在此区域存在着与**"安全区域"**极为相近的景观，但极端的寒冷、潮水般的实体从四周涌来，使之难以生存。

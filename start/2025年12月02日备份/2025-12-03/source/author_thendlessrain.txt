@@ -1,0 +1,89 @@
+[[include :backrooms-wiki-cn:theme:backrooms-remodeling-co]]
+
+[[module css]]
+:root {
+   --header-title: "ThEndlessRain";
+   --header-subtitle: "雨落无声";
+[[/module]]
+
++ **描述**
+* [[*user ThEndlessRain]]
+* 译者
+
++ 译作
+[[tabview]]
+[[tab 总览]]
+
++++ **层级**
+* [[[level-116|Level 116——神祇尖塔]]]
+* [[[level-117|Level 117——伊莎贝尔之峡]]]
+* [[[level-276|Level 276——蜂巢]]]（合译）
+* [[[level-288|Level 288——死星之芒]]]
+* [[[level-650|Level 650——波维塔]]]
++++ **实体**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **物品**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **现象**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ **故事**
+* 翻过一大堆，太多了这里放不下，所以就不列了（
++++ 团体
+* [[[the-b-n-t-g|B.N.T.G.]]]（合译）
+[[/tab]]
+
+[[tab 推荐]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/level-116/1|number=1]]
+[[=]]
+**[[size 140%]][[[level 116|神祇尖塔]]]/Level 116[[/size]]**
+@@@@
+
+//我只得以惊骇与错愕目视此景。驱使这些人抛弃人性，创造出如此令人深恶痛绝之物的，究竟为何？我无从知晓。//
+作者：[[*user Drakimoto]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://s2.loli.net/2022/04/02/nYG7HEM1vb9BWek.png|number=2]]
+[[=]]
+**[[size 140%]][[[level 288|死星之芒]]]/Level 288[[/size]]**
+@@@@
+
+//你知道吗，这片地方，曾有星光点点。//
+
+作者：[[*user InspectingCritters]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=http://backrooms-wiki.wikidot.com/local--files/the-b-n-t-g/keep2|number=3]]
+[[=]]
+**[[size 140%]][[[the-b-n-t-g|B.N.T.G.]]]/团体[[/size]]**
+@@@@
+
+//后室不结盟贸易集团，通称B.N.T.G.，是一个由多个附属基地、经济机构与监管单位构成的团体，秉持“以繁荣促和平”的主要目标。//
+
+作者：[[*user XRaggiX]]、[[*user DrAkimoto]]、[[*user Greggita Mahayfaio]]
+
+译者：[[*user calf-0]]、我、[[*user bbianshu]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[include :scutoidbox:scrollquote image=https://praetor.wdfiles.com/local--files/level-276/55.PNG|number=4]]
+[[=]]
+**[[size 140%]][[[level-276|蜂巢]]]/Level 276[[/size]]**
+@@@@
+
+//蜂巢并非生来就是如今这般生物炼狱的模样。数个世纪前，在失落纪元时期，它曾被称为天境——一片葱郁祥和的净土，作为肉体与意识的交界之地，保有纯粹无瑕的特质，不见半分腐化。//
+
+作者：[[*user Praetor3005]]、[[*user Nikuchan]]、
+
+译者：[[*user calf-0]]、我、[[*user owl4513]]
+
+[[/=]]
+[[include :scutoidbox:scrollquote-2]]
+
+[[/tab]]
+[[/tabview]]

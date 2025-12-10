@@ -1,0 +1,806 @@
+[!-- 给职员的提醒：请在添加完毕标签之后前往职员站（即 http://backrooms-oversight-cn.wikidot.com/crom-search-tag-list，对应职员站侧栏的“标签搜索”）为标签搜索添加上对应的标签与描述。 --]
+[[include :koalarooms:component:liminal-optimized]]
+[[module css]]
+#page-content ul > li {
+  margin-top: 0.5em;
+  line-height: 1.25em;
+}
+
+#page-content ul > li li {
+  margin-top: 0.25em;
+  list-style: circle;
+}
+
+#edit-page-form .wd-editor-toolbar-panel + div::before {
+    content: "给职员的提醒：请在添加完毕标签之后前往职员站（即 http://backrooms-oversight-cn.wikidot.com/crom-search-tag-list，对应职员站侧栏的“标签搜索”）为标签搜索添加上对应的标签与描述。";
+    color: red;
+}
+[[/module]]
+[[toc]]
+
++ 1 关于标签
+
+++ 1.1 标签的定义
+
+我们给这个维基上的页面添加的一系列关键词，就称作“标签”。这些关键词可以让你方便地去查找包含相似元素的页面。
+
+++ 1.2 标签的位置
+
+向下滚动至任意页面的底部，你可以看见一条小分割线，下方有一系列红色小字体的词组[[footnote]]这是在描述本维基的基准版式上显示的情形，不同的版式可能有不同的标签呈现形式。特别地，对本维基基准版式而言，你近期点击过一次的标签按钮会变成暗红色。[[/footnote]]。这些就是标签。你可以点击其中任意一个，查看包含该标签的所有页面。如果没有，很可能此页还未添加标签。
+
+++ 1.3 标签的可用范围
+
+这篇指导详细说明了目前所有可用的标签，以及它们的使用规则。多数标签是相互独立的，你能互不干扰地添加多个这样的标签。但也有为数不少的标签之间两两排斥或是相互代替，抑或需要同时具有其他标签才能被添加上页面。因此，当你想要添加标签时，必须审慎参考本指导。
+
+任意创造新的标签是不允许的，你必须事先提出适当的申请和/或取得职员的批准。这点参见[#toc17 这里]。
+
+++ 1.4 标签的添加
+
++++ 1.4.1 为翻译作品添加标签
+
+请依照相应语言站点的标签指导，将标签转换为所对应的中文标签。部分语言站点的标签规则可能与中文站略有差异，因此你需要在添加标签之前先熟悉该站点和中文站的标签指导。我们有一个便捷的[[[tag-translator|标签翻译器]]]，很多时候它能起到很好的帮助作用。然而，由于标签翻译器本身只是个逐标签对照翻译的小工具，仍然建议译者审慎参考此标签指导进行标签的增删和替换，以和本维基的标签添加方针相适应。
+
++++ 1.4.2 为原创作品添加标签
+
+为原创作品添加标签亦是根据本指导的要求和规范进行。如果作者确定自己熟悉标签添加的方式和办法，可以自行为其页面添加所有适用标签。否则，作者应当将自己的页面标签完全留空。[[[mast-intro|此页面]]]进行了详细的说明，供参考。
+
++++ 1.4.3 如何为页面添加标签
+
+为页面添加标签的具体步骤如下。
+# 向下滚动至页面底端，点击[[span class="ruby"]]标签[[span class="rt"]]Tags[[/span]][[/span]]；
+# 在文本框内输入正确的标签，以空格分隔；
+# 点击[[span class="ruby"]]保存标签[[span class="rt"]]Save Tags[[/span]][[/span]]。
+
+请特别注意，为了便于网站管理，本维基的标签都以简体字呈现，请使用繁体字的用户注意转换。
+
+++ 1.5 标签的管理
+
+[[span class="ruby"]]网站维护协理职员团队[[span class="rt"]]Maintenance and Ancillary Staff Team, MAST[[/span]][[/span]]最终负责本维基出现的所有标签的管理工作。不当添加标签的行为，是指以下列表中诸行为之一：
+
+* 非职员任意移除/添加页面的标签
+* 非职员移除/使用标记为职员专用的标签
+* 创造未经申请或特别批准的标签并应用
+
+这些行为将视具体情况被职员提醒，或应用警告及以上处分。
+
++ 2 标签列表
+
+你可以通过[http://backrooms-wiki-cn.wikidot.com/tag-search 标签搜索]来查询已有的标签。仅限职员使用的标签将会以不同的##e57812|颜色##表记。这些标签仅能由职员使用，或者根据该标签后面的说明在职员指导下添加。
+
+++ 2.1 基础页面类型标签
+
+基础页面类型标签标志着页面的一般类型或格式。任何页面都将**符合且仅能符合**这些标签中的一个。
+[[tabview]]
+
+[[tab 虚拟作品和其他文艺作品]]
+包含[[span class="ruby"]]虚拟作品[[span class="rt"]]work of fiction[[/span]][[/span]]和其他文艺作品的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级 层级]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/level level]//**）- 后室中各种分割开来的独立空间，是整个后室最基础的写作对象，包括普通层级、隐秘层级、子层级、搞笑层级和Level C-1的各个组成部分等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体 实体]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/entity entity]//**）- 来源于后室而非现实的各类生物，包括普通实体、隐秘实体和搞笑实体等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/物品 物品]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/object object]//**）- 在后室中被使用的各种独特用具和饮食，包括普通物品、隐秘物品和搞笑物品等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/现象 现象]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/phenomenon phenomenon]//**）- 在后室中发现的各种独特的情形和事件，包括普通现象、隐秘现象和搞笑现象等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/相关人士 相关人士]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/person-of-interest person-of-interest]//**）- 在后室中被人们认识到的，或起源于后室或从外部定居于后室的独特人士。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/房间 房间]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/room room]//**）- 属于某个层级的小型独立空间。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/故事 故事]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/tale tale]//**）- 任何具有文学作品的性质，但又不适用于以上任何一个标签的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/艺术作品 艺术作品] - 包含与整个后室或后室的某一个/一些页面有关的艺术创作，绘画、音乐、摄影等不一而足。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/补充材料 补充材料] - 需要来自其父页面的上下文背景才能够理解，且其父页面作者认定系完全附属的各种页面。特别地，如果仅仅是基于某篇文章的设定创作出来的独立文章，却不算是附属的产物，则算不上是补充材料。简而言之，必须本身就是其父页面的一个组成部分，才能称为并标记为补充材料。
+[[/tab]]
+
+[[tab 信息类页面]]
+包含与网站或写作进程有关的信息的页面。
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/指导 指导]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/guide guide]//**）- 经过职员认可，认定为能够为网站成员提供各类帮助的页面，通常具有某种向导性甚至规范性。指导页面都会被列在[[[guide-hub|指导中心]]]里。##
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/议论 议论]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/essay essay]//**）- 具有主观性，反映出作者的个人意见的一些提供特定信息的页面，通常不具有规范性，但经常值得参考。
+[[/tab]]
+
+[[tab 社群相关页面]]
+让网站成员展出自己作品的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/作者 作者]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/author-page author-page]//**）- 符合条件的网站作者展出其作品列表，并添加任何不违反站规的其想展出的东西的页面。每名作者只能有一个作者页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/艺术集 艺术集] - 类似艺术作品，但更多是一种同主题艺术作品的综合展出页面，具备“画廊”“音乐会”“摄影展”等性质。未经职员许可的情况下，每名艺术家只能有一个艺术集页。
+[[/tab]]
+
+[[tab 中心类页面]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/团体 团体]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/group group]//**）- 用来表明该页面叙述、描写或介绍了一个团体，且可能作为该团体的中心页存在。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/设定 设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/canon canon]//**）- 用来表明该页面叙述、描写或介绍了一个设定，且可能作为该设定的中心页存在。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/竞赛 竞赛] - 用来标记竞赛的中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/活动 活动] - 用来标记活动的中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/总览 总览] - 这是一种非{{团体}}、{{设定}}、{{竞赛}}、{{活动}}性质的分类性页面，或者具有中心性质又不能应用上述任何一种标签的顶级页面，例如汇总了所有满足某种特性的层级之类；主页也是一种总览。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/文章系列 文章系列]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/series series]//**）- 一系列风格相同或内容接续的文章组成的文章系列。
+[[/tab]]
+
+[[tab 格式与代码类]]
+计划将被用于引入其它页面各种页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/组件 组件]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/component component]//**）- 专用于被通过{{@@[[include]]@@}}语法引入至其它页面的页面，可以为页面添加新的设计方案、样式或功能，但是{{版式}}页面除外。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/组件后端 组件后端] - 一个“内部模板”页面，仅能被引入到其它{{组件}}或组件后端页面中，但不会被用户直接使用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/版式 版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/theme theme]//**）- 修改页面外观与氛围的模板页面，一般也被通过{{@@[[include]]@@}}语法引入至其它页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/段落 段落]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/fragment fragment]//**）- 一个专用于被引入到某个单页中的页面，且仅包含应被引入到页面中的内容。段落页面应把父页面设为将其引入的页面，此种页面应位于{{fragment:}}分类中，且和其父页面要么同时存在，要么同时删除。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/工具 工具] - 作为工具为社区成员的创作 / 交流提供便利的页面，通常以 HTML 编写。
+[[/tab]]
+
+[[tab 内部页面]]
+为内部使用和归类而创建的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/掩藏页 掩藏页] - 为某些特定页面作掩藏使用的页面。
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/待删除 待删除] - 用于标记评分分数到达删除线，或是因为各种原因应被删除但适用缓冲期的页面。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/论坛 论坛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/forum forum]//**）- Wikidot的论坛运作依赖特定的页面，这些页面会由职员打上论坛标签。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/工房 工房] - 由职员或职员特许的成员创建的，用来检查站内页面数量、评分等各项数据或安放必须存储在站内的文本、图片等内容的页面。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/功能 功能] - 页面是站点运作的一部分，或为站点提供了基础的功能。##
+[[/tab]]
+
+[[/tabview]]
+
+++ 2.2 页面水印标签
+
+页面水印标签是一系列“水印式”的东西，用来给页面打上一系列标记其额外的重要性质的标签。多个水印可以并存。
+
+[[tabview]]
+
+[[tab 从属水印]]
+这是一个特殊的类别，专用于标记这个页面本身由哪个语言的维基创建。因为中文维基曾是英文维基的从属分部，故方便起见，英文维基来源的作品无需作品从属水印。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/原创 原创] - 标记所有中文站原创页面，并搭配其他标签使用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/ru ru] - 来自俄文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/fr fr] - 来自法文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/pt pt] - 来自葡萄牙文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/vn vn] - 来自越南文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/es es] - 来自西班牙文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/pl pl] - 来自波兰文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/jp jp] - 来自日文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/id id] - 来自印尼文维基。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/it it] - 来自意大利文维基。
+[[/tab]]
+
+[[tab 归因水印]]
+
+将页面归类至某一个功能性的大范围的水印类标签。
+
+**[[size larger]] 标记页面指导或运作行为性质 [[/size]]**
+
+__**标记页面的“官方”属性：**__
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/管理 管理] - 仅由管理员掌握的一系列和站点基础运作、架构或正常执行功能息息相关的页面。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/必读 必读] - 无论以何为目的加入网站，凡成员都必须阅读的指导、议论等重要页面。##
+
+__**规范某些若不加以适当标记，则可能引起访问便捷度或成员身心健康问题的页面：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/重定向 重定向]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/redirect redirect]//**）- 此页面会把访问者导向另一个页面。{{成人内容}}页面理应添加此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/成人内容 成人内容] - 此页面包含不适合未成年人阅读的内容，仅供18周岁以上的网站成员选择性浏览。需与{{adult:}}同时使用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/jumpscare jumpscare] - 此页面包含有“跳杀”内容，可能惊吓读者，对这些内容敏感的读者应当谨慎阅读。含有jumpscare内容的页面强制使用此标签，并会自动在页面开头呈现警告模块。
+
+__**标记页面的活跃状态：**__
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/已归档 已归档]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/archived archived]//**）- 由于已被取代、被废弃或不活跃而被归档的页面。这些页面亦应被移动至{{archived:}}分类中，令其锁定编辑。##
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/旧页面 旧页面] - 翻译作品的原文在相应的语言站点上已被删除。这些页面亦应被移动至{{old:}}分类中。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/保留页面 保留页面]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/trimmed trimmed]//**）- 英文维基的保留页面，用于存放质量低于写作标准的文章，详见[[[trimmed:hub|保留页面中心页]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/待重写 待重写]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/to-rewrite to-rewrite]//**）- 英文维基的保留页面，用于存放质量低于写作标准的文章，详见[[[trimmed:hub|保留页面中心页]]]。
+
+**[[size larger]] 标记作品创作者性质 [[/size]]**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/合作 合作]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/collaborative collaborative]//**）- 对成员添加内容保持开放的页面，但职员和原作者保留移除低质量或不当内容的权利。注意中心页，即[[[hubs-hub|]]]中展示的页面中开放添加内容的页面无需此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/合著 合著]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/co-authored co-authored]//**）- 由两名或以上的作者共同创作完成的作品，需在[[[attribution-metadata|归属资料]]]中注明。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/搬运 搬运] - 用于标记从其他网站[[footnote]] 除 Wikidot 后室各语言站点之外的网站，下同。 [[/footnote]]引入，或基于其他网站内容修改而成的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/哔哩哔哩 哔哩哔哩] - 需置于{{bilibili:}}分类下的，和本维基官方哔哩哔哩弹幕视频网账号有关，或内容来源于哔哩哔哩弹幕视频网的页面。
+
+[[/tab]]
+
+[[tab 写作类别水印]]
+将作品归类至某一个写作性的大范围的水印类标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/隐秘系列 隐秘系列] - 标记有此标签的页面并没有在常规列表中取得其编号，但仍属于{{层级、实体、物品、现象}}之一，需和这些标签之一合用且不得和任何其他基础页面类型标签合用。这取代了英文维基的{{unnumbered-level}}和{{unnumbered-entity}}标签且有所拓展。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/子层级 子层级]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sub-level sub-level]//**）- 位于子区集且不属于{{房间}}的层级，需和{{层级}}并用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/介系 介系] - 标记衍生自其他语言站点[[footnote]] 不包括民间分站、Fandom 站、阈限档案等后室的其他分支，仅限于被认可的在 Wikidot 上较成体系的后室语言站点，详情参见从属水印一栏提到的站点 [[/footnote]]作品的子区集，需与{{房间}}和{{子层级}}两者之一共用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/c1报告 c1报告] - 此标签用于标记Level C-1的报告，需和{{层级}}并用。参见[[[Level C-1]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/解密 解密] - 用于用户对网站作品进行解释与阐述观点的页面，需和{{议论}}并用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/访谈 访谈] - 用于通过对话形式呈现创作者/用户想法或观点的页面，需和{{议论}}并用。注意不适用于含有访谈的虚构作品页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/资讯 资讯] - 用于页面中含有新闻、大事记等内容的页面，需和{{议论}}并用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/搞笑 搞笑]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/joke-entry joke-entry]//**） - 被认为是“搞笑”或明显为“世界观外”的页面。参见[[[joke-entries|搞笑条目]]]以查看搞笑页面的更多信息。
+[[/tab]]
+
+[[tab 写作风格水印]]
+
+将作品归类至某一个风格性的大范围的水印类标签。
+
+**[[size larger]] 标记页面的写作分类 [[/size]]**
+
+__**页面只要具有这种要素，即可打上对应标签：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/meta meta] - 通俗地说“打破了第四面墙”，和正在阅读这篇作品的读者有关并将这种交互作为作品的一个重要要素的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/crossover crossover] - 描述“交互世界”的原创作品页面，更详细的定义与介绍请见[[[crossover-hub|中心页]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/反转 反转] - 页面被认为包含了出乎意料的结局或尾声，或者具有反转的中间情节，例如所谓的宜居欺诈。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/诗歌 诗歌]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/poetry poetry]//**）- 页面具有诗歌的形式，现代诗或古诗等均可。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/格式错乱 格式错乱]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/format-screw format-screw]//**）- 明显为非正常格式的页面，此些格式错乱页面通常并非世界观内的“文章创作视角”所愿。
+
+__**页面必须要以这种体裁作成，方可打上对应标签：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/科幻 科幻] - 页面是某种可归为科幻小说的体裁，内容关联科学或科技畅想。
+
+**[[size larger]] 标记页面的写作流派 [[/size]]**
+
+__**页面的情节特征：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/喜剧 喜剧]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/comedy comedy]//**）- 适用于那些包含喜剧效果的页面。{{搞笑}}页面无需此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/悲剧 悲剧]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/tragedy tragedy]//**）- 适用于悲剧作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/悲喜交加 悲喜交加]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/bittersweet bittersweet]//**）- 适用于那些包含悲喜交加情节的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/动作 动作]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/action action]//**）- 适用于那些包含动作或冒险情节的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/浪漫 浪漫]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/romance romance]//**）- 适用于那些有浪漫情节的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/积极 积极]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/wholesome wholesome]//**）- 适用于情节积极向上的作品。
+
+__**页面的发展特征：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/恐怖 恐怖]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/horror horror]//**）- 适用于恐怖作品，也同样适用于那些包含“杀人怪兽”的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/惊悚 惊悚]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/thriller thriller]//**）- 适用于那些致力于营造紧张感的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/神秘 神秘]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/mystery mystery]//**）- 适用于环绕着某个解决或未解决的谜团的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/奇异 奇异]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/wonder wonder]//**）- 适用于那些想让读者好奇的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/怀旧 怀旧]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/nostalgia nostalgia]//**）- 适用于那些会引起经典的“阈限空间感”的作品，通常包括许多早期创作的层级。
+
+[[/tab]]
+
+[[tab 生存难度水印]]
+
+这也是一个特殊的类别，只用于{{层级}}和{{房间}}页面，来标记其生存难度类别。
+
+**[[size larger]] 一般生存难度标签 [[/size]]**
+
+这些生存难度标签对采用生存难度分类系统的层级而言，需存在且只能存在一者。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度？ 生存难度？]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-? sd-class-?]//**）- 层级的生存难度尚未分出。注意这里的“？”是全角问号。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度0 生存难度0]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-0 sd-class-0]//**）- 层级的生存难度等级为0。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度1 生存难度1]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-1 sd-class-1]//**）- 层级的生存难度等级为1。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度2 生存难度2]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-2 sd-class-2]//**）- 层级的生存难度等级为2。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度3 生存难度3]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-3 sd-class-3]//**）- 层级的生存难度等级为3。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度4 生存难度4]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-4 sd-class-4]//**）- 层级的生存难度等级为4。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度5 生存难度5]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-5 sd-class-5]//**）- 层级的生存难度等级为5。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度宜居 生存难度宜居]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-habitable sd-class-habitable]//**）- 层级的生存难度等级为宜居。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度死区 生存难度死区] （**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-deadzone sd-class-deadzone]//**）- 层级的生存难度等级为死区。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度待定 生存难度待定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-pending sd-class-pending]//**）- 层级的生存难度等级正在等待决议。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度不适用 生存难度不适用] - 层级的生存难度为不适用，层级不能被探索或不复存在，不适用于其他生存难度分级。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度终结 生存难度终结] - 层级的生存难度等级为终结，层级含有敏感信息，向公众隐瞒。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生存难度其他 生存难度其他]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sd-class-other sd-class-other]//**）- 层级的生存难度等级不属于以上生存难度分级中的任何一种。
+
+**[[size larger]] 生存难度补充标记标签 [[/size]]**
+
+这些标签一般需要与基本标签同时使用，除非另有说明。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/多元难度 多元难度] - 层级的生存难度有多种并列或呈现递进式变化。此生存难度标签可以与其他生存难度标签并列：生存难度多种并列的应将此标签与{{生存难度其他}}并用，生存难度递进式变化的应将此标签与末种生存难度标签并用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/环境危害 环境危害] - 层级的生存难度显示其具有环境危害。层级具有环境危害但未在生存难度中体现的层级不得使用；只指明了生存难度系环境危害但没有说明其他等级分类的，此标签可单独使用。
+
+[[/tab]]
+
+[[tab 危险度水印]]
+和生存难度水印类似，这也用于{{层级}}和{{房间}}页面，来标记其[[[component:rras|相对危险度]]]类别。通常和生存难度冲突，除非确实应用了两种组件。若采用相对危险度分类系统，则此分类中的三种标签均需根据情况添加。
+
+**危险度**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度1 危险度1]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度1 危険度1]//**）- 层级的危险度为1。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度2 危险度2]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度2 危険度2]//**）- 层级的危险度为2。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度3 危险度3]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度3 危険度3]//**）- 层级的危险度为3。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度4 危险度4]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度4 危険度4]//**）- 层级的危险度为4。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度5 危险度5]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度5 危険度5]//**）- 层级的危险度为5。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/危险度不可用 危险度不可用]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/危険度n-a 危険度n-a]//**）- 层级的危险度未定义。
+
+**空间可靠度**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/空间-稳定 空间-稳定]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/空間-安定 空間-安定]//**）- 层级的空间可靠度为稳定。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/空间-不稳定 空间-不稳定]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/空間-不安定 空間-不安定]//**）- 层级的空间可靠度为不稳定。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/空间-未知 空间-未知]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/空間-不明 空間-不明]//**）- 层级的空间可靠度未知。在“信息等待提供”的情况下同样适用。
+
+**实体可靠度**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-友好 实体-友好]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-友好 実体-友好]//**）  - 层级的实体可靠度为友好。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-中立 实体-中立]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-中立 実体-中立]//**）  - 层级的实体可靠度为中立。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-敌对 实体-敌对]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-敵対 実体-敵対]//**）  - 层级的实体可靠度为敌对。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-不定 实体-不定]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-混雑 実体-混雑]//**）  - 层级的实体可靠度无法定义。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-无 实体-无]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-なし 実体-なし]//**）  - 层级不存在实体。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体-未知 实体-未知]（**//[http://japan-backrooms-wiki.wikidot.com/system:page-tags/tag/実体-不明 実体-不明]//**）  - 层级不确定是否存在实体。与//实体-无//有明显区别。在“信息等待提供”的情况下同样适用。
+[[/tab]]
+
+[[tab 功能水印]]
+
+这些标签具有特定的功能，有些更多地是一种“过程性”的标签。
+
+**[[size larger]] 可见标签 [[/size]]**
+
+__**涉及各类页面的水印：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/音频 音频] - 用于标记含有音频的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/视频 视频] - 用于标记含有视频的页面。
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/职员记号 职员记号] - 用于职员另有针对其的待办事项，需临时作上记号的页面。##
+
+__**主要关于原创页面的水印：**__
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/重写中 重写中] - 用于标记[[[rewrite-policy|重写指导]]]中所述的情形2.1.1、2.1.3和2.1.5部分在重写过程中的页面。仅适用于原创作品。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/精品 精品]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/featured featured]//**）- 用于标记被评定为精品原创作品的页面。翻译不适用。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/翻译精品 翻译精品] - 用于标记被评定为精品翻译作品的页面。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/奖励精品 奖励精品] - 用于标记成员获得奖励性精品挑选资格后自主选取的精品页面。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/竞赛优胜作品 竞赛优胜作品] - 用于标记在竞赛中取得优胜的作品页面。翻译不适用。##
+
+__**主要关于翻译页面的水印：**__
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/需更新 需更新] - 用于标记应当按照翻译原文增加、修改或删除部分内容，以和最新版本保持一致的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/原文重写中 原文重写中]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/in-rewrite in-rewrite]//**）- 用于标记翻译原文在其源语言站点处于重写流程的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/二次翻译 二次翻译] - 用于标记源语言非英语的一篇翻译是根据那篇文章的英文译文翻译成的情形。
+
+**[[size larger]] 页面隐藏水印 [[/size]]**
+
+这些标签前面有一个短下划线（“_”），表示其在通常浏览时不显示出来，但是它们其实承载着某种重要功能。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_image _image] - 用于标记含有图片但未由职员验证是否符合本站[[[licensing-guide|授权指导]]]的页面。鼓励任何人主动帮助职员添加此标签。翻译也应使用此标签。
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_cc _cc] - 用于标记由职员验证，包含图像且符合本站[[[licensing-guide|授权指导]]]的页面。注意即使非常确定页面中的图像符合上述指导，也必须经过职员确认并由职员打上标签。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_non-cc _non-cc] - 用于标记由职员验证，曾包含**不**符合本站[[[licensing-guide|授权使用指导]]]的图像，但原图像现已被职员撤去的页面。页面图像更新后，可自行更换为_image标签等待职员再次审查。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_源代码 _源代码] - 职员对个别代码、组件、版式一类的页面使用或授权使用此标签以作特殊标记，普通成员一般不应使用。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_低分删除豁免 _低分删除豁免] - 职员对个别页面赋予低分删除豁免所使用的标记，表明这些页面与同类型页面不同，不遵循[[[deletions-policy|]]]所明确的低分删除原则。##
+* ##e57812|[http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/_授权 _授权] - 用于标记正确使用了[[[component:license-box|授权信息栏]]]组件的页面。##
+
+[[/tab]]
+
+[[tab 版式水印]]
+
+用于归类版式页面的水印，将会决定其在[[[themes|版式中心]]]出现的位置。多个版式水印可以共存。{{站点版式}}、{{设定版式}}、{{团体版式}}互相排斥，{{美学版式}}与所有其他水印排斥。
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/站点版式 站点版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/site-theme site-theme]//**）- 站点基础版式的变体。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/团体版式 团体版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/goi-theme goi-theme]//**）- 与某一团体绑定。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/设定版式 设定版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/canon-theme canon-theme]//**）- 与某一设定绑定。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/美学版式 美学版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/aesthetic-theme aesthetic-theme]//**）- 不与任何设定 / 团体绑定，仅作为美学风格。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/数码版式 数码版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/digital-theme digital-theme]//**）- 看起来像电脑屏幕。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/单色版式 单色版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/monochrome-theme monochrome-theme]//**）- 版式中仅有一种主色。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/写实版式 写实版式]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/paper-theme paper-theme]//**）- 看起来更像现实中的纸张而非网页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/停用版式 停用版式] - 已经停止使用的版式。
+
+[[/tab]]
+
+[[/tabview]]
+++ 2.3 特性标签
+特性标签用来形容或者概述页面中描述的对象或讲述的内容具有何种特质，或者具体指明页面中描述的对象属于什么具体方面。特性标签适用的范围需根据每个栏目的说明确定，请特别注意。
+
+[[tabview]]
+
+[[tab 层级/房间特性标签]]
+
+以下标签用于归类层级和房间的特质。
+
+**[[size larger]]层级/房间的基本性质[[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/封闭性 封闭性]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/interior interior]//**） - 不论有限与否，整个层级/房间是一个封闭的空间。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/开阔性 开阔性]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/exterior exterior]//**） - 整个层级是一个开放空间，这种层级常常是某个室外环境。如果外部的“天空”或者别的室外环境特征是由某种手段模拟出来的，而层级的本质仍然是室内的封闭空间，则不适用此标签。一般不适用于{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/无定性 无定性] - 无法判断层级/房间是否开放，其通常处在不断变化的状态下，难以辨明具体性质。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/非线性 非线性] - 层级/房间的空间是非欧几里得的，其往往具有通常空间所不具有的性质，例如直线向前行走后莫名回到原点，或是无法遇见其他一同进入此层级的人类等类似性质。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/水域 水域]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/aquatic aquatic]//**） - 层级/房间含有水域，且该水域在层级/房间中属于较为重要的特征；或者整个层级本身就是一个水域环境。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/林地 林地]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/forested forested]//**） - 层级/房间含有林地，且该林地在层级/房间中属于较为重要的特征；或者整个层级本身就是一个林地。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/洞穴 洞穴]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/cavern cavern]//**） - 层级/房间含有岩洞、深井或者地下通道，且其在层级/房间中属于较为重要的特征；或者整个层级本身就是一个岩洞系统或者地下迷宫。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/荒漠 荒漠]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/desert desert]//**） - 层级/房间含有荒漠，且其在层级/房间中属于较为重要的特征；或者整个层级本身就是一片荒漠。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/原野 原野]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/field field]//**） - 层级/房间含有原野，且其在层级/房间中属于较为重要的特征；或者整个层级本身就是一片原野。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/太空 太空] - 层级/房间含有虚空或者宇宙空间，且其该属于较为重要的特征；或者整个层级/房间就是虚空或者宇宙空间。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/建筑 建筑] - 层级/房间是或类似一所具有一定功能的建筑，例如仓库、办公室、工厂、公寓楼等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/城镇 城镇]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/urban urban]//**） - 层级是或类似一个城市或城镇，无论其实际规模是否符合一般意义上的城市或镇子。一般不适用于{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/道路 道路] （**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/roadway roadway]//**）- 层级/房间的外观表现为小径，公路及高速路等等，以道路为主题，或是含有明显的道路特征。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/昼夜变化 昼夜变化] - 层级/房间中存在不同的昼夜区域，或存在昼夜的更替。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/季节变化 季节变化] - 层级/房间中存在不同的季节区域，或存在季节的变化。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/时间异常 时间异常] - 能够明确发现到层级/房间本身的时间流逝或存在形式不同于一般现实。
+
+**[[size larger]]层级/房间的状态[[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/降水 降水] - 层级/房间存在大量或者一直处于降水的情形。此处降水泛指降雨、降雪和冰雹等各类天气现象，也包括其他液体。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/雾霾 雾霾] - 层级/房间存在或者一直具有阻碍视线的雾、霾或类似的弥漫物。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/雷火 雷火] - 层级/房间存在大量或一直处于打雷、闪电等天气状况，或者层级/房间具有经常起火甚至持续燃烧火焰的特征。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/风暴 风暴] - 层级/房间存在或者一直处于风暴的情形。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/极端温度 极端温度] - 层级/房间持续处于极寒或极其炎热的状态，或经常处于或切换于上述温度状态中。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/劣化 劣化] - 层级/房间的自然环境、可居住性或物理结构等处于持续的劣化过程，使其逐渐向更差的方向发展。
+
+**[[size larger]]层级的能力[[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/补给可能 补给可能] - 能够在此层级/房间寻找到有一定数量的、较为稳定的补给，一般这样的层级/房间能够被认为是有相对较充裕资源的。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/切行困难 切行困难] - 难以/不能通过一般的手段（如切入或自其他层级/房间的出口）进入此层级/房间，或难以/不能从此层级/房间通过一般的手段（如切出或寻找出口）离开。
+
+[[/tab]]
+
+[[tab 实体特性标签]]
+以下标签用于归类实体的特质。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/智能 智能]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sapient sapient]//**） - 实体具有至少相当于人类幼儿的智力，或者在个别领域展现至少相当于一般人类的智力。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/敌意 敌意]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/hostile hostile]//**） - 实体具有针对人类的敌意，以至于其会对人类采取攻击行为，甚至以人类为食。食腐实体摄入人类尸体不适用此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/善意 善意]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/friendly friendly]//**） - 实体对人类无敌意，且通过某种方式展现出对人类友好的态度。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/伏击性 伏击性] - 实体积极地通过某种方式自我隐藏，如采取保护色、夜行等，以此掩藏并伺机发起攻击行为。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/隐蔽性 隐蔽性] - 实体并未积极自我隐藏，但是因为具有拟态、特殊外形或特殊的捕食方式等而难以被察觉外形或行动。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/群居 群居] - 实体倾向于与多个同类实体共同居住和生存。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/繁殖性 繁殖性] - 实体能够通过某种方式，借助克隆、孤体生殖或交配等手段繁殖，使此种实体数量增加或实体物种得以延续。通过{{迫使转换}}繁殖的不适用此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/共生 共生] - 实体能够通过种间互助、互利共生或寄生等方式跨物种生存在一起。寄居在尸体上，或同种实体之间发生类似的联系而存在的则不适用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/腐生 腐生] - 实体能够使用、寄居、利用、操纵或依靠尸体。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/迫使转换 迫使转换] - 实体有能力积极地或自发地将接触、摄入或以某种方式产生交集的人类转化成一个同类实体或其他非人形态。
+[[/tab]]
+
+[[tab 物品特性标签]]
+以下标签用于归类物品的特质。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/消耗品 消耗品]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/consumable consumable]//**） - 物品是一种饮品、食品或消耗性的用品，在单次或有限次使用后逐渐减少至用尽。器具的磨损等不适用此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/精密器械 精密器械] - 操作和使用物品时需要特别的技术，一般需具有某领域的专业知识或接受专门培训。仅仅是制作上较为精密的物品不适用此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/有害品 有害品] - 物品在某种方面对人类的安全、健康或精神等有危害。“弊大于利”的物品可以视情况适用此标签。
+[[/tab]]
+
+[[tab 现象特性标签]]
+以下标签用于归类现象的特质。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/条件触发 条件触发] - 现象需要某个契机、动作或仪式触发。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/基础规律 基础规律] - 现象是后室中相对于一般现实独有的一种规律或定律。
+[[/tab]]
+
+[[tab 通用特性标签]]
+
+以下标签除非另有说明，否则对五种基本文档类型（层级、房间、实体、物品和现象，这些文档描述的对象统称为项目）均适用。
+
+**[[size larger]]项目的起源、状态和性质[[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/人类关联 人类关联]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/manufactured manufactured]//**） - 项目由人类（或其部分）发展而来或类似人类，或者是人类发明、制造、建设或组装的。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/中华 中华] - 项目和中国传统文化有关，或者呈现了中国及中华文化圈中同中国有关的环境或要素。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/随机性 随机性] - 项目有某种随机要素，和概率因素相关，或能够影响概率场。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/数学 数学] - 项目和数学或统计学相关，或其文档写作涉及艰深的数学或统计学内容。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/艺术 艺术] - 项目和音乐、美术、摄影等人类艺术行为有关。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/生化 生化] - 项目和生物、化学或医学相关，或其文档写作涉及艰深的生物、化学或医学领域内容。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/宗教 宗教] - 项目和某种人类已有的或作品中出现或提及的宗教相关，或者能造成宗教式的影响或信仰。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/娱乐性 娱乐性] - 项目具有娱乐的功能或价值，能够或在适当的操作下能够给流浪者带来愉悦。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/计算机 计算机] - 项目是一种类似手机、电脑、游戏机等数字设备的科技产品，主要以计算和运作程序为功能的技术装置，或在其上使用的软件。其他与之有关联的项目也可适用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/毒性 毒性] - 项目有毒，或能产生有毒的物质，或和毒性有关。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/神性 神性] - 项目具有超凡的能力，以至于其能够被认定为是神或类似的存在；或项目和上述存在强关联。和{{宗教性}}不是同一概念。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/孤例 孤例] - 项目仅此一个或一例。不适用于{{层级}}和{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/植物关联 植物关联] - 项目源自或类似某种植物（或其部分）。不适用于{{层级}}和{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/动物关联 动物关联] - 实体源自或类似某种人类以外的动物（或其部分）。不适用于{{层级}}和{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/矿物关联 矿物关联] - 项目源自或类似某种天然形成的岩石、矿物或晶体，且未经明显的人为加工。不适用于{{层级}}和{{房间}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/轨道交通 轨道交通] - 项目是轨道交通载具或建筑，如火车（站）、地铁（站）、高铁（站）、磁悬浮列车、铁路道口、地铁车辆段、火车票、列车模型等。其他与之有关联的项目也可适用。
+**[[size larger]]项目的能力和影响[[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/述记影响 述记影响] - 项目会对试图描述、形容、记载或记叙其的文字、语言、图片和（或）音频等造成影响，使其不能正常地发挥这些功能。项目文档因为非此项目的因素而格式错乱的则不适用此标签。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/精神影响 精神影响] - 项目能够影响人类（和实体）的精神，例如导致其成瘾、记忆缺失和认识扭曲等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/感官影响 感官影响] - 项目能够影响人类的视觉、听觉、嗅觉、味觉和触觉等身体感觉。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/形态变换 形态变换] - 项目能够（异常地）使得其他项目或人类的外形发生改变。被{{迫使转换}}覆盖。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/思想感知 思想感知] - 项目能够感知人类的思想或读取人类的记忆。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/前厅映像 前厅映像] - 项目能够反映或呈现前厅的某些情状。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/现实扭曲 现实扭曲] - 项目能够改变现实呈现的状貌，或使得基础的事物运作规律发生扭曲甚至根本变化。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体侵害 实体侵害] - 项目能够自发地聚集有害实体，或者聚集实体且赋予其有害的性质。本身是{{群居性}}、{{共存性}}、{{繁殖性}}等的实体则不适用此标签。聚集的实体如果是某种病原体之类，则只使用{{疾病侵扰}}。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/疾病侵扰 疾病侵扰] - 项目能够通过某种方式导致人类患病，或项目本身是某种疾病或病原体。除非具有更多生物学或化学因素，否则一般不必再和{{生化性}}一同使用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/隔地促动 隔地促动] - 项目能够自身进行传送，或连带、导致或促使人类或其他项目传送。导致切入、切出行为也适用。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/返乡可能 返乡可能] - 项目被证实、传言或推断（可能）具有使人回到前厅的能力。
+
+[[/tab]]
+
+[[/tabview]]
+
+++ 2.4 后室中文维基独属标签
+
+这些标签是后室中文维基有关团体、设定、角色、背景、文章系列和竞赛/活动的专属标记。
+
+[[tabview]]
+
+[[tab 团体]]
+这些标签用于涉及在后室中发现的各种团体的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室娱乐 后室娱乐] - 与“[[[backrooms-entertainment-hub|后室娱乐]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室家居生产厂 后室家居生产厂] - 与“[[[the-b-f-p-f|后室家居生产厂]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/正电子科技公司 正电子科技公司] - 与“[[[the-e-p-b|正电子粒子科技有限公司]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室援助小队 后室援助小队] - 与“[[[the-b-a-g|后室援助小队]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/躯 躯] - 与“[[[torso|躯]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/速切玩家 速切玩家] - 与“[[[speednoclippers|速切玩家协会]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室厨师联盟 后室厨师联盟] - 与“[[[bca-hub|后室厨师联盟]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/帕拉斯研究所 帕拉斯研究所] - 与“[[[pallas-research-institute|帕拉斯研究所]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室旅游集团 后室旅游集团] - 与“后室旅游集团”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/人类天文学管理局 人类天文学管理局] - 与“人类天文学管理局”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/黑日 黑日] - 与“黑日”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/有识血肉 有识血肉] - 与“[[[youshixuerou|有识血肉]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/异途道门 异途道门] - 与“异途道门”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体生物学家协会 实体生物学家协会] - 与“[[[eba-hub|实体生物学家协会]]]”相关的作品。
+*  [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/敬忌者 敬忌者] - 与“[[[the-reverence-c|敬忌者]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/特性工业维基 特性工业维基] - 与“特性工业维基”相关的作品。
+[[/tab]]
+
+[[tab 设定]]
+这些标签用于它们对应的设定。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/我们正热烈地活着 我们正热烈地活着] - 与“[[[ardently-canon|我们正热烈地活着]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/联盟 联盟] - 与“[[[alliance|联盟]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室阴谋论 后室阴谋论] - 与“[[[backrooms-conspiracy|后室阴谋论]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/龙血族 龙血族] - 与“[[[dragon-blood-clan|龙血族]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/无人后室 无人后室] - 与“[[[unmanned-backrooms |无人后室]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/群岛设定 群岛设定] - 与“[[[2024-archipelago-event|群岛]]]”相关的作品。
+
+[[/tab]]
+
+[[tab 角色]]
+这些标签用于包含特定角色的页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/ncpd ncpd] - [https://backrooms-wiki-cn.wikidot.com/ncpd NCPD]，又称 Nah-Clippinged。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/null0 null0] - Null0，又称[http://backrooms-wiki-cn.wikidot.com/forum/t-15704755 斯宾塞·诺尔]、0Null 等。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/暗色博士 暗色博士] - 暗色博士，即[[[dr-partypoopers|相关人士：安瑟]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/保罗西蒙斯 保罗西蒙斯] - 后室娱乐总负责人，[[[paul-simmons|保罗·西蒙斯]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级意识 层级意识] - 层级意识，又称“[[[Entity C-0]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/恒新 恒新] - Level C-524 的[[[iron-top-sound|主意识]]]。//替代{{层级意识}}//
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/欢笑蜘蛛 欢笑蜘蛛] - 魔术师义警[[[laughing-spider|欢笑蜘蛛]]]。
+[[/tab]]
+
+[[tab 背景]]
+这些标签用于涉及某些背景设定的页面。
+
+//暂缺//
+[[/tab]]
+
+[[tab 文章系列]]
+这些标签用于涉及某些拥有标签的文章系列作品。文章系列通常是封闭的，在获得系列原作者或网站职员的明确授意前，请不要为自己的作品添加此类标签。
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/散乱报告集 散乱报告集] -“[[[scattered-reports-hub|散乱报告集]]]”文章系列作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/国邦叙 国邦叙] - “国邦叙”文章系列作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/rede实体 rede实体] - 与“[[[rede-hub |REDE 实体]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/白水河 白水河] - 与“[[[the-plain-apeiron-freshet|白水河]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/速切之神 速切之神] - 与“[[[the-keymaster-is-neutralized|已灭绝实体‘密钥师’]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/长夜 长夜] - 与“[[[the-moon|长夜]]]”相关的作品。
+[[/tab]]
+
+[[tab 竞赛/活动]]
+
+这些标签用于标记特定竞赛/活动。
+
+**[[size larger]] 竞赛 [[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022标志竞赛 2022标志竞赛] - [[[logo-contest|2022 标志竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022对立竞赛 2022对立竞赛] - [[[level-c-100-contest-hub|Level C-100竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022拼尸竞赛 2022拼尸竞赛] - [[[2022-exquisite-corpse-contest|2022 拼尸竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022死亡竞赛 2022死亡竞赛] - [[[2022-death-contest|2022 死亡竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/1%2F2k竞赛 1/2k竞赛] - [[[halfcon-hub|2022 后室 0.5K 竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022鬼扮人竞赛 2022鬼扮人竞赛] - [[[neewollahcon-hub|2022 Neewollah 竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023短文竞赛 2023短文竞赛] - [[[2023-minimalism-contest|2023 短文竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023春节竞赛 2023春节竞赛] - [[[2023-spring-festival-invitational-tournament|2023 春节邀请赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023生态系统竞赛 2023生态系统竞赛] - [[[2023-ecosystem-contest|2023 生态系统竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024一元复始竞赛 2024一元复始竞赛] - [[[2024-original-point-contest|2024 一元复始竞赛]]]的参赛条目和中心页。
+*  [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/1k竞赛 1k竞赛] - [[[thous-hub|2024 后室 1K 竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024扑克竞赛 2024扑克竞赛] - [[[2024-poker-hub|2024 扑克竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024问答竞赛 2024问答竞赛] - [[[2024-querycon|2024 问答竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2025元素竞赛 2025元素竞赛] - [[[2025-element-con|2025 元素竞赛]]]的参赛条目和中心页。
+
+**[[size larger]] 活动 [[/size]]**
+
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023旧设复兴活动 2023旧设复兴活动] - [[[awareness-month-2023-01|2023 正月『旧设复兴』原创强化月]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023填字游戏活动 2023填字游戏活动] - [[[valentine-2023|2023 情人节『填字游戏』原创强化活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023生存本能活动 2023生存本能活动] - [[[Survival_instinct-2023|2023 劳动节『生存本能』原创强化月]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023看图写话活动 2023看图写话活动] - [[[2023-pictionary-activity|2023 看图写话活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023尾声活动 2023尾声活动] - [[[2023-storyend-activity|2023 尾声活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024群岛活动 2024群岛活动] - [[[2024-archipelago-event|2024 群岛活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024相关人士活动 2024相关人士活动] - [[[2024-poi-event|2024 相关人士活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024接招活动 2024接招活动] - [[[2024-takeit-event|2024 接招活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024教程活动 2024教程活动] - [[[2024-guide-event|2024 教程活动]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2025蛇说活动 2025蛇说活动] - [[[2025-snake-event|2025 蛇说活动]]]的参赛条目和中心页。
+[[/tab]]
+
+[[/tabview]]
+
+++ 2.5 翻译相关独属标签
+
+由于本站英文翻译较多，所以首先列举英文维基翻译而来的有关标签，再分别表述其他语言维基的有关标签。
+
++++ 2.5.1 后室英文维基相关
+
+[[tabview]]
+
+[[tab 团体]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室装修公司 后室装修公司]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/backrooms-remodeling-co backrooms-remodeling-co]//**）- 与“[[[backrooms-remodeling-co|后室装修公司]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室机器人科技 后室机器人科技]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/backrooms-robotics backrooms-robotics]//**）- 与“[[[backrooms-robotics|后室机器人科技]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/不结盟贸易集团 不结盟贸易集团]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/b.n.t.g b.n.t.g.]//**）- 与“[[[b-n-t-g|不结盟贸易集团]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/永恒资料库 永恒资料库]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-eternal-repository the-eternal-repository]//**）- 与“[[[the-eternal-repository|永恒资料库]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/阿尔戈斯之眼 阿尔戈斯之眼]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/eyes-of-argos eyes-of-argos]//**）- 与“[[[the-eyes-of-argos|阿尔戈斯之眼]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/杰瑞的信众 杰瑞的信众]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/foj foj]//**）- 与“[[[followers-of-jerry|杰瑞的信众]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/跨维度后室历史博物馆 跨维度后室历史博物馆]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/i.m.b.h. i.m.b.h.]//**）- 与“[[[i-m-b-h|跨维度后室历史博物馆]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/卡拉格灵协会 卡拉格灵协会]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/kalag kalag]//**）- 与“[[[the-kalag-institute|卡拉格灵协会]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/蒙面女郎 蒙面女郎]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/masked-maiden masked-maiden]//**）- 与“[[[the-masked-maidens|蒙面女郎]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/探险者总署 探险者总署]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/m.e.g. m.e.g.]//**）- 与“[[[the-m-e-g|探险者总署]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/失落一族 失落一族]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-lost the-lost]//**）- 与“[[[the-lost|失落一族]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/无羁探险者联盟 无羁探险者联盟]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/u.e.c. u.e.c.]//**）- 与“[[[the-u-e-c|无羁探险者联盟]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/神爱之繁生 神爱之繁生]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/amor-incrementum amor-incrementum]//**）- 与“[[[amor-incrementum|神爱之繁生]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/铁拳 铁拳]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-iron-fist the-iron-fist]//**）- 与“[[[the-iron-fist|铁拳]]]”相关的作品。
+[[/tab]]
+
+[[tab 设定]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/黑骑士 黑骑士]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/black-knights black-knights]//**）- 与“[[[black-knights|黑骑士]]]”相关的作品。[[footnote]]但黑骑士在属于“实体”“团体”还是“设定”上比较模糊，故标签命名不加“设定”二字。[[/footnote]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/衰退设定 衰退设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/decay-canon decay-canon]//**）- 与“[[[decay-canon-hub|衰退设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/工业革命设定 工业革命设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/industrialization-canon industrialization-canon]//**）- 与“[[[industrialization-canon-hub|工业革命设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/恐怖旅馆设定 恐怖旅馆设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/terror-hotel-canon terror-hotel-canon]//**）- 与“[[[terror-hotel|恐怖旅馆设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/揭开假面设定 揭开假面设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/unmasked-canon unmasked-canon]//**）- 与“[[[un-masked-canon-hub|揭开假面设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/万神殿 万神殿]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-pantheon the-pantheon]//**）- 与“[[[pantheon-hub|万神殿]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/拟态设定 拟态设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/simulation-canon simulation-canon]//**）- 与“[[[simulation-canon|拟态设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/荒芜后室设定 荒芜后室设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/desolation-canon desolation-canon]//**）- 与“[[[desolation-canon-hub|荒芜后室]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/多元宇宙设定 多元宇宙设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/multiverse-canon multiverse-canon]//**）- 与“[[[multiverse-canon|多元宇宙设定]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/理事会 理事会]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-council the-council]//**）- 与“[[[the-council|莫甘娜理事会]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/预兆体韵文设定 预兆体韵文设定]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/omenscript-versus-canon omenscript-versus-canon]//**）- 与“[[[old:omenscript-verses-canon-hub|预兆体韵文设定（旧）]]]”相关的作品。
+[[/tab]]
+
+[[tab 角色]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/berry berry]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/berry berry]//**）- Berry，又称“[[[Entity 180]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/blanche blanche]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/blanche blanche]//**）- Blanche，又称“[[[Entity 140]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/实体18 实体18]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/entity-18 entity-18]//**）- [[[Entity 18]]]，亦被称为“第五层的野兽”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/evangeline-holmes evangeline-holmes]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/evangeline-holmes evangeline-holmes]//**）- [[[evangeline-holmes|伊万杰琳·克洛伊·福尔摩斯]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/青鸟神父 青鸟神父]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/father-bluebird father-bluebird]//**）- [[[jerry-s-room|青鸟神父]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/gani gani]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/gani gani]//**）- 高级档案员 Isagani，又称“[[[gani]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/icarus-procidens  icarus-procidens] （**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/icarus-procidens icarus-procidens]//**）- [[[icarus-procidens|Icarus Procidens]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/nostalgi-gaius nostalgi-gaius]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/nostalgi-gaius nostalgi-gaius]//**）- [[[Nostalgi Gaius]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/监督者andrew 监督者andrew]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/overseer-andrew overseer-andrew]//**）- 监督者-C，“Andrew”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/监督者kat 监督者kat]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/overseer-kat overseer-kat]//**）- 监督者-B，“Kat”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/监督者stretch 监督者stretch]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/overseer-stretch overseer-stretch]//**）- 监督者-A，“Stretch”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/派对客 派对客]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/partygoers partygoers]//**）- 派对客，又称“[[[entity-67|Entity 67]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/藜麦 藜麦]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/quinoa quinoa]//**）- [[[object-77|藜麦]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/游戏大师 游戏大师]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-game-master the-game-master]//**）- 游戏大师，又称“[[[Entity 99]]]”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/密钥师 密钥师]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-game-master the-keymaster]//**）- [[[the-keymaster|密钥师]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/红骑士 红骑士]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/the-game-master the-red-knight]//**）- [[[the-red-knight|红骑士]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/tom-von-haderach tom-von-haderach]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/tom-von-haderach tom-von-haderach]//**）- [[[tom-von-haderach|Tom Von Haderach]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/yellow yellow]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/yellow yellow]//**）- Yellow。
+[[/tab]]
+
+[[tab 背景]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级0 层级0]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/level-0 level-0]//**）- [[[Level 0]]] - “教学关卡”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级11 层级11]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/level-11 level-11]//**）- [[[Level 11]]] - “无垠城市”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级78 层级78]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/level-78 level-78]//**）- [[[Level 78]]] - “空间站”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/层级9 层级9]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/level-9 level-9]//**）- [[[Level 9]]] - “郊区”。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/商人之家 商人之家]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/traders-keep traders-keep]//**）- [[[level-1|商人之家]]]。
+[[/tab]]
+
+[[tab 文章系列]]
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/角斗场EP 角斗场EP] - “角斗场EP”文章系列作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/Griots的众神们 Griots的众神们] - “Griots的众神们”文章系列作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/破散的梦 破散的梦] - “破散的梦”文章系列作品。
+[[/tab]]
+
+[[tab 竞赛/活动]]
+**竞赛**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2020欺诈竞赛 2020欺诈竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/decepticon2020 decepticon2020]//**）- [[[contest-deception-2020|2020欺诈竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2020实体1号竞赛 2020实体1号竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/entity1con2020 entity1con2020]//**）- [[[contest-entity-1-2020|2020实体1号竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2020子区集竞赛 2020子区集竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/subcon2020 subcon2020]//**）- [[[contest-sub-layer-2020|2020子区集竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2020生存难度竞赛 2020生存难度竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/sdcon2020 sdcon2020]//**）- [[[contest-survival-difficulty-2020|2020生存难度竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2021相关人士竞赛 2021相关人士竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/poicon2021 poicon2021]//**）- [[[poi-creation-contest|2021相关人士竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2021短文竞赛 2021短文竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/mincon2021 mincon2021]//**）- [[[minimalism-contest-2021|2021短文竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2021相关组织竞赛 2021相关组织竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/goicon2021 goicon2021]//**）- [[[goi-contest-2021|2021相关组织竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2021惊吓竞赛 2021惊吓竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/spookycon2021 spookycon2021]//**）- [[[spooky-contest-2021|2021惊吓竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022那如果竞赛 2022那如果竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/whatifcon2022 whatifcon2022]//**）- [[[whatifcon2022|2022那如果竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022废稿竞赛 2022废稿竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/scrapcon2022 scrapcon2022]//**）- [[[scrapcon2022|2022废稿竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022物品竞赛 2022物品竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/objectcon2022 objectcon2022]//**）- [[[objectcon2022|2022物品竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023派对客竞赛 2023派对客竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/partygoercon2023 partygoercon2023]//**） - [[[old:partygoercon2022|2023愚人节活动]]]相关页面。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023现象竞赛 2023现象竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/phenomecon2023 phenomecon2023]//**）- [[[phenomecon2023|2023现象竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023经典竞赛 2023经典竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/classicon2023 classicon2023]//**）- [[[classicon2023 |2023经典竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024设定竞赛 2024设定竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/canonicon2024 canonicon2024]//**）- [[[canonicon2024|2024设定竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024子区集竞赛 2024子区集竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/slcon2024 slcon2024]//**）- [[[slcon2024|2024子区集竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024吉祥物竞赛 2024吉祥物竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/mascotartcon2024 mascotartcon2024]//**）- [[[mascotartcon2024|2024 吉祥物竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024词条竞赛 2024词条竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/promptcon2024 promptcon2024]//**）- [[[prompt2024|2024 词条竞赛]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2025人物竞赛 2025人物竞赛]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/charcon2025 charcon2025]//**）- [[[charcon2025|2025人物竞赛]]]的参赛条目和中心页。
+
+**活动**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024归根活动 2024归根活动]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/roots2024 roots2024]//**）- [[[roots2024|]]]的参赛条目和中心页。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024十月后室 2024十月后室]（**//[http://backrooms-wiki.wikidot.com/system:page-tags/tag/backtober2024 backtober2024]//**）- [[[prompt2024|2024 十月后室活动]]]的参赛条目和中心页。
+[[/tab]]
+
+[[/tabview]]
+
++++ 2.5.2 其他语言维基相关
+
+[[tabview]]
+
+[[tab 俄文维基]]
+**[[size larger]] 团体标签 [[/size]]**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/后室幸存者联盟 后室幸存者联盟]（**//[http://ru-backrooms-wiki.wikidot.com/system:page-tags/tag/квз квз]//**）- 与“[[[cbs|后室幸存者联盟]]]”相关的作品。
+**[[size larger]] 竞赛标签 [[/size]]**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2021故事竞赛ru 2021故事竞赛ru]（**//[http://ru-backrooms-wiki.wikidot.com/system:page-tags/tag/стори_кон_ру_2021 стори_кон_ру_2021]//**）- 俄文维基[http://ru-backrooms-wiki.wikidot.com/storyconru2021 2021故事竞赛]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022轮盘赌竞赛 2022轮盘赌竞赛]（**//[http://ru-backrooms-wiki.wikidot.com/system:page-tags/tag/competition-roulette-2022 competition-roulette-2022]//**）- 俄文维基[http://backrooms-wiki-cn.wikidot.com/competition-roulette-2022 2022轮盘赌竞赛]。
+
+[[/tab]]
+
+[[tab 法文维基]]
+**[[size larger]] 团体标签 [[/size]]**
+* [https://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/%E9%98%BF%E4%B8%BD%E4%BA%9A%E5%A8%9C%E9%9B%86%E5%9B%A2 阿丽亚娜集团] (**//[http://fr-backrooms-wiki.wikidot.com/system:page-tags/tag/cercle-ariane cercle-ariane]//**) - 与“[[[cercle-ariane|阿丽亚娜集团]]]”相关的作品。
+
+**[[size larger]] 竞赛标签 [[/size]]**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2022周年竞赛 2022周年竞赛]（**//[http://fr-backrooms-wiki.wikidot.com/system:page-tags/tag/conanniv2022 conanniv2022]//**）- 法文维基[http://fr-backrooms-wiki.wikidot.com/concours-1an 2022周年竞赛]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2023其他竞赛 2023其他竞赛]（**//[http://fr-backrooms-wiki.wikidot.com/system:page-tags/tag/autrecon2023 autrecon2023]//**）- 法文维基[[[concours-2ans|2023其他竞赛]]]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/圣诞礼物交换fr 圣诞礼物交换fr]（**//[http://fr-backrooms-wiki.wikidot.com/system:page-tags/tag/secretsantafr secretsantafr]//**）- 法文维基[http://fr-backrooms-wiki.wikidot.com/secretsantafr 2023圣诞礼物交换活动]。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/2024艺术竞赛 2024艺术竞赛]（**//[http://fr-backrooms-wiki.wikidot.com/system:page-tags/tag/conart2024 conart2024]//**）- 法文维基[[[concours-3ans|2024艺术竞赛]]]。
+[[/tab]]
+
+[[tab 葡萄牙文维基]]
+//暂缺//
+[[/tab]]
+
+[[tab 越南文维基]]
+//暂缺//
+[[/tab]]
+
+[[tab 西班牙语维基]]
+//暂缺//
+[[/tab]]
+
+[[tab 波兰文维基]]
+**[[size larger]] 团体标签 [[/size]]**
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/波兰探险家委员会 波兰探险家委员会]（**//[http://pl-backrooms-wiki.wikidot.com/system:page-tags/tag/p.k.o. p.k.o.]//**）- 与“[[[http://pl-backrooms-wiki.wikidot.com/pko-hub|波兰探险家委员会]]]”相关的作品。
+* [http://backrooms-wiki-cn.wikidot.com/system:page-tags/tag/跨次元考古学家协会 跨次元考古学家协会]（**//[http://pl-backrooms-wiki.wikidot.com/system:page-tags/tag/s.a.m. s.a.m.]//**）- 与“[[[http://pl-backrooms-wiki.wikidot.com/sam-hub|跨次元考古学家协会]]]”相关的作品。
+[[/tab]]
+
+[[tab 日文维基]]
+//暂缺//
+[[/tab]]
+
+[[tab 印尼文维基]]
+//暂缺//
+[[/tab]]
+
+[[tab 意大利文维基]]
+//暂缺//
+[[/tab]]
+[[/tabview]]
+
++ 3 新标签的设置
+
+新标签的设置，需要通过适当的方式提出申请，并由职员逐案审核。通过后的标签将由职员按分类添加到以上的标签列表中。
+
+++ 3.1 通过私讯职员申请标签
+
+此方式仅适用于有充分理由认为有需要设置的标签。例如，设若职员在制定基础页面类型标签列表时有重要的疏漏，以至于一类型的文章完全无法被适当归类，则可直接联系职员提议。此类标签申请通过后即更新在列表上，并在本页面的讨论区说明。
+
+++ 3.2 通过标准标签申请流程申请
+
+标准标签申请流程，即在讨论串中进行申请，并等候职员审批。该讨论串见[*http://backrooms-wiki-cn.wikidot.com/forum/t-15630889 此]。
+
++++ 3.2.1 翻译标签申请
+
+一般情况下，翻译标签能够归属至类别2.5的，将会直接通过。但是，如果是其他语言站点设置的，能够归属至类别2.1至2.3的标签，则可能视情况不通过，或虽然通过但不适用于原创作品。职员对此有最终决定权。
+
+请单开一楼，列出**原文带待申请标签的**翻译文章的**站内链接**或**沙盒链接**。以下是申请格式，不以申请格式/与申请格式同等清楚的格式写成的标签申请将被驳回。
+> **标签类型：**翻译标签
+> **来源站点：**[例如EN, FR等]
+> **标签原文：**[此处填写原文，如backrooms-remodeling-co]
+> **建议译名：**[此处填写建议译名，如后室装修公司]
+> **译法理由：**[此条**可选**]
+> **有关文章：**[此处列出有关文章的链接，若有多篇建议全部列出]
+[[code]]
+> **标签类型：**翻译标签
+> **来源站点：**
+> **标签原文：**
+> **建议译名：**
+> **译法理由：**
+> **有关文章：**
+[[/code]]
+职员将在关注到有关帖文后给予批准/驳回，且可能对译名作出修改。对决定使用的译名有不同意见的用户可在职员发布的帖文下方提出反对并给出理由，职员将会加以讨论。
+
++++ 3.2.2 原创标签申请
+
+以下具体指明在讨论串中能够被申请的各种标签类型，及其设置的基本要求。一般情况下，不满足标签申请基本要求的标签将不予通过，特殊情况则由职员逐案考察。
+
+++++* 针对基础页面类型标签
+一般不予申请。然而，如果有充分的理由，可尝试发布申请回复。此类型由于较为特殊，故没有单独设置基本要求。
+
+++++* 针对页面水印标签
+> +++++* 从属水印
+> * 具有来自一个新语言维基的至少一篇翻译。这种申请一般将直接予以通过。
+
+> +++++* 写作风格水印
+> * 具有至少十五篇能够归类至一个不存在的写作风格的原创和（或）翻译作品。
+
+> +++++* 生存难度水印
+> * 具有至少十二篇能够归类至一个共同的生存难度的原创和（或）翻译作品。
+> * 通常需要具有一个通用的适用标准生存难度组件的图标，但是此要求可酌情放宽。
+
+> +++++* 危险度水印
+> * 具有至少八篇能够归类至一个共同的相对危险度的原创和（或）翻译作品。
+
+其他水印类标签一般不予申请。同样地，如果有充分理由，也将逐案考察。
+
+++++* 针对特性标签
+具有至少二十篇拥有共同的未列出特性的原创和（或）翻译作品，且能够说明此特性有充分理由被设置。为了避免特性标签泛滥，对此类标签的审核将特别严格。
+
+++++* 针对后室中文维基专属标签
+
+> +++++* 团体
+> * 具有由三名不同作者创作的七篇与之相关的原创和（或）翻译层级/实体/物品/现象/相关人士/房间/故事，其中应有三篇与该团体高度相关，每篇评分应大于等于10。
+
+> +++++* 设定
+> * 具有中心页。
+> * 具有由三名不同作者创作的七篇与之高度相关的原创和（或）翻译层级/实体/物品/现象/相关人士/房间/故事，每篇评分应大于等于10。
+
+> +++++* 角色
+> * 角色是一个人类或{{智能}}实体。
+>  * 此处的{{智能}}实体并不要求其作为一个单独的{{实体}}页面被发布。
+> * 所述角色在五篇评分大于等于10的原创和（或）翻译作品中被提及，且其中至少有三篇作为文章的核心或主要角色之一。
+
+> +++++* 文章系列
+> * 具有中心页。
+> * 由至少五篇风格/背景相同的不同文章（这些文章能构成一个“系列”且不足以认定为其他类型的创作），或由一篇篇幅足以被分为三个及以上的页面发表的故事组成，则达到被认定为文章系列的基本要求，但是否被认定为文章系列还需从严审核。每篇文章的评分应大于等于10。
+
+其他专属标签也开放申请，只是将由职员逐案审查是否符合标签开设的标准。
+
+原创标签申请的格式如下，请采取此格式或与之同等清晰的格式。
+[[div class="blockquote"]]
+**标签类型：**
+原创标签
+**标签子类：**
+[此处一般在以上可申请范围内选择一个]
+**满足条件：**
+**重要！**此处应采取如下的格式：
+[链接] 作者是[作者]，[此处插入其他需要指明的信息，例如X角色是否作为主要角色之一]
+……
+以上共有[数目]篇作品，其中[数目]篇层级，[数目]篇实体，[数目]篇物品，[数目]篇故事，[数目]篇其他内容，由[数目]位作者写成。[此处插入其他需要指明的信息，例如生存难度logo]
+**建议名称：**
+[此处写上你对此标签的定名]
+[[/div]]
+[[code]]
+[[div class="blockquote"]]
+**标签类型：**
+原创标签
+**标签子类：**
+
+**满足条件：**
+
+**建议名称：**
+
+[[/div]]
+[[/code]]
+职员将在关注到有关帖文后给予批准/予以驳回并附上理由，且可能对定名作出修改。对决定使用的标签名有不同意见的用户可在职员发布的帖文下方提出反对并给出理由，职员将会加以讨论。

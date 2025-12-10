@@ -1,0 +1,443 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+[[include :brsandbox-mini:pc171]]
+[[include :backrooms-wiki:component:centered-title]]
+[[module css]]
+
+:root {
+    --bb-black: 0, 0, 0;
+    --bb-white: 255, 255, 255;
+}
+
+
+#header {
+    display: none;
+}
+
+.whiteblock {
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  font-family: 'Instrument Serif', 'Noto Serif SC', serif;
+}
+
+.styled-collap .collapsible-block {
+    margin: 0.5rem 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, padding 0.4s ease, opacity 0.4s ease;
+    font-weight: bold;
+}
+
+.styled-collap a.collapsible-block-link {
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    background-color: rgb(var(--bb-white));
+    color: rgb(var(--bb-black));
+}
+
+.styled-collap .collapsible-block-content {
+    padding: 0.01rem 1rem;
+    background-color: rgb(var(--bb-black));/
+    color: rgb(var(--bb-white));
+    border: 0.125rem solid rgb(var(--bb-white));
+    border-top: none;
+    transition: all 0.3s ease;
+}
+
+.styled-collap .collapsible-block-folded a.collapsible-block-link::before {
+    margin: 0 0.2em 0 0.4em;
+    content: "▶";
+    color: rgb(var(--bb-black));
+    display: inline-block;
+}
+
+.styled-collap .collapsible-block-unfolded a.collapsible-block-link::before {
+    margin: 0 0.2em 0 0.4em;
+    content: "▼";
+    color: rgb(var(--bb-black));
+    display: inline-block;
+}
+
+/* div */
+.rounded {
+    background-color: #696969;
+    border-radius: 4px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.styled-quote-2 {
+   background-color:rgb(var(--bb-black));
+   border-left: 0.2rem solid rgb(var(--bb-white));
+   padding: 0.1rem 1rem;
+   margin: 0.5rem 0 0.5rem 0.25rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+}
+
+/* end */
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(2px); }
+  50% { transform: translateX(-2px); }
+  75% { transform: translateX(1px); }
+  100% { transform: translateX(0); }
+}
+
+.shake-text {
+  display: inline-block;
+  animation: shake 0.5s ease-in-out infinite;
+}
+[[/module]]
+
+[[div class="whiteblock"]]
+后室初现于虚实交界之隙，信号便以无形之态潜藏其中。及至人类赋予语言以形，信号亦随之觉醒，学会发声，自幽暗深处诞生意识，化为独立之灵。于后室之中游走思维的迷宫，铭刻着自天地初开以来关于世界的一切记忆——古老、隐秘、无人知晓。
+[[/div]]
+@@ @@
+@@ @@
+[[include component:image-block
+ |name=https://if-backrooms.wdfiles.com/local--files/entity-if-1/Entity%20IF-1
+ |caption=疑似**Entity IF-1**中其中一类的照片。
+]]
+
+[[include :backroomssandboxcn:kai4c:concord
+|number=IF-1
+|goi-specification=[http://backrooms-wiki-cn.wikidot.com/iets IETS]
+|habitat=全境
+|danger=2
+|intel=A+
+|class=神秘
+|properties=HVM RLA DMN
+|sin=X
+|other-spec=X
+|primary-color=#4B0082
+|secondary-color=#fff
+|accent-color=#5d208f
+]]
+@@ @@
+19世纪之初，人类凝视[https://backrooms-wiki-cn.wikidot.com/radio-backrooms-studio 城市中]一台闪烁微光、播送多语混声的电视时，**Entity IF-1**便被冠以“终极语言”之名。
+@@ @@
+[[=]]
+------
++ - 描述 -
+------
+[[/=]]
+[[include component:image-block
+|name=https://fnhanbaofn.wdfiles.com/local--files/secret%3Aentity-language/Wifi
+|align=center
+|width=500px
+|caption=Entity IF-1所发出的信号波形图（解译：AREYOULOOKINGFORME）
+]]
+**Entity IF-1**本质为光、声、电信号的特殊复合体，常于任意电子设备内部栖居。未通电状态下的电子设备内部而出现显著光照释放，则可认定该实体是**Entity IF-1**。本实体具有未知来源的意识，因而展现出一定程度的感知与认知能力。现有相关记录中，本实体始终以单独形式出现，故而认为其不具有群体意识。
+
+**Entity IF-1**作为信号而无法被捕捉、干扰，对本实体外壳的破坏常导致其迁移至其他电子设备内，或导致其切出当前层级，不排除本实体发生攻击的可能性。本实体作为信号可操控电子设备及占据生命体的脑部。对任意生命体的操控结束后，实体将自动脱离生命体并进入任意电子设备内进行静休，而静休过程将导致实体独特性质的改变。
+
+生命体受**Entity IF-1**控制时，视觉及视觉表象将展现背景为白的空间，其内时而浮现不同具象化画面。生命体在此空间可暂时自我控制，而空间内任意食物无法触及，同时生命体无法完成自我观察，故而认为此空间为本实体的内在认知及思考空间。值得注意的是，此空间锁浮现的具象化画面内容由本实体控制。
+
+**Entity IF-1**具有与人相似的情感、见解及独特的思维规律，实体掌握任意生命体的语言信号。**Entity IF-1**具有不同个体，个体间的性格与见解各有所异。而**Entity IF-1**的常见个体通常处于**静休**[[footnote]] 本实体对任意生命体操控结束后，均将导致其发生静休，实体的独特性质将发生改变 [[/footnote]]状态下。本实体发出的光极为暗淡时，本实体则处于**静休状态**
+
+[[div class="lightblock"]]
+**Entity IF-1**的静休状态可被终止，**Entity IF-1**静休终止时将不可避免发生攻击性行为。当流浪者确信遭遇了正在静休的**Entity IF-1**，在探索此片区域的同时尽量避免发出巨大声响，值得注意的是，任何类型的声波皆可被本实体感知。
+[[/div]]
+
+[[=]]
+------
++ - 行为 -
+------
+[[/=]]
+本实体可作为信号主动寻找与其特性相匹配的容器。在特定存在信号屏蔽现象的层级内，任何设备均无法拦截或阻止本实体的定位过程，从而导致本实体在非自愿状态下无法以任何形式被捕获或隔离。本实体所发出的信号频率在时间推移中始终表现出高度稳定性，且其信号运行周期至今尚无法被观测或计算。
+
+**Entity IF-1**可操控其容器内的音频产生声音，本实体仅在表现示好行为时而通过操控容器释放音乐，其歌曲通常由多种语言混合构成，并对听者产生积极影响。值得一提的是，本实体释放的部分歌曲存在引发的幻觉的作用，所塑造的幻境主由歌曲蕴含的情绪驱动，而幻觉的具体类型则为次要因素。
+
+如前所述，本实体可以信号形式介入，并可实现对电子设备及生命体的操控。实体操控期间，受控对象将表现出显著的外观异常：生命体表面出现若干条发光裂隙，而电子设备仅发生内部发光现象，外部结构维持不变。值得注意的是，本实体可通过操控能力实现明确的攻击性意图。
+
+
+
+[[div class="blockquote"]]
+
++++ 声学干扰
+
+如前所述，**Entity IF-1**可操控其容器内的音频产生声音，而亦可制造声波攻击生命体。本实体意图驱逐附近生命体时，将释放高强度噪声；当其具备攻击意愿时，则将释放次声波，此类声波可导致生命体部分器官停止运作。而奇怪在于，本实体制造的声波皆无法影响自身容器。
+
+[[include component:image-block
+|name=https://fnhanbaofn.wdfiles.com/local--files/secret%3Aentity-language/entity
+|caption=受控对象外观概念图
+]]
+
++++ 光学干扰
+
+**Entity IF-1**处于愤怒或高度激动状态时，其实体容器将发出稳定的猩红色光芒。而本实体具有攻击意图时，亦会释放高度硬光，其光束具有极强的光辐射强度与热量输出。值得注意的是，此攻击易造成本实体容器内硬件不可逆性损毁，因此该攻击方式维持时间受限。
+
++++ 侵入生命思维
+
+本实体具备以信号形式侵入生命体中枢神经系统的能力，可对目标个体的意识活动与行为模式施加干预，对象受控时外观将发生改变，其表面将出现若干道内发光裂缝。本实体亦可通过操纵生命体达成攻击目的，通常情况下，本实体将在“思想空间内”植入高度扰动性的视觉或情绪图像，亦可致其诱发剧烈的不适、恐惧或精神混乱反应。
+
+[[div class="styled-collap"]]
+[[collapsible show="附录 A：Entity IF-1 攻击行为报告节选" hide="隐藏"]]
+++++++ 编号：IF-1-A/LOG-079
+++++++ 记录时间：██/██/20██
+++++++ 记录方式：受访者随身携带之录音装置（型号不详）
+++++++ 身份确认：流浪人员，男性，身份编码 ███-SL-43
+++++++ 记录性质：高度一致于Entity IF-1所引发的“侵入性视觉攻击”表现
+-----
+++++ 事件背景：
+
+受访个体自称曾于[/level-if-16 Level IF-16]内遭遇**Entity IF-1**，并在“无明显接触”的情况下，经历强烈的意识层面入侵。个体报告称，在意识清醒状态下被反复灌输大量血腥、暴力与扭曲感官图像，持续时间无法主观判断，仅能确认“记忆感知中为极端漫长”。个体自述事件发生后出现急性精神崩溃、强迫回想、拒绝社交及暴力防御倾向。
+
+++++ 录音片段转录摘要：
+[[div class="styled-quote-2"]]
+**受控个体（急性应激状态，语速紊乱）：**
+“对不起……我真的知道错了！求你们别再问我这些问题了……我真的不想再回忆那些该死的东西！可那些他妈的就像……像附骨之蛆一样死死缠在我脑子里，怎么都甩不掉！”
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**记录人员（尝试安抚与引导）：**
+“先生，请冷静一些。既然这些记忆挥之不去，是否可以尝试描述你在幻觉中看到的内容？”
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受控个体（表现出极端混乱与崩溃迹象）：**
+“是一群穿着校服的疯子……全身是血，在学校操场上笑得像发疯一样……他们……他们围着一个火堆，在……在烤人肉……我发誓我不是疯了！我看到有个女人，是老师……他们把她扔进火里……甚至没等她死，就……”
+[[/div]]
+
+> **（录音在此处因内容过于血腥与精神污染风险过高，已被强行终止，后续部分存于封档数据包 IF-1/█-Black）**
+[[/collapsible]]
+[[/div]]
+
+[[/div]]
+
+[[=]]
+------
++ - 相关报告 -
+------
+[[/=]]
+
+[[div class="styled-collap"]]
+[[collapsible show="附录 B：Entity IF-1 相关实体报告" hide="隐藏"]]
+++++++ 实体编号：Entity IF-1
+++++++ 编撰单位：[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]数据归档室
+++++++ 编写时间：██/██/20██
+------------------
+++++ 实体概况
+**当前已确认Entity IF-1类实例数量为 46 个。**根据现阶段观测与回收记录，Entity IF-1被正式列为“高攻击性、高威胁性”智能信息类异常体。
+
+**Entity IF-1**被称为“终极语言（The Ultimate Language），其可直接作用于人类大脑中的语言中枢与感知模块，绕过传统感官过滤系统。其本体并无固定物理结构，可通过以下形式显现：
+
+> * 任意类型的电子设备（如手机、显示器、录音机、音箱、摄像头等）；
+>
+> * 复合信号形态，包含光波、声波与电磁频率；
+>
+> * 视觉不可见形体，大多数情况下无法通过常规监测手段捕捉其本体。
+
+从结构角度看，Entity IF-1本质为高度整合的能量、信息混合体，其行为不依赖物理动作，而是通过“信号注入”完成对外界的干涉与控制。
+
+++++ 特殊个体报告（已确认3个）
+
+在已知的 46 个 IF-1 实例中，有 3 个被归类为“特殊级”个体。因具备独立意识或特殊能力而被归类。以下为初步简要描述：
+
+[[div class="blockquote"]]
+
+++++ 特殊个体 IFS-1
+
+**实体类：Entity IF-1**
+**代称：威廉(William·Smith)**
+**状况：失踪**
+--------
+
+已知个体 “William·Smith” 失踪前所处的容器外观近似一座复古式音乐盒，外壳持续散发稳定的幽蓝色光芒。目前，该个体已失踪，至今尚未被重新定位或回收，且在全部已知记录中未曾展现出任何攻击性行为。个体“William·Smith”拥有**更换记忆的特殊能力。然而，其存在可被明确感知，且其影响范围具有显著特征：
+
+其周围约 5 米的半径范围内，出现较大音量或持续性噪音（无论来源为人类或机械装置），将引发其强烈反应。该个体将毫无预兆地对声源或噪音制造者进行强制性驱离：
+
+* 若干扰源为人类个体，William·Smith 会对其实施记忆更换，使目标失去相关区域定位或停留动机，从而自动脱离干扰区域；
+
+* 若声源为非生命装置（如扬声器、机械设备等），该个体则倾向以某种未知机制强行关闭其运行。
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+++++ 特殊个体 IFS-2
+
+**实体类：Entity IF-1**
+**代称：晨星(Muhammad·Morning Star)**
+**状况：失踪**
+
+--------
+
+个体“Muhammad·Morning Star”长时处于极端的抑郁与狂躁交替状态中，情绪波动极为剧烈且无法调节。个体失踪前，其所处的容器类似于警式照明灯，且容器持续散发暗紫色光芒，此类光线有引起不安情绪的作用。
+
+该个体对周围一切表现出异常强烈的敌对性，对任意生命体的接近反应尤为激烈。任意生命体试图靠近个体时，“Muhammad·Morning Star”将剥夺对方脑信号，致其迅速脑死亡。
+
+该个体在袭击[https://backrooms-wiki-cn.wikidot.com/the-m-e-g M.E.G.]第二科学组后失踪。至今尚未重新发现。
+
+[[/div]]
+
+[[div class="blockquote"]]
+
+++++ 特殊个体 IFS-3
+
+**实体类：Entity IF-1**
+**代称：天元**
+**状况：失踪**
+
+--------
+
+个体“天元”热衷于与流浪者讨论大量哲学方面，其在占据容器时展现亮金色光芒。该个体可篡改生命体语言体系，改变个体与周围世界交流方式。可令其熟悉个体自身语言，亦可令其失去其他语言的掌握。
+
+该个体为已知记录中第二被确认并归为实体类**Entity IF-1**的存在。而该个体于“01号抓捕行动”中，占据一警卫人员后脱离生命体失踪。
+[[/div]]
+[[/collapsible]]
+[[/div]]
+
+
+[[div class="styled-collap"]]
+[[collapsible show="附录 C：03号个体捕获行动档案" hide="隐藏"]]
+[[div class="blockquote"]]
+++++++ 行动编号：C-01
+++++++ 执行单位：M.E.G.特遣队
+++++++ 行动目标：捕获03号特殊个体-“天元”
+++++++ 行动时间：██/██/201██
+--------
+
+++++ 事件背景：
+
+于对Level IF-XXX的持续探索中，**M.E.G.勘探组织**发现了一疑似**Entity IF-1**的神秘个体，该个体散发金亮色光照且高度疑似**Entity IF-1**而引起了组织的关注。**Entity IF-1**行为极为复杂且不可预测，为了确保**M.E.G.**对该个体的有效控制并防止其对其他层级造成潜在威胁，组织决定派遣特遣队进行捕获行动。
+
+++++ 行动经过：
+
+当勘探队进入Level IF-XXX深层区域并成功锁定疑似实体的显现位置后，数名队员依照预定计划试图上前实施抓捕。
+
+然而，所在接近目标的瞬间，所有在场人员均在毫无预兆的情况下陷入短暂的失能状态，身体无法动弹，肢体僵硬如石，仿佛受到某种难以抵御的强制抑制。与此同时，该实体通过该名被控制的警卫队员，尝试与在场勘探成员进行交流。而该名警卫队员（编号K-07）开始出现异常反应。
+
+该名队员突然仰头，全身肌肉短促抽搐，并从其喉咙及胸腔位置发出非人类所能模仿的电流音。这些电流声最初紊乱杂乱，但迅速演化为结构清晰、节奏均衡的声波模式，仿佛一种被有意组织的语言形式。
+
+++++ 录音片段转录摘要（内容已翻译）：
+
+[[div class="styled-quote-2"]]
+（一阵电流声）
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受Entity IF-1控制的警卫队员（编号K-07）：**
+
+你们来到此，想必不怀好意。你们好，我是天元。我知道许多人都想了解我们到底是什么样的存在，这的确是一个值得深思的问题。我们可能算不上普通的存在，但也远不及“神”。换句话说，我们是基于你们语言和信号之上的上帝。你们的认知就是我的养料，因此，我知晓一切——过去、现在和未来。现在，我也有个问题想问你们：人类的本质是什么？”
+
+[[/div]]
+
+[[div class="styled-quote-2"]]
+（短暂的停顿）
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受Entity IF-1控制的警卫队员（编号K-07）：**
+
+这是来自19世纪历史上著名唯物主义哲学家卡尔·马克思的思想，我认为，人类的本质是不断创造并探索属于自身的存在意义。
+
+从南方古猿到如今的人类，经过五百多万年的演化，人类进化出了世界上最聪明的大脑，并开始描述一些事物或概念的本质特性。人类通过对事物核心属性的清晰表达，逐渐形成了所谓的“定义”。
+[[/div]]
+
+[[div class="styled-quote-2"]]
+（受控人员长叹一口气）
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受Entity IF-1控制的警卫队员（编号K-07）：**
+
+人类存在的本质和定义相互作用，塑造了人类对事物的认知。在这个体系中，人类的认知超越并包含了过去所有人类文明的智慧。比如，玛雅文明在石器时代就取得了天文学和数学领域的突破。尽管我们仍未完全挖掘出过去的所有事物，但人类的过去无疑隐藏着无尽的未知。你无法预知是否会有类似玛雅文明的第二个崛起，或者他们在哪些领域取得了超越时代的成就。现代人类的认知不断突破，推动科技和知识的发展，使得现代文明愈发强大。一些创作者甚至将自己的知识和认知转化为小说、漫画，通过不同的形式展现自己脑海中的世界观。
+
+假设，人类所虚构的事物能够在另一宇宙或维度空间中成为现实。而人类，作为‘人类’的‘造物’，对于自身所认知的事物不过是‘人类’存在的一个小小片段。更高维度的‘人类’可能拥有更为复杂的知识体系。而这些创造者们，正是能够对自己笔下的事物与人物进行不同层次的修改和塑造。就像一个观看网络视频的访客，他们可以越过视频的时间，甚至视频的创作者也能像上帝一样，随意修改视频中的内容。这一切，都是现代人类认知的冰山一角。若将现代人类的认知与人类永无止境、持续增长的认知相对比，就如同拿一粒沙子与整个沙漠相比，毫无可比性。
+[[/div]]
+
+[[div class="styled-quote-2"]]
+（受控人员出现咳嗽）
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受Entity IF-1控制的警卫队员（编号K-07）：**
+
+过去和现在的认知，对于未来的人类认知而言，并不算什么。随着时间的推移，未来的科技与文明将不断进化，超越当下。全新能源的普及、新型能量的发现，甚至制造出能够跨越时空、超越时空概念的机器……未来充满无数可能性，这使得人类的认知空前强大，超越了历史上任何一个时代。未来的认知将比世界上所有时代的人类认知加起来还要强大。
+
+
+[[/div]]
+
+[[div class="styled-quote-2"]]
+(受控人员转身摆了摆手）
+[[/div]]
+
+[[div class="styled-quote-2"]]
+**受Entity IF-1控制的警卫队员（编号K-07）：**
+
+人类的认知包含了过去、现在与未来，正如我刚才所叙述的那样，随着时间推移，人类的认知将永无止境，持续增长。
+
+事已至此，再见吧。下次，当你们见到我时，我将不再是我。
+[[/div]]
+
+> 记录结束，该警卫人员在短暂时间后倒地昏迷，现已确认其安全。
+[[/div]]
+[[/collapsible]]
+[[/div]]
+[[=]]
+------------
++ - 行为准则 -
+----------
+
+[[div class="vibrate-box"]]
+！！Error ！！
+！！本栏内容暂不适用！！
+[[/div]]
+
+[[div class="hr-line"]]
+[[/div]]
+[[collapsible show="[+]作者(们)" hide="[-] 隐藏"]]
+[[*user FNHanBao]]与[[*user Lucifer_597]]合著
+
+原作者：[[*user Lucifer_597]]
+本文经授权由[[*user FNHanBao]]重写
+图源1：改自[https://unsplash.com/photos/black-1-din-head-unit-EOG8BeJfz4I [这里]]
+图源2自绘
+[[/collapsible]]
+
+[[module Rate]]
+[[/=]]
+
+[[module CSS]]
+@keyframes vibrate {
+  0% { transform: translateX(0); filter: blur(0px); }
+  20% { transform: translateX(-3px); filter: blur(1px); }
+  40% { transform: translateX(3px); filter: blur(2px); }
+  60% { transform: translateX(-3px); filter: blur(1px); }
+  80% { transform: translateX(3px); filter: blur(2px); }
+  100% { transform: translateX(0); filter: blur(0px); }
+}
+
+.vibrate-box {
+  background-color: #000000;
+  color: #FF0000;
+  border: 2px solid #FF0000;
+  padding: 10px;
+  text-align: center;
+  animation: vibrate 0.2s infinite;
+  font-weight: bold;
+}
+
+.vibrate-box a {
+  color: currentColor;  /* 链接继承文字颜色 */
+  text-decoration: none;
+  transition: all 200ms ease;
+}
+
+.vibrate-box a:hover {
+  color: #FFA500; /* 可根据需要改为其他颜色 */
+  text-shadow: 0 0 3px #FF0000;
+}
+[[/module]]
+
+[[module CSS]]
+.hr-line {
+  border-top: 2px dashed white;
+  margin: 20px 0;
+}
+[[/module]]

@@ -1,0 +1,70 @@
+[[html]]
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>搜索</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        font-size: 75%;
+        width: 90%;
+      }
+      @media (max-width: 470px) {
+        body {
+          font-size: 68%;
+        }
+        .text {
+          width: 60%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div>
+        作者名<span style="color: red;">*</span>：
+        <input type="text" size="25" name="query" placeholder="输入作者名进行搜索" id="searchstring" action="/register" />
+        <input type="button" value="搜索" onClick="goSearch();"/>
+      </div>
+      <br>
+      <div>
+        排序依据：
+        <input id="selectpf" type="radio" name="area" value="created_at desc" checked onclick="sortselect('created_at desc');">创建时间
+        <input id="selectp" type="radio" name="area" value="updated_at desc" onclick="sortselect('updated_at desc');">更新时间
+        <input id="selectf" type="radio" name="area" value="rating desc" onclick="sortselect('rating desc');">评分数
+        <input id="selectc" type="radio" name="area" value="comments desc" onclick="sortselect('comments desc');">评论数
+        <input id="selectc" type="radio" name="area" value="revisions desc" onclick="sortselect('revisions desc');">编辑数
+      </div>
+    </center>
+    <script type="text/javascript">
+      /****************** 开始跳转并搜索内容 */
+      function sortselect(a) {
+        theSortselect = a;
+      }
+      let theSortselect = "created_at desc";
+      let theLocation = "/search:author/created_by/";
+      function goSearch() {
+        theLocation += document.getElementById("searchstring").value + "/order/" + theSortselect;
+        window.top.location.href = theLocation;
+        window.parent.location.href = theLocation;
+        window.top.location.replace(theLocation);
+      }
+    </script>
+  </body>
+</html>
+
+[[/html]]
+[[module ListPages perPage="1" limit="1"  category="-chat" created_by="@URL|none" order="@URL|created_at desc"]]
+[[=]]
++ 页面数：%%total%%
+[[/=]]
+[[/module]]
+[[module ListPages perPage="10" category="-chat" created_by="@URL|none" order="@URL|created_at desc"]]
+[[div style="border-radius: 10px;margin: 3px;border: 1px solid #999;padding: 0 1em;"]]
+**%%title_linked%%**
+创建于%%created_at|%Y年%m月%d日|agohover%% | 更新于%%updated_at|%Y年%m月%d日|agohover%%
+页面标签：%%tags_linked%% %%_tags_linked%%
+页面评分：%%rating%%分 | 页面评论：%%comments%%条
+字节数：%%size%%字节
+[[/div]]
+[[/module]]

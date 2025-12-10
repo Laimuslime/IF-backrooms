@@ -1,0 +1,49 @@
+[[include component:list grid='in others' 'in out' 'toc toc'|mgrid='in' 'out' 'others' 'toc']]
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是“实体”？
+//“实体”//是指那些来源于后室而非我们的现实的生物。它涵盖了各种各样的生物：从具有类人智慧的友好原住民到无意识的野兽，再到动机和能力超出我们理解的存在。根据我们数据库中由目击者们的记录来看，每种实体都有独特的行为，栖息地和生理需求。但当你对这些记录产生疑问时，为了你和它们的安全，与实体互动最好的经验法则就是**不要招惹他们**。数据库中可能会存在自相矛盾的说法，相信自己的直觉是最好的生存之道。
+[[/div]]
+[[div class="intro-others intro-block"]]
+++* 更多实体[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:enigmatic-series|隐秘实体]]]**
+* **[[[random:random-entity|随机实体]]]**
+[[/div]]
+[[div class="intro-out intro-block"]]
+++++* [[span class="penmark"]]@@ @@[[/span]]屏幕之外……
+在世界观外，实体可以简单地定义为“任何不是人的活物”。正如上面提到的，实体的种类千奇百怪，就像地球上的生物一样种类繁多，甚至更多—请尽情发挥你的创造力吧！
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 Entity IF-1-15]
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
+++ Entity IF-1-15[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+* [[[Entity IF-1]]] - ″THE UltimateLanguage”
+* [[[Entity IF-2]]] - “煤火”
+* [[[Entity IF-3]]] - “无数据”
+* [[[Entity IF-4]]] - “无数据”
+* [[[Entity IF-5]]] - “无数据”
+* [[[Entity IF-6]]] - “无数据”
+* [[[Entity IF-7]]] - “无数据”
+* [[[Entity IF-8]]] - “无数据”
+* [[[Entity IF-9]]] - “无数据”
+* [[[Entity IF-10]]] - “无数据”
+* [[[Entity IF-11]]] - “无数据”
+* [[[Entity IF-12]]] - “无数据”
+* [[[Entity IF-13]]] - “无数据”
+* [[[Entity IF-14]]] - “无数据”
+* [[[Entity IF-15]]] - “无数据”
+[[/div]]
+[!-- ↓↓↓ --]
+[!-- 以下为用户自定义区，请成员标注不同字体 / 样式所对应的实体。 --]
+[[module CSS]]
+/* 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+
+[[/module]]

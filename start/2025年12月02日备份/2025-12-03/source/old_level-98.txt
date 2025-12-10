@@ -1,0 +1,18 @@
+[[image http://old-backrooms-wiki.wikidot.com/local--files/component:old-survival-difficulty-unknown/old-survival-difficulty-unknown]]
++ **描述：**
+**Level 98**是一个似乎没有门与通向外围方式的小房间，但在其最顶上存在一个带着一套计算机的桌子。打开电脑会显示出真实的，看起来就像[[[Level 0]]]一样的层级。你可以用箭头键和鼠标在这个虚拟的层级内到处移动。
+
+发生在你虚拟角色身上的事亦会发生在你身上。如果你在虚拟层级里发了疯，你现实世界中的理智亦会开始衰退。
+
++ **入口与出口：**
+**入口**
+据说是在[[[The End|终点]]]内找到一间未知的房间，然后会来到这里，但其信息未知。
+**出口**
+这儿没有能让你享受痛苦的出口。
+------
+[[>]]
+[[collapsible show="作者" hide="隐藏作者"]]
+原作者[[*user PoppyThe]]
+由[[*user xuziqi]]译就
+[[/collapsible]]
+[[/>]]

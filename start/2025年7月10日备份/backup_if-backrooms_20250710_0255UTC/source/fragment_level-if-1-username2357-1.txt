@@ -1,0 +1,95 @@
+[[include :backrooms-wiki-cn:theme:to-wish-upon-a-dream]]
+
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+
+[[module CSS]]
+:root {
+    --lh-book-color:248,193,214
+    --lh-string-color:255,240,245
+}
+[[/module]]
+
+{{你依稀记得，}}
+{{你曾读过这童话。}}
+
+[[div class="notepaper-group book-pattern book-wrapper"]]
+
+[[div class="notepaper narrow"]]
++ 小猫历险记 
+[[image http://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_7_s.jpg style="   
+ border-style: ridge;
+ border-color: #FFC0CB;
+ border-width: 5px;
+ background: #948273;
+ text-align: centre;
+ size: fit;"]]
+ 
+ 一天，小猫和小狗在[https://backrooms-wiki-cn.wikidot.com/level-414 花园]玩捉迷藏。小猫藏进角落，却不慎碰到一枚火漆币。
+[[/div]] 
+
+[[div class="notepaper narrow"]]
+ [[image https://imgurl.diadi.cn/imgs/2025/06/b7f10e1eb7ab3136.jpg style="   
+ border-style: ridge;
+ border-color: #FFC0CB;
+ border-width: 5px;
+ background: #948273;
+ text-align: centre;
+ size: fit;"]]
+ 
+ 小猫因此落入黑暗，它踏在海平面上，只能看见一个光点与几只小鸟。小猫瑟瑟发抖，一动也不敢动。小鸟们鼓励小猫：“小猫小猫不要怕，向着光芒行走吧。”小猫犹豫许久，缓缓向那光点走去。
+[[/div]] 
+
+[[div class="notepaper narrow"]]
+ [[image https://imgurl.diadi.cn/imgs/2025/06/bf7c0e319e228b9e.jpg style="   
+ border-style: ridge;
+ border-color: #FFC0CB;
+ border-width: 5px;
+ background: #948273;
+ text-align: centre;
+ size: fit;"]]
+ 
+ 片刻，小猫到达了光源处。它眼前是一片点缀着彩色云朵的天空与粉色海洋。这奇景让小猫流连忘返，过了一会，一个慈祥的老奶奶送它回去，小猫才悻悻然地回了[https://backrooms-wiki-cn.wikidot.com/level-414 花园]。
+[[/div]] 
+
+[[div class="notepaper narrow"]]
+ [[image http://backrooms-wiki.wdfiles.com/local--files/level-414/lvlimg_1_s.jpg style="   
+ border-style: ridge;
+ border-color: #FFC0CB;
+ border-width: 5px;
+ background: #948273;
+ text-align: centre;
+ size: fit;"]]
+
+ 小猫回到花园继续游戏，不久，小狗找到了小猫。小狗惊叹道：“我找了好久才找到你，你真厉害！”
+[[/div]]
+[[/div]] 
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :scp-wiki-cn:component:coltop show=那时，你听大人们说，|hide=“童话都是骗人的。”]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :scp-wiki-cn:component:coltop show=你曾为此伤心许久，|hide=后来渐渐学会放下。]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :scp-wiki-cn:component:coltop show=直到你长大后的某一日，|hide=你伸手触碰那枚火漆币。]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[include :scp-wiki-cn:component:coltop show=你终于发现，|hide=……]]
+@@@@
+@@@@
+@@@@
+@@@@
+[https://if-backrooms.wikidot.com/level-if-1-username2357/offset/1 那童话从未骗人。]
+
+[[include :scp-wiki-cn:component:colend]]
+[[include :scp-wiki-cn:component:colend]]
+[[include :scp-wiki-cn:component:colend]]
+[[include :scp-wiki-cn:component:colend]]

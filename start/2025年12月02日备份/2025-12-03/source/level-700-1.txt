@@ -1,0 +1,66 @@
+[[include :backrooms-wiki-cn:theme:super-liminal
+|hide-title=a
+|nightmare=a
+]]
+
+[[include :backrooms-wiki-cn:credit:start]]
+作者为[[*user CamaradeAlbabar]]
+
+发布经绿灯豁免
+
+感谢[[*user LiminalDoctor]]和[[*user doctrinator]]给出他们的评判与观点
+
+译者为[[*user ThEndlessRain]]
+
+[[collapsible show="内容警告" hide="内容警告"]]
+本页讲述了一个角色的自杀。
+[[/collapsible]]
+[[include :backrooms-wiki-cn:credit:end]]
+[[div style="text-align: right; font-size: 80%; color: gray; padding-right: 1ch; margin-top: -0.5rem;"]]
+内容警告 ⤴
+[[/div]]
+
+
+你从未找到我的遗体。在那[[[level-700|大桥]]]上，我所余留的一切遗物，不过是那条一周年纪念日时你赠予我的金项链，以及一张小纸条——我倾尽全力而写：
+
+[[note]]
+当你瞭望繁星漫天的夜空时，要明白我就在那里，守护着你。
+[[/note]]
+
+> 这究竟是什么意思？你深情的拥抱早已无处寻，这方天地里却只有你留下的虚无，永恒吞噬着我的内心。此刻，繁星还有何意义？
+
+你一定曾如此自问。我甚至未曾向你解释。除了我日渐消散的存在痕迹，你无可依凭。我见你回到家，看见我留下的、吃下一半的糕点，看见我扔掉的咖啡滤纸，看见我在永远背井离乡前亲手为你做好的煎饼。这些温存的举动，却紧随着如此自私的行径，你一定无法理解背后的原因吧？
+
+我深知这个问题没有完满的答案。但我希望，终有一日，你会仰望向天空。在这广袤无垠的空寂中，你会留意到一颗闪耀的星，会莫名地有这样一种直觉——它在回望着你。
+
+请知悉啊，我在[https://backrooms-wiki-cn.wikidot.com/ 这里]找到了一片地方——一片由我们未曾成谶的梦想和希冀构筑的地方。我会在这里等你，会咏唱一首纯粹极乐与爱恋的爱谣。只要你的心间仍然有我的一席之地，我便会守候直到永远。
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+ 
+[[=]]
+请你，勿忘我。
+[[/=]]
+
+[[include component:image-block
+    name=https://backrooms-wiki.wdfiles.com/local--files/level-700-1/Hidden_Valley_Campground_-_Starry_sky_-_07.JPG|
+    align=center|
+    width=600px|
+    caption=我爱你。向来如此。永远如此。
+]]
+
+[[div style="text-align: center"]]
+永远璀璨。
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:license-box
+|author=CamaradeAlbabar]]
+=====
+> **图像名称：** Hidden Valley Campground - Starry sky - 07.JPG
+> **图像作者：** [https://commons.wikimedia.org/wiki/User:Jarekt Jarek Tuszyński]
+> **授权许可：** [https://creativecommons.org/licenses/by/4.0/deed.en CC BY 4.0]
+> **来源链接：** https://commons.wikimedia.org/wiki/File:Hidden_Valley_Campground_-_Starry_sky_-_07.JPG
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]

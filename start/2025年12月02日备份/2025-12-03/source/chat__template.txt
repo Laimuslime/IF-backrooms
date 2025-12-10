@@ -1,0 +1,79 @@
+[[include :backrooms-wiki-cn:theme:basalt]]
+[[module css]]
+.pager { transform: rotateX(180deg); }
+iframe { display: none; }
+#history-form-1{
+display:none !important;
+}
+.page-source{
+display:none !important;
+}
+.modal * { transform: unset !important; }
+.modal { max-height: 30em; overflow: hidden; }
+.modal img { max-width: 150px; }
+.modal .printuser a:first-of-type img {
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+    background-image: none !important;
+    padding: 0;
+    border: 2px solid rgb(var(--gray-monochrome));
+    border-radius: 50%;
+    margin-right: 12px;
+}
+.moda span.printuser {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    grid-area: username;
+}
+.modal .printuser::after {
+    content: "·";
+    padding: 0 6px;
+}
+.modal > p:first-child { display: flex; align-items: center; }
+.modal .fuckerlol::after { content: attr(data-content); }
+.modal div[data-content=""]:not(.lightblock)::before {
+  content: "服务器繁忙，请稍后再试。";
+  color: gray;
+}
+.lightblock h1 { display: none; }
+#u-hidden:target ~ .notation div[data-content=""] { display: none; }
+#u-hidden > .idk { display: none; }
+#u-hidden:target a { display: none; }
+#u-hidden:target > .idk  { display: inline; }
+#u-hidden { display: inline; }
+.hellowod a { display: block !important; }
+[[/module]]
+[[div_ id="hidden" style="display: inline;"]]
+[[a class="idk" href="#"]]显示屏蔽消息[[/a]][#u-hidden 隐藏屏蔽消息]
+[[div_ class="hellowod" style="display: inline; float:right;"]]
+[[[chat|神经刷新按钮。]]]
+[[/div]]
+[[/div]]
+[[div class="notation" style="transform:rotateX(180deg);max-height: 55rem;overflow-y: auto;overflow-x: hidden;word-wrap: break-word;word-break: normal;"]]
+[[module ListPages category="chat" perPage="50" separate="no" order="created_at decs"]]
+[[div class="modal" style="transform:rotateX(180deg);" data-content="%%form_data{name}%%"]]
+[[*user %%created_by%%]] %%updated_at|%Y/%m/%d %R|agohover%%
+[[div class="fuckerlol" style="margin-block-start: 1em;
+    margin-block-end: 1em;" data-content="%%form_data{name}%%"]]
+[[/div]]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="jotting" style="text-align: center;"]]
++ [https://if-backrooms.wikidot.com/chat:new/edit/true/title/聊天室内容输入 内容输入]
+[[/div]]
+[[div style="display:none"]]
+[[form]]
+fields:
+    name:
+        type: text
+        label: "输入内容："
+        hint: "请输入非维基语法内容"
+        minLength: 1
+        maxLength: 30
+        rows: 10
+        multiline: true
+[[/form]]
+[[/div]]

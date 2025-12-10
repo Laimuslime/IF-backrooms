@@ -1,0 +1,559 @@
+[[include :backrooms-wiki-cn:component:layout-helpers]]
+[[include :backrooms-wiki-cn:theme:nuliminal]]
+[[include :backrooms-wiki-cn:theme:megmma]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-source= --]]]
+[[include :backrooms-wiki-cn:component:title
+|1=The Backrooms
+|2=你曾经来过这里。
+]]
+[[module css]]
+.page-tags::before{
+  content: "标签：" !important;
+}
+[[/module]]
+[[include :backrooms-wiki-cn:credit:start]]
+[[=]]
+作者：[[*user I_am_a_dragon]]
+译者：[[*user calf-0]]
+感谢以下人员：
+批判：[[*user R0bert de Mar3]]、[[*user BlueSkiesAbove]]、[[*user Endrew1]]、[[*user AndromedeadReal]]、[[*user VixiePixie]]、[[*user BlueSignet]]
+[[*user BlueSignet]]批准通过
+[[/=]]
+[[include :backrooms-wiki-cn:credit:end]]
++ 此页面目前正在修改中>:(
+这可能是由于此页面所描述的层级/实体/物品性质发生了重大变故，或者之前的记录中存在过多差错和遗漏。若您对此有任何疑虑，请发送电子邮件至{{megarchive@backmail.com}}。对您所造成的不便，我们深表歉意！
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkblock"]]
+我这几天没检查数据库，没想到那些家伙把那些归档文件给删了。还好我拥有管理员权限，可以把这些文件恢复回数据库里。
+[[>]]
+——匿名用户
+[[/>]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300090524.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[include :backrooms-wiki-cn:component:level-class
+|class=habitable
+]]
+**Level 323**是近期所发现的新层级。因其气候宜人且资源丰富，此层级于数据库内被标记为“宜居”。
+------
+[[=]]
++ 描述
+[[/=]]
+------
+[[module css]]
+.scp-image-caption{
+   color: black
+}
+[[/module]]
+[[include :backrooms-wiki-cn:component:image-block
+|name=http://scp-sandbox-3.wikidot.com/local--files/level-323/island
+|caption=一座小岛。
+|align=right
+]]
+**Level 323**是一片广袤的海洋，其中密集分布着大量中小型岛屿。现有研究表明，**Level 323**的所有岛屿皆为海底火山喷发而形成的产物，其岩体主要由玄武岩所组成，海底勘探更在距水约100英尺处发现过火山口遗迹，值得注意的是，目前**Level 323**的所有火山均处于休眠或熄灭状态。因此可判定该区域不具备新岛屿形成条件。
+
+**Level 323**拥有宜人的热带气候。根据岛屿的不同，**Level 323**的温度范围处于22至30度之间。此层级很少出现恶劣天气；通常风速不超过每秒五米。降水多为阵雨形式，通常极其温和，持续时间不长，亦不会演变为雷暴。此种气候也使得**Level 323**的水域非常平静，适合开展各类水上活动。
+
+**Level 323**拥有稳定的昼夜循环。其周期与前厅中的昼夜循环基本一致，约为25小时，其中15小时为白昼，10小时为黑夜。当夜幕降临，层级内的温度会下降至1~3摄氏度，环境噪音也会显著降低。因此，在**Level 323**入睡的流浪者往往能获得更优质的睡眠体验，甚至部分失眠患者在**Level 323**中得到治愈。
+
+**Level 323**的岛屿上尚未发现智慧生命存在的迹象，但海洋中栖息着大量鱼类。这些鱼类无毒，经简单烹饪过后即可安全食用，是重要的食物来源。岛屿上也生长着大量可食用植物（主要是椰子及各类野菜），可以为流浪者提供稳定的维生素供给。
+
+此外，**Level 323**整个层级范围内皆配备有稳定的Wi-Fi，且已证实可通过该网络与其他层级建立稳定的连接。
+------
+[[=]]
++ 基地、前哨与社区
+[[/=]]
+------
+目前尚未建立，但鉴于**Level 323**内具备宜居的特性，建议在此层级建立基地、前哨与社区。
+------
+[[=]]
++ 入口与出口
+[[/=]]
+------
++++ 入口
+* 通过[[[Level 48]]]海域持续航行数公里，最终即可抵达**Level 323**。
+
+* [[[Level 422]]]偶现真实岛屿。登岛后即可进入**Level 323**。
+
+* 在[[[Level 711]]]遭遇风暴迷航时，较高概率可抵达**Level 323**。
++++ 出口
+* 上述入口同时也是稳定的出口。
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300090724.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[div class="styled-quote"]]
+||**发件人：**{{lily40123@backmail.com}}||
+||**收件人：**{{megrescue@backmail.com}}||
+||**主题：**Level 323||
+----
+你好，
+
+我是Lily，一位居住在Level 323中243号岛屿的流浪者。我最近注意到Level 323出现了一些异常情况：位于234号岛屿和246号岛屿之间某个区域的海水在两天内从蓝色变成了绿色。我怀疑这是一种未被记录的异常现象，希望M.E.G.能够调查此事，以确保此层级居民的安全。
+
+[[>]]
+——Lily
+[[/>]]
+----
+[[/div]]
+[[div class="darkblock"]]
+||**发件人：**{{megrescue@backmail.com}}||
+||**收件人：**{{lily40123@backmail.com}}||
+||**主题：**回复：Level 323||
+----
+我们已了解你报告的情况，并已得到Level 323工作人员的确认。我们将尽快调查该现象的原因。倘若该现象具有危险性，M.E.G.将派遣救援人员前往Level 323，以确保每位流浪者的安全。
+
+[[>]]
+——M.E.G.应急响应部门
+[[/>]]
+----
+[[/div]]
+[[div class="styled-quote"]]
+||**发件人：**{{lily40123@backmail.com}}||
+||**收件人：**{{megrescue@backmail.com}}||
+||**主题：**回复：回复：Level 323||
+----
+感谢。
+
+[[>]]
+——Lily
+[[/>]]
+----
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkblock"]]
+||**发件人：**{{megrescue@backmail.com}}||
+||**收件人：**{{lily40123@backmail.com}}||
+||**主题：**调查结果||
+----
+嗨，
+
+我们已对您报告的海水颜色异常变化进行了调查。经调查发现，在238号岛屿有一座B.N.T.G.成员建立的工厂，海水颜色的变化是由于该工厂在生产过程中向海里排放废水而导致，而非后室现象。
+
+[[>]]
+——M.E.G.应急响应部门
+[[/>]]
+----
+[[/div]]
+[[div class="styled-quote"]]
+||**发件人：**{{lily40123@backmail.com}}||
+||**收件人：**{{megrescue@backmail.com}}||
+||**主题：**回复：调查结果||
+----
+感谢M.E.G.对我报告的情况予以重视。现在我想知道你们打算采取什么措施来解决这个问题？目前，居住在Level 323的大多数居民认为这家工厂会影响此层级的生态系统并对人们的健康造成危害。
+
+[[>]]
+——Lily
+[[/>]]
+----
+[[/div]]
+[[div class="darkblock"]]
+||**发件人：**{{megrescue@backmail.com}}||
+||**收件人：**{{lily40123@backmail.com}}||
+||**主题：**回复：回复：调查结果||
+----
+我们已与B.N.T.G.达成协议，他们将在一周内从Level 323撤离工厂，作为交换，我们将提供相应资源补偿。之后，我们将制定相关政策以明确此层级的定居资格。
+
+请放心，在我们的管辖范围内，各位流浪者的权益都将得到保障。
+
+[[>]]
+——M.E.G.应急响应部门
+[[/>]]
+----
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300090824.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[div class="signblock signblock-dark"]]
++* 通知
+为保障**Level 323**全体居民的利益并维护**Level 323**的宜居环境，经M.E.G.内部讨论决定，现颁布《岛屿使用政策》。
+
+根据该条例规定，使用者在使用**Level 323**的岛屿之前，须向M.E.G.指定的审查官申报未来使用计划。经审查官评估确认您具备充分开发利用**Level 323**自然资源的能力过后，方可在该岛屿建立设施，以下为申报模板：
+
+[[div class="lightblock"]]
+@@**岛屿编号：**#@@
+@@**设施类型：**（住宅、咖啡店等）@@
+@@**详细描述：**@@
+
+@@**潜在污染源：**@@
+[[/div]]
+
+为落实该政策，M.E.G.决定在**Level 323**建立一处临时命名为“假日度假村”的基地。若政策实施过程中出现任何问题，请向该基地报告。
+
+需特别强调，此是一项强制要求而非建议。若试图规避报告程序，擅自在**Level 323**建立任何形式的设施，该设施将会被拆除。
+[[div class="signblock-img" style="filter: invert(100%)"]]
+[[image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo]]
+[[/div]]
+[[span class="signblock-footer"]]M.E.G.“假日度假村”基地[[/span]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300090924.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-user= --]
+|user-id=one
+|username=Kevin20
+|usericon=http://scp-sandbox-3.wikidot.com/local--files/level-323/icon1.PNG
+|usercolor=#60b9dc
+]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-user= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|usericon=http://scp-sandbox-3.wikidot.com/local--files/level-323/icon2.PNG
+|usercolor=#55bb8a
+]]
+[[div class="dark-titleblock"]]
+[[span class="dark-titlebox"]]#基地“假日度假村”[[/span]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:20
+]]
+[[span class="at_mention"]]@审查员Aiden（勿扰）[[/span]] 你的工作咋样了？
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:28
+]]
+？
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:30
+]]
+[[span class="at_mention"]]@审查员Aiden（勿扰）[[/span]][[span class="at_mention"]]@审查员Aiden（勿扰）[[/span]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:31
+]]
+抱歉回复晚了，我一直在审阅他们的报告。现在有十几个人:{
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:31
+]]
+天哪
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:31
+]]
+[[span class="at_mention"]]@Kevin 20[[/span]]M.E.G.就不能多安排几个人来审阅吗？我现在忙疯了
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:32
+]]
+恐怕不行。人手短缺一直是我们面临的重要问题。显然，M.E.G.不可能将所有人力都分配到审阅岗位，因为还有许多其他重要职位需要人员配置。
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:32
+]]
+操
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:32
+]]
+如果我继续这样高强度工作，我会死在办公室里的
+[[include :scp-wiki:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:32
+]]
+我很理解你，可现实正是如此，无论你再怎么抱怨，都无法改变它
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:35
+]]
+说到改变，坦白讲，这个岛屿使用政策确实得调整。它不仅增加了我的工作量，还把很多想来这定居的流浪者都赶到别的层级了
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:35
+]]
+那你打算怎么干
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:36
+]]
+在我看来，我们可以让此层级的居民通过评分（0~5颗星）来决定每个岛屿的使用方式。
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:36
+]]
+如果某个岛屿的星级评分低于特定数值，该岛屿上的设施就会被拆除。
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:36
+]]
+好主意
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:36
+]]
+你想把这个数值设成多少
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:36
+]]
+100颗星
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:36
+]]
+多少
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:36
+]]
+L323目前有多少居民
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:36
+]]
+大概30
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:37
+]]
+这也太少了吧
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=one
+|username=Kevin20
+|msg-time=下午 4:37
+]]
+你确定L323里的每个设施都能够评上100颗星吗？
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-start= --]
+|user-id=two
+|username=审查员Aiden（勿扰）
+|msg-time=下午 4:37
+]]
+可以确定部分设施将会被拆除。但这不会造成任何影响，由于M.E.G.巨大的影响力，没人胆敢反对。除非我们基地的员工不想保住工作，否则不敢拒绝拆除这些设施。
+[[include :scp-wiki-cn:component:discord-chat-source |inc-msg-end= --] ]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300091024.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[div class="signblock signblock-dark"]]
++* 通知
+根据“假日度假村”基地内部讨论，已对岛屿使用政策做出调整，以便为流浪者对Level 323的发展提供便利。具体更改如下：
+
+* 任何人员皆可在Level 323内建造设施而无需报告。
+
+* 任何人员皆可对他人的岛屿使用合理性进行0~5星制投票。
+
+* 若岛屿上的设施在三天内未评得100颗星，将由M.E.G.工作人员予以拆除。
+
+若您对此有任何疑问，请发送电子邮件至{{kevin20@backmail.com}}。
+[[div class="signblock-img" style="filter: invert(100%)"]]
+[[image http://natedagreat563.wdfiles.com/local--files/storage-unit/Meglogo]]
+[[/div]]
+[[span class="signblock-footer"]]M.E.G.“假日度假村”基地[[/span]]
+[[/div]]
+[[/div]]
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="lightblock"]]
+[[=]]
+[[size 1.2em]]**文件“L32300091224.PDF”**[[/size]]
+[[/=]]
+[[/div]]
+
+[[div class="whiteblock"]]
+[[div class="styled-quote"]]
+||**发件人：**{{kevin20@backmail.com}}||
+||**收件人：**{{eternalaiden@backmail.com}}||
+||**主题：**{无题}||
+----
+你当初是咋想到这么个馊主意的？！三天过去了，这些设施没有一个达到避免被拆除的标准！每个岛屿上都有愤怒的居民骂骂咧咧地阻拦来拆除设施的工作人员！
+
+[[>]]
+——Kevin
+[[/>]]
+----
+[[/div]]
+[[div class="darkblock"]]
+||**发件人：**{{eternalaiden@backmail.com}}||
+||**收件人：**{{Kevin20@backmail.com}}||
+||**主题：**回复：{无题}||
+----
+哦，不，这真是太乱套了。我们必须马上采取行动。你马上去基地广播站，向所有居民宣布政策已取消。
+
+[[>]]
+——Aiden
+[[/>]]
+----
+[[/div]]
+[[div class="styled-quote"]]
+||**发件人：**{{kevin20@backmail.com}}||
+||**收件人：**{{eternalaiden@backmail.com}}||
+||**主题：**回复：回复：{无题}||
+----
+这没用了。
+[[>]]
+——Kevin
+[[/>]]
+----
+[[/div]]
+[[div class="darkblock"]]
+||**发件人：**{{eternalaiden@backmail.com}}||
+||**收件人：**{{Kevin20@backmail.com}}||
+||**主题：**回复：回复：回复：{无题}||
+----
+为啥？
+
+[[>]]
+——Aiden
+[[/>]]
+----
+[[/div]]
+[[div class="styled-quote"]]
+||**发件人：**{{kevin20@backmail.com}}||
+||**收件人：**{{eternalaiden@backmail.com}}||
+||**主题：**回复：回复：回复：回复：{无题}||
+----
+那些傻逼工作人员已经给我们的基地拆了，因为它只有95颗星，而且没人守着。
+
+[[>]]
+——Kevin
+[[/>]]
+----
+[[/div]]
+[[div class="darkblock"]]
+||**发件人：**{{eternalaiden@backmail.com}}||
+||**收件人：**{{Kevin20@backmail.com}}||
+||**主题：**回复：回复：回复：回复：回复：{无题}||
+----
+该死。那我们现在还能咋办？
+
+[[>]]
+——Aiden
+[[/>]]
+----
+[[/div]]
+[[div class="styled-quote"]]
+||**发件人：** {{kevin20@backmail.com}}||
+||**收件人：**{{eternalaiden@backmail.com}}||
+||**主题：**回复：回复：回复：回复：回复：回复：{无题}||
+----
+没辙了。我们无能为力。M.E.G.将会撤走，所有文件都会被删除，我们之前的努力都白费了。
+
+[[>]]
+——Kevin
+[[/>]]
+----
+[[/div]]
+[[/div]]
+------
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level 322]]] | Level 323 | [[[Level 324]]] >>
+[[/=]]
+[[/div]]
+[[=]]
+[[include :backrooms-wiki-cn:component:license-box
+|author=I_am_a_dragon
+|translator=calf-0
+]]
+=====
+> **名称：**Tropical Island With Lush Greenery And Blue Sea
+> **协议：**CC0
+> **作者：**照片由Ingo_Joseph所拍摄
+> **链接：** https://freerangestock.com/photos/173090/tropical-island-with-lush-greenery-and-blue-sea.html
+=====
+[[include :backrooms-wiki-cn:component:license-box-end]]
+[[/=]]

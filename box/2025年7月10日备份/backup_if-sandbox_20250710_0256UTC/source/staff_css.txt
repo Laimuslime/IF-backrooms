@@ -1,0 +1,3 @@
+[[module ListPages order="random" category="*" separate="false" perPage="100" tags="+if-1竞赛 +原创 -竞赛 -中心 -艺术作品" prependLine="||~ 名称 ||~ 创建者 ||~ 评分 ||"]]
+|| %%title_linked%% || [[*user %%created_by%%]] || ##green|+ %%rating%%## （+[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]]）||
+[[/module]]

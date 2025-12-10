@@ -1,0 +1,137 @@
+[[include :backrooms-wiki-cn:theme:lsheafs]]
+
+[[module css]]
+
+:root{
+--header-title:"The Rewrite Initiativ Canon";
+--header-subtitle:"让被遗忘的文档重归数据库……？";
+--logo-image: url();
+--link-color: 230, 23, 68;
+--visited-link-color: 140, 136, 126;
+--hover-link-color: 140, 136, 126;
+--swatch-secondary-color: var(--white-monochrome);
+--pale-gray-monochrome: 220, 220, 220;
+
+--white-monochrome: 255, 251, 240;
+}
+
+
+#container {
+   background-image: url("http://backrooms-wiki.wikidot.com/local--files/level-365/StormClouds3.jpg");
+}
+
+#header h1 a:before, #header h2 span::before  {
+color: rgb(255, 251, 240);
+}
+
+#main-content .page-tags span a:not([href^="/system:page-tags/tag/_"]), #main-content .page-tags span a:visited:not([href^="/system:page-tags/tag/_"]) {
+    --link-color: 230, 23, 68;
+}
+
+.lightblock {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+}
+
+.styled-quote {
+background-color:rgb(255,255,255);
+font-family: 'Merriweather', serif;
+border-left: 0.5rem solid rgb(77, 74, 65);
+}
+
+.darkblock {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+}
+
+.dark-styled-quote {
+background-color:rgb(77, 74, 65);
+font-family: 'Merriweather', serif;
+color: rgb(220, 220, 220);
+border-left: 0.5rem solid rgb(255, 251, 240);
+}
+
+:is(blockquote,.blockquote,div.blockquote,[class*=blockquote]) {
+--box-shadow: rgba(var(--swatch-menubg-black-color),0.1);
+    display: block;
+    clear: both;
+    margin: 0.5em 40px;
+    box-shadow: 0 0.0625rem 0.125em rgba(0,0,0,.1);
+    box-shadow: 0 0.0625rem 0.125em var(--box-shadow);
+    border: 0.0625rem dashed rgba(var(--swatch-border-color),.25);
+    background-color: #f4f4f4;
+    background-color: rgb(var(--swatch-secondary-color));
+    padding: 0 1em;
+    font-family: 'Merriweather', serif;
+
+[[/module]]
+
+[[=]]
+[[module rate]]
+[[/=]]
+------
+[[include :backrooms-wiki-cn:component:level-class
+|class=pending
+]]
+
+[[include component:image-block
+    |name=http://calf-0-sandbox.wikidot.com/local--files/files/Level-99.jpg
+    |caption=遥远之光。
+]]
+
+**Level IF-294**是后室IF层群的第294层。该层级被一名未知用户发现，其大概率已经迷失在了该层级。
+
++ **描述：**
+
+**Level IF-294**通常被认为由曾经的[https://if-backrooms.wikidot.com/old:level-99 Level 99]变换而来，与其过去的表形并无较大的相差。
+
+**Level IF-294**是一条狭长的走廊，向其一侧无限延伸，四壁天花板及地板的材质暂未知且无法被破坏。地板通常呈现为黑色，并具有较好的反光性。两侧的墙壁似乎有白色混凝土构成，但这无法证实。
+
+**Level IF-294**内走廊的两侧存在许多扇门。这些门似乎无法被打开，任何尝试强制打开这些门的尝试都失败了。同时，这些门的门框一旦被触碰，便会导致触碰者即时的消失。这也是层级内流浪者失踪的主要原因之一。这些门通常是黑色的。
+
+**Level IF-294**内的流浪者有时会发现走廊出现了岔路，但当其尝试拐弯时却会被阻挡，再次观察时那条岔路则消失了。我们暂时未探明这一现象发生的原理，但主流推测认为：岔路是层级创造出的幻象，实际上层级一直保持不变，只有一条向一侧无限延伸的长廊。
+
+**Level IF-294**内的天花板似乎由瓷砖铺设，同时存在始终无法被点亮的灯。流浪者一旦站立在这些灯下，便会感受到一阵极其强烈的眩晕与反胃感，并使得流浪者很快离开该区域。
+
+层级走廊有限的一端存在一道明亮的灯光。我们建议流浪者尽量不要直视那道灯光，这是因为其有可能可能是一种实体，若流浪着长时期直视可能会导致其即时性的死亡。
+
+++ 夜灯：
+
+夜灯即是**Level IF-294**中高度明亮灯光的代称。从较远的地方看它，似乎只是一道再普通不过的的光。然而，当流浪者接近它时，会发现：其实夜灯是一个悬浮在走廊末端空气中的发光球体。
+
+目前案例中，流浪者似乎只要凝视灯光超过10秒，便会使得层内出现一段被描述为“流浪者呻吟”的声音。据我们推测，该段声音即是之前的那位未知流浪者的呻吟。
+
+当“呻吟”结束后，一段被描述为“诡异且低沉”的钢琴版《小小蜘蛛爬上来》音乐的旋律将会在层级内响起，该音乐在层级内任何地方军不会发生音量变化。当这段钢琴曲结束后，夜灯会瞬间膨胀至极其夸张的大小，并随后将先前凝视它的流浪者吞入其中。
+
+如果被吞噬者当时正使用记录设备，那么该设备仍会继续运作，并将其正在记录的信息传输至另外的一台同种设备，若该设备仅此一台，那么正在记录的信息将会被抹除。随后，此流浪者将会化作一片尘埃。
+
++ **入口与出口**
+
++++ 入口：
+
+由主层群进入**Level IF-294**的唯一途径即是进入[[[Level 34]]]的一扇窗户。
+
+**Level IF-294**的入口可能出现在任何IF层群的层级，自身无出口的除外。这下入口通常呈现为一个向下无限延伸的，黑色的方形凹井。
+
++++ 出口：
+
+离开**Level IF-294**的出口较少。较为知名的的方式是直冲过那道光，然后打开其后的一扇木门，这将会带你到[[[Level 0]]]。这一方法的实施性不强，因为那道光会吸引你的注意并在随后杀死你，目前只有u/Enamint一人成功以这一方法成功地离开了。
+
+我们建议流浪者直接前往位于夜灯左侧的一扇门并切入之，这将会使你进入[[[Level IF-199]]]
+
+另外一种我们所建议的离开方式是：切入层级内的地板，这有小概率会来到[[[Level IF-100]]]。
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level IF-293]]] | Level IF-294 | [[[Level IF-295]]] >>
+[[/=]]
+[[/div]]
+------
+[[>]]
+[[collapsible show="作者信息" hide="收起"]]
+作者为[[*user xuziqi]]，这篇文章的原文与图源均为Level 99（旧） - “远处的灯光”
+
+版式来自“虚妄归档设定中心页”
+[[/collapsible]]
+[[/>]]

@@ -1,0 +1,307 @@
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@500&display=swap');
+ 
+:root {
+  --theme-base: "black-highlighter";
+  --theme-id: "furnacerooms-theme";
+  --theme-name: "Furnacerooms Theme";
+ 
+  --logo-image: "";
+  --header-title: "旭光廊";
+  --header-subtitle: "光明即万物之信仰。";
+ 
+  /* Typefaces */
+  --body-font: 'Nunito', sans-serif;
+  --header-font: 'Anek Kannada', sans-serif;
+  --title-font: 'Anek Kannada', sans-serif;
+  --mono-font: 'IBM Plex Mono', monospace;
+ 
+  /* Standard Colors */
+  --white-monochrome: 250, 250, 250;
+  /* white */
+  --pale-accent: 230, 175, 40;
+  /* visited links */
+  --bright-accent: 198, 138, 50;
+  /* bright teal */
+  --medium-accent: 222, 190, 70;
+  /* medium teal - the "default" accent color */
+  --dark-accent: 198, 145, 25;
+  /* dark teal */
+  --alt-accent: 170, 40, 11;
+  /* darkblocks */
+  --gray-monochrome: 250, 220, 130;
+  /* blockquotes */
+  --pale-gray-monochrome: 253, 251, 250;
+  /* tables */
+  --light-gray-monochrome: 222, 180, 100;
+  /* some buttons */
+  --dark-gray-monochrome: var(--gray-monochrome);
+  /* blue */
+  --dark-blue: 150, 29, 23;
+  --swatch-topmenu-border-color: var(--medium-accent);
+  --swatch-topmenu-bg-color: var(--bright-accent);
+  --swatch-border-color: var(--medium-accent);
+  --border-styling: outset 2px rgb(var(--swatch-border-color));
+   --darker-accent: 226, 80, 112;
+ 
+  --link-color: var(--dark-blue);
+  --link-color-bright: var(--dark-blue);
+  --hover-link-color: 208, 94, 69;
+  --newpage-color: 206, 81, 104;
+  --swatch-menubg-color: 214, 182, 169;
+ 
+  /* Box-Shadow 1px Borders */
+  --box-border-bottom: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-top: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-left: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-right: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  --box-border-all: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+ 
+  /* Rating box */
+  --rating-module-button-plus-color: var(--light-gray-monochrome);
+  --rating-module-button-negative-color: var(--light-gray-monochrome);
+  --rating-module-button-cancel-color: var(--light-gray-monochrome);
+  --rating-module-button-credit-color: var(--light-gray-monochrome);
+}
+ 
+#account-topbutton {
+  border-color: rgb(var(--swatch-text-light));
+}
+ 
+#header h1, #header h1 a {
+  top: 0.5rem;
+  font-size: 200%;
+}
+ 
+#header h2, #header h2 span, #header h2 span::before {
+  top: 1.7rem;
+  font-size: 110%;
+}
+ 
+#login-status {
+  color: rgb(var(--dark-blue));
+}
+ 
+#search-top-box {
+  display: none;
+}
+ 
+#skrollr-body {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("https://s3.bmp.ovh/imgs/2025/05/09/f9c91c3cd2e72af4.png");
+  background-repeat: repeat;
+  background-size: 60%;
+}
+ 
+#page-title, h1, h2 {
+  color: rgb(var(--dark-blue));
+}
+ 
+h3,h4,h5,h6 {
+  color: rgb(var(--medium-accent));
+}
+ 
+.styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.dark-styled-quote {
+   border-left: 0.5rem solid rgb(var(--dark-blue));
+}
+ 
+.darkblock h1,
+.darkblock h2,
+.dark-styled-quote h1,
+.dark-styled-quote h2 {
+  color: rgb(var(--medium-accent));
+}
+ 
+@media screen and (max-width: 600px) {
+  #header h1, #header h1 a {
+    font-size: 150%;
+  }
+}
+[[/module]]
+
+[[module css]]
+.titleblock {
+   background-color: rgb(var(--white-monochrome));
+   padding: 0.5rem 1rem 0.10rem;
+   margin: 1.5rem 0rem 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: solid rgb(var(--pale-accent)) 2px;
+}
+ 
+.titlebox{
+  position: relative;
+  top: -1.6rem;
+  background-color: rgb(var(--pale-accent));
+  color: rgb(var(--white-monochrome));
+  padding: 0.25rem 1rem;
+  line-height: 0.1rem;
+}
+
+.headerbox{
+    padding:1rem 0;
+    background: linear-gradient(180deg, rgba(197, 190, 187,0.25) 0%, rgba(232, 226, 220,0.2) 90%);
+    float:none;
+    width:auto;
+    margin:auto;
+    border-radius:1rem 1rem 0 0;
+}
+
+.scrollheader{
+    background: url("https://imagebed.pro/images/test/8Hopsl8urx.png");
+    animation: slide2 180s linear infinite;
+    background-size: 330px;
+    background-repeat: repeat-x;
+    width:calc(100%);
+    max-width: 800px;
+    min-height: 170px;
+    border-radius:1rem 1rem 0 0;
+    position: static;
+    border-right: 5pt solid #c6bebc;
+    border-left: 5pt solid #c6bebc;
+    border-bottom: 5pt solid rgb(188, 194, 198);
+}
+@keyframes slide2{
+  0% {
+    background-position: 120px bottom;
+  }
+  100% {
+    background-position: -770px bottom;
+  }
+}
+.stroke {
+  color: white;
+  text-shadow: -1px -1px 0 #6e3122, 1px -1px 0 #6e3122, -1px 1px 0 #6e3122, 1px 1px 0 #6e3122;
+}
+
+.html-block-iframe:first-of-type {
+    width: 50%;
+    float: left;
+}
+[[/module]]
+
+[[div class="scrollheader"]]
+[[div class="headerbox"]]
+@@@@
+@@@@
+[[=]]
+[[div class="stroke"]][[/div]]
+//永远向阳。//
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+
+
+
+[[include :backrooms-wiki-cn:component:level-class
+|lang=cn
+|class=1
+]]
+
+**Level IF-115**是后室IF层群的第115层。
+
++ **描述**
+[[include component:image-block
+|name=https://s3.bmp.ovh/imgs/2025/05/10/385eb865f1a6e022.png
+|caption=**Level IF-115**的走廊图像。
+]]
+**Level IF-115**的外观被认定为一条向前延伸的走廊[[footnote]]后经勘测发现了少量的拐角。[[/footnote]]。其东面墙面由整面高透光率复合玻璃[[footnote]]其可见光透过率可达98%以上，反射率≤0.5%。初步估测为超白玻璃基材与纳米级减反射膜组成的低反射夹层玻璃[[/footnote]]构成，从窗外照进来的光线是该层级内的主要光源，一种类似于太阳的巨型实体始终处于清晨时的位置，持续保持地平线[[footnote]]以走廊为基准。[[/footnote]]大约30°夹角，且照明度也与前厅中的阳光相似。从任何角度观察，窗外除该实体外均为虚空，且任何对其破坏的行为都以失败告终。
+
+[[include component:image-block
+|name=http://brsandbox-pro.wikidot.com/local--files/level-c-725/corridor-b
+|caption=另一张**Level IF-115**的走廊图像。
+]]
+持续沐浴于该层级的阳光之下会带来一种舒适温暖的体验。长期处于该阳光下的流浪者均可观测到正向心理效应，随着时间推移，焦虑感会逐渐缓解，心境也趋向平和。无论主动停留还是被动暴露，阳光带来的正向作用都会稳定显现。值得注意的是，这种影响具有累加性：连续暴露数小时的人员，其情绪提振效果较短暂接触者更为明显。经测试，当流浪者暴露在阳光下时，能显著提升体内血清素[[footnote]]血清素（Serotonin）：学名5-羟色胺（5-HT），是一种在人体中广泛存在的神经递质（也可作为激素发挥作用），因最早在血清中被发现而得名。它在大脑和身体其他部位（如肠道）中承担着多种关键功能，尤其与情绪、睡眠、食欲等生理过程密切相关。[[/footnote]]水平，故该阳光已被证实对精神状态有积极影响。
+
+[[include component:image-block
+|name=https://s3.bmp.ovh/imgs/2025/05/10/4d9bbcbda43eab0e.png
+|caption=一个在**Level IF-115**内拍摄的哥特式尖拱门。
+]]
+与玻璃窗相对立的西面墙面由未知材料所建成，其颜色均为纯白，具有较强的反光性，在其上无任何可见的瑕疵、污迹，且极其平整，并同样具有无法被破坏的性质，其触感被描述为丝绸般的顺滑柔软但具有极强的韧性，且异常冰凉。该层级的地面由切割整齐的细长条抛光柚木板材纵向拼接而成，因长时间受到阳光照射而导致其变得干燥而温暖，当流浪者站在上面时，木板会发出轻微的响声，但无法以任何方式取走木板。在**Level IF-115**的墙壁上可能会出现少量木门。大部分门均为2m×1m，同时也会有小概率会出现少量其他规格的门，包括但不限于：
+* 双层玻璃门
+* 双开门
+* 哥特式尖拱门
+* 圆形舱门
+* 日式障子门
+* 旋转折叠门
+* 
+
+[[include component:image-block
+|name=https://s3.bmp.ovh/imgs/2025/07/10/e3418b48edbfcbee.png
+|caption=这张图片展示了突然增亮的走廊
+]]
+在走廊内行走一段时间后，窗外的光线可能会急剧增加，将达到正常太阳直射光[[footnote]]正常太阳直射光度约为100,000lux，直视其1–2秒即可导致感光细胞不可逆死亡。[[/footnote]]的2倍左右，使人难以睁开双眼，直接直视窗外将会造成短时间的双目失明。在仅有的少数报告中， 这种效应将持续5-10分钟。值得注意的是，虽然光线增加，但走廊内的温度并未产生任何变化。在该效应发生时，除开走廊主体光线急剧增加外，走廊侧边的房间内的光线也同样增加，但远不及走廊内的光亮。在理论上，该效应极有可能对眼部造成长期或永久性损伤，但对经历过该效应的人员的眼部进行检测后均无任何损伤。对于这一效应目前仍在调查中，但是至今为止都未取得可靠的结论。
+
+++ **房间**
+[[include component:image-block
+|name=https://s3.bmp.ovh/imgs/2025/05/10/6a7c374244ab9ff4.png
+|caption=普通房间的内部。
+]]
+直接打开那些门将会直接通往门后的房间，极少量的门将会通往走廊分支或者其他层级。这些房间多数呈现为大小不等的维多利亚风格‌[[footnote]]维多利亚风格‌（Victorian style）：19世纪英国维多利亚女王统治时期（1837-1901年）形成的艺术风潮，以融合历史元素、繁复装饰和创新材料为特征，深刻影响了建筑、室内设计、服装等多个领域。‌[[/footnote]]储藏室，当然，其风格可能也会因为门的差异而产生变化，其建筑材料与走廊主体大致相同，且内部光照也与走廊主体极为相似，但并未发现任何形式的光源，即使在关门后房间内也同样会具有明亮的光照。房间内部可能会摆设有沙发、躺椅、地毯、桌椅等常见家具，大多由白蜡木制成，少数甚至出现了摆放有中小型喜阳的绿植，有关自然景观的绘画等案例。但其中最常见的房间配置为一套白蜡木桌椅。
+
+在众多房间内，无一例外的都出现了一些空木箱（箱子的材质可能会因为装修风格而产生变化），这些箱子通常都摆放在墙角桌下等地方，在少量情况下，木箱内会出现少量补给和一些毫无意义的物品。
+
+++ **分支**
+在**Level IF-115**的部分走廊内会出现少许分支，这些分支一般可以通过拐角或打开门后进入。通常，这些分支的外观与走廊主体几乎无异，但与走廊主体相比略窄，较为显著的区别是这些分支的两侧均为窗户。但是在分支内行走的距离越远，分支内的光线将越暗，若是继续前行的话，将导致直接切出该层级，在遇到这种情况时，反向行走即可使分支内的光线恢复。应考虑到分支内的物资匮乏与其不确定性，不建议流浪者去深入探索这些独立分支。
+
++ **实体**
+在该层级中，没有任何人报告称遇到了实体或其他流浪者；这有可能是因为**Level IF-115**中存在着一种未知的隔离属性。此外，有少量报告表明层级内存在模糊的由光组成的类人形轮廓投影[[footnote]]到目前为止，该“实体”仅有8次目击报告被记录在案。[[/footnote]]，被目击时，该实体总是在流浪者所处走廊较远的地方（≥200米）站立，几乎与阳光融为一体以至于难以观察其具体外观，随后在流浪者不注意的情况下消失。由于该实体的外观描述较少，且尚无接触记录[[footnote]]并不排除为幻觉所致。[[/footnote]]，所以目前还在证实此类报告的准确性。
+
++ **基地、前哨和社区**
+该层级缺乏建立哨点的必要、存在可能的隔离属性，且其狭窄的范围也难以建造长期的聚居点，故该层级内无任何基地、前哨或社区。
+
++ **入口与出口**
+++ **入口**
+* 在阳光照射充足的层级内，面向太阳向前行走，在走至一段距离后，可能会发现阳光的亮度逐渐变得柔和，随后会来到**Level IF-115**。
+* 若在[[[Level IF-4]]]的地铁内，观察到车厢内的光线逐渐变亮，且窗外的景象因过量的光线而导致难以辨认时，只需要静静等待，在大约5～10分钟后，地铁将会停止且打开车门，下车后你会来到**Level IF-115**。
+* 在[[[Level IF-87]]]中打开一扇木门即可进入该层级。
+* 在[[[Level IF-3]]]内，切入任意一个因太阳照射而反光的玻璃窗户将会来到**Level IF-115**。
+
+++ **出口**
+* 若在该层级内处于17:26这一时刻，静坐于走廊地板上，面向窗外，将会观察到太阳逐渐下落，最终处于黄昏。此时，流浪者的意识会迅速丧失，醒来后，将会抵达[[[Level IF-46]]]的宽河边。
+* 如上文所述，沿走廊的分支一直向前行走，行至其尽头则将进入[[[Level IF-6]]]。
+* 找到一个小型烟花（如手摇烟花、喷花类烟花，冷光烟花等小型观赏性烟花），并将其点燃将会来到[[[Level IF-80]]][[footnote]]欢迎观赏后室烟花秀(๑╹ヮ╹๑)ﾉ[[/footnote]]。
+* 长时间凝视窗外将导致直接切入[[[Level IF-71]]]。
+* 在**Level IF-115**内，有概率会找到一扇潮湿的白色木门，其周边贴有白色瓷砖，且会传来微弱的水声。此时，若推开门，将会进入一个由洁净的蓝白瓷砖组成的较大泳池广场，其水位不超过半米高，穿过广场并来到泳池尽头的门旁，推开该处的门，则将进入[[[Level IF-97]]]。
+
+[[=]]
+
+[[module rate]]
+
+[[collapsible show="站在阳光下的人影是谁" hide="原来是作者呀"]]
+
+= 作者：[[*user NZCGGHSLZ]]
+
+[[<]]
+
+
+
+
+[[/<]]
+[[/collapsible]]
+
+[[/=]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+------
+<< [[[Level IF-114]]] | Level IF-115 | [[[Level IF-116]]] >>
+------
+[[/=]]
+[[/div]]
+
+[[include :backrooms-wiki-cn:component:level-class-animation]]
+[[include :backrooms-wiki-cn:component:hinc]]

@@ -1,0 +1,18 @@
+[[module css]]
+[!--以下为子页面链接--]
+[!-- https://if-sandbox.wikidot.com/fragment:level-if-87-1 --]
+[!-- https://if-sandbox.wikidot.com/fragment:level-if-87-0 --]
+[!-- https://if-sandbox.wikidot.com/fragment:level-if-87-2 --]
+
+[[>]]
+[[module rate]]
+[[/>]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+------
+[[collapsible show="鸣笛声传来" hide="做出你的选择"]]
+[[*user rajex]]
+[[/collapsible]]

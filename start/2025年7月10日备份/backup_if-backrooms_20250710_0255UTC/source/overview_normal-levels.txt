@@ -1,0 +1,258 @@
+[[include component:list grid='in others' 'in out' 'toc toc'|mgrid='in' 'out' 'others' 'toc']]
+[[div class="intro"]]
+[[div class="intro-in intro-block"]]
+++* [[span class="infomark"]]@@ @@[[/span]]什么是“层级”？
+//普通层级//（Normal Level）构成了//后室//（Backrooms）的基本框架，这些层级往往在区域大小、危险性和可居住性等方面有着显著差异。一个典型的层级（无论后室中是否存在可以被期待的所谓“典型”的准值）往往是无限大的（尽管“有界限的”层级并非闻所未闻的），并且它们当中存在的事物和景象经常给人一种异样的熟悉感。我们所熟知的物理和自然法则在后室的深处是不可靠的。不过，一些环境更加适宜且稳定的层级可以作为发展中社区的据点，而有一些居民即使在最危险的层级上也能生存。
+
+由于通常存在紧急撤退的需求，我们竭尽所能勘察并收录了每个层级的入口和出口。一个需要被牢记的重要提示是：每个层级都存在着间歇性不稳定的倾向。请把这句话刻在你的脑子里，有关任何层级的文档都有可能在毫无警示的情况下被更改。标有 [暂无数据] 的层级尚未被充分收录。如果您持有任何关于这些层级的目击者文档，请将您的发现贡献给数据库！
+[[/div]]
+[[div class="intro-others intro-block"]]
+++* 更多层级[[span class="moremark"]]@@ @@[[/span]]
+* **[[[overview:enigmatic-series|隐秘层级]]]**
+* **[[[overview:sub-levels|子区集]]]**
+* **[[[random:random-level|随机层级]]]**
+[[/div]]
+[[div class="intro-out intro-block"]]
+++++* [[span class="penmark"]]@@ @@[[/span]]屏幕之外……
+以后室世界之外的视角来看，普通层级是后室世界的建立之本——这些层级的迥异环境构成了后室世界千变万化的景观。层级并不总是荒凉和危险的，也不总是有人居住和可被考察的。本格式具有丰富的环境叙事潜能，因此请尽情抒怀您的创造力！那些最受喜爱的层级往往旨在唤起别样的情感，或触及明确的主题，作为作者，您可以依照您的意愿改变现实法则，以创作发人深省的后室宇宙一角。
+[[/div]]
+[[div class="intro-block intro-toc"]]
+++++* 快速跳转[[span class="import"]]@@ @@[[/span]][[# t]]
+[#0 Level IF-1-99][#1 Level IF-100-199]
+[[/div]]
+[[/div]]
+
+[[div class="style-block"]]
+++ Level IF- 1-99[[# 0]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+* [[[Level IF-1]]] - [此页已锁定]
+* [[[Level IF-2]]] - //{{“幽暗林域”}}//
+* [[[Level IF-3]]] - ## #FFA500|//“辉光重城”//##
+* [[[Level IF-4]]] - {{##white|“无垠地铁站”##}}
+* [[[Level IF-5]]] - “清明”
+* [[[Level IF-6]]] - “IMG_7985.jpeg”
+* [[[Level IF-7]]] - {{##pink|“春雪·落”##}}
+* [[[Level IF-8]]] - “漫步湖滨”
+* [[[Level IF-9]]] - **无有效信息**
+* [[[Level IF-10]]] - “汇流”
+* [[[Level IF-11]]] - “弃物商店”
+* [[[Level IF-12]]] - “核电站”
+* [[[Level IF-13]]] - ##green|“铃兰之路”##
+* [[[Level IF-14]]] - **##blue|“玻璃制空中立方组合体”##**
+* [[[Level IF-15]]] - 川流不止
+* [[[Level IF-16]]] - **"腰果水工厂"**
+* [[[Level IF-17]]] - “巷”
+* [[[Level IF-18]]] - “林下”
+* [[[Level IF-19]]] - “屿上孤城”
+* [[[Level IF-20]]] - “砼街”
+* [[[Level IF-21]]] - ##ED556A|"释怀"##
+* [[[Level IF-22]]] - ##FF4500|"彼岸花开"##
+* [[[Level IF-23]]] - “虚影随至”
+* [[[Level IF-24]]] - ##blue|"时间切片"##^^time section^^
+* [[[Level IF-25]]] - “言不由衷的植物学者”
+* [[[Level IF-26]]] - **##pink|人类玩具盒##**
+* [[[Level IF-27]]] - ##green|“音律圣地”##
+* [[[Level IF-28]]] - 无义之路
+* [[[Level IF-29]]] - **The Sword**
+* [[[Level IF-30]]] - **你赢了**
+* [[[Level IF-31]]]  - ##brown|“木质结构”##
+* [[[Level IF-32]]] - **##grey|“深##雾##grey|城##区”**
+* [[[Level IF-33]]] - ##indigo|“太空前哨”##
+* [[[Level IF-34]]] - “星海琐闻”
+* [[[Level IF-35]]] - {{//##brown|“cigale”##//}}
+* [[[Level IF-36]]] - “雾山”
+* [[[Level IF-37]]] - “不欢迎来到丛林👎👎👎”
+* [[[Level IF-38]]] - "Chameleon的房间”
+* [[[Level IF-39]]] - **“黑暗之房”**
+* [[[Level IF-40]]] - **##blue|死寂幽室##**
+* [[[Level IF-41]]] - 半命题
+* [[[Level IF-42]]] - //**[[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]]“无望魂”[[/span]]**//
+* [[[Level IF-43]]] - “禁闭回廊”
+* [[[Level IF-44]]] - “禁缘边境”
+* [[[Level IF-45]]] - **##grey|“甜蜜致死或是落寞永生”##**
+* [[[Level IF-46]]] - **##orange|“黄昏之港”##**
+* [[[Level IF-47]]] - **##brown|“死之校垣”##**
+* [[[Level IF-48]]] - ##grey|**“回忆、钢铁与海洋”**##
+* [[[Level IF-49]]] - “饱满之房”
+* [[[Level IF-50]]] - [[span class="ruby"]]##grey|**“记忆中的旧巷”**##[[span class="rt"]]永恒的记忆[[/span]][[/span]]
+* [[[Level IF-51]]] - //##grey|遗忘深渊##//
+* [[[Level IF-52]]] - **##70f3ff|冰镇##**
+* [[[Level IF-53]]] - **##red|呛血##**
+* [[[Level IF-54]]] - **##green|森林##**
+* [[[Level IF-55]]] - “//--回乡镇--别墅//”
+* [[[Level IF-56|错̶̤̫̆̑̅误̴͙̀́̋ ]]]
+* [[[Level IF-57]]] - **黑雾城市**
+* [[[Level IF-58]]] - 庄园
+* [[[Level IF-59]]] - “简易空间”
+* [[[Level IF-60]]] - “拉尤罗娜”
+* [[[Level IF-61]]] - “霞滨静城”
+* [[[Level IF-62]]] -{{“长夜，肠液”}}
+* [[[Level IF-63]]] - “暗空悬房”
+* [[[Level IF-64]]] - “晌午默景”
+* [[[Level IF-65]]] - “林地之域”
+* [[[Level IF-66]]] - “忆事之晚”
+* [[[Level IF-67]]] - ”全景拍摄“
+* [[[Level IF-68]]] - “回声之廊”
+* [[[Level IF-69]]] - “影覆径道”
+* [[[Level IF-70]]] - “铁塔”
+* [[[Level IF-71]]] - “折射”
+* [[[Level IF-72]]] - “无尽的烈焰与宇宙的怒火”
+* [[[Level IF-73]]] -   **再生之馆**
+* [[[Level IF-74]]] - “暗无天日的街道”
+* [[[Level IF-75]]] - “移动与相交的无尽迷宫”
+* [[[Level IF-76]]] - [NO DATA…？]
+* [[[Level IF-77]]] - “过道”
+* [[[Level IF-78]]] - “##red|鹦####blue|鹉##”
+* [[[Level IF-79]]] - “循环走廊门”
+* [[[Level IF-80]]] - “后室烟花秀，盛大开场(๑╹ヮ╹๑)ﾉ”
+* [[[Level IF-81]]] - “孤寂乡村”
+* [[[Level IF-82]]] - “云淡风轻”
+* [[[Level IF-83]]] - “无菌地狱”
+* [[[Level IF-84]]] - “随■影、■间■影”
+* [[[Level IF-85]]] - “随机变换体”
+* [[[Level IF-86]]] - “时钟梦乡”
+* [[[Level IF-87]]] - “亮度节点”
+* [[[Level IF-88|Paradox 88]]] - //[[span style="text-shadow:7px -2px 2px, -5px -2px 4px;color:#block"]]“路灯悖论”[[/span]]//
+* [[[Level IF-89]]] - “车站走廊”
+* [[[Level IF-90]]] - “反重力等候厅”
+* [[[Level IF-91]]] - “原点”
+* [[[Level IF-92]]] - “前厅已死”
+* [[[Level IF-93]]] - {{“黑白展览馆”}}
+* [[[Level IF-94]]] - --“无聊的门廊”--“请注意观察”
+* [[[Level IF-95]]] -  “猫鼠游戏”
+* [[[Level IF-96]]] - “澜沧”
+* [[[Level IF-97]]] - ##blue|“**池核恐惧**”##
+* [[[Level IF-98]]] - “旧巷”
+* [[[Level IF-99]]] - “斯特伊亚”
+[[/div]]
+
+[[div class="style-block"]]
+++ Level IF- 100-199[[# 1]]
+[[div class="back-to-toc"]]
+[#t ▲]
+[[/div]]
+
+* [[[Level IF-100]]] - [暂无数据]
+* [[[Level IF-101]]] - ##red|“血红森林”##
+* [[[Level IF-102]]] - ##orange|“菊花源”##
+* [[[Level IF-103]]] - “我们的伞。”
+* [[[Level IF-104]]] - “空荡荡的商场”
+* [[[Level IF-105]]] - C   H   A   O   S
+* [[[Level IF-106]]] - “宁静沙滩”
+* [[[Level IF-107]]] - “极寒墓园”
+* [[[Level IF-108]]] - “无尽海星协会”
+* [[[Level IF-109]]] - “无尽高峰”
+* [[[Level IF-110]]] - “虚幻之影”
+* [[[Level IF-111]]] - ##green|“**琥珀港湾**”##
+* [[[Level IF-112]]] - [暂无数据]
+* [[[Level IF-113]]] - [暂无数据]
+* [[[Level IF-114]]] - [暂无数据]
+* [[[Level IF-115]]] - [暂无数据]
+* [[[Level IF-116]]] - [暂无数据]
+* [[[Level IF-117]]] - [暂无数据]
+* [[[Level IF-118]]] - [暂无数据]
+* [[[Level IF-119]]] - [暂无数据]
+* [[[Level IF-120]]] - [暂无数据]
+* [[[Level IF-121]]] - “神土”
+* [[[Level IF-122]]] - [暂无数据]
+* [[[Level IF-123]]] - [暂无数据]
+* [[[Level IF-124]]] - [暂无数据]
+* [[[Level IF-125]]] - **“声音的海洋”**
+* [[[Level IF-126]]] - [暂无数据]
+* [[[Level IF-127]]] - [暂无数据]
+* [[[Level IF-128]]] - [暂无数据]
+* [[[Level IF-129]]] - [暂无数据]
+* [[[Level IF-130]]] - [暂无数据]
+* [[[Level IF-131]]] - [暂无数据]
+* [[[Level IF-132]]] - [暂无数据]
+* [[[Level IF-133]]] - [暂无数据]
+* [[[Level IF-134]]] - **##black|“[[span class="ruby"]]一个未知的层级[[span class="rt"]]Warning![[/span]][[/span]]” ##**
+* [[[Level IF-135]]] - “动中之动”
+* [[[Level IF-136]]] - **##red|彩####yellow|色####green|森####blue|林##**
+* [[[Level IF-137]]] - [暂无数据]
+* [[[Level IF-138]]] - ##green|win## 原
+* [[[Level IF-139]]] - [暂无数据]
+* [[[Level IF-140]]] - [暂无数据]
+* [[[Level IF-141]]] - [暂无数据]
+* [[[Level IF-142]]] - [暂无数据]
+* [[[Level IF-143]]] - [暂无数据]
+* [[[Level IF-144]]] - [暂无数据]
+* [[[Level IF-145]]] - [暂无数据]
+* [[[Level IF-146]]] - [暂无数据]
+* [[[Level IF-147]]] - “沙盘大地”
+* [[[Level IF-148]]] - [暂无数据]
+* [[[Level IF-149]]] - [暂无数据]
+* [[[Level IF-150]]] - “碎乱之都”
+* [[[Level IF-151]]] - [暂无数据]
+* [[[Level IF-152]]] - “##red|--未完成层级--##”
+* [[[Level IF-153]]] - [NO DATE]
+* [[[Level IF-154]]] - [暂无数据]
+* [[[Level IF-155]]] - [暂无数据]
+* [[[Level IF-156]]] - [暂无数据]
+* [[[Level IF-157]]] - [暂无数据]
+* [[[Level IF-158]]] - [暂无数据]
+* [[[Level IF-159]]] - [暂无数据]
+* [[[Level IF-160]]] - [暂无数据]
+* [[[Level IF-161]]] - [暂无数据]
+* [[[Level IF-162]]] - [暂无数据]
+* [[[Level IF-163]]] - [暂无数据]
+* [[[Level IF-164]]] - [暂无数据]
+* [[[Level IF-165]]] - [暂无数据]
+* [[[Level IF-166]]] - [暂无数据]
+* [[[Level IF-167]]] - [暂无数据]
+* [[[Level IF-168]]] - [暂无数据]
+* [[[Level IF-169]]] - [暂无数据]
+* [[[Level IF-170]]] - [暂无数据]
+* [[[Level IF-171]]] - [暂无数据]
+* [[[Level IF-172]]] - [暂无数据]
+* [[[Level IF-173]]] - [暂无数据]
+* [[[Level IF-174]]] - [暂无数据]
+* [[[Level IF-175]]] - [暂无数据]
+* [[[Level IF-176]]] - [暂无数据]
+* [[[Level IF-177]]] - “##blue|镜####grey|厅##”
+* [[[Level IF-178]]] - [暂无数据]
+* [[[Level IF-179]]] - [暂无数据]
+* [[[Level IF-180]]] -“思归”
+* [[[Level IF-181]]] - [暂无数据]
+* [[[Level IF-182]]] - [暂无数据]
+* [[[Level IF-183]]] - [暂无数据]
+* [[[Level IF-184]]] - ##grey|^^视^^      ,,异,,      ^^位^^##
+* [[[Level IF-185]]] - [暂无数据]
+* [[[Level IF-186]]] - [暂无数据]
+* [[[Level IF-187]]] - [暂无数据]
+* [[[Level IF-188]]] - {{##00008B|**“雨夜城”**##}}
+* [[[Level IF-189]]] - [暂无数据]
+* [[[Level IF-190]]] - "The-Home"
+* [[[Level IF-191]]] - [暂无数据]
+* [[[Level IF-192]]] - [暂无数据]
+* [[[Level IF-193]]] - [暂无数据]
+* [[[Level IF-194]]] - [暂无数据]
+* [[[Level IF-195]]] - [暂无数据]
+* [[[Level IF-196]]] - [暂无数据]
+* [[[Level IF-197]]] - “//永恒//日常”
+* [[[Level IF-198]]] - “半开放仓库”
+* [[[Level IF-199]]] - **//##white|观测####blue|极点##//**
+* [[/div]]
+
+
+
+
+
+
+
+[!-- ↓↓↓ --]
+[!-- 以下为用户自定义区，请译者标注不同字体 / 样式所对应的层级。 --]
+[!-- 字体 --]
+[[include :etinjat:typeface-cn
+|YRDZST=true
+]]
+
+[[module CSS]]
+/* 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
+[[/module]]
